@@ -1,0 +1,35 @@
+# creating a product
+
+curl -X POST http://localhost:8080/api/products \
+  -H "Content-Type: application/json" \
+  -d '{
+    "name": "Test Product",
+    "description": "A test product",
+    "quantity": 100,
+    "price": 29.99
+  }'
+
+curl http://localhost:8080/api/products\
+
+curl http://localhost:8080/api/products/8769685b-72f7-48a4-a303-58ca6c43f82b
+
+curl -X PUT http://localhost:8080/api/products/80ccb072-cafc-419a-8336-1f80cafc5dcb \
+  -H "Content-Type: application/json" \
+  -d '{
+    "name": "Updated Product",
+    "description": "Updated description",
+    "quantity": 150,
+    "price": 39.99
+  }'
+  
+  curl -X DELETE http://localhost:8080/api/products/product_id
+
+
+  curl -X POST http://localhost:8080/api/suppliers \
+  -H "Content-Type: application/json" \
+  -d '{
+    "name": "example company"
+    "contact": "contact@eg.com"
+  }'
+
+  curl http://localhost:8080/api/suppliers/d0d71cb1-cf86-4221-9b1d-18dbb0eeb3a5

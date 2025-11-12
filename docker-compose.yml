@@ -1,0 +1,78 @@
+services:
+  product-service:
+    build:
+      context: ./server/product
+      dockerfile: Dockerfile.dockerfile
+    container_name: product-service
+    ports:
+      - "8002:8002"
+    environment:
+      - SUPPLIER_BASE_URL=http://supplier-service:8001/suppliers
+      - CATEGORY_BASE_URL=http://category-service:8003/categories
+      - IMAGE_BASE_URL=http://image-service:8004/images
+      - DATABASE_URL=sqlite:///./product.db
+    restart: unless-stopped
+
+  supplier-service:
+    build:
+      context: ./server/supplier
+      dockerfile: Dockerfile.dockerfile
+    container_name: supplier-service
+    ports:
+      - "8001:8001"
+    environment:
+      - PRODUCT_BASE_URL=http://product-service:8002/products
+      - DATABASE_URL=sqlite:///./supplier.db
+    restart: unless-stopped
+
+  category-service:
+    build:
+      context: ./server/category
+      dockerfile: Dockerfile.dockerfile
+    container_name: category-service
+    ports:
+      - "8003:8003"
+    environment:
+      - PRODUCT_BASE_URL=http://product-service:8002/products
+      - DATABASE_URL=sqlite:///./category.db
+    restart: unless-stopped
+
+  image-service:
+    build:
+      context: ./server/image
+      dockerfile: Dockerfile.dockerfile
+    container_name: image-service
+    ports:
+      - "8004:8004"
+    environment:
+      - PRODUCT_BASE_URL=http://product-service:8002/products
+      - DATABASE_URL=sqlite:///./image.db
+    restart: unless-stopped
+
+  krakend:
+    image: krakend:latest
+    container_name: krakend-gateway
+    ports:
+      - "8080:8080"
+    volumes:
+      - ./krakend/config:/etc/krakend
+    command: ["run", "-d", "-c", "/etc/krakend/krakend.json"]
+    depends_on:
+      - product-service
+      - supplier-service
+      - category-service
+      - image-service
+    restart: unless-stopped
+
+  frontend:
+    build:
+      context: ./client
+      dockerfile: Dockerfile
+    container_name: frontend
+    ports:
+      - "5173:5173"
+    environment:
+      - VITE_API_BASE_URL=http://localhost:8080/api
+    depends_on:
+      - krakend
+    restart: unless-stopped
