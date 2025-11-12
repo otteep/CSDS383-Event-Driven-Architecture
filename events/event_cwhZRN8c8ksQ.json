@@ -1,0 +1,38 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-dBfxaF6p",
+        "supplier_contact": "supplierdBfxaF6p@example.com",
+        "products": [
+            {
+                "product_name": "Product-cumque-quaerat",
+                "product_description": "Ut tempore harum earum dignissimos, at blanditiis earum natus, et eius vel laudantium ipsa, aut nobis iusto similique maxime suscipit sequi, maxime vero hic aperiam neque.",
+                "product_quantity": 65,
+                "product_price": 33.07
+            },
+            {
+                "product_name": "Product-illum-dolorem",
+                "product_description": "Laborum voluptatem aliquid quaerat possimus hic rem ipsa veniam, dignissimos minus dolorem sapiente dicta voluptas labore, itaque incidunt autem corporis unde, at corrupti aliquid sequi consectetur?",
+                "product_quantity": 86,
+                "product_price": 76.74
+            },
+            {
+                "product_name": "Product-quas-voluptatum",
+                "product_description": "Aliquam molestias possimus, velit libero facere eum eveniet minus animi, optio harum inventore dignissimos iure, deleniti ipsam excepturi dolorem?",
+                "product_quantity": 34,
+                "product_price": 47.97
+            },
+            {
+                "product_name": "Product-incidunt-non",
+                "product_description": "Expedita repellendus cupiditate eveniet, officia temporibus aspernatur perferendis sequi repellat est at molestiae, alias sint animi ea accusamus tenetur illo quam?",
+                "product_quantity": 75,
+                "product_price": 72.46
+            },
+            {
+                "product_name": "Product-iusto-neque",
+                "product_description": "Libero dicta aspernatur at facere voluptatibus hic necessitatibus repudiandae, sunt magnam aperiam cum itaque iure tempora placeat magni at aut labore?",
+                "product_quantity": 92,
+                "product_price": 98.55
+            }
+        ]
+    }
+}

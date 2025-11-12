@@ -1,0 +1,26 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-9F7wMeXu",
+        "supplier_contact": "supplier9F7wMeXu@example.com",
+        "products": [
+            {
+                "product_name": "Product-saepe-mollitia",
+                "product_description": "Harum eaque quibusdam perspiciatis magni consectetur molestiae modi officiis illum libero, eaque repudiandae eligendi exercitationem incidunt sunt vel minima libero aut suscipit aliquam, incidunt aliquam in repellat possimus itaque a similique?",
+                "product_quantity": 99,
+                "product_price": 51.21
+            },
+            {
+                "product_name": "Product-est-fugit",
+                "product_description": "Et perferendis provident porro, aliquam amet doloremque maxime placeat consequatur magnam vero, dignissimos sint tempore et doloremque.",
+                "product_quantity": 14,
+                "product_price": 4.34
+            },
+            {
+                "product_name": "Product-neque-a",
+                "product_description": "Harum praesentium velit eligendi odit sequi atque facilis eius quis beatae, ipsum totam quis eos molestiae velit fuga, eveniet ipsa exercitationem veniam fuga, molestiae fuga exercitationem repudiandae temporibus eos quas nostrum.",
+                "product_quantity": 15,
+                "product_price": 54.01
+            }
+        ]
+    }
+}

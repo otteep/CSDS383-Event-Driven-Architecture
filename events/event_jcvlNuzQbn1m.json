@@ -1,0 +1,32 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-NGtWqjNu",
+        "supplier_contact": "supplierNGtWqjNu@example.com",
+        "products": [
+            {
+                "product_name": "Product-mollitia-adipisci",
+                "product_description": "Ipsam repellendus mollitia inventore id recusandae cum quidem fuga quia animi, explicabo expedita repudiandae blanditiis voluptatum cum porro, sunt laboriosam doloremque tempora fuga deserunt porro eaque vitae, iste porro quaerat ab quos expedita perspiciatis doloribus deserunt, neque sapiente enim vero consectetur maxime distinctio ullam.",
+                "product_quantity": 43,
+                "product_price": 44.66
+            },
+            {
+                "product_name": "Product-veritatis-facere",
+                "product_description": "Necessitatibus unde qui beatae similique tempora laborum commodi aliquam magnam, reprehenderit consequatur debitis placeat quibusdam distinctio, aspernatur veniam accusantium iste autem quidem perspiciatis.",
+                "product_quantity": 14,
+                "product_price": 20.74
+            },
+            {
+                "product_name": "Product-reiciendis-neque",
+                "product_description": "Delectus odit temporibus numquam voluptas ipsam modi, placeat itaque nesciunt esse repellendus id neque?",
+                "product_quantity": 13,
+                "product_price": 94.29
+            },
+            {
+                "product_name": "Product-ipsam-recusandae",
+                "product_description": "Cupiditate vero odio illum in fugiat fuga, voluptate natus laudantium reprehenderit obcaecati error ut non numquam esse ipsa itaque, architecto nostrum laudantium tempora natus possimus alias numquam hic?",
+                "product_quantity": 85,
+                "product_price": 70.48
+            }
+        ]
+    }
+}

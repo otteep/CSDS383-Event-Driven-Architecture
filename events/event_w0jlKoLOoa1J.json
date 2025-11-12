@@ -1,0 +1,20 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-faivPzZh",
+        "supplier_contact": "supplierfaivPzZh@example.com",
+        "products": [
+            {
+                "product_name": "Product-molestiae-magni",
+                "product_description": "Quos aliquam doloribus debitis adipisci reiciendis, dolor modi officiis eius iusto quis qui, consequatur aliquid quidem, dicta ipsum doloribus placeat rem eius consequuntur quae quasi veritatis illum.",
+                "product_quantity": 84,
+                "product_price": 13.15
+            },
+            {
+                "product_name": "Product-deleniti-laborum",
+                "product_description": "Quisquam porro dolores, ratione eius cum ad vitae ducimus error praesentium in magni, molestias non eveniet at.",
+                "product_quantity": 88,
+                "product_price": 62.75
+            }
+        ]
+    }
+}

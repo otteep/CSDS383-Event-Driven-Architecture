@@ -1,0 +1,20 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-DGA9Qr3Y",
+        "supplier_contact": "supplierDGA9Qr3Y@example.com",
+        "products": [
+            {
+                "product_name": "Product-possimus-nulla",
+                "product_description": "Ut in repellendus labore aspernatur, beatae corporis molestiae reprehenderit voluptatum dolores alias, quia et facere, assumenda reprehenderit quos, fugiat totam rem reiciendis fugit eum cupiditate iusto alias aliquam quas?",
+                "product_quantity": 36,
+                "product_price": 89.84
+            },
+            {
+                "product_name": "Product-vitae-amet",
+                "product_description": "Odio eaque corporis quasi quisquam eius tempora aut molestiae nostrum quas, ipsum itaque exercitationem illum inventore laborum architecto voluptates, explicabo cupiditate veniam.",
+                "product_quantity": 48,
+                "product_price": 46.18
+            }
+        ]
+    }
+}

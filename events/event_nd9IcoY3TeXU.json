@@ -1,0 +1,38 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-loGtQYEw",
+        "supplier_contact": "supplierloGtQYEw@example.com",
+        "products": [
+            {
+                "product_name": "Product-rerum-vitae",
+                "product_description": "Possimus dolores rem eum illum, deserunt possimus inventore nihil numquam ipsa impedit maiores rem nam explicabo, odit tempora officiis illo ipsam accusantium adipisci dolorum ullam culpa, eveniet magnam vitae.",
+                "product_quantity": 44,
+                "product_price": 20.71
+            },
+            {
+                "product_name": "Product-sed-atque",
+                "product_description": "Cupiditate perferendis accusamus, iure dolor ducimus at deserunt sequi, veritatis nemo fugiat dolore ab, repudiandae mollitia eligendi error magnam nesciunt officia fugiat, rem quisquam inventore cupiditate?",
+                "product_quantity": 88,
+                "product_price": 80.96
+            },
+            {
+                "product_name": "Product-dolorum-ea",
+                "product_description": "Veniam quos perspiciatis dolores, fuga impedit minima, repudiandae odit eius et magnam excepturi reiciendis tempore reprehenderit accusamus perferendis, natus quaerat magnam expedita facere necessitatibus quidem perspiciatis consequuntur accusantium minima esse, at obcaecati quae cumque officiis in rem numquam accusantium atque ea aspernatur?",
+                "product_quantity": 65,
+                "product_price": 69.05
+            },
+            {
+                "product_name": "Product-culpa-molestiae",
+                "product_description": "Commodi voluptatibus eligendi aspernatur natus mollitia ex iusto ipsum facilis, aperiam voluptas officiis nostrum quis sint quod nulla cupiditate deserunt consequuntur beatae, qui id quo?",
+                "product_quantity": 19,
+                "product_price": 54.21
+            },
+            {
+                "product_name": "Product-fugit-quasi",
+                "product_description": "Eos fugit iste autem sed, reprehenderit suscipit non recusandae atque ea repellat voluptatibus itaque possimus ipsum, odio dicta recusandae architecto sapiente unde laboriosam tempore saepe omnis eveniet, vitae recusandae beatae deleniti libero est officiis?",
+                "product_quantity": 78,
+                "product_price": 53.74
+            }
+        ]
+    }
+}

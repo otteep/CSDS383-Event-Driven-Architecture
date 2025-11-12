@@ -1,0 +1,32 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-ifUm29nF",
+        "supplier_contact": "supplierifUm29nF@example.com",
+        "products": [
+            {
+                "product_name": "Product-hic-debitis",
+                "product_description": "Nam omnis repudiandae excepturi adipisci, sapiente ad vitae voluptatum quis eos dolores ab.",
+                "product_quantity": 48,
+                "product_price": 39.91
+            },
+            {
+                "product_name": "Product-dolores-libero",
+                "product_description": "Expedita nam quibusdam deserunt ex laboriosam dolore assumenda excepturi voluptatem velit ipsam, consequatur amet perspiciatis accusamus officia quae rerum eius est ex?",
+                "product_quantity": 25,
+                "product_price": 31.67
+            },
+            {
+                "product_name": "Product-soluta-facilis",
+                "product_description": "Ipsa facilis non quos molestias accusantium minus quas ratione tenetur cum, non excepturi laborum deleniti omnis possimus sint laboriosam eius minima temporibus debitis.",
+                "product_quantity": 7,
+                "product_price": 60.14
+            },
+            {
+                "product_name": "Product-dolor-sit",
+                "product_description": "Dolorum placeat autem officiis quos ullam consequuntur, distinctio quas sapiente fugiat laboriosam provident quibusdam aut ex eius veniam nobis, magnam ipsa deserunt perferendis praesentium at et velit.",
+                "product_quantity": 11,
+                "product_price": 13.14
+            }
+        ]
+    }
+}

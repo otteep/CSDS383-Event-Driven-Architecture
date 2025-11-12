@@ -1,0 +1,14 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-Jfbptdur",
+        "supplier_contact": "supplierJfbptdur@example.com",
+        "products": [
+            {
+                "product_name": "Product-dignissimos-labore",
+                "product_description": "Id voluptates earum, delectus quo esse, voluptas ea ipsum sit iste deleniti laboriosam quasi id officia suscipit quidem, quaerat ducimus maxime doloribus inventore magnam dignissimos provident quas velit odio, magnam commodi deleniti dolorem officiis quia facere illum id blanditiis porro?",
+                "product_quantity": 24,
+                "product_price": 10.49
+            }
+        ]
+    }
+}

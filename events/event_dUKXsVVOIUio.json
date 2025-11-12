@@ -1,0 +1,14 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-xbi24tq2",
+        "supplier_contact": "supplierxbi24tq2@example.com",
+        "products": [
+            {
+                "product_name": "Product-atque-molestiae",
+                "product_description": "Iste voluptate aliquam qui obcaecati, voluptates ut vitae et labore odit iure cumque blanditiis dicta iste ipsum, quod modi blanditiis laudantium harum impedit sapiente?",
+                "product_quantity": 49,
+                "product_price": 64.46
+            }
+        ]
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-VVdqYRNK",
+        "supplier_contact": "supplierVVdqYRNK@example.com",
+        "products": [
+            {
+                "product_name": "Product-non-reiciendis",
+                "product_description": "Enim autem in qui inventore doloremque optio ratione velit ut, a voluptas placeat praesentium amet necessitatibus temporibus dolorem asperiores natus aliquid, aliquam neque reiciendis modi.",
+                "product_quantity": 84,
+                "product_price": 52.1
+            },
+            {
+                "product_name": "Product-libero-exercitationem",
+                "product_description": "Mollitia quas debitis eaque accusamus quibusdam, ex recusandae ullam consequatur aspernatur modi cumque magnam nostrum illo hic minima, consequuntur quis delectus numquam quae obcaecati pariatur suscipit explicabo eveniet architecto, ratione temporibus nihil quibusdam repellendus facilis?",
+                "product_quantity": 60,
+                "product_price": 84.34
+            },
+            {
+                "product_name": "Product-modi-a",
+                "product_description": "Mollitia quibusdam illum, rem magnam veniam odio doloremque voluptate dolorem distinctio cumque consequuntur libero, porro ducimus est voluptatem harum facere hic libero cumque soluta, expedita nobis incidunt earum consequatur quidem, nesciunt sint eum consequatur quas minima voluptates.",
+                "product_quantity": 64,
+                "product_price": 25.91
+            },
+            {
+                "product_name": "Product-possimus-voluptas",
+                "product_description": "Nobis ut est temporibus at explicabo quidem placeat harum deleniti iste, pariatur autem facere enim beatae nobis adipisci iusto earum temporibus esse ea, accusantium explicabo sit, consequatur rerum temporibus eveniet alias et nostrum eaque?",
+                "product_quantity": 46,
+                "product_price": 26.52
+            },
+            {
+                "product_name": "Product-quisquam-eligendi",
+                "product_description": "Adipisci illum consectetur rerum aspernatur eligendi voluptatem doloremque, eaque nesciunt ab et asperiores, officia reprehenderit dicta et recusandae consectetur repudiandae accusamus iure, molestias laborum dolor voluptatibus consectetur reprehenderit error?",
+                "product_quantity": 44,
+                "product_price": 8.01
+            }
+        ]
+    }
+}

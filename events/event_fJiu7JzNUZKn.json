@@ -1,0 +1,38 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-Ap4tUwDO",
+        "supplier_contact": "supplierAp4tUwDO@example.com",
+        "products": [
+            {
+                "product_name": "Product-est-suscipit",
+                "product_description": "Repellat voluptate eveniet tempore doloribus, debitis facilis expedita voluptatibus explicabo ex illum error quia inventore eaque perferendis, unde incidunt fugit sed aliquam expedita exercitationem sunt, officia dolorum animi reprehenderit at itaque aperiam ut iure similique.",
+                "product_quantity": 82,
+                "product_price": 69.52
+            },
+            {
+                "product_name": "Product-iusto-officia",
+                "product_description": "Facere nobis quis animi laboriosam, explicabo error voluptas autem, voluptates quisquam assumenda perspiciatis tempore hic consequuntur a, reprehenderit eligendi explicabo quos illum rerum tempore, corporis quia soluta placeat sint nostrum ut optio saepe maxime molestiae quibusdam.",
+                "product_quantity": 78,
+                "product_price": 27.71
+            },
+            {
+                "product_name": "Product-quas-rem",
+                "product_description": "Illum eum quam iste deleniti modi beatae saepe ex, accusamus provident vel sunt, a vel labore natus officiis explicabo obcaecati deleniti laborum earum ab neque, repellendus sint ad?",
+                "product_quantity": 28,
+                "product_price": 87.4
+            },
+            {
+                "product_name": "Product-cum-quibusdam",
+                "product_description": "Tenetur minus aspernatur nemo provident repellat excepturi ducimus, maxime id soluta earum veniam sequi odit tempora velit.",
+                "product_quantity": 47,
+                "product_price": 98.43
+            },
+            {
+                "product_name": "Product-omnis-iste",
+                "product_description": "Quibusdam vitae debitis sunt quia dicta, rem explicabo ullam animi cumque dolorem quae minus adipisci.",
+                "product_quantity": 18,
+                "product_price": 18.09
+            }
+        ]
+    }
+}

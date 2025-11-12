@@ -1,0 +1,32 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-svj4iDYd",
+        "supplier_contact": "suppliersvj4iDYd@example.com",
+        "products": [
+            {
+                "product_name": "Product-error-rerum",
+                "product_description": "Nobis voluptatum dolores et similique quaerat asperiores doloribus, nesciunt optio eos adipisci temporibus facere ipsa saepe distinctio.",
+                "product_quantity": 11,
+                "product_price": 62.65
+            },
+            {
+                "product_name": "Product-qui-necessitatibus",
+                "product_description": "Blanditiis sint illum molestias vitae consequuntur doloribus fugit tenetur impedit dolorem voluptatibus, architecto culpa cumque quasi corporis rerum.",
+                "product_quantity": 57,
+                "product_price": 22.99
+            },
+            {
+                "product_name": "Product-in-rem",
+                "product_description": "Eaque doloremque vel iste, facilis maiores autem deleniti laudantium, eum mollitia reiciendis, nesciunt quaerat omnis error veritatis quam numquam minus atque, hic eos temporibus obcaecati optio quibusdam consequatur at voluptate nisi laborum?",
+                "product_quantity": 38,
+                "product_price": 30.72
+            },
+            {
+                "product_name": "Product-fugiat-quasi",
+                "product_description": "Quae unde quas velit quaerat ratione cum, accusantium nostrum vitae optio?",
+                "product_quantity": 49,
+                "product_price": 19.16
+            }
+        ]
+    }
+}

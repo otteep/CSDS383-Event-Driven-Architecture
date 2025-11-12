@@ -1,0 +1,14 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-kqJTeZyX",
+        "supplier_contact": "supplierkqJTeZyX@example.com",
+        "products": [
+            {
+                "product_name": "Product-nisi-aut",
+                "product_description": "Eveniet sit facere repellat animi itaque rem sapiente, dolores corporis necessitatibus repellat nesciunt distinctio minus officiis consectetur numquam?",
+                "product_quantity": 36,
+                "product_price": 14.69
+            }
+        ]
+    }
+}

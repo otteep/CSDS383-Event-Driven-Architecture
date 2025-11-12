@@ -1,0 +1,14 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-OcQS3Bom",
+        "supplier_contact": "supplierOcQS3Bom@example.com",
+        "products": [
+            {
+                "product_name": "Product-voluptatibus-nesciunt",
+                "product_description": "Eum nostrum voluptas nihil voluptate, deserunt aperiam omnis similique aut rerum temporibus fugit enim suscipit maiores, eum consequuntur commodi dolore temporibus expedita odit explicabo doloremque laudantium atque excepturi, cumque cum at quod eligendi voluptas?",
+                "product_quantity": 16,
+                "product_price": 56.83
+            }
+        ]
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-xVdFm29b",
+        "supplier_contact": "supplierxVdFm29b@example.com",
+        "products": [
+            {
+                "product_name": "Product-nulla-aspernatur",
+                "product_description": "Corrupti maxime quos quis magni pariatur laboriosam dolores ullam dignissimos aperiam consequuntur, possimus quo accusantium corrupti quaerat nobis, at a facilis, ea quaerat quos beatae impedit.",
+                "product_quantity": 25,
+                "product_price": 35.05
+            },
+            {
+                "product_name": "Product-unde-voluptatum",
+                "product_description": "Quas aspernatur hic et ipsum molestias esse temporibus atque quam, suscipit impedit eaque explicabo non deleniti veritatis quia, quod exercitationem molestiae delectus quasi, aut enim sequi labore hic beatae adipisci, inventore voluptatum cum nostrum repellat provident?",
+                "product_quantity": 51,
+                "product_price": 7.75
+            }
+        ]
+    }
+}

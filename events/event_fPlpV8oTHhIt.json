@@ -1,0 +1,38 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-JXUSTxIx",
+        "supplier_contact": "supplierJXUSTxIx@example.com",
+        "products": [
+            {
+                "product_name": "Product-quia-obcaecati",
+                "product_description": "Placeat optio aliquid saepe atque qui sit harum soluta doloremque libero expedita, maiores sint deserunt temporibus voluptatem porro eius soluta eveniet.",
+                "product_quantity": 20,
+                "product_price": 40.47
+            },
+            {
+                "product_name": "Product-dolore-neque",
+                "product_description": "Molestiae deserunt blanditiis non ad aperiam quasi iure, unde voluptate accusantium voluptas, repudiandae esse libero nihil dolore pariatur consequuntur atque reiciendis, quidem alias incidunt quaerat vitae excepturi molestiae enim, soluta voluptates ullam dolorum adipisci omnis?",
+                "product_quantity": 4,
+                "product_price": 78.8
+            },
+            {
+                "product_name": "Product-qui-quibusdam",
+                "product_description": "Voluptatem commodi doloremque quasi placeat sint quaerat inventore blanditiis consequatur dolorum, voluptas deserunt commodi molestias libero qui dolorum tempora accusamus quos non, nemo est aperiam labore quasi harum dolorem accusantium ipsam quaerat, sunt amet nisi voluptas eveniet at, odio nam dolorem ea magni?",
+                "product_quantity": 84,
+                "product_price": 51.69
+            },
+            {
+                "product_name": "Product-natus-quaerat",
+                "product_description": "Iusto optio at qui esse, quo vel sed.",
+                "product_quantity": 61,
+                "product_price": 13.64
+            },
+            {
+                "product_name": "Product-in-minus",
+                "product_description": "Molestias cum enim aliquid maxime delectus, facilis mollitia natus itaque veritatis esse maiores adipisci numquam nihil, repellat eaque vero eius esse quisquam est.",
+                "product_quantity": 41,
+                "product_price": 87.6
+            }
+        ]
+    }
+}

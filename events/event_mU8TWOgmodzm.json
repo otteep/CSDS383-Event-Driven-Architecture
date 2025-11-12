@@ -1,0 +1,32 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-TwlT7t7m",
+        "supplier_contact": "supplierTwlT7t7m@example.com",
+        "products": [
+            {
+                "product_name": "Product-magni-nulla",
+                "product_description": "Nulla voluptatem quasi ratione quos nihil a qui impedit, animi eveniet cum quasi in libero voluptatem dolorem voluptate, error sapiente itaque magni, exercitationem et ullam harum, commodi minima maiores repudiandae saepe harum ut.",
+                "product_quantity": 15,
+                "product_price": 46.42
+            },
+            {
+                "product_name": "Product-totam-pariatur",
+                "product_description": "Dolores quidem sunt numquam ea, alias est modi aliquam, beatae ducimus error esse dolor ratione, impedit quod perferendis doloribus similique eius qui obcaecati eum ea.",
+                "product_quantity": 27,
+                "product_price": 97.78
+            },
+            {
+                "product_name": "Product-et-libero",
+                "product_description": "Repellendus dolorum nulla itaque officia, odit necessitatibus eligendi?",
+                "product_quantity": 13,
+                "product_price": 52.73
+            },
+            {
+                "product_name": "Product-dolore-eius",
+                "product_description": "Natus sunt tenetur cumque voluptates explicabo, possimus quibusdam veritatis ut, maxime dolore aut possimus ducimus ipsa.",
+                "product_quantity": 68,
+                "product_price": 99.09
+            }
+        ]
+    }
+}

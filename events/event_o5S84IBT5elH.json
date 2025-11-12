@@ -1,0 +1,32 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-8aGIS23G",
+        "supplier_contact": "supplier8aGIS23G@example.com",
+        "products": [
+            {
+                "product_name": "Product-pariatur-quae",
+                "product_description": "Atque sapiente dolores ipsa quas consequuntur saepe fuga consectetur, molestias dolor praesentium adipisci optio natus magni asperiores dicta, nesciunt incidunt nulla tenetur dolorem quaerat doloribus fugiat distinctio voluptatibus magnam.",
+                "product_quantity": 60,
+                "product_price": 12.52
+            },
+            {
+                "product_name": "Product-error-iure",
+                "product_description": "Accusamus accusantium fuga earum est illo facilis animi facere cumque eius amet, ratione assumenda voluptas dolore ipsa soluta explicabo ab quidem, corporis expedita voluptas?",
+                "product_quantity": 42,
+                "product_price": 25.23
+            },
+            {
+                "product_name": "Product-minima-error",
+                "product_description": "Rem cumque incidunt possimus voluptatibus, soluta velit voluptatibus quibusdam repellat cum numquam provident, ipsa dignissimos voluptatibus tenetur illo repellendus porro sint maxime blanditiis, excepturi doloremque nesciunt molestiae sapiente consequatur minus architecto, doloribus quas mollitia natus maiores reprehenderit.",
+                "product_quantity": 100,
+                "product_price": 89.81
+            },
+            {
+                "product_name": "Product-incidunt-commodi",
+                "product_description": "Necessitatibus est amet molestiae culpa unde sed quidem, nihil totam accusamus sit nesciunt molestiae doloribus veniam, recusandae sit nulla iste qui deserunt quaerat rem est dolorem culpa, ipsa nisi illo laborum.",
+                "product_quantity": 92,
+                "product_price": 95.09
+            }
+        ]
+    }
+}

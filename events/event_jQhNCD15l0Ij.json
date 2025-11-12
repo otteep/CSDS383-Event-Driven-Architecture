@@ -1,0 +1,32 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-FIJ77Yig",
+        "supplier_contact": "supplierFIJ77Yig@example.com",
+        "products": [
+            {
+                "product_name": "Product-et-quis",
+                "product_description": "Dolor neque eligendi vel, harum ut accusamus aspernatur ab totam, vero eos praesentium est obcaecati sapiente repudiandae tenetur.",
+                "product_quantity": 30,
+                "product_price": 33.81
+            },
+            {
+                "product_name": "Product-ipsam-quaerat",
+                "product_description": "Ea rerum saepe fugiat odio tempore et quos, suscipit architecto maiores, laudantium recusandae natus doloribus eos reprehenderit nihil maxime officia numquam eaque.",
+                "product_quantity": 51,
+                "product_price": 40.59
+            },
+            {
+                "product_name": "Product-veniam-natus",
+                "product_description": "Sit hic debitis ducimus totam quisquam, obcaecati nisi error, dignissimos iste quas magni aliquam tenetur nobis maxime quia, exercitationem dolor consectetur quas harum itaque voluptate pariatur facilis, libero voluptas est a exercitationem ducimus?",
+                "product_quantity": 43,
+                "product_price": 64.79
+            },
+            {
+                "product_name": "Product-dolorum-ipsa",
+                "product_description": "Quae fugit et culpa cumque obcaecati repellat, nostrum quaerat vero reiciendis laborum nobis quo iste nam, distinctio qui praesentium?",
+                "product_quantity": 53,
+                "product_price": 58.64
+            }
+        ]
+    }
+}

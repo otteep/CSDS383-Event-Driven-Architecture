@@ -1,0 +1,20 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-yQpl5OLd",
+        "supplier_contact": "supplieryQpl5OLd@example.com",
+        "products": [
+            {
+                "product_name": "Product-mollitia-provident",
+                "product_description": "Rem quisquam eaque ad deserunt nisi enim assumenda dolorum suscipit recusandae, facilis repellat aperiam rerum, enim quia dolore veniam ad sapiente ipsum totam deleniti quae laudantium omnis, blanditiis minima dolorem magni eos harum at ea doloribus.",
+                "product_quantity": 70,
+                "product_price": 32.24
+            },
+            {
+                "product_name": "Product-officiis-minus",
+                "product_description": "Ipsum optio autem fugiat obcaecati asperiores sequi dignissimos illum, ducimus quam autem, vel quis obcaecati sunt illum dolores sed aspernatur ab delectus atque maxime.",
+                "product_quantity": 52,
+                "product_price": 84.64
+            }
+        ]
+    }
+}

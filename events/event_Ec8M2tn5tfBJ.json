@@ -1,0 +1,20 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-LP9CcSza",
+        "supplier_contact": "supplierLP9CcSza@example.com",
+        "products": [
+            {
+                "product_name": "Product-deserunt-explicabo",
+                "product_description": "Velit nostrum facilis commodi iure eligendi harum, fugit quis officia quos doloremque itaque similique quam commodi quidem rem quasi, minus sint reprehenderit fuga numquam veniam voluptatem facere atque aliquam tempore neque, reprehenderit atque distinctio corporis iure aut adipisci harum fuga, temporibus corporis maxime sit obcaecati expedita sint?",
+                "product_quantity": 100,
+                "product_price": 16.11
+            },
+            {
+                "product_name": "Product-veritatis-autem",
+                "product_description": "Deleniti laboriosam quod aliquam voluptate distinctio assumenda placeat quia dolorum hic rem, facilis veniam eaque culpa sapiente aspernatur nostrum sint esse distinctio ad, corrupti incidunt repellat aperiam sapiente quod beatae sit dolorem, repellendus quia possimus at architecto explicabo consequuntur reprehenderit?",
+                "product_quantity": 74,
+                "product_price": 50.82
+            }
+        ]
+    }
+}

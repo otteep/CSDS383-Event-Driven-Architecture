@@ -1,0 +1,14 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-hnSV2wBu",
+        "supplier_contact": "supplierhnSV2wBu@example.com",
+        "products": [
+            {
+                "product_name": "Product-quas-asperiores",
+                "product_description": "Soluta eius quidem atque praesentium quae optio et totam consequatur reiciendis, tenetur quasi distinctio recusandae fuga doloribus sit aut ex temporibus architecto officiis.",
+                "product_quantity": 41,
+                "product_price": 64.45
+            }
+        ]
+    }
+}

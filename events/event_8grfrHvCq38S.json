@@ -1,0 +1,38 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-8xKl71jT",
+        "supplier_contact": "supplier8xKl71jT@example.com",
+        "products": [
+            {
+                "product_name": "Product-minima-eum",
+                "product_description": "Voluptatem minus culpa ipsum, temporibus ad aliquid itaque, laborum eum deleniti ipsum non pariatur unde distinctio delectus?",
+                "product_quantity": 83,
+                "product_price": 32.04
+            },
+            {
+                "product_name": "Product-ipsum-omnis",
+                "product_description": "Vel eum debitis impedit saepe amet nesciunt aspernatur facere provident, aperiam minus reiciendis quas iure ipsa, a iusto cum dolorem, maiores ad error provident neque cumque, dolores nisi quis illum quasi architecto esse vel unde.",
+                "product_quantity": 81,
+                "product_price": 49.37
+            },
+            {
+                "product_name": "Product-natus-illum",
+                "product_description": "Impedit laudantium earum excepturi accusamus distinctio facere, odio est eligendi possimus tempore impedit nam et?",
+                "product_quantity": 91,
+                "product_price": 81.9
+            },
+            {
+                "product_name": "Product-ipsa-dolorum",
+                "product_description": "Rem ex omnis ad exercitationem consequuntur in reiciendis architecto, autem voluptate explicabo deserunt?",
+                "product_quantity": 100,
+                "product_price": 43.17
+            },
+            {
+                "product_name": "Product-deserunt-architecto",
+                "product_description": "Optio cum magnam est perferendis eius, voluptas soluta dicta doloremque quos praesentium autem eos, unde aut a perferendis maxime minus, expedita provident explicabo voluptatibus est iste neque perspiciatis, cum deleniti vitae veniam aliquid exercitationem sunt iste culpa sed dolore voluptatem.",
+                "product_quantity": 63,
+                "product_price": 15.91
+            }
+        ]
+    }
+}

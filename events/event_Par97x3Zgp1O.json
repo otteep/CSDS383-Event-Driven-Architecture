@@ -1,0 +1,26 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-RMux9Oxp",
+        "supplier_contact": "supplierRMux9Oxp@example.com",
+        "products": [
+            {
+                "product_name": "Product-natus-nemo",
+                "product_description": "Quod a culpa quibusdam, fugiat veritatis ex magnam?",
+                "product_quantity": 52,
+                "product_price": 49.45
+            },
+            {
+                "product_name": "Product-perspiciatis-ipsa",
+                "product_description": "Ducimus pariatur perspiciatis doloribus delectus ex minus, commodi ad veritatis impedit recusandae maxime repellendus, laborum ullam vel beatae inventore?",
+                "product_quantity": 35,
+                "product_price": 55.88
+            },
+            {
+                "product_name": "Product-quaerat-deleniti",
+                "product_description": "Tenetur cupiditate doloremque repudiandae, nemo amet architecto qui officia sit, delectus dolore porro, quos debitis necessitatibus odit ipsum itaque totam magnam non quidem.",
+                "product_quantity": 14,
+                "product_price": 54.11
+            }
+        ]
+    }
+}

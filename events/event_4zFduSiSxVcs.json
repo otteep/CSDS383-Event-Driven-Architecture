@@ -1,0 +1,32 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-brcIeEH7",
+        "supplier_contact": "supplierbrcIeEH7@example.com",
+        "products": [
+            {
+                "product_name": "Product-voluptates-cumque",
+                "product_description": "Consequuntur voluptates nesciunt voluptatem aspernatur, impedit dicta quia vel rem eaque, doloribus mollitia tenetur, esse quae maxime odio illo autem dolor laudantium doloremque minima culpa ullam?",
+                "product_quantity": 6,
+                "product_price": 37.68
+            },
+            {
+                "product_name": "Product-totam-tempore",
+                "product_description": "Numquam suscipit tenetur saepe, modi repellat explicabo rerum quisquam quam quae.",
+                "product_quantity": 44,
+                "product_price": 45.52
+            },
+            {
+                "product_name": "Product-nam-minima",
+                "product_description": "Labore perferendis accusantium ad, earum deserunt fugit eaque illum magni vel odio eveniet nesciunt sunt, repudiandae nulla ut sit ducimus quam quae?",
+                "product_quantity": 88,
+                "product_price": 59.52
+            },
+            {
+                "product_name": "Product-perspiciatis-accusamus",
+                "product_description": "Cum aliquam esse saepe reiciendis fuga in, corporis reprehenderit rem, nesciunt ratione ipsum magni optio tempora eaque dicta explicabo.",
+                "product_quantity": 4,
+                "product_price": 44.28
+            }
+        ]
+    }
+}

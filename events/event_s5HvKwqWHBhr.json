@@ -1,0 +1,26 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-FGDNAsRc",
+        "supplier_contact": "supplierFGDNAsRc@example.com",
+        "products": [
+            {
+                "product_name": "Product-fuga-consequatur",
+                "product_description": "Tenetur molestiae sed est aliquam consequatur laboriosam sequi obcaecati assumenda eveniet illo, porro eaque perferendis, illum provident molestias voluptas reprehenderit incidunt.",
+                "product_quantity": 63,
+                "product_price": 14.02
+            },
+            {
+                "product_name": "Product-repellat-eius",
+                "product_description": "Ea error quos ipsum blanditiis, pariatur nam eius eligendi doloribus id, iure eaque expedita provident voluptatem quae nemo fuga tenetur eos.",
+                "product_quantity": 1,
+                "product_price": 80.29
+            },
+            {
+                "product_name": "Product-corporis-mollitia",
+                "product_description": "Adipisci nihil officiis facilis nostrum minima vitae, unde nihil cum magni expedita est, provident sit explicabo harum, autem id pariatur sapiente et similique magnam dignissimos natus ipsam quasi, culpa quidem iure sed sunt omnis.",
+                "product_quantity": 11,
+                "product_price": 83.36
+            }
+        ]
+    }
+}

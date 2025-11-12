@@ -1,0 +1,20 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-khpDA973",
+        "supplier_contact": "supplierkhpDA973@example.com",
+        "products": [
+            {
+                "product_name": "Product-repellendus-impedit",
+                "product_description": "Dolores consequuntur ab hic aut provident enim veritatis, earum debitis expedita quibusdam qui iusto obcaecati dicta facilis recusandae distinctio delectus?",
+                "product_quantity": 93,
+                "product_price": 34.69
+            },
+            {
+                "product_name": "Product-nemo-aut",
+                "product_description": "Odio voluptates placeat saepe cupiditate magni excepturi quod quas tempore optio, placeat odit suscipit ad velit.",
+                "product_quantity": 70,
+                "product_price": 85.94
+            }
+        ]
+    }
+}

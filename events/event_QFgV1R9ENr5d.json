@@ -1,0 +1,38 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-O9XgSdz6",
+        "supplier_contact": "supplierO9XgSdz6@example.com",
+        "products": [
+            {
+                "product_name": "Product-quasi-hic",
+                "product_description": "Illo perferendis aliquid repellendus officiis autem quibusdam in, minima blanditiis consequuntur officia veniam laborum, magni voluptate quidem quaerat exercitationem laudantium repellendus, harum aliquam quia explicabo.",
+                "product_quantity": 39,
+                "product_price": 18.02
+            },
+            {
+                "product_name": "Product-pariatur-numquam",
+                "product_description": "Corrupti consectetur corporis dicta deleniti at nihil deserunt voluptas molestiae autem itaque, minima sunt voluptatibus fuga harum officia dignissimos ab ipsam expedita quia quaerat, aliquid tenetur temporibus et ad.",
+                "product_quantity": 55,
+                "product_price": 60.56
+            },
+            {
+                "product_name": "Product-excepturi-repellat",
+                "product_description": "Quibusdam cum ut ex, nihil velit nesciunt modi ab id illo quibusdam sapiente quam, voluptates ad harum non illum assumenda sint ipsum modi similique saepe quos, veniam obcaecati est nemo saepe consectetur iure exercitationem facere, nulla qui doloremque repellendus architecto sapiente illo officiis maiores.",
+                "product_quantity": 22,
+                "product_price": 36.55
+            },
+            {
+                "product_name": "Product-obcaecati-nostrum",
+                "product_description": "Itaque dolorem natus, sunt blanditiis praesentium ex maxime accusamus vel quaerat eum laboriosam ad, laboriosam architecto doloremque maiores inventore harum saepe, harum adipisci incidunt doloremque quibusdam sequi magnam cumque sint impedit ipsum.",
+                "product_quantity": 46,
+                "product_price": 38.33
+            },
+            {
+                "product_name": "Product-excepturi-deserunt",
+                "product_description": "Animi laborum quae, doloremque eligendi reiciendis similique voluptatibus culpa dolor, quod deleniti ad explicabo sunt corporis optio quibusdam earum, amet aliquam corporis dolor soluta minima at non natus tempore.",
+                "product_quantity": 45,
+                "product_price": 82.03
+            }
+        ]
+    }
+}

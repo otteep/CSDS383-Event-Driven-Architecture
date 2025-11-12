@@ -1,0 +1,20 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-5oyknGzp",
+        "supplier_contact": "supplier5oyknGzp@example.com",
+        "products": [
+            {
+                "product_name": "Product-est-nesciunt",
+                "product_description": "Consequuntur voluptate corporis incidunt ducimus magnam sequi consequatur repudiandae totam, temporibus quaerat voluptatem cum, libero fugit in, alias corporis voluptatibus incidunt saepe id quod ipsum?",
+                "product_quantity": 78,
+                "product_price": 25.62
+            },
+            {
+                "product_name": "Product-amet-corporis",
+                "product_description": "Provident enim possimus inventore aperiam voluptatem corrupti rerum dolor rem tempore quos, quis ipsam itaque nam voluptates dolorum et fuga, tempore vel ratione veniam iste, architecto voluptatum quam amet sint tenetur quisquam.",
+                "product_quantity": 17,
+                "product_price": 21.71
+            }
+        ]
+    }
+}

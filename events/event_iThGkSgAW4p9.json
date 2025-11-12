@@ -1,0 +1,38 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-O5paFHRX",
+        "supplier_contact": "supplierO5paFHRX@example.com",
+        "products": [
+            {
+                "product_name": "Product-commodi-maxime",
+                "product_description": "Ratione quidem illo laudantium non molestias ipsam fuga aliquam molestiae tempore iusto, eos ipsa assumenda blanditiis laborum, corrupti necessitatibus impedit nobis aperiam expedita delectus perspiciatis, repudiandae ad quibusdam voluptatem modi aperiam sapiente animi?",
+                "product_quantity": 56,
+                "product_price": 4.04
+            },
+            {
+                "product_name": "Product-labore-magni",
+                "product_description": "Quis aperiam nobis odit accusamus in maiores nihil, distinctio earum similique saepe porro debitis odio dicta, consequatur voluptates voluptate blanditiis, nihil aspernatur quas amet dolorem nam perferendis eaque mollitia, possimus ex quis ducimus autem nostrum non corporis minima?",
+                "product_quantity": 44,
+                "product_price": 19.87
+            },
+            {
+                "product_name": "Product-id-nesciunt",
+                "product_description": "Ipsam beatae assumenda impedit labore eos ex iure voluptate, placeat quam incidunt hic, nemo veniam ipsa hic delectus?",
+                "product_quantity": 89,
+                "product_price": 18.32
+            },
+            {
+                "product_name": "Product-iure-laudantium",
+                "product_description": "Vero ipsam magni corporis ea eius nam, impedit ad vel qui modi, sint soluta fugit omnis et repellat possimus culpa voluptatum reprehenderit, vel sed magni pariatur maiores voluptatem delectus consectetur, est hic ducimus dicta voluptatem quis provident distinctio?",
+                "product_quantity": 52,
+                "product_price": 58.7
+            },
+            {
+                "product_name": "Product-reprehenderit-consectetur",
+                "product_description": "Totam accusantium fuga officia, delectus quae quia unde praesentium consectetur enim minus laboriosam quibusdam libero nam, nostrum laudantium recusandae fugit quia, fugiat voluptate aut ea ab error iusto veritatis doloremque tenetur, magni odio explicabo perspiciatis id sapiente.",
+                "product_quantity": 41,
+                "product_price": 9.65
+            }
+        ]
+    }
+}

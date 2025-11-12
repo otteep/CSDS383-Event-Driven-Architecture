@@ -1,0 +1,14 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-GwccXQDN",
+        "supplier_contact": "supplierGwccXQDN@example.com",
+        "products": [
+            {
+                "product_name": "Product-laborum-numquam",
+                "product_description": "Perferendis hic id officiis suscipit error sunt magnam, rerum quia labore expedita sed saepe recusandae deserunt architecto illum dolores, obcaecati ut consectetur eveniet dicta.",
+                "product_quantity": 13,
+                "product_price": 61.33
+            }
+        ]
+    }
+}

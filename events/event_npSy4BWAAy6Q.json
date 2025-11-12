@@ -1,0 +1,20 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-M5XuR5BX",
+        "supplier_contact": "supplierM5XuR5BX@example.com",
+        "products": [
+            {
+                "product_name": "Product-natus-quos",
+                "product_description": "Quis odit tenetur quam at ullam obcaecati, dolores eaque et eveniet illo nam quod sit, quas eum minima ad consectetur laudantium commodi.",
+                "product_quantity": 76,
+                "product_price": 22.32
+            },
+            {
+                "product_name": "Product-ab-dicta",
+                "product_description": "Ipsa sunt tenetur assumenda id vero neque, et eius asperiores odio dolores exercitationem quo, atque officia quisquam minima perferendis perspiciatis quidem, aperiam nulla inventore, corporis natus similique nam omnis perspiciatis quas adipisci autem velit?",
+                "product_quantity": 65,
+                "product_price": 78.6
+            }
+        ]
+    }
+}

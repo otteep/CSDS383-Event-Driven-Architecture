@@ -1,0 +1,20 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-LQ59JXs0",
+        "supplier_contact": "supplierLQ59JXs0@example.com",
+        "products": [
+            {
+                "product_name": "Product-officia-commodi",
+                "product_description": "Repellendus at et fugiat architecto illum ullam, corrupti molestiae velit cupiditate, nesciunt non maxime sed obcaecati voluptates corrupti cumque vitae dolores nemo.",
+                "product_quantity": 95,
+                "product_price": 77.49
+            },
+            {
+                "product_name": "Product-vitae-nam",
+                "product_description": "Harum sequi hic quos vero repellat enim, voluptate voluptatum voluptates dolorum dolorem a esse quaerat veritatis soluta eaque, provident nisi voluptas natus, voluptatibus expedita officiis delectus repellendus.",
+                "product_quantity": 55,
+                "product_price": 88.3
+            }
+        ]
+    }
+}

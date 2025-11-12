@@ -1,0 +1,20 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-wLvJx3Wx",
+        "supplier_contact": "supplierwLvJx3Wx@example.com",
+        "products": [
+            {
+                "product_name": "Product-explicabo-facere",
+                "product_description": "Porro fugiat repudiandae est soluta, sapiente labore laudantium nobis obcaecati, architecto accusamus ea a possimus dolorum nulla nostrum culpa velit aliquid?",
+                "product_quantity": 82,
+                "product_price": 50.99
+            },
+            {
+                "product_name": "Product-corporis-laboriosam",
+                "product_description": "Quos excepturi voluptatibus sit accusamus animi autem eveniet, tempora libero mollitia nemo amet eaque, numquam quia neque fuga voluptatibus officia asperiores?",
+                "product_quantity": 71,
+                "product_price": 81.19
+            }
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-SBXrsuTo",
+        "supplier_contact": "supplierSBXrsuTo@example.com",
+        "products": [
+            {
+                "product_name": "Product-explicabo-iusto",
+                "product_description": "Repellat cumque ex neque optio voluptas, amet libero quaerat mollitia quos beatae, perspiciatis amet a modi?",
+                "product_quantity": 36,
+                "product_price": 76.78
+            }
+        ]
+    }
+}

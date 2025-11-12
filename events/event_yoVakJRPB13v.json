@@ -1,0 +1,25 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-re1Q8IF2",
+        "supplier_contact": "supplierre1Q8IF2@example.com",
+        "products": [
+            {
+                "product_name": "Product-adipisci-aut",
+                "product_description": "Optio omnis dolor placeat odit cumque totam qui debitis, cupiditate ipsa possimus atque quam neque doloremque nihil dolor iste, omnis nesciunt fugit est accusantium rem, totam ab ipsa voluptas ex quisquam inventore, doloribus alias quod vero.",
+                "product_quantity": 99,
+                "product_price": 63.41
+            },
+            {
+                "product_name": "Product-cum-itaque",
+                "product_description": "Esse temporibus magnam ex iure, aspernatur non veritatis libero, illum sit natus voluptatem enim nesciunt, officiis magnam sunt corrupti dolor earum, dolor quidem pariatur ullam provident consequatur.",
+                "product_quantity": 80,
+                "product_price": 80.6
+            },
+            {
+                "product_name": "Product-quae-mollitia",
+                "product_description": "Cumque dolor autem amet quibusdam voluptas, consectetur consequatur adipisci sequi ex voluptatibus possimus, ut voluptatibus similique sed dolor a, consectetur eius accusamus beatae optio ex iure nihil dolorum expedita.",
+                "product_price": 51.43
+            }
+        ]
+    }
+}

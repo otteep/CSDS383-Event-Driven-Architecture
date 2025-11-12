@@ -1,0 +1,26 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-ELffq66P",
+        "supplier_contact": "supplierELffq66P@example.com",
+        "products": [
+            {
+                "product_name": "Product-nobis-accusantium",
+                "product_description": "Atque odio fugit ex officiis tempore, aliquid nemo nam nobis eligendi fugiat dignissimos fugit explicabo cum blanditiis, vel ullam esse dolores, similique recusandae necessitatibus perferendis, error adipisci ipsa?",
+                "product_quantity": 47,
+                "product_price": 48.06
+            },
+            {
+                "product_name": "Product-officiis-animi",
+                "product_description": "Aliquid quod sit qui voluptatibus dolores, fugit eum voluptatibus dolore quam.",
+                "product_quantity": 18,
+                "product_price": 42.11
+            },
+            {
+                "product_name": "Product-modi-perspiciatis",
+                "product_description": "Ullam illo labore soluta quidem cumque odio vel unde cum aliquam, distinctio cupiditate recusandae accusantium veritatis provident sequi vitae omnis ipsa deserunt, eos corrupti repellat repellendus, officia impedit fugiat vel similique reiciendis vitae doloremque harum?",
+                "product_quantity": 100,
+                "product_price": 60.68
+            }
+        ]
+    }
+}

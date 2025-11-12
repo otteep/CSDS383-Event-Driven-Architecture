@@ -1,0 +1,14 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-3OVfn6WS",
+        "supplier_contact": "supplier3OVfn6WS@example.com",
+        "products": [
+            {
+                "product_name": "Product-atque-corrupti",
+                "product_description": "Rerum veniam harum quia reiciendis deleniti debitis, saepe hic sint facilis, cum reiciendis nostrum inventore, harum beatae quod voluptate consectetur saepe, quam labore aliquam officiis sequi soluta porro voluptatem?",
+                "product_quantity": 84,
+                "product_price": 10.78
+            }
+        ]
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-BH8TtR9R",
+        "supplier_contact": "supplierBH8TtR9R@example.com",
+        "products": [
+            {
+                "product_name": "Product-tenetur-tempora",
+                "product_description": "Placeat labore recusandae assumenda at consectetur asperiores odit molestias dolore vero, fugit quo molestiae eius beatae dolorem magni officia accusamus, cumque hic repellat illum omnis earum quae molestias placeat asperiores veritatis, totam quasi repellendus delectus accusamus?",
+                "product_quantity": 47,
+                "product_price": 23.92
+            },
+            {
+                "product_name": "Product-voluptas-dolore",
+                "product_description": "Explicabo fugit culpa tempore, eaque dolorum quos omnis, ipsam non quam, quidem modi eaque repellendus culpa fugit ad commodi, culpa voluptatum deserunt.",
+                "product_quantity": 2,
+                "product_price": 18.63
+            }
+        ]
+    }
+}

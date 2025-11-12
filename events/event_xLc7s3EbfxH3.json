@@ -1,0 +1,38 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-AEPKHBYo",
+        "supplier_contact": "supplierAEPKHBYo@example.com",
+        "products": [
+            {
+                "product_name": "Product-consequatur-iure",
+                "product_description": "Nostrum repellat commodi recusandae accusantium corporis quod itaque nam reiciendis autem atque, nesciunt voluptatem delectus rerum minima ut molestias unde iure laborum?",
+                "product_quantity": 65,
+                "product_price": 84.74
+            },
+            {
+                "product_name": "Product-illo-vero",
+                "product_description": "Corporis saepe tenetur omnis iusto ex, in corrupti molestias, pariatur placeat architecto.",
+                "product_quantity": 52,
+                "product_price": 63.16
+            },
+            {
+                "product_name": "Product-perferendis-adipisci",
+                "product_description": "Recusandae adipisci omnis nulla ullam cum, fuga sequi est accusamus nulla at nobis explicabo iure eius corrupti, expedita voluptatum unde saepe aliquam repudiandae pariatur excepturi repellendus?",
+                "product_quantity": 75,
+                "product_price": 69.03
+            },
+            {
+                "product_name": "Product-natus-beatae",
+                "product_description": "Numquam eius animi ipsum ab unde expedita neque omnis dolorem amet, repellat sed consequatur minus illo, quidem ratione eum ipsum, est aperiam temporibus, ab porro earum sint cupiditate?",
+                "product_quantity": 84,
+                "product_price": 96.58
+            },
+            {
+                "product_name": "Product-laboriosam-quae",
+                "product_description": "Autem temporibus nesciunt magnam ducimus corporis, eum quae dignissimos?",
+                "product_quantity": 12,
+                "product_price": 79.16
+            }
+        ]
+    }
+}

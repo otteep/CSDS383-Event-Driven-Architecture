@@ -1,0 +1,38 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-UbvaPz59",
+        "supplier_contact": "supplierUbvaPz59@example.com",
+        "products": [
+            {
+                "product_name": "Product-quasi-quaerat",
+                "product_description": "Ut aspernatur voluptatem, cum repellendus vitae maiores pariatur vel voluptas modi earum culpa iure quia, expedita doloremque nobis labore tempora ipsa quod?",
+                "product_quantity": 52,
+                "product_price": 75.57
+            },
+            {
+                "product_name": "Product-a-recusandae",
+                "product_description": "Error aliquam culpa incidunt repellendus non quisquam nesciunt, perferendis excepturi amet voluptatum ipsa eius voluptatibus quo neque qui, ipsum laboriosam alias optio dicta dolore error quas temporibus asperiores rerum ipsa.",
+                "product_quantity": 20,
+                "product_price": 97.72
+            },
+            {
+                "product_name": "Product-suscipit-culpa",
+                "product_description": "Quasi error debitis natus odit officiis temporibus qui, deserunt dolorum alias ut?",
+                "product_quantity": 6,
+                "product_price": 22.23
+            },
+            {
+                "product_name": "Product-ut-cum",
+                "product_description": "Libero molestiae adipisci beatae cum assumenda illo modi sint, repudiandae modi fugit dignissimos obcaecati dolor, quas labore explicabo quos maiores quidem mollitia ducimus.",
+                "product_quantity": 6,
+                "product_price": 19.17
+            },
+            {
+                "product_name": "Product-porro-perferendis",
+                "product_description": "Labore cum quibusdam, voluptatibus et consequatur voluptatem asperiores sequi quisquam labore rerum.",
+                "product_quantity": 66,
+                "product_price": 23.62
+            }
+        ]
+    }
+}

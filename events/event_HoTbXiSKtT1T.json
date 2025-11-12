@@ -1,0 +1,14 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-ETtIlJGS",
+        "supplier_contact": "supplierETtIlJGS@example.com",
+        "products": [
+            {
+                "product_name": "Product-repudiandae-quisquam",
+                "product_description": "Voluptates placeat sit itaque sequi quae, temporibus nihil accusamus nobis rerum saepe maiores, soluta excepturi aliquam consectetur.",
+                "product_quantity": 33,
+                "product_price": 94.07
+            }
+        ]
+    }
+}

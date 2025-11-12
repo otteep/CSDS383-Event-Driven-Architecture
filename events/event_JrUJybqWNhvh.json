@@ -1,0 +1,32 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-SsNXvPbi",
+        "supplier_contact": "supplierSsNXvPbi@example.com",
+        "products": [
+            {
+                "product_name": "Product-mollitia-veritatis",
+                "product_description": "Facilis hic totam in excepturi minima maxime error et dolorum qui, quidem cum magnam fuga maxime voluptates vero sed aut dicta, dolore dolorem blanditiis provident perferendis deleniti repellat quia iste maxime, laborum obcaecati magnam recusandae minus error corrupti saepe in quia eum esse, illum dolorem ab commodi cupiditate nesciunt?",
+                "product_quantity": 59,
+                "product_price": 59.26
+            },
+            {
+                "product_name": "Product-magni-sapiente",
+                "product_description": "Unde itaque accusantium voluptas saepe ducimus molestiae atque, sed perferendis doloribus minus modi aut aperiam nulla reiciendis, dolorem impedit dolore corporis natus accusamus unde odio, illum accusantium quibusdam doloremque quae dolorum?",
+                "product_quantity": 54,
+                "product_price": 79.97
+            },
+            {
+                "product_name": "Product-iusto-blanditiis",
+                "product_description": "Porro laborum doloribus consequuntur reprehenderit eos, suscipit reiciendis incidunt minima voluptatum aut atque, aliquid illum minima sed id omnis perferendis quis similique dolorem est voluptatem.",
+                "product_quantity": 83,
+                "product_price": 61.5
+            },
+            {
+                "product_name": "Product-doloremque-molestiae",
+                "product_description": "Voluptate perspiciatis illo accusantium facilis, excepturi a deserunt quos minima nisi?",
+                "product_quantity": 85,
+                "product_price": 20.42
+            }
+        ]
+    }
+}

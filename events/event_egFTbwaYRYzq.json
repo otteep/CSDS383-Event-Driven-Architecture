@@ -1,0 +1,37 @@
+{
+    "supplier": {
+        "supplier_contact": "supplier63nPCt2q@example.com",
+        "products": [
+            {
+                "product_name": "Product-veritatis-nisi",
+                "product_description": "Reprehenderit autem nulla blanditiis hic facere distinctio, natus explicabo totam sed id quidem, quae voluptates nihil sint facere ipsam vel magnam, deserunt optio recusandae laboriosam earum dignissimos dolores voluptatum temporibus dolore iste iusto, similique veniam officia officiis autem.",
+                "product_quantity": 84,
+                "product_price": 92.94
+            },
+            {
+                "product_name": "Product-fugit-at",
+                "product_description": "Sit hic laboriosam laborum sed quaerat suscipit modi eaque ducimus error, aut consequatur nam maxime deserunt voluptas reprehenderit placeat mollitia perferendis dolore vitae?",
+                "product_quantity": 50,
+                "product_price": 73.47
+            },
+            {
+                "product_name": "Product-in-corrupti",
+                "product_description": "Quod unde corrupti amet accusantium commodi enim, labore esse voluptas exercitationem voluptatibus?",
+                "product_quantity": 92,
+                "product_price": 79.37
+            },
+            {
+                "product_name": "Product-iste-dolore",
+                "product_description": "Aspernatur illum harum voluptates ut repudiandae, nulla beatae consequuntur voluptatem itaque, delectus veniam eaque laudantium nesciunt illo debitis sed aperiam hic.",
+                "product_quantity": 48,
+                "product_price": 59.09
+            },
+            {
+                "product_name": "Product-earum-omnis",
+                "product_description": "Molestiae delectus ratione tempore voluptas minus quaerat quia deleniti corporis dicta, sequi rem culpa optio error praesentium totam quasi, ipsam amet hic error asperiores necessitatibus ipsa assumenda.",
+                "product_quantity": 47,
+                "product_price": 85.52
+            }
+        ]
+    }
+}

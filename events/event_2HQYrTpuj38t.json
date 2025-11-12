@@ -1,0 +1,25 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-sGEADw3V",
+        "supplier_contact": "suppliersGEADw3V@example.com",
+        "products": [
+            {
+                "product_name": "Product-facere-dicta",
+                "product_description": "Commodi obcaecati culpa quia velit perspiciatis eveniet fuga exercitationem voluptas qui, a nihil amet error veniam cum repellat optio fugiat deserunt saepe voluptatem, fugiat odit minus esse soluta quo numquam in similique, id soluta aliquam quo quaerat quae officiis tempora praesentium veritatis modi, perspiciatis commodi est odit recusandae rem eveniet?",
+                "product_quantity": 70,
+                "product_price": 21.29
+            },
+            {
+                "product_name": "Product-laudantium-quos",
+                "product_description": "Aliquam voluptatibus eius modi dolorum consequuntur magnam assumenda molestias maiores debitis, exercitationem error recusandae sapiente deserunt sint, esse suscipit tempora autem veritatis nemo quidem ea doloribus?",
+                "product_price": 87.0
+            },
+            {
+                "product_name": "Product-provident-voluptatum",
+                "product_description": "Voluptatibus minus dolores doloremque amet, reiciendis porro ex labore explicabo, numquam dolore consequuntur labore, exercitationem eveniet sequi.",
+                "product_quantity": 58,
+                "product_price": 88.04
+            }
+        ]
+    }
+}

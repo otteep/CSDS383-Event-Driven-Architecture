@@ -1,0 +1,38 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-5cGlqz2O",
+        "supplier_contact": "supplier5cGlqz2O@example.com",
+        "products": [
+            {
+                "product_name": "Product-omnis-impedit",
+                "product_description": "Dolor laborum quas mollitia explicabo, ut animi porro repellat eum eius perferendis natus accusantium rerum et, ipsum quaerat laudantium architecto provident facere dolor possimus qui, distinctio placeat doloremque?",
+                "product_quantity": 78,
+                "product_price": 48.28
+            },
+            {
+                "product_name": "Product-molestias-praesentium",
+                "product_description": "Laudantium unde aliquid quibusdam assumenda possimus, minima suscipit officiis pariatur vero nam.",
+                "product_quantity": 32,
+                "product_price": 87.99
+            },
+            {
+                "product_name": "Product-totam-mollitia",
+                "product_description": "Non atque eveniet laboriosam officia nulla mollitia labore, ab impedit blanditiis ut sint deserunt ipsam aut vel, reprehenderit sint eligendi earum, eius obcaecati necessitatibus culpa unde quibusdam, accusamus dolorem fugiat illum illo?",
+                "product_quantity": 91,
+                "product_price": 17.51
+            },
+            {
+                "product_name": "Product-maxime-vitae",
+                "product_description": "Eveniet voluptatem dignissimos, perferendis exercitationem possimus neque rerum sint aliquid veritatis laboriosam esse, at modi reprehenderit magnam soluta libero praesentium quae cupiditate.",
+                "product_quantity": 25,
+                "product_price": 52.22
+            },
+            {
+                "product_name": "Product-in-dicta",
+                "product_description": "Incidunt nulla minima beatae, doloremque unde officia voluptatem ipsa veritatis molestiae consequatur at temporibus doloribus, nemo voluptatibus architecto, aut aliquam consectetur dignissimos modi, quam eveniet consequuntur facere?",
+                "product_quantity": 73,
+                "product_price": 71.4
+            }
+        ]
+    }
+}

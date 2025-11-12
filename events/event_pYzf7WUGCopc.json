@@ -1,0 +1,37 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-WgsXSCE2",
+        "supplier_contact": "supplierWgsXSCE2@example.com",
+        "products": [
+            {
+                "product_name": "Product-quibusdam-explicabo",
+                "product_description": "Quia quam nostrum beatae molestiae laborum totam velit aliquid sit earum eos, expedita animi unde eos cum, nihil cumque placeat quod explicabo distinctio minus laudantium cupiditate voluptates.",
+                "product_quantity": 82,
+                "product_price": 24.27
+            },
+            {
+                "product_name": "Product-velit-voluptatum",
+                "product_description": "Eaque blanditiis dicta sapiente enim totam quos nulla cumque ipsa, iure architecto explicabo similique delectus quaerat maiores totam sit nam rem, doloribus accusamus ullam quibusdam voluptas est explicabo ab, harum amet natus minus, officiis tempora ad odit quo sed?",
+                "product_quantity": 22,
+                "product_price": 12.34
+            },
+            {
+                "product_name": "Product-magnam-iure",
+                "product_description": "Quidem repudiandae accusantium eum sequi est officia dicta sunt aut modi saepe, at facere quae blanditiis libero tempora, molestias laborum iusto natus asperiores magni eius?",
+                "product_quantity": 72,
+                "product_price": 13.65
+            },
+            {
+                "product_name": "Product-exercitationem-non",
+                "product_description": "Consequatur dolorem sed nam doloribus ipsum a suscipit voluptas, fugiat soluta nihil, nisi sapiente temporibus voluptatibus amet ipsum optio eligendi quisquam, molestiae explicabo eum iure provident?",
+                "product_quantity": 42,
+                "product_price": 70.43
+            },
+            {
+                "product_name": "Product-sapiente-vero",
+                "product_description": "Delectus perspiciatis minima tempora est, consequatur inventore nostrum non, quaerat sit qui repudiandae inventore iure?",
+                "product_quantity": 24
+            }
+        ]
+    }
+}

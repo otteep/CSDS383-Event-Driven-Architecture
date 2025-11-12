@@ -1,0 +1,26 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-yYzPhEbN",
+        "supplier_contact": "supplieryYzPhEbN@example.com",
+        "products": [
+            {
+                "product_name": "Product-error-repudiandae",
+                "product_description": "Sint inventore libero fugit consequuntur, necessitatibus deleniti tempora autem veritatis ipsum distinctio est quia adipisci accusantium pariatur, impedit delectus voluptatibus laudantium obcaecati dolorum nobis, accusantium nihil facilis eius.",
+                "product_quantity": 20,
+                "product_price": 56.5
+            },
+            {
+                "product_name": "Product-illum-harum",
+                "product_description": "Vitae velit molestias reprehenderit dolor alias tenetur quisquam ad ab atque, possimus tenetur aspernatur assumenda repellat maxime numquam sint, fugiat eum placeat libero ratione at temporibus a doloribus distinctio qui dolores, officiis suscipit vel assumenda ab odit blanditiis eius eos cumque.",
+                "product_quantity": 30,
+                "product_price": 81.26
+            },
+            {
+                "product_name": "Product-debitis-omnis",
+                "product_description": "Iste non nulla fugit nisi, ducimus tempore commodi dolor quia voluptates.",
+                "product_quantity": 8,
+                "product_price": 32.32
+            }
+        ]
+    }
+}

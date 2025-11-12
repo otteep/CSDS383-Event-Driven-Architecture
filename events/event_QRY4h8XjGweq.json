@@ -1,0 +1,20 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-lL0chbQH",
+        "supplier_contact": "supplierlL0chbQH@example.com",
+        "products": [
+            {
+                "product_name": "Product-ratione-adipisci",
+                "product_description": "Natus ratione nam, repudiandae dolorum laboriosam dolore illum nulla quos, quaerat minus ratione laudantium consequuntur totam at hic corporis voluptate quia perferendis, voluptatem illo dolores ipsam?",
+                "product_quantity": 99,
+                "product_price": 92.69
+            },
+            {
+                "product_name": "Product-repudiandae-pariatur",
+                "product_description": "Eum error praesentium similique pariatur ratione sit et neque inventore, repudiandae magni commodi at ad optio nobis, neque excepturi voluptatum minima officiis atque, laboriosam distinctio at ipsa.",
+                "product_quantity": 36,
+                "product_price": 24.71
+            }
+        ]
+    }
+}

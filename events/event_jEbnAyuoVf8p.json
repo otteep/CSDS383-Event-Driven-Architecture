@@ -1,0 +1,14 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-bSFH9Cv2",
+        "supplier_contact": "supplierbSFH9Cv2@example.com",
+        "products": [
+            {
+                "product_name": "Product-similique-facilis",
+                "product_description": "Impedit optio reprehenderit quidem sequi hic voluptatibus asperiores, itaque et labore eligendi accusantium, molestias quibusdam culpa libero possimus.",
+                "product_quantity": 59,
+                "product_price": 27.38
+            }
+        ]
+    }
+}

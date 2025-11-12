@@ -1,0 +1,32 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-uNXf4RtD",
+        "supplier_contact": "supplieruNXf4RtD@example.com",
+        "products": [
+            {
+                "product_name": "Product-amet-ad",
+                "product_description": "Voluptas laudantium libero sunt, consectetur nihil et iste dolorum, sunt fugit omnis nemo quas consequatur?",
+                "product_quantity": 83,
+                "product_price": 40.54
+            },
+            {
+                "product_name": "Product-rem-esse",
+                "product_description": "Ut quibusdam tempore, libero maxime vero rerum, amet at odit exercitationem alias voluptate dignissimos blanditiis minus a rem quas.",
+                "product_quantity": 86,
+                "product_price": 61.82
+            },
+            {
+                "product_name": "Product-facilis-dolore",
+                "product_description": "Eius laboriosam tenetur reprehenderit culpa facere veritatis perspiciatis, maxime nisi officia nesciunt nostrum corrupti illo at.",
+                "product_quantity": 59,
+                "product_price": 34.23
+            },
+            {
+                "product_name": "Product-commodi-consequatur",
+                "product_description": "Facilis sint sapiente exercitationem laudantium cupiditate neque, consequatur placeat provident, adipisci veniam voluptatem, temporibus quas voluptatum nemo ratione maxime atque dolore natus, corporis odio nisi repellendus doloribus minima laborum.",
+                "product_quantity": 22,
+                "product_price": 10.88
+            }
+        ]
+    }
+}

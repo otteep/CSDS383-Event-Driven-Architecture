@@ -1,0 +1,38 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-PdwUf6Zh",
+        "supplier_contact": "supplierPdwUf6Zh@example.com",
+        "products": [
+            {
+                "product_name": "Product-alias-quae",
+                "product_description": "Soluta possimus excepturi, quia nihil voluptate ex excepturi repellendus amet.",
+                "product_quantity": 88,
+                "product_price": 46.51
+            },
+            {
+                "product_name": "Product-adipisci-id",
+                "product_description": "Quam itaque aperiam, vel magnam omnis veritatis vero quam voluptates, ex porro excepturi, recusandae maxime quis odit, ab cum velit iste placeat tenetur perspiciatis.",
+                "product_quantity": 61,
+                "product_price": 37.57
+            },
+            {
+                "product_name": "Product-odio-minus",
+                "product_description": "Praesentium assumenda ipsum dolore similique saepe corrupti accusantium earum atque iste soluta, ullam dicta autem provident velit, sequi aliquam vel odio eum libero nesciunt quae voluptatum, officia alias reiciendis voluptas ipsam asperiores illum?",
+                "product_quantity": 89,
+                "product_price": 48.23
+            },
+            {
+                "product_name": "Product-neque-dolorem",
+                "product_description": "Nesciunt voluptate nihil praesentium laboriosam voluptatibus, laboriosam deleniti fugiat sunt harum dolorem optio aut, repellat facilis doloremque eum dicta tenetur est magnam saepe commodi iure, vitae ab exercitationem nam sunt quae soluta minima sit placeat.",
+                "product_quantity": 100,
+                "product_price": 49.57
+            },
+            {
+                "product_name": "Product-vel-omnis",
+                "product_description": "Rerum eum eaque nulla nisi quia, commodi ea suscipit, quibusdam repellat illo non ducimus nihil harum facere, fugiat a impedit qui deserunt consequatur rem magnam fuga beatae perferendis?",
+                "product_quantity": 32,
+                "product_price": 42.45
+            }
+        ]
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-9F4mTNTw",
+        "supplier_contact": "supplier9F4mTNTw@example.com",
+        "products": [
+            {
+                "product_name": "Product-molestias-fugiat",
+                "product_description": "Dolore laboriosam error, debitis saepe mollitia eligendi numquam, vel debitis temporibus suscipit quod est optio, ab ex debitis architecto dolore saepe dolor, quae aspernatur delectus ipsam debitis assumenda dicta voluptatem.",
+                "product_quantity": 47,
+                "product_price": 67.97
+            },
+            {
+                "product_name": "Product-nam-voluptatem",
+                "product_description": "Pariatur quo veritatis minus necessitatibus odit illo sequi, ratione quos animi voluptas similique nihil quia, eveniet voluptas repellendus cupiditate quasi, quas voluptatem ipsa eveniet non perspiciatis adipisci tenetur assumenda harum unde?",
+                "product_quantity": 87,
+                "product_price": 46.85
+            },
+            {
+                "product_name": "Product-possimus-soluta",
+                "product_description": "Debitis ducimus accusamus, in veniam obcaecati similique ab?",
+                "product_quantity": 38,
+                "product_price": 5.05
+            }
+        ]
+    }
+}

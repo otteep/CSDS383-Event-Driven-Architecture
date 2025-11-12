@@ -1,0 +1,37 @@
+{
+    "supplier": {
+        "supplier_contact": "suppliergJFhwS2b@example.com",
+        "products": [
+            {
+                "product_name": "Product-quas-error",
+                "product_description": "Libero molestiae deserunt error enim eveniet dolor voluptatem consectetur perferendis dicta, fugit vitae ipsa porro veniam sunt aperiam, debitis illum temporibus fugit ullam, esse consectetur fuga corrupti cum repellendus, doloremque quam vero.",
+                "product_quantity": 15,
+                "product_price": 85.42
+            },
+            {
+                "product_name": "Product-ullam-porro",
+                "product_description": "Blanditiis eius incidunt repellendus officia aspernatur nemo maiores veritatis sunt et, laborum modi odio deserunt suscipit commodi veniam amet similique, officia cumque recusandae, eius maiores voluptatum error inventore et officiis, sint sapiente tempore accusantium laborum repudiandae laboriosam ex libero laudantium quam.",
+                "product_quantity": 4,
+                "product_price": 76.9
+            },
+            {
+                "product_name": "Product-explicabo-sit",
+                "product_description": "Reprehenderit placeat laudantium quasi corporis pariatur corrupti aliquid eum quibusdam doloremque, fuga delectus nesciunt voluptatem reiciendis vero?",
+                "product_quantity": 5,
+                "product_price": 86.09
+            },
+            {
+                "product_name": "Product-iste-amet",
+                "product_description": "Quas cupiditate itaque voluptatibus iste hic assumenda dolorum voluptas inventore magni corporis, laudantium perferendis aliquam repellat repellendus ea fugit fuga tenetur soluta, et veritatis doloremque modi necessitatibus voluptatum corrupti temporibus qui aut, fuga assumenda aliquam?",
+                "product_quantity": 92,
+                "product_price": 93.79
+            },
+            {
+                "product_name": "Product-vel-facere",
+                "product_description": "Eligendi nam repellendus dolore non perferendis repudiandae qui labore accusamus a, molestiae libero labore tenetur rem fugiat reprehenderit natus sunt eveniet, dolorum eum magnam quam quibusdam?",
+                "product_quantity": 16,
+                "product_price": 62.87
+            }
+        ]
+    }
+}

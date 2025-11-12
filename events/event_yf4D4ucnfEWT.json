@@ -1,0 +1,14 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-qA0dumhj",
+        "supplier_contact": "supplierqA0dumhj@example.com",
+        "products": [
+            {
+                "product_name": "Product-error-quod",
+                "product_description": "Rem exercitationem incidunt totam facere quaerat tempore culpa laudantium dolor ipsam, nemo ullam asperiores quae, nesciunt ab provident eos suscipit laboriosam ducimus ipsam eaque doloremque ratione atque, nulla expedita unde numquam pariatur consectetur ad delectus doloribus quasi, accusantium id aperiam facere dicta natus delectus ducimus ea suscipit inventore repellat.",
+                "product_quantity": 32,
+                "product_price": 54.43
+            }
+        ]
+    }
+}

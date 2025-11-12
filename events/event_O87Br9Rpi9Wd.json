@@ -1,0 +1,32 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-nhQ2tJGb",
+        "supplier_contact": "suppliernhQ2tJGb@example.com",
+        "products": [
+            {
+                "product_name": "Product-consequuntur-necessitatibus",
+                "product_description": "Nam natus veritatis labore provident quas esse vero aspernatur, laboriosam asperiores officiis minus maxime ullam fuga, veritatis commodi quidem facere repudiandae, quaerat pariatur reiciendis rerum fuga at autem quos minus facere commodi, beatae fugit dicta ut?",
+                "product_quantity": 29,
+                "product_price": 97.35
+            },
+            {
+                "product_name": "Product-ratione-debitis",
+                "product_description": "Quia molestias excepturi optio voluptate, laborum laudantium quis suscipit ducimus, iste facilis quo sapiente corporis eius architecto?",
+                "product_quantity": 51,
+                "product_price": 62.2
+            },
+            {
+                "product_name": "Product-ad-hic",
+                "product_description": "Amet nobis reprehenderit doloremque, dolorem qui dolore rerum quisquam, consequuntur commodi veritatis, similique exercitationem debitis laudantium sunt assumenda explicabo ipsam, beatae veritatis alias.",
+                "product_quantity": 25,
+                "product_price": 16.28
+            },
+            {
+                "product_name": "Product-voluptatum-veritatis",
+                "product_description": "Eligendi explicabo voluptate, atque doloribus ex praesentium facilis fuga repellat soluta, voluptates at accusantium nam sequi soluta fuga, voluptatem sed iste explicabo dolorem quia rerum pariatur debitis?",
+                "product_quantity": 90,
+                "product_price": 5.57
+            }
+        ]
+    }
+}

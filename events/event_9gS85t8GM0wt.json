@@ -1,0 +1,37 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-mSpvnwh7",
+        "products": [
+            {
+                "product_name": "Product-nostrum-nihil",
+                "product_description": "Incidunt corrupti sapiente sed iure ab dicta reprehenderit ipsam veritatis a, similique tenetur molestias quis rerum velit iure fugit iste, fugit voluptas obcaecati quisquam consectetur beatae?",
+                "product_quantity": 73,
+                "product_price": 22.8
+            },
+            {
+                "product_name": "Product-maxime-voluptas",
+                "product_description": "Mollitia aliquid similique nam repellendus exercitationem quia necessitatibus dolores cum, magnam sint architecto est, expedita quam fugiat dolore eius placeat?",
+                "product_quantity": 78,
+                "product_price": 82.45
+            },
+            {
+                "product_name": "Product-labore-voluptatum",
+                "product_description": "Placeat in itaque a, doloribus ipsam officiis saepe recusandae distinctio, voluptate iure recusandae, dolorum dicta nisi quidem tempore, architecto unde molestias deleniti sint blanditiis qui quasi iusto.",
+                "product_quantity": 2,
+                "product_price": 7.83
+            },
+            {
+                "product_name": "Product-dicta-nostrum",
+                "product_description": "Reprehenderit assumenda corrupti aut alias quo harum deserunt, accusantium tenetur quidem non facilis neque consectetur voluptates quaerat, hic minus repellendus quo nostrum dolorum asperiores aut quam obcaecati ipsa enim.",
+                "product_quantity": 72,
+                "product_price": 40.54
+            },
+            {
+                "product_name": "Product-architecto-ipsam",
+                "product_description": "Quasi in et sint accusantium sunt eaque tempora, corporis vitae labore delectus incidunt itaque numquam ducimus nisi nobis enim in, molestiae quod hic praesentium iure provident?",
+                "product_quantity": 99,
+                "product_price": 97.62
+            }
+        ]
+    }
+}

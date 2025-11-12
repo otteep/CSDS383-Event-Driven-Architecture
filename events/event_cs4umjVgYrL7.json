@@ -1,0 +1,14 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-wsjp26Hp",
+        "supplier_contact": "supplierwsjp26Hp@example.com",
+        "products": [
+            {
+                "product_name": "Product-dicta-nam",
+                "product_description": "Suscipit animi cumque ipsam incidunt expedita tenetur quam sunt tempore sapiente, officia voluptas incidunt dignissimos cum voluptatum voluptate sequi consequatur, reiciendis ullam soluta non molestias perferendis ut iusto, ducimus non laboriosam iure quas minima dolorem hic temporibus quisquam?",
+                "product_quantity": 8,
+                "product_price": 53.78
+            }
+        ]
+    }
+}

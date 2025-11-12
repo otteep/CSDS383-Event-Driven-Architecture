@@ -1,0 +1,32 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-WbhEokQV",
+        "supplier_contact": "supplierWbhEokQV@example.com",
+        "products": [
+            {
+                "product_name": "Product-praesentium-libero",
+                "product_description": "Repellat quo tenetur harum non asperiores maxime, explicabo atque suscipit sed quidem culpa quam et adipisci aut, culpa necessitatibus ea alias rerum nobis sunt quos maiores, deleniti voluptatum quae aperiam dignissimos numquam unde consequuntur id, corporis hic odio eveniet repellat earum rerum harum sequi ad.",
+                "product_quantity": 77,
+                "product_price": 13.79
+            },
+            {
+                "product_name": "Product-minus-blanditiis",
+                "product_description": "Nostrum repellendus voluptatum rem ex pariatur distinctio blanditiis accusamus deserunt, praesentium incidunt eaque eligendi voluptatibus a reprehenderit corrupti asperiores illo odit, voluptates saepe placeat, aliquid quas eius non tempora ea.",
+                "product_quantity": 17,
+                "product_price": 46.14
+            },
+            {
+                "product_name": "Product-sed-hic",
+                "product_description": "Suscipit dolorem tempora consequatur quibusdam nobis laborum tenetur quis delectus ex, odio architecto hic ad accusantium vitae repellendus cupiditate, aperiam nesciunt laudantium quaerat, corporis dolores deleniti odio, quas dolor reprehenderit odit voluptatibus pariatur perspiciatis eum esse architecto iste.",
+                "product_quantity": 83,
+                "product_price": 38.6
+            },
+            {
+                "product_name": "Product-iure-nisi",
+                "product_description": "Saepe asperiores fuga corrupti, accusantium laudantium ipsum debitis expedita, laborum sapiente placeat aut fugit eius recusandae dolores.",
+                "product_quantity": 99,
+                "product_price": 9.58
+            }
+        ]
+    }
+}

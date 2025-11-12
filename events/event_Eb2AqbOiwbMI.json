@@ -1,0 +1,32 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-R5yCXCfl",
+        "supplier_contact": "supplierR5yCXCfl@example.com",
+        "products": [
+            {
+                "product_name": "Product-impedit-nostrum",
+                "product_description": "Nesciunt laboriosam ullam quia ipsum consequatur possimus quas veniam illo sint, esse qui ex eveniet incidunt vel blanditiis eos unde?",
+                "product_quantity": 47,
+                "product_price": 65.65
+            },
+            {
+                "product_name": "Product-et-at",
+                "product_description": "Illum laborum dolores eius, excepturi tenetur nesciunt vitae pariatur ut quas aspernatur harum voluptates animi, quibusdam debitis at asperiores repellendus veritatis, obcaecati delectus explicabo tenetur impedit doloribus dolorem adipisci itaque, earum sunt dolor.",
+                "product_quantity": 28,
+                "product_price": 87.11
+            },
+            {
+                "product_name": "Product-est-assumenda",
+                "product_description": "Saepe recusandae doloremque facilis eos atque provident dicta consequuntur suscipit aspernatur cumque, dolorum perferendis pariatur quis nam veritatis recusandae ipsam totam assumenda necessitatibus expedita?",
+                "product_quantity": 26,
+                "product_price": 21.05
+            },
+            {
+                "product_name": "Product-asperiores-voluptatibus",
+                "product_description": "Cumque error sequi corporis quae vel reiciendis quos, autem amet dignissimos exercitationem quos ex et nemo.",
+                "product_quantity": 42,
+                "product_price": 32.04
+            }
+        ]
+    }
+}

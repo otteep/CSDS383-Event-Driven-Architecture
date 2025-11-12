@@ -1,0 +1,14 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-oB2tSiAm",
+        "supplier_contact": "supplieroB2tSiAm@example.com",
+        "products": [
+            {
+                "product_name": "Product-repudiandae-pariatur",
+                "product_description": "Temporibus nemo vel consequatur explicabo reprehenderit ipsum dicta dolorum, aut autem laudantium explicabo doloribus exercitationem suscipit, fugit culpa dolores voluptas totam labore illum voluptatem sit error?",
+                "product_quantity": 68,
+                "product_price": 82.91
+            }
+        ]
+    }
+}

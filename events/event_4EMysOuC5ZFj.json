@@ -1,0 +1,26 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-91lKijLK",
+        "supplier_contact": "supplier91lKijLK@example.com",
+        "products": [
+            {
+                "product_name": "Product-quasi-dolorem",
+                "product_description": "Vero quasi tempore, ad non soluta quos laborum delectus quasi molestias exercitationem labore inventore, qui nesciunt accusamus ab at id ex ut temporibus, doloribus laborum molestiae repellendus iste voluptates sunt corrupti fugit, nostrum cum asperiores magnam beatae distinctio?",
+                "product_quantity": 29,
+                "product_price": 47.75
+            },
+            {
+                "product_name": "Product-ipsum-recusandae",
+                "product_description": "Itaque ex quis officia consectetur porro laudantium obcaecati recusandae et molestiae, incidunt fuga maiores cumque aut itaque quas facilis quis quo dignissimos ab, repellendus asperiores ad id expedita fugiat earum cumque optio, modi magnam vel incidunt mollitia dolorum impedit a eligendi provident?",
+                "product_quantity": 68,
+                "product_price": 60.67
+            },
+            {
+                "product_name": "Product-deleniti-et",
+                "product_description": "Unde quos itaque deserunt necessitatibus animi veritatis voluptatem quibusdam deleniti, in nemo velit error commodi, quidem ipsa inventore debitis voluptatum saepe nostrum dolore sunt corrupti.",
+                "product_quantity": 4,
+                "product_price": 28.28
+            }
+        ]
+    }
+}

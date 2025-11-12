@@ -1,0 +1,38 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-dKCAJS5L",
+        "supplier_contact": "supplierdKCAJS5L@example.com",
+        "products": [
+            {
+                "product_name": "Product-excepturi-magni",
+                "product_description": "Quod maxime nostrum consequatur ipsam necessitatibus tenetur et aut facere distinctio, dolores enim rerum fuga id impedit ab magnam molestiae, quas quae ipsa dolorem nemo impedit quo magnam, inventore eveniet explicabo adipisci, minus nisi excepturi repellendus eum ipsum pariatur nesciunt ipsam sapiente ducimus?",
+                "product_quantity": 50,
+                "product_price": 84.48
+            },
+            {
+                "product_name": "Product-officia-iste",
+                "product_description": "Architecto a exercitationem vel obcaecati sint optio, perferendis eos accusamus perspiciatis quis cumque quos harum optio adipisci assumenda, reiciendis porro labore velit adipisci magnam fugit amet vero in, dignissimos a possimus dolorem in repudiandae debitis explicabo fugit ratione quisquam animi, deserunt inventore illum ullam voluptatem.",
+                "product_quantity": 39,
+                "product_price": 44.08
+            },
+            {
+                "product_name": "Product-perferendis-nesciunt",
+                "product_description": "Voluptatum magnam modi dignissimos hic ducimus, ab aperiam soluta, inventore nostrum cum quo deleniti.",
+                "product_quantity": 80,
+                "product_price": 32.29
+            },
+            {
+                "product_name": "Product-provident-animi",
+                "product_description": "A vel fuga facere excepturi aut quod earum assumenda debitis praesentium libero, aspernatur quasi natus quidem minus, velit ipsum reprehenderit, repudiandae unde doloribus enim molestiae repellendus.",
+                "product_quantity": 67,
+                "product_price": 70.09
+            },
+            {
+                "product_name": "Product-beatae-perferendis",
+                "product_description": "Sed rem neque ex ullam ipsa dolores facilis commodi qui id asperiores, deleniti in debitis soluta doloremque eaque dolorem, porro eos ipsa voluptas ut alias pariatur.",
+                "product_quantity": 40,
+                "product_price": 80.56
+            }
+        ]
+    }
+}

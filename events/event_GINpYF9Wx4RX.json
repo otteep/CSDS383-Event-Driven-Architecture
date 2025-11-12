@@ -1,0 +1,25 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-5wQAWsE5",
+        "supplier_contact": "supplier5wQAWsE5@example.com",
+        "products": [
+            {
+                "product_name": "Product-qui-rerum",
+                "product_quantity": 56,
+                "product_price": 14.35
+            },
+            {
+                "product_name": "Product-possimus-sunt",
+                "product_description": "Quae atque eum modi, dolorum asperiores rem hic cum at tenetur quos, voluptatum tenetur repudiandae autem perferendis accusamus veniam nam veritatis quo animi, animi repellendus cumque voluptatem dicta eius?",
+                "product_quantity": 54,
+                "product_price": 46.03
+            },
+            {
+                "product_name": "Product-numquam-laborum",
+                "product_description": "Ut nisi et reprehenderit beatae a, consequuntur voluptatem dolores nihil tenetur, ratione accusantium fugit explicabo error incidunt excepturi culpa odio deleniti, dignissimos recusandae vitae id labore illum soluta tempora illo nihil ratione laudantium.",
+                "product_quantity": 43,
+                "product_price": 17.7
+            }
+        ]
+    }
+}

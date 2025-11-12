@@ -1,0 +1,18 @@
+{
+    "supplier": {
+        "supplier_contact": "supplier1vT2ANBo@example.com",
+        "products": [
+            {
+                "product_name": "Product-cum-consectetur",
+                "product_description": "Alias fugit rem consequuntur dignissimos nisi voluptatibus consequatur nostrum illo voluptates, repellat soluta quidem culpa id officiis adipisci ad dolorem reprehenderit quisquam ducimus, sapiente similique odio ullam enim ipsa maiores optio blanditiis totam?",
+                "product_quantity": 85,
+                "product_price": 56.77
+            },
+            {
+                "product_name": "Product-ipsa-cum",
+                "product_description": "Ipsam aliquam harum dolores expedita culpa voluptatem pariatur perspiciatis facere sed architecto, ducimus deserunt neque eum commodi animi esse, itaque suscipit quae dicta hic vero odio sit harum eum nobis blanditiis, quasi dolore culpa veniam molestiae repudiandae ea, cum error doloremque saepe?",
+                "product_price": 7.16
+            }
+        ]
+    }
+}

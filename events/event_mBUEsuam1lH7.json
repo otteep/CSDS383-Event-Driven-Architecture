@@ -1,0 +1,14 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-JZKpPjl3",
+        "supplier_contact": "supplierJZKpPjl3@example.com",
+        "products": [
+            {
+                "product_name": "Product-esse-ab",
+                "product_description": "Atque deserunt eius itaque vero, ipsam aperiam unde laborum.",
+                "product_quantity": 24,
+                "product_price": 37.74
+            }
+        ]
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-DkTcuq8l",
+        "supplier_contact": "supplierDkTcuq8l@example.com",
+        "products": [
+            {
+                "product_name": "Product-quas-dignissimos",
+                "product_description": "Fugiat quasi deserunt incidunt blanditiis perspiciatis porro esse nihil sapiente molestias ipsa, mollitia optio quis ab, sunt numquam sequi laboriosam aspernatur doloremque vitae iure temporibus.",
+                "product_quantity": 8,
+                "product_price": 4.75
+            },
+            {
+                "product_name": "Product-rem-animi",
+                "product_description": "Obcaecati molestias totam natus esse ea, rem placeat suscipit optio voluptate tenetur commodi dolorum repellendus quaerat quisquam, aliquid neque cumque omnis sed explicabo, error cum nostrum nihil aut maiores ratione dolorum.",
+                "product_quantity": 27,
+                "product_price": 41.03
+            },
+            {
+                "product_name": "Product-magnam-totam",
+                "product_description": "Porro ducimus sit sapiente quae quibusdam sequi ea vitae, ipsum voluptate dolor odit sequi explicabo, id tempora ex laborum doloribus dicta, aperiam dolore quibusdam maiores vitae aliquid ratione possimus in voluptas repudiandae, ullam nisi expedita consectetur id blanditiis dolores adipisci modi?",
+                "product_quantity": 13,
+                "product_price": 5.83
+            }
+        ]
+    }
+}

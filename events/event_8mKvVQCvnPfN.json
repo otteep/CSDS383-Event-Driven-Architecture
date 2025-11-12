@@ -1,0 +1,26 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-bx36Lmvw",
+        "supplier_contact": "supplierbx36Lmvw@example.com",
+        "products": [
+            {
+                "product_name": "Product-cum-error",
+                "product_description": "Mollitia recusandae molestiae veritatis ullam assumenda saepe quod, laborum voluptatibus sit saepe provident, temporibus quod doloribus magnam dignissimos.",
+                "product_quantity": 49,
+                "product_price": 98.77
+            },
+            {
+                "product_name": "Product-dignissimos-corrupti",
+                "product_description": "Recusandae magni veniam, esse itaque officia neque blanditiis exercitationem, hic sequi iusto eos obcaecati voluptates minima provident aliquid architecto assumenda repellat, tenetur assumenda consectetur officiis eius cumque consequuntur.",
+                "product_quantity": 77,
+                "product_price": 78.81
+            },
+            {
+                "product_name": "Product-quia-sequi",
+                "product_description": "Minus ea totam recusandae autem natus, alias veniam sapiente exercitationem, perferendis recusandae repellat dolor, eaque ullam iste reiciendis accusantium nobis consectetur voluptatibus, reiciendis velit officia magni odio architecto dolor sint?",
+                "product_quantity": 65,
+                "product_price": 60.13
+            }
+        ]
+    }
+}

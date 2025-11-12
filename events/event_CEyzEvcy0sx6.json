@@ -1,0 +1,37 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-Xe2d1k5g",
+        "products": [
+            {
+                "product_name": "Product-libero-ducimus",
+                "product_description": "Provident quae culpa ipsam doloribus iure voluptatem fugit, aliquid id voluptatibus, pariatur unde dolorem ad id rem aliquid saepe consectetur perspiciatis illo, aspernatur est nostrum voluptatem sint architecto eaque ratione, placeat saepe dignissimos corrupti quas sint expedita voluptatibus harum qui optio?",
+                "product_quantity": 97,
+                "product_price": 6.2
+            },
+            {
+                "product_name": "Product-commodi-quisquam",
+                "product_description": "Veniam earum explicabo nisi accusantium, quia fugit veniam, laborum fugit similique dolores sit placeat suscipit ex id modi.",
+                "product_quantity": 34,
+                "product_price": 46.92
+            },
+            {
+                "product_name": "Product-assumenda-accusantium",
+                "product_description": "Rerum fuga explicabo laborum nihil tempore quibusdam vero hic doloribus soluta sequi, hic atque tenetur?",
+                "product_quantity": 25,
+                "product_price": 78.9
+            },
+            {
+                "product_name": "Product-officia-perspiciatis",
+                "product_description": "Quod nesciunt quo quae, nostrum consequuntur eum tempore quia quidem labore dolores ullam error similique, consectetur sint illum quibusdam, quae molestiae odio modi quis aut quod dolore quo?",
+                "product_quantity": 35,
+                "product_price": 22.01
+            },
+            {
+                "product_name": "Product-numquam-tenetur",
+                "product_description": "Quisquam adipisci at aspernatur quia ad aliquam animi nemo voluptates a facilis, ullam ipsa saepe, eos architecto aliquid praesentium voluptates eaque quis inventore consequatur id, nemo ipsam amet eaque ab id nobis nesciunt.",
+                "product_quantity": 38,
+                "product_price": 16.51
+            }
+        ]
+    }
+}

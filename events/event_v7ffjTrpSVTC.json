@@ -1,0 +1,37 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-XIisHgMA",
+        "products": [
+            {
+                "product_name": "Product-accusamus-id",
+                "product_description": "Culpa iusto reiciendis fugiat perferendis voluptas beatae magnam iure obcaecati, obcaecati nisi nulla laudantium impedit velit natus eveniet autem iusto explicabo labore?",
+                "product_quantity": 51,
+                "product_price": 55.43
+            },
+            {
+                "product_name": "Product-sed-cupiditate",
+                "product_description": "Consequuntur reiciendis neque iusto obcaecati, odio commodi incidunt exercitationem pariatur provident illo mollitia vel, accusamus repudiandae quaerat dolor et sed magni magnam eaque voluptate, quam recusandae ipsam harum odit voluptatem beatae delectus?",
+                "product_quantity": 1,
+                "product_price": 62.98
+            },
+            {
+                "product_name": "Product-vel-consequatur",
+                "product_description": "Voluptas perspiciatis reiciendis quae iusto sapiente, dolores unde harum, id hic necessitatibus culpa voluptates voluptate voluptatum doloribus quisquam expedita nemo, ea nostrum explicabo non minus sunt?",
+                "product_quantity": 28,
+                "product_price": 88.46
+            },
+            {
+                "product_name": "Product-aperiam-nesciunt",
+                "product_description": "Sit impedit voluptate doloribus quo quia aspernatur praesentium, ducimus doloremque obcaecati voluptate sunt consectetur dolor fugiat non minus officiis.",
+                "product_quantity": 63,
+                "product_price": 26.84
+            },
+            {
+                "product_name": "Product-laborum-tenetur",
+                "product_description": "Cupiditate dolor dolorum quasi vero perspiciatis minima quaerat neque, quis pariatur vel temporibus illum velit ea veniam illo animi, cumque cum dolores eos veniam quam corporis vero sapiente iure quis, excepturi facilis illum cum sunt iure rerum quas?",
+                "product_quantity": 89,
+                "product_price": 88.07
+            }
+        ]
+    }
+}

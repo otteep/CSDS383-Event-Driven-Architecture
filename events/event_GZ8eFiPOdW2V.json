@@ -1,0 +1,13 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-oRfCGJPr",
+        "supplier_contact": "supplieroRfCGJPr@example.com",
+        "products": [
+            {
+                "product_description": "Quos quisquam libero quasi, commodi at adipisci voluptatem voluptate iusto cum optio ducimus.",
+                "product_quantity": 28,
+                "product_price": 57.93
+            }
+        ]
+    }
+}

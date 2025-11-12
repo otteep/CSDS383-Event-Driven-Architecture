@@ -1,0 +1,13 @@
+{
+    "supplier": {
+        "supplier_contact": "supplier0lqiEXJE@example.com",
+        "products": [
+            {
+                "product_name": "Product-culpa-quia",
+                "product_description": "Perspiciatis libero sed quasi molestiae nihil quod, tempore ipsum deleniti nam optio error, saepe sapiente veritatis laborum quod perspiciatis ullam architecto illo dolorum, dolorem recusandae veniam repellat doloremque omnis asperiores nihil quae, recusandae natus repellat itaque magnam dicta commodi qui id vel?",
+                "product_quantity": 53,
+                "product_price": 51.86
+            }
+        ]
+    }
+}

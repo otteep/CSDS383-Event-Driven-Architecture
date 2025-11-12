@@ -1,0 +1,20 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-vr9Tt6ZS",
+        "supplier_contact": "suppliervr9Tt6ZS@example.com",
+        "products": [
+            {
+                "product_name": "Product-ducimus-deleniti",
+                "product_description": "Tempore voluptas maiores soluta fuga, in vero facere quidem id sunt illo velit incidunt illum alias?",
+                "product_quantity": 79,
+                "product_price": 97.09
+            },
+            {
+                "product_name": "Product-assumenda-ex",
+                "product_description": "Praesentium assumenda delectus reprehenderit obcaecati quisquam, ea iste tenetur asperiores quaerat dolorem illo, quidem aperiam repellat autem ducimus expedita itaque in id officia, quisquam explicabo odit repellat reprehenderit, nihil saepe beatae?",
+                "product_quantity": 52,
+                "product_price": 64.53
+            }
+        ]
+    }
+}

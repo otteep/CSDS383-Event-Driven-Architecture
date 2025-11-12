@@ -1,0 +1,26 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-WBNcTnfY",
+        "supplier_contact": "supplierWBNcTnfY@example.com",
+        "products": [
+            {
+                "product_name": "Product-ducimus-pariatur",
+                "product_description": "Mollitia culpa quia distinctio facilis quas in doloremque minus est eveniet, modi et officiis facilis quibusdam reiciendis praesentium incidunt aspernatur qui ea, ullam reiciendis voluptatum voluptas impedit?",
+                "product_quantity": 76,
+                "product_price": 66.57
+            },
+            {
+                "product_name": "Product-repellat-perferendis",
+                "product_description": "Natus excepturi ullam aperiam consequuntur voluptatum assumenda consequatur, modi in repudiandae consequuntur, dicta nemo fugit corporis veritatis perspiciatis facilis?",
+                "product_quantity": 52,
+                "product_price": 66.89
+            },
+            {
+                "product_name": "Product-asperiores-autem",
+                "product_description": "Architecto animi sunt, nostrum voluptatem cumque eveniet delectus odio illo, voluptate praesentium quod ratione provident unde?",
+                "product_quantity": 59,
+                "product_price": 14.22
+            }
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-AS4M3CuD",
+        "supplier_contact": "supplierAS4M3CuD@example.com",
+        "products": [
+            {
+                "product_name": "Product-obcaecati-deleniti",
+                "product_description": "Quam reiciendis fugiat cupiditate dignissimos consectetur, ipsum placeat harum consequuntur repudiandae magni saepe, voluptate animi amet sapiente hic vel assumenda corporis nam, veniam minima harum velit.",
+                "product_quantity": 62,
+                "product_price": 53.33
+            }
+        ]
+    }
+}

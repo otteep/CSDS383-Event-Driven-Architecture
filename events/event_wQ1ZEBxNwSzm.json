@@ -1,0 +1,26 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-CvnAyRBg",
+        "supplier_contact": "supplierCvnAyRBg@example.com",
+        "products": [
+            {
+                "product_name": "Product-nobis-sint",
+                "product_description": "Deserunt autem omnis blanditiis facilis est incidunt molestias a rerum modi, hic reiciendis mollitia nesciunt repellendus aspernatur consequatur natus quia, commodi impedit iste dicta a neque fugit, asperiores possimus reprehenderit?",
+                "product_quantity": 77,
+                "product_price": 8.79
+            },
+            {
+                "product_name": "Product-aperiam-et",
+                "product_description": "Quos ut quisquam ducimus aliquid error asperiores dicta, quidem temporibus incidunt suscipit, labore nam aliquid officia, temporibus cumque omnis fugit consequuntur explicabo adipisci ipsa illum minus, fuga vero voluptas quam illum nihil voluptatibus.",
+                "product_quantity": 39,
+                "product_price": 1.9
+            },
+            {
+                "product_name": "Product-voluptate-laborum",
+                "product_description": "Id eos nostrum vitae, aperiam voluptate delectus ratione assumenda aspernatur, voluptatibus distinctio molestias velit magnam, aliquid quaerat corporis ex nesciunt architecto recusandae deleniti numquam labore?",
+                "product_quantity": 71,
+                "product_price": 30.48
+            }
+        ]
+    }
+}

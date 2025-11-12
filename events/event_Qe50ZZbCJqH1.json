@@ -1,0 +1,26 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-1uNRsmM8",
+        "supplier_contact": "supplier1uNRsmM8@example.com",
+        "products": [
+            {
+                "product_name": "Product-molestiae-sint",
+                "product_description": "Pariatur eius nemo quibusdam, vel exercitationem officiis repudiandae nisi quidem repellat corrupti unde, quibusdam nam mollitia magnam incidunt, sequi nobis corporis voluptatibus quasi doloremque praesentium illum minima odio?",
+                "product_quantity": 24,
+                "product_price": 91.29
+            },
+            {
+                "product_name": "Product-voluptatibus-totam",
+                "product_description": "Voluptatem nisi repellat quas provident perferendis delectus, natus magnam autem repellat modi, quam accusamus distinctio iure nulla nihil obcaecati eaque, molestiae maxime unde quibusdam aspernatur corrupti culpa.",
+                "product_quantity": 77,
+                "product_price": 87.69
+            },
+            {
+                "product_name": "Product-dignissimos-cupiditate",
+                "product_description": "Quam reprehenderit reiciendis quidem vero optio excepturi quas cumque nulla facilis, totam impedit iusto eveniet?",
+                "product_quantity": 13,
+                "product_price": 76.97
+            }
+        ]
+    }
+}

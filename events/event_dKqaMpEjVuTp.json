@@ -1,0 +1,32 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-d0J3axZ6",
+        "supplier_contact": "supplierd0J3axZ6@example.com",
+        "products": [
+            {
+                "product_name": "Product-voluptates-reiciendis",
+                "product_description": "Possimus labore vel non error cum accusamus magni culpa repellendus, repudiandae natus itaque id dolore, laboriosam rerum nulla earum deserunt dicta hic dolorum recusandae assumenda id, dolorem quae quos error atque.",
+                "product_quantity": 84,
+                "product_price": 17.79
+            },
+            {
+                "product_name": "Product-quasi-incidunt",
+                "product_description": "Suscipit consequatur repudiandae minima quisquam velit voluptatem blanditiis eos inventore magnam, praesentium nam illo nisi autem dolorem odit voluptate hic iste, provident minima vel?",
+                "product_quantity": 50,
+                "product_price": 6.43
+            },
+            {
+                "product_name": "Product-corrupti-eaque",
+                "product_description": "Maxime odio incidunt blanditiis sunt dolorem, cupiditate quos iure ducimus sit labore, sed officiis consequatur obcaecati vitae voluptates sit perspiciatis harum ipsam, impedit libero eveniet laboriosam mollitia adipisci reiciendis vel deleniti laborum obcaecati odio, amet ad quam?",
+                "product_quantity": 62,
+                "product_price": 75.79
+            },
+            {
+                "product_name": "Product-dolorem-reprehenderit",
+                "product_description": "Perspiciatis labore accusantium hic, velit dolor debitis ex ducimus consequuntur explicabo quisquam magnam, voluptas temporibus delectus nisi corporis?",
+                "product_quantity": 21,
+                "product_price": 66.98
+            }
+        ]
+    }
+}

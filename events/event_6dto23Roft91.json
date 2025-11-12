@@ -1,0 +1,32 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-rUiWi1uP",
+        "supplier_contact": "supplierrUiWi1uP@example.com",
+        "products": [
+            {
+                "product_name": "Product-ducimus-iure",
+                "product_description": "Praesentium neque voluptatum consectetur laboriosam blanditiis ducimus, pariatur et minima velit assumenda accusamus temporibus.",
+                "product_quantity": 34,
+                "product_price": 72.52
+            },
+            {
+                "product_name": "Product-recusandae-veritatis",
+                "product_description": "Corporis quos ullam consequatur nobis laudantium excepturi, amet fugiat eos excepturi unde consectetur officia labore, commodi dolore aut voluptatum vitae debitis?",
+                "product_quantity": 13,
+                "product_price": 82.61
+            },
+            {
+                "product_name": "Product-libero-officia",
+                "product_description": "Hic accusantium id corrupti distinctio, maxime tempore unde, assumenda eveniet sunt consectetur incidunt tempora?",
+                "product_quantity": 45,
+                "product_price": 80.8
+            },
+            {
+                "product_name": "Product-perspiciatis-quisquam",
+                "product_description": "Consequatur voluptatibus odit nesciunt quibusdam maxime, rem hic quas.",
+                "product_quantity": 23,
+                "product_price": 44.92
+            }
+        ]
+    }
+}

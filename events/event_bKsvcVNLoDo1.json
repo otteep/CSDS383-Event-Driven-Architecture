@@ -1,0 +1,26 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-AEeJAyC1",
+        "supplier_contact": "supplierAEeJAyC1@example.com",
+        "products": [
+            {
+                "product_name": "Product-odit-eius",
+                "product_description": "Porro necessitatibus perferendis ipsa quibusdam, similique consequuntur aut animi mollitia, consectetur eum sit vitae nesciunt odit dolor dolore nostrum fugiat in necessitatibus?",
+                "product_quantity": 10,
+                "product_price": 84.95
+            },
+            {
+                "product_name": "Product-ducimus-nam",
+                "product_description": "Tenetur accusamus odio, quia et impedit fugiat eligendi in cupiditate, velit fugiat omnis vitae cum ex molestias consequatur soluta?",
+                "product_quantity": 69,
+                "product_price": 91.05
+            },
+            {
+                "product_name": "Product-ex-soluta",
+                "product_description": "Tempore sint nesciunt ad tempora, eaque quia magnam rem consectetur sint molestias, accusamus ut aperiam ducimus, laudantium rem harum voluptates atque suscipit omnis?",
+                "product_quantity": 39,
+                "product_price": 68.81
+            }
+        ]
+    }
+}

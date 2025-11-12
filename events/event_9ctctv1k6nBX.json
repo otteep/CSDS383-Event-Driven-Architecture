@@ -1,0 +1,32 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-7UkIcONQ",
+        "supplier_contact": "supplier7UkIcONQ@example.com",
+        "products": [
+            {
+                "product_name": "Product-voluptatibus-vitae",
+                "product_description": "Temporibus molestias laborum sequi nemo eaque sed nobis harum dolore deserunt aut, molestias voluptatibus inventore?",
+                "product_quantity": 29,
+                "product_price": 56.69
+            },
+            {
+                "product_name": "Product-soluta-alias",
+                "product_description": "Inventore reprehenderit voluptas unde aliquid nobis id, veritatis totam molestias libero quaerat ipsam voluptatibus incidunt autem et eaque?",
+                "product_quantity": 15,
+                "product_price": 11.24
+            },
+            {
+                "product_name": "Product-eos-iste",
+                "product_description": "Veniam quod a soluta amet nam natus exercitationem totam ipsum autem voluptates, id similique aliquam delectus soluta.",
+                "product_quantity": 41,
+                "product_price": 90.43
+            },
+            {
+                "product_name": "Product-ut-dolorem",
+                "product_description": "Natus ipsam quam, vero explicabo error atque vel numquam ut repellendus dolorem, laborum exercitationem qui soluta enim obcaecati inventore neque unde provident, molestias ea molestiae ut nihil quod eum maxime.",
+                "product_quantity": 41,
+                "product_price": 36.85
+            }
+        ]
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-C91cs78z",
+        "supplier_contact": "supplierC91cs78z@example.com",
+        "products": [
+            {
+                "product_name": "Product-assumenda-iusto",
+                "product_description": "Quisquam tempora quasi officiis corporis laborum reiciendis fugiat perferendis velit, provident ab repellendus maiores dolorum amet sapiente minus voluptates earum adipisci, est repellat voluptatem repudiandae hic a corrupti vero repellendus blanditiis, quisquam nihil reiciendis soluta maiores aut sequi dignissimos, debitis obcaecati ipsum eos sint.",
+                "product_quantity": 10,
+                "product_price": 63.75
+            },
+            {
+                "product_name": "Product-magni-error",
+                "product_description": "Nihil reprehenderit non libero, et exercitationem ad laudantium, quo nam in neque illo explicabo maxime doloribus perspiciatis fuga velit quaerat?",
+                "product_quantity": 22,
+                "product_price": 31.24
+            },
+            {
+                "product_name": "Product-pariatur-ab",
+                "product_description": "Ipsa maiores molestias, eos harum quis minima dolorum cupiditate, consequatur porro tempora nisi asperiores omnis molestiae, minus perferendis qui quae dolorum, doloremque reiciendis minima natus amet alias odit laboriosam?",
+                "product_quantity": 88,
+                "product_price": 91.57
+            }
+        ]
+    }
+}

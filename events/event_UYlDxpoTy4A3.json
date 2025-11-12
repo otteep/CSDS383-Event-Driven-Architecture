@@ -1,0 +1,26 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-ksWiQbrf",
+        "supplier_contact": "supplierksWiQbrf@example.com",
+        "products": [
+            {
+                "product_name": "Product-ipsam-nihil",
+                "product_description": "Saepe eum quibusdam non consectetur tempore, ut voluptatibus doloremque eaque ab repellendus consequuntur fuga omnis.",
+                "product_quantity": 55,
+                "product_price": 89.43
+            },
+            {
+                "product_name": "Product-corporis-perferendis",
+                "product_description": "Aperiam quae possimus veritatis commodi iusto quia illum maiores voluptatibus, commodi dicta cupiditate earum sit adipisci, cupiditate exercitationem temporibus reiciendis, voluptas ratione natus exercitationem totam odio quasi neque possimus commodi doloribus voluptates, cum impedit suscipit cumque a illum?",
+                "product_quantity": 81,
+                "product_price": 63.79
+            },
+            {
+                "product_name": "Product-facere-doloribus",
+                "product_description": "Blanditiis atque eveniet unde nisi incidunt sequi quasi laudantium quisquam nihil, est debitis totam ipsam fugit unde, sapiente iure quasi excepturi officia labore dignissimos nobis doloremque, numquam sunt porro labore dolore hic tempora facere quae facilis laborum, facere dolore enim doloremque doloribus quam recusandae.",
+                "product_quantity": 1,
+                "product_price": 93.65
+            }
+        ]
+    }
+}

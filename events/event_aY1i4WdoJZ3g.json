@@ -1,0 +1,14 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-a8ZE9MGZ",
+        "supplier_contact": "suppliera8ZE9MGZ@example.com",
+        "products": [
+            {
+                "product_name": "Product-reiciendis-dolores",
+                "product_description": "Minima impedit architecto iusto possimus cupiditate, eos dolores veritatis quas voluptates dolorem voluptatibus atque illo impedit accusantium, provident atque dicta itaque magni in quis laudantium esse molestias?",
+                "product_quantity": 58,
+                "product_price": 86.19
+            }
+        ]
+    }
+}

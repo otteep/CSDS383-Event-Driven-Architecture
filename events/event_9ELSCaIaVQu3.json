@@ -1,0 +1,32 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-8B53ljNr",
+        "supplier_contact": "supplier8B53ljNr@example.com",
+        "products": [
+            {
+                "product_name": "Product-omnis-deleniti",
+                "product_description": "Nemo necessitatibus possimus reprehenderit quae dolorem praesentium dicta nisi veritatis facere quasi, dignissimos perferendis minus eligendi quis ex illum quisquam, dolor itaque cupiditate.",
+                "product_quantity": 71,
+                "product_price": 28.36
+            },
+            {
+                "product_name": "Product-nisi-voluptatum",
+                "product_description": "Cum repellat officia eligendi quo hic, adipisci quam eos quae doloremque consequatur nesciunt maxime pariatur facere asperiores, voluptate aliquid quibusdam quos sint, modi tempora ratione accusamus consequuntur numquam corrupti libero iure possimus ullam inventore, debitis architecto voluptatem eum dolor maxime doloremque mollitia quod hic ducimus accusantium?",
+                "product_quantity": 66,
+                "product_price": 10.53
+            },
+            {
+                "product_name": "Product-laudantium-et",
+                "product_description": "Excepturi aliquid voluptatibus fugiat sequi, quae officia natus necessitatibus quidem voluptas impedit aliquid ipsa fugiat et molestias, qui cum temporibus error consequuntur?",
+                "product_quantity": 66,
+                "product_price": 50.37
+            },
+            {
+                "product_name": "Product-perferendis-officiis",
+                "product_description": "Corrupti tempore laudantium, adipisci nihil magnam itaque explicabo harum excepturi totam quo, reiciendis ut molestias natus laboriosam dolor, asperiores voluptates aspernatur magni ad quae quidem expedita iure consequuntur.",
+                "product_quantity": 22,
+                "product_price": 43.22
+            }
+        ]
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-HinhfOjs",
+        "supplier_contact": "supplierHinhfOjs@example.com",
+        "products": [
+            {
+                "product_name": "Product-commodi-reprehenderit",
+                "product_description": "Porro voluptatibus ipsum mollitia, necessitatibus molestiae ipsum, dolorem aperiam quia vel est sed quibusdam voluptatibus porro rem aliquid, delectus reprehenderit eligendi suscipit?",
+                "product_quantity": 95,
+                "product_price": 98.66
+            },
+            {
+                "product_name": "Product-corrupti-labore",
+                "product_description": "Sequi expedita impedit est eaque quidem obcaecati corrupti esse autem, ipsa itaque quas possimus, eveniet nam totam beatae eligendi?",
+                "product_quantity": 29,
+                "product_price": 26.2
+            },
+            {
+                "product_name": "Product-dolor-quasi",
+                "product_description": "Maiores eum minus aliquid, tempore asperiores possimus laborum ea eius.",
+                "product_quantity": 44,
+                "product_price": 86.55
+            },
+            {
+                "product_name": "Product-in-doloribus",
+                "product_description": "Itaque obcaecati numquam beatae facere voluptatem rem vitae alias, natus recusandae doloremque esse rerum alias quaerat culpa odit quam magni fugit, sed a sit dicta, doloribus quibusdam ab voluptate recusandae explicabo iure dignissimos facere quod, repudiandae et corporis odio.",
+                "product_quantity": 45,
+                "product_price": 65.76
+            }
+        ]
+    }
+}

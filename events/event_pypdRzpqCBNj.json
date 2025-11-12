@@ -1,0 +1,38 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-yNltkumo",
+        "supplier_contact": "supplieryNltkumo@example.com",
+        "products": [
+            {
+                "product_name": "Product-deleniti-aliquam",
+                "product_description": "Non asperiores odio nostrum perferendis doloribus repellat ad dolor consectetur quis ex, reiciendis asperiores consequatur soluta debitis, debitis ab quibusdam porro laboriosam ea quasi quis nobis exercitationem repellendus?",
+                "product_quantity": 69,
+                "product_price": 90.35
+            },
+            {
+                "product_name": "Product-facere-a",
+                "product_description": "Pariatur vero quisquam perspiciatis assumenda nulla optio officia repellat cumque nihil, quod est repellat, accusamus architecto consequuntur eveniet quibusdam beatae cumque iure soluta repellendus cupiditate, sapiente laborum exercitationem nobis eos nihil eveniet est?",
+                "product_quantity": 75,
+                "product_price": 30.23
+            },
+            {
+                "product_name": "Product-vel-nemo",
+                "product_description": "Odio vel officiis repudiandae dolorum illum, accusantium numquam deleniti unde quam animi, est vero excepturi qui reiciendis cum culpa voluptate veritatis laborum iste eveniet, quidem laborum minus sit unde totam tempora eius alias dignissimos asperiores molestias, deleniti iure quaerat provident quasi quod est doloremque magnam aut?",
+                "product_quantity": 38,
+                "product_price": 6.03
+            },
+            {
+                "product_name": "Product-nihil-nisi",
+                "product_description": "In iure officiis inventore nobis veritatis repellat illo cumque porro, dicta sequi ea.",
+                "product_quantity": 25,
+                "product_price": 3.01
+            },
+            {
+                "product_name": "Product-ut-odio",
+                "product_description": "Nihil molestiae officia officiis tenetur voluptatibus, amet fugit molestiae?",
+                "product_quantity": 74,
+                "product_price": 8.87
+            }
+        ]
+    }
+}

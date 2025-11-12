@@ -1,0 +1,32 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-djgaQb8G",
+        "supplier_contact": "supplierdjgaQb8G@example.com",
+        "products": [
+            {
+                "product_name": "Product-optio-rerum",
+                "product_description": "Placeat sequi autem non ipsum, porro aperiam ad, culpa perferendis doloribus saepe dignissimos repellat totam accusantium debitis mollitia.",
+                "product_quantity": 4,
+                "product_price": 75.91
+            },
+            {
+                "product_name": "Product-error-dignissimos",
+                "product_description": "Eos adipisci architecto in quod nulla veritatis dignissimos porro obcaecati nostrum, non veniam asperiores.",
+                "product_quantity": 46,
+                "product_price": 7.67
+            },
+            {
+                "product_name": "Product-consequatur-ipsa",
+                "product_description": "Reprehenderit adipisci pariatur amet iusto, nemo velit esse, ex molestiae quibusdam suscipit eius excepturi nobis mollitia autem?",
+                "product_quantity": 80,
+                "product_price": 43.62
+            },
+            {
+                "product_name": "Product-autem-numquam",
+                "product_description": "Architecto dolores culpa cumque rerum, suscipit vitae nihil quis adipisci placeat ipsam corrupti nostrum, ipsam officia hic consequatur voluptate, voluptatem perspiciatis aut, eveniet doloremque expedita nihil vero consectetur voluptatum odit minima?",
+                "product_quantity": 60,
+                "product_price": 40.15
+            }
+        ]
+    }
+}

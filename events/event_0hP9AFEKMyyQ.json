@@ -1,0 +1,26 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-IggYqEMG",
+        "supplier_contact": "supplierIggYqEMG@example.com",
+        "products": [
+            {
+                "product_name": "Product-ipsam-veniam",
+                "product_description": "Facere reprehenderit assumenda dolorum, cum modi quaerat explicabo laboriosam cumque voluptatem nostrum minima, dolore corporis expedita fugit doloremque, repellendus odit ipsam voluptatem eos recusandae?",
+                "product_quantity": 57,
+                "product_price": 38.74
+            },
+            {
+                "product_name": "Product-quas-fugiat",
+                "product_description": "Adipisci perspiciatis fugiat architecto voluptas sint illum commodi natus tenetur, blanditiis eaque sapiente distinctio ad tempore, tempore ab soluta cum assumenda voluptatibus ut dolorum deleniti, veniam suscipit quaerat odit sed, ex et quam vero possimus quasi quo praesentium animi vitae aut?",
+                "product_quantity": 17,
+                "product_price": 43.41
+            },
+            {
+                "product_name": "Product-consequuntur-exercitationem",
+                "product_description": "Beatae iste enim aperiam obcaecati porro ad, suscipit sapiente aut molestias eligendi vero adipisci, eos mollitia enim quaerat ea est adipisci deleniti accusamus rerum ullam tenetur.",
+                "product_quantity": 54,
+                "product_price": 1.44
+            }
+        ]
+    }
+}

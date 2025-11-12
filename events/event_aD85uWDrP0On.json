@@ -1,0 +1,14 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-m0l8lOTh",
+        "supplier_contact": "supplierm0l8lOTh@example.com",
+        "products": [
+            {
+                "product_name": "Product-id-facilis",
+                "product_description": "Laboriosam corrupti beatae ex eveniet dolorum, fugiat iusto dolore esse, quisquam rerum tenetur non maiores et repellat voluptates delectus debitis, iste doloremque illum cum hic ipsam?",
+                "product_quantity": 37,
+                "product_price": 81.87
+            }
+        ]
+    }
+}

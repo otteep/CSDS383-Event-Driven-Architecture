@@ -1,0 +1,38 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-xSYS8wA1",
+        "supplier_contact": "supplierxSYS8wA1@example.com",
+        "products": [
+            {
+                "product_name": "Product-earum-illum",
+                "product_description": "Omnis vero quidem laudantium, repellendus nulla iusto nisi incidunt distinctio, quisquam deserunt corporis animi sed enim, odit laboriosam sed vitae numquam, nobis a iure laborum blanditiis corporis sit maxime velit accusantium.",
+                "product_quantity": 89,
+                "product_price": 95.65
+            },
+            {
+                "product_name": "Product-laborum-deserunt",
+                "product_description": "Hic neque doloremque consequuntur nam laborum temporibus aperiam nesciunt suscipit, deserunt qui doloremque incidunt voluptas laudantium iste nemo illo quos.",
+                "product_quantity": 24,
+                "product_price": 20.56
+            },
+            {
+                "product_name": "Product-ea-cum",
+                "product_description": "In tempore omnis eveniet molestiae tenetur, ipsum molestias pariatur perspiciatis fugiat explicabo quas provident, similique sunt quos ipsam a commodi provident eum, labore qui recusandae rem cumque dicta corrupti quam cum ullam.",
+                "product_quantity": 87,
+                "product_price": 29.86
+            },
+            {
+                "product_name": "Product-dolorem-maxime",
+                "product_description": "Dolorem voluptatem tempore eum magni dicta eveniet at, nobis eos ut, eveniet iusto eos, tempore perferendis alias ipsam placeat perspiciatis voluptatum voluptate nulla sint, eligendi repellat autem eos ipsa maxime facilis voluptatum nobis.",
+                "product_quantity": 93,
+                "product_price": 90.22
+            },
+            {
+                "product_name": "Product-molestiae-nulla",
+                "product_description": "Impedit mollitia optio possimus velit ullam neque dolores illum, reprehenderit nobis quas enim nulla exercitationem ut repellat quia et sint harum, magnam doloribus nobis optio veniam quam magni consequatur sint error.",
+                "product_quantity": 11,
+                "product_price": 16.39
+            }
+        ]
+    }
+}

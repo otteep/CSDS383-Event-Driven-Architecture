@@ -1,0 +1,32 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-ZC2CZbew",
+        "supplier_contact": "supplierZC2CZbew@example.com",
+        "products": [
+            {
+                "product_name": "Product-dolorum-corrupti",
+                "product_description": "Assumenda excepturi consequatur placeat nesciunt, tenetur laboriosam animi et nam obcaecati iste saepe perspiciatis dolore voluptates?",
+                "product_quantity": 23,
+                "product_price": 54.0
+            },
+            {
+                "product_name": "Product-sunt-ipsa",
+                "product_description": "Laudantium ab non neque enim itaque sit iure quos soluta nam esse, suscipit eaque sapiente voluptates, nostrum vero quis corporis quo, modi sunt cum similique quos minima.",
+                "product_quantity": 67,
+                "product_price": 22.25
+            },
+            {
+                "product_name": "Product-numquam-eligendi",
+                "product_description": "Deserunt error perferendis quasi animi magnam quisquam et magni pariatur, aspernatur minus obcaecati distinctio ea unde consequatur dignissimos, modi voluptate accusamus architecto?",
+                "product_quantity": 74,
+                "product_price": 96.33
+            },
+            {
+                "product_name": "Product-fugiat-vero",
+                "product_description": "Quia architecto nihil quae sapiente, nulla tenetur debitis reiciendis blanditiis, illo sit temporibus odio natus ducimus.",
+                "product_quantity": 87,
+                "product_price": 10.18
+            }
+        ]
+    }
+}

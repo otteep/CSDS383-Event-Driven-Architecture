@@ -1,0 +1,32 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-e7qvKIS2",
+        "supplier_contact": "suppliere7qvKIS2@example.com",
+        "products": [
+            {
+                "product_name": "Product-optio-architecto",
+                "product_description": "Dignissimos numquam blanditiis eum voluptas fuga soluta est explicabo maxime a, labore accusamus harum quos rerum vero tempora unde deserunt tenetur, molestias reprehenderit iusto libero eum earum eveniet similique officiis nobis ipsum, iste autem illo amet.",
+                "product_quantity": 57,
+                "product_price": 78.8
+            },
+            {
+                "product_name": "Product-omnis-odio",
+                "product_description": "Praesentium culpa quisquam ut omnis aut consequuntur assumenda reprehenderit eaque, sit natus odit nisi laborum quis tempore earum quidem necessitatibus expedita repellat, magnam quam deleniti, nulla dolor blanditiis, tenetur magnam et nulla ipsa assumenda voluptatibus perspiciatis.",
+                "product_quantity": 54,
+                "product_price": 80.26
+            },
+            {
+                "product_name": "Product-sit-modi",
+                "product_description": "Excepturi nesciunt aliquam assumenda architecto ducimus accusantium dolor debitis eum voluptate deserunt, ipsa velit beatae error illo culpa nihil, quod beatae ut delectus pariatur.",
+                "product_quantity": 39,
+                "product_price": 25.82
+            },
+            {
+                "product_name": "Product-vel-deleniti",
+                "product_description": "Rem hic numquam facilis voluptatum corporis a nostrum laboriosam ullam cumque neque, delectus iusto ut laudantium nesciunt placeat quo ex.",
+                "product_quantity": 68,
+                "product_price": 39.73
+            }
+        ]
+    }
+}

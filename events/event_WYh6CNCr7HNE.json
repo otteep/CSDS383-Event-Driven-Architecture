@@ -1,0 +1,38 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-SYFNdrf8",
+        "supplier_contact": "supplierSYFNdrf8@example.com",
+        "products": [
+            {
+                "product_name": "Product-iste-voluptas",
+                "product_description": "Quisquam eos eaque vero pariatur nihil laboriosam voluptatem labore nostrum molestiae, odit perferendis officia, ipsa recusandae quibusdam magni nulla ab ad placeat, exercitationem quasi corporis animi praesentium?",
+                "product_quantity": 6,
+                "product_price": 83.14
+            },
+            {
+                "product_name": "Product-placeat-molestias",
+                "product_description": "Et dolores explicabo blanditiis saepe ad magnam suscipit deleniti nisi, quas labore possimus sapiente est sit atque?",
+                "product_quantity": 24,
+                "product_price": 20.81
+            },
+            {
+                "product_name": "Product-inventore-sed",
+                "product_description": "Sint sunt fugit eligendi consequatur cupiditate possimus illo, quod in ducimus rem fugit, ex vitae omnis deserunt officiis veniam eum voluptas, veritatis itaque blanditiis voluptates cupiditate quisquam laborum magni.",
+                "product_quantity": 40,
+                "product_price": 6.44
+            },
+            {
+                "product_name": "Product-mollitia-voluptatum",
+                "product_description": "Fuga nam vero beatae neque veritatis, quasi ipsum architecto optio, obcaecati culpa odit rerum perferendis repudiandae quibusdam, nesciunt sed facere, odit inventore eaque.",
+                "product_quantity": 94,
+                "product_price": 29.58
+            },
+            {
+                "product_name": "Product-quo-dolore",
+                "product_description": "Velit architecto aliquid provident nostrum, voluptas quod ea illum, qui impedit reprehenderit est eum doloribus labore perferendis omnis rem atque, molestias quam ut laboriosam quaerat maxime temporibus aut corrupti voluptate aspernatur itaque.",
+                "product_quantity": 86,
+                "product_price": 72.72
+            }
+        ]
+    }
+}

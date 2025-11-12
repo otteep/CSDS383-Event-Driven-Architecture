@@ -1,0 +1,14 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-wi4pkkSf",
+        "supplier_contact": "supplierwi4pkkSf@example.com",
+        "products": [
+            {
+                "product_name": "Product-aliquid-neque",
+                "product_description": "Dolor odit exercitationem voluptatum nihil est numquam maxime tempora veritatis tempore, suscipit fugiat doloremque nisi sapiente corporis sit dolor vel quia, ea provident saepe dignissimos quia temporibus, ipsum esse natus ipsa architecto cum vitae deserunt beatae id necessitatibus, expedita neque amet dolore dolores earum praesentium modi facere dolorem?",
+                "product_quantity": 71,
+                "product_price": 1.9
+            }
+        ]
+    }
+}

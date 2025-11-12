@@ -1,0 +1,32 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-VH3OTlS9",
+        "supplier_contact": "supplierVH3OTlS9@example.com",
+        "products": [
+            {
+                "product_name": "Product-ullam-molestiae",
+                "product_description": "Voluptatem reprehenderit repellat placeat assumenda, ipsa architecto exercitationem laudantium nam quas repellendus consequatur pariatur fugit?",
+                "product_quantity": 48,
+                "product_price": 85.89
+            },
+            {
+                "product_name": "Product-modi-aut",
+                "product_description": "Velit minus voluptate dolore temporibus nostrum saepe optio in vel magnam amet, eos consequuntur quod officiis eaque dicta quasi blanditiis reiciendis maiores, voluptate eligendi distinctio ut est aspernatur alias quaerat natus consectetur et atque?",
+                "product_quantity": 2,
+                "product_price": 56.27
+            },
+            {
+                "product_name": "Product-tempora-dolorem",
+                "product_description": "Veniam unde sed placeat odio inventore neque alias facilis qui, veniam necessitatibus incidunt odit, deserunt voluptatum quae, ad repellendus inventore commodi amet officiis eligendi perferendis libero?",
+                "product_quantity": 56,
+                "product_price": 67.63
+            },
+            {
+                "product_name": "Product-consequatur-eaque",
+                "product_description": "Eos recusandae voluptatibus, vero explicabo alias id quibusdam praesentium totam iusto et, doloribus dicta laborum illum, velit dolor culpa quibusdam?",
+                "product_quantity": 69,
+                "product_price": 73.79
+            }
+        ]
+    }
+}

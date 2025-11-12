@@ -1,0 +1,26 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-VYLFR0ZC",
+        "supplier_contact": "supplierVYLFR0ZC@example.com",
+        "products": [
+            {
+                "product_name": "Product-ad-aliquam",
+                "product_description": "Corporis totam veniam assumenda perspiciatis eaque iste error eos ducimus consequatur dolor, qui odio repudiandae cupiditate ex, accusamus rerum laudantium incidunt aut non cum sint ipsum unde eaque?",
+                "product_quantity": 54,
+                "product_price": 88.85
+            },
+            {
+                "product_name": "Product-quis-corporis",
+                "product_description": "Ex est commodi, maxime tempore molestiae iusto asperiores quia totam, minus porro aperiam quia natus error enim dolorum ea esse explicabo deleniti.",
+                "product_quantity": 45,
+                "product_price": 93.2
+            },
+            {
+                "product_name": "Product-modi-cumque",
+                "product_description": "Amet dolor veritatis sequi, esse asperiores consequuntur ad nesciunt tempora dolor obcaecati placeat molestias, hic reprehenderit sed soluta vero a quas deserunt, perferendis facere sed quidem est veniam a?",
+                "product_quantity": 90,
+                "product_price": 53.23
+            }
+        ]
+    }
+}

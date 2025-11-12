@@ -1,0 +1,20 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-xPkhTbFh",
+        "supplier_contact": "supplierxPkhTbFh@example.com",
+        "products": [
+            {
+                "product_name": "Product-harum-laborum",
+                "product_description": "Eum inventore eligendi vitae autem doloremque eius optio, itaque voluptatem ad libero, dignissimos magni quia consequatur modi dolor perspiciatis, temporibus in quos saepe quam iusto placeat itaque rerum?",
+                "product_quantity": 30,
+                "product_price": 80.45
+            },
+            {
+                "product_name": "Product-perspiciatis-magni",
+                "product_description": "Quasi optio temporibus recusandae voluptate sapiente nam laboriosam aperiam fuga, totam sequi expedita a.",
+                "product_quantity": 33,
+                "product_price": 74.26
+            }
+        ]
+    }
+}

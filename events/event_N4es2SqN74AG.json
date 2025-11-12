@@ -1,0 +1,32 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-SPJjkgdF",
+        "supplier_contact": "supplierSPJjkgdF@example.com",
+        "products": [
+            {
+                "product_name": "Product-magnam-quaerat",
+                "product_description": "Totam consequuntur cupiditate rem repellat dolorum libero harum officiis, cumque qui blanditiis voluptates tempore a unde quo sunt, at commodi distinctio numquam sapiente laudantium eaque ex aspernatur.",
+                "product_quantity": 2,
+                "product_price": 47.04
+            },
+            {
+                "product_name": "Product-omnis-mollitia",
+                "product_description": "Corrupti perferendis accusamus aperiam cumque pariatur quis officiis quo, aspernatur ut iure commodi aliquid vitae ex, eius itaque vitae in maxime quos porro, quo provident quidem suscipit eum vitae, accusantium ipsum eaque quasi in corrupti?",
+                "product_quantity": 21,
+                "product_price": 81.12
+            },
+            {
+                "product_name": "Product-eum-esse",
+                "product_description": "Delectus consequuntur odit sint ducimus porro architecto nemo pariatur explicabo, nihil animi quidem aperiam accusantium aliquid.",
+                "product_quantity": 44,
+                "product_price": 68.3
+            },
+            {
+                "product_name": "Product-cum-voluptatem",
+                "product_description": "Dolore et quaerat dicta consectetur quia illum quae, cumque aliquid eos quae soluta iste accusantium adipisci?",
+                "product_quantity": 9,
+                "product_price": 20.43
+            }
+        ]
+    }
+}

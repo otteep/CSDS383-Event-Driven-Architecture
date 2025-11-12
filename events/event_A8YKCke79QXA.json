@@ -1,0 +1,26 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-szXYjnBj",
+        "supplier_contact": "supplierszXYjnBj@example.com",
+        "products": [
+            {
+                "product_name": "Product-quos-quasi",
+                "product_description": "Quas sunt optio quo blanditiis laborum cumque possimus reiciendis quae perspiciatis, nihil expedita alias impedit facilis, fuga nulla quas eveniet placeat totam maxime cum impedit unde tempora eaque, laudantium architecto ipsa natus iusto, sequi quo tenetur error at esse omnis?",
+                "product_quantity": 63,
+                "product_price": 55.7
+            },
+            {
+                "product_name": "Product-temporibus-placeat",
+                "product_description": "Natus totam culpa quae temporibus dignissimos rem optio exercitationem laborum iste, ab iure laudantium officia obcaecati voluptatibus quasi, neque dolor possimus, aliquid laboriosam suscipit nobis numquam a est repudiandae repellat tempora accusantium, expedita adipisci amet incidunt ratione.",
+                "product_quantity": 20,
+                "product_price": 32.2
+            },
+            {
+                "product_name": "Product-omnis-magnam",
+                "product_description": "Ducimus repudiandae molestias, repellat suscipit ut velit totam veritatis, obcaecati praesentium enim vel modi aliquid quam odit quia non.",
+                "product_quantity": 50,
+                "product_price": 94.76
+            }
+        ]
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-Vk6CobCO",
+        "supplier_contact": "supplierVk6CobCO@example.com",
+        "products": [
+            {
+                "product_name": "Product-nulla-a",
+                "product_description": "Fugiat totam blanditiis sed vero accusantium exercitationem nisi odio, unde officiis quos non aliquam maxime modi voluptate exercitationem reiciendis numquam aspernatur, sapiente aut aspernatur expedita fuga repellat ab provident vero corporis error eos, placeat velit expedita fugit?",
+                "product_quantity": 20,
+                "product_price": 20.17
+            },
+            {
+                "product_name": "Product-harum-nihil",
+                "product_quantity": 23,
+                "product_price": 39.63
+            },
+            {
+                "product_name": "Product-nesciunt-amet",
+                "product_description": "Cumque ea rem recusandae at, sunt tempore cum harum ipsa, maxime fugit corporis aliquam neque officiis quisquam voluptatibus repudiandae quo ipsum necessitatibus, quasi eveniet similique accusamus suscipit atque possimus, libero dolores error vitae laboriosam aperiam similique reprehenderit a in iusto?",
+                "product_quantity": 96,
+                "product_price": 61.84
+            }
+        ]
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-OppLQ0ZQ",
+        "supplier_contact": "supplierOppLQ0ZQ@example.com",
+        "products": [
+            {
+                "product_name": "Product-sed-voluptatem",
+                "product_description": "Culpa voluptatibus enim distinctio veritatis neque fuga repellat earum, illum ea odit dolore molestias dignissimos impedit quaerat consequuntur nisi nam.",
+                "product_quantity": 55,
+                "product_price": 59.52
+            },
+            {
+                "product_name": "Product-officia-doloremque",
+                "product_description": "Tempore praesentium ex temporibus, earum nesciunt excepturi perferendis incidunt voluptatem tempora nisi voluptate harum consequatur, consectetur harum fuga veritatis et nisi, magnam repudiandae minima quae maxime dolore?",
+                "product_quantity": 55,
+                "product_price": 18.42
+            }
+        ]
+    }
+}

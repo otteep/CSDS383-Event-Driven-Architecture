@@ -1,0 +1,20 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-jwatidON",
+        "supplier_contact": "supplierjwatidON@example.com",
+        "products": [
+            {
+                "product_name": "Product-sed-repellendus",
+                "product_description": "Similique eaque odit illo, quos culpa tempore voluptates rem.",
+                "product_quantity": 41,
+                "product_price": 30.7
+            },
+            {
+                "product_name": "Product-magni-provident",
+                "product_description": "Numquam magnam rem doloribus sint voluptatibus, dolore labore quaerat est eos molestiae deleniti, eius molestiae velit maiores tempore, nobis natus hic molestias temporibus est tempora unde, animi fuga voluptatum quisquam blanditiis quaerat dolorum reiciendis.",
+                "product_quantity": 35,
+                "product_price": 30.94
+            }
+        ]
+    }
+}

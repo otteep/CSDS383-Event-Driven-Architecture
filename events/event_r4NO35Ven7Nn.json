@@ -1,0 +1,32 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-lW52FLqS",
+        "supplier_contact": "supplierlW52FLqS@example.com",
+        "products": [
+            {
+                "product_name": "Product-odio-asperiores",
+                "product_description": "Id nemo nostrum aspernatur optio unde nam exercitationem, exercitationem delectus iusto ipsam laborum id ea ratione incidunt inventore repudiandae.",
+                "product_quantity": 31,
+                "product_price": 99.74
+            },
+            {
+                "product_name": "Product-rerum-odio",
+                "product_description": "Quos adipisci voluptate cum hic qui pariatur magnam, veniam id nobis quam autem consectetur ea asperiores quibusdam tempore, neque assumenda culpa rem eaque accusamus amet velit numquam enim fugit vitae, ullam dignissimos id modi exercitationem aspernatur, explicabo facere quam officiis corporis porro.",
+                "product_quantity": 17,
+                "product_price": 58.58
+            },
+            {
+                "product_name": "Product-nobis-modi",
+                "product_description": "Possimus laborum commodi, quasi debitis quo numquam qui, exercitationem numquam iusto veritatis nisi facilis molestias impedit beatae?",
+                "product_quantity": 73,
+                "product_price": 71.39
+            },
+            {
+                "product_name": "Product-ratione-recusandae",
+                "product_description": "Ut aut similique voluptates eligendi, architecto placeat earum aliquid illo esse quam blanditiis autem vero culpa.",
+                "product_quantity": 81,
+                "product_price": 25.91
+            }
+        ]
+    }
+}

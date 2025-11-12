@@ -1,0 +1,31 @@
+{
+    "supplier": {
+        "supplier_contact": "suppliera5wIEBs3@example.com",
+        "products": [
+            {
+                "product_name": "Product-ipsa-ea",
+                "product_description": "Esse quaerat dignissimos atque numquam aut quia sequi fugit accusamus tempora, eaque adipisci ipsam aperiam ut minus molestiae doloremque quam enim reiciendis.",
+                "product_quantity": 51,
+                "product_price": 56.26
+            },
+            {
+                "product_name": "Product-quisquam-atque",
+                "product_description": "Fuga doloribus maxime non provident sit, sequi fugit molestiae magni asperiores repellat quia voluptatem perspiciatis sunt, necessitatibus tempora possimus laborum ea perspiciatis magni debitis non praesentium sequi rem?",
+                "product_quantity": 74,
+                "product_price": 48.52
+            },
+            {
+                "product_name": "Product-saepe-id",
+                "product_description": "Est voluptas pariatur odio ex cum deleniti, necessitatibus iure tempora a qui dolore vitae excepturi nobis sed.",
+                "product_quantity": 78,
+                "product_price": 19.99
+            },
+            {
+                "product_name": "Product-optio-recusandae",
+                "product_description": "Asperiores suscipit ex excepturi ducimus odio nemo impedit, ad provident ipsam officiis sit laudantium repellat pariatur doloremque eaque.",
+                "product_quantity": 62,
+                "product_price": 93.86
+            }
+        ]
+    }
+}

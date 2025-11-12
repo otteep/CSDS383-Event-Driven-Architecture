@@ -1,0 +1,14 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-O5JSzVWL",
+        "supplier_contact": "supplierO5JSzVWL@example.com",
+        "products": [
+            {
+                "product_name": "Product-neque-ea",
+                "product_description": "Voluptas eligendi nemo iste aspernatur harum earum cumque doloribus illum repellat accusamus, a mollitia explicabo, maxime eaque dolorem delectus inventore temporibus amet, totam ipsam at pariatur unde saepe nihil suscipit?",
+                "product_quantity": 32,
+                "product_price": 36.51
+            }
+        ]
+    }
+}

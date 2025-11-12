@@ -1,0 +1,32 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-uL24J4x5",
+        "supplier_contact": "supplieruL24J4x5@example.com",
+        "products": [
+            {
+                "product_name": "Product-blanditiis-nobis",
+                "product_description": "Saepe eaque non deserunt, eum laboriosam fugiat qui consectetur ipsam quisquam delectus beatae commodi.",
+                "product_quantity": 50,
+                "product_price": 30.03
+            },
+            {
+                "product_name": "Product-ut-cumque",
+                "product_description": "Ex eos illo ut quas, dolores distinctio cum eos, eum dolor nam mollitia doloribus quisquam cumque temporibus quas iure, harum repellat dolorum expedita quo, vero veritatis provident ab voluptatem.",
+                "product_quantity": 26,
+                "product_price": 46.79
+            },
+            {
+                "product_name": "Product-porro-officiis",
+                "product_description": "Minima quae a quis aperiam aliquam harum laborum, rem officiis recusandae enim cupiditate aut iusto ex nisi necessitatibus odit, tempore eos assumenda dignissimos soluta rem praesentium a unde similique aspernatur perspiciatis?",
+                "product_quantity": 90,
+                "product_price": 50.16
+            },
+            {
+                "product_name": "Product-deserunt-neque",
+                "product_description": "Expedita delectus iusto animi illum molestiae beatae voluptates eligendi rem at, optio esse eius illo quam velit similique totam eaque quod rerum quis.",
+                "product_quantity": 50,
+                "product_price": 50.06
+            }
+        ]
+    }
+}

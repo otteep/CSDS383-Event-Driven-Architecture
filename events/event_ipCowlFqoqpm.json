@@ -1,0 +1,20 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-ENPRGUug",
+        "supplier_contact": "supplierENPRGUug@example.com",
+        "products": [
+            {
+                "product_name": "Product-maiores-voluptatibus",
+                "product_description": "Consequuntur necessitatibus vero, nulla debitis aliquid error laboriosam corrupti magni totam ab.",
+                "product_quantity": 14,
+                "product_price": 95.29
+            },
+            {
+                "product_name": "Product-maiores-deleniti",
+                "product_description": "Porro nostrum corrupti rerum, laborum nemo adipisci nulla deleniti?",
+                "product_quantity": 69,
+                "product_price": 37.72
+            }
+        ]
+    }
+}

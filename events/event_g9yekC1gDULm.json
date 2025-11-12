@@ -1,0 +1,26 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-YpLx71YV",
+        "supplier_contact": "supplierYpLx71YV@example.com",
+        "products": [
+            {
+                "product_name": "Product-nisi-saepe",
+                "product_description": "Repellat atque maxime nobis tenetur sapiente nihil ab in, fugiat repudiandae minima error impedit ipsa, debitis eos expedita fugiat ex nostrum nulla, sunt accusamus eaque modi, iusto reiciendis ipsa veniam recusandae deserunt sint laboriosam ducimus ut beatae.",
+                "product_quantity": 50,
+                "product_price": 20.69
+            },
+            {
+                "product_name": "Product-iusto-excepturi",
+                "product_description": "Iusto sequi esse mollitia exercitationem tempora sunt beatae, blanditiis molestiae alias asperiores quasi non optio enim perferendis tenetur, officiis nulla quidem velit perferendis nostrum minus, nostrum veniam architecto provident eveniet ipsam.",
+                "product_quantity": 61,
+                "product_price": 21.54
+            },
+            {
+                "product_name": "Product-dicta-officia",
+                "product_description": "Id deleniti dolorum fugit eligendi debitis ex cupiditate, iure dicta consequuntur laborum illum velit aliquid dolore consequatur deserunt, reiciendis in consequuntur necessitatibus beatae facilis aliquam autem, recusandae aliquid adipisci nemo modi voluptas nihil doloremque quo?",
+                "product_quantity": 91,
+                "product_price": 79.89
+            }
+        ]
+    }
+}

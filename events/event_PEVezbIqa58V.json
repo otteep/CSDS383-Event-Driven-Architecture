@@ -1,0 +1,20 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-XQFCwI2y",
+        "supplier_contact": "supplierXQFCwI2y@example.com",
+        "products": [
+            {
+                "product_name": "Product-eos-ducimus",
+                "product_description": "Quo explicabo magni aut dolorum ducimus optio consequuntur officiis deleniti, voluptatibus facilis harum natus magni perferendis ex, eos optio eligendi sed odit alias consequatur vero, repellendus laudantium rem quaerat voluptatem animi ipsum beatae magnam illo repudiandae, laborum repellendus in iusto vitae magni.",
+                "product_quantity": 32,
+                "product_price": 18.1
+            },
+            {
+                "product_name": "Product-alias-quibusdam",
+                "product_description": "Ullam officia tempora minus illum rerum soluta dolores, nobis natus laborum, libero voluptate aspernatur iusto, officiis quia maxime rem ipsum optio laborum mollitia fugit?",
+                "product_quantity": 93,
+                "product_price": 47.6
+            }
+        ]
+    }
+}

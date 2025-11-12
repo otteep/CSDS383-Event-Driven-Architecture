@@ -1,0 +1,26 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-vACeYgkU",
+        "supplier_contact": "suppliervACeYgkU@example.com",
+        "products": [
+            {
+                "product_name": "Product-aspernatur-laboriosam",
+                "product_description": "Aspernatur temporibus alias perspiciatis, atque quam exercitationem dolorem nulla blanditiis dignissimos non numquam maxime facere ad, impedit dolorem minus voluptas quasi aliquam omnis obcaecati, expedita aperiam dicta consectetur repellendus molestiae non praesentium.",
+                "product_quantity": 77,
+                "product_price": 84.07
+            },
+            {
+                "product_name": "Product-corrupti-culpa",
+                "product_description": "Tempora quae consequatur iste earum iure minima, aliquam necessitatibus voluptatibus, alias soluta reprehenderit?",
+                "product_quantity": 40,
+                "product_price": 39.51
+            },
+            {
+                "product_name": "Product-laudantium-suscipit",
+                "product_description": "Eius saepe unde, perspiciatis illum quos aperiam dolore hic magnam expedita blanditiis itaque provident, cupiditate numquam suscipit, quos quibusdam possimus magni provident nihil numquam placeat amet.",
+                "product_quantity": 49,
+                "product_price": 58.55
+            }
+        ]
+    }
+}

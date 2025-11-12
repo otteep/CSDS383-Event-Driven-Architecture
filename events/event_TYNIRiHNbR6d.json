@@ -1,0 +1,14 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-hqvJp9Wm",
+        "supplier_contact": "supplierhqvJp9Wm@example.com",
+        "products": [
+            {
+                "product_name": "Product-vero-vitae",
+                "product_description": "Alias sed sit doloribus eos quam reiciendis officia incidunt sequi illum cumque, repellat expedita molestias magni provident officiis repellendus, quae perspiciatis porro repellendus dolorum non deleniti, sed at dolore, dolores doloremque totam inventore nam aspernatur qui.",
+                "product_quantity": 32,
+                "product_price": 12.95
+            }
+        ]
+    }
+}

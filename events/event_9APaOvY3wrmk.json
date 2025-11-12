@@ -1,0 +1,26 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-ntd2nW6v",
+        "supplier_contact": "supplierntd2nW6v@example.com",
+        "products": [
+            {
+                "product_name": "Product-facilis-non",
+                "product_description": "Architecto accusamus porro, consequuntur libero tempora eveniet nihil vitae perferendis?",
+                "product_quantity": 89,
+                "product_price": 13.08
+            },
+            {
+                "product_name": "Product-minus-magni",
+                "product_description": "Fugiat molestiae ex voluptate voluptas quas quibusdam illo praesentium pariatur odit minima, sunt aliquam doloremque hic quis eius commodi eligendi veniam, minima eos molestiae optio, exercitationem rerum eius ducimus voluptatibus, porro libero aut accusantium beatae.",
+                "product_quantity": 6,
+                "product_price": 94.05
+            },
+            {
+                "product_name": "Product-velit-facilis",
+                "product_description": "Asperiores impedit veritatis id hic omnis laboriosam, accusamus explicabo beatae eveniet ad doloribus, quaerat quo reiciendis beatae culpa nesciunt vitae nam, impedit itaque vel aut deserunt nam recusandae ipsum nesciunt architecto quisquam.",
+                "product_quantity": 45,
+                "product_price": 2.27
+            }
+        ]
+    }
+}

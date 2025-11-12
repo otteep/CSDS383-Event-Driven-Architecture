@@ -1,0 +1,32 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-jVnPHIIv",
+        "supplier_contact": "supplierjVnPHIIv@example.com",
+        "products": [
+            {
+                "product_name": "Product-molestias-excepturi",
+                "product_description": "Sit unde delectus soluta beatae nihil blanditiis eligendi magnam, autem nesciunt delectus eum a in ipsam quasi suscipit doloremque architecto?",
+                "product_quantity": 26,
+                "product_price": 32.52
+            },
+            {
+                "product_name": "Product-ipsam-commodi",
+                "product_description": "Veritatis id modi recusandae nulla ab culpa unde ipsa, facere exercitationem quaerat obcaecati iure corrupti, quas numquam quibusdam dolore temporibus assumenda sapiente, ipsa aspernatur veritatis?",
+                "product_quantity": 99,
+                "product_price": 60.53
+            },
+            {
+                "product_name": "Product-voluptatum-numquam",
+                "product_description": "Tenetur eveniet sint facilis voluptate facere, neque placeat officiis recusandae id incidunt voluptate soluta, expedita quaerat error itaque sint esse cupiditate dolores laudantium cumque, quos neque eius ipsum doloribus dicta?",
+                "product_quantity": 84,
+                "product_price": 42.55
+            },
+            {
+                "product_name": "Product-quos-accusantium",
+                "product_description": "Exercitationem eos optio itaque facilis culpa repellat assumenda commodi porro velit officiis, nemo molestiae maxime aut eos animi perspiciatis quisquam, maiores delectus atque veritatis voluptate beatae cum omnis sequi tempora, excepturi exercitationem velit nemo perspiciatis ex quae expedita?",
+                "product_quantity": 80,
+                "product_price": 13.41
+            }
+        ]
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-nRoa6cwo",
+        "supplier_contact": "suppliernRoa6cwo@example.com",
+        "products": [
+            {
+                "product_name": "Product-distinctio-nobis",
+                "product_quantity": 82,
+                "product_price": 38.61
+            },
+            {
+                "product_name": "Product-quae-voluptatem",
+                "product_description": "Aut amet labore odit, consequuntur obcaecati quis, dolore totam ullam illo et, eligendi odio ex iste aliquam quisquam quod amet modi numquam?",
+                "product_quantity": 6
+            }
+        ]
+    }
+}

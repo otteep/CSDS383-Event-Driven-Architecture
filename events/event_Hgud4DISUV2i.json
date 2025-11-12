@@ -1,0 +1,26 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-ZmxYp53r",
+        "supplier_contact": "supplierZmxYp53r@example.com",
+        "products": [
+            {
+                "product_name": "Product-ut-mollitia",
+                "product_description": "Doloribus eius tempore fuga perspiciatis cum, dicta eos inventore magni voluptatem voluptates saepe, ullam aliquid quis laborum quidem nostrum id fugiat?",
+                "product_quantity": 45,
+                "product_price": 60.24
+            },
+            {
+                "product_name": "Product-corporis-ipsam",
+                "product_description": "Non odio ullam similique recusandae cumque reiciendis voluptas unde aperiam placeat, ipsa sit fuga maiores sapiente error blanditiis ipsum, odit eveniet tempore eius tempora at temporibus, minima voluptatem ex provident rerum reiciendis.",
+                "product_quantity": 10,
+                "product_price": 43.67
+            },
+            {
+                "product_name": "Product-minus-atque",
+                "product_description": "Nesciunt eum totam, ea nostrum atque facere vel accusamus ut, sunt sapiente pariatur culpa optio earum ut deserunt sint rem fuga, commodi perspiciatis illo nostrum nobis dolorem reiciendis ipsum animi, odio nihil officiis sequi commodi aliquid eveniet voluptatibus necessitatibus molestiae.",
+                "product_quantity": 55,
+                "product_price": 80.66
+            }
+        ]
+    }
+}

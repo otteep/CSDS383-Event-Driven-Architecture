@@ -1,0 +1,25 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-aZ4fxLXV",
+        "products": [
+            {
+                "product_name": "Product-veritatis-adipisci",
+                "product_description": "Dicta at soluta laboriosam praesentium molestias cum iure, corporis ex fugit eos rem eius, officiis nostrum dolorem sed minima nulla maxime vitae esse tempora non quia, sunt culpa sed voluptatibus dolor quia minima eos nesciunt minus ratione, quidem blanditiis ut doloribus in sint nobis dolor?",
+                "product_quantity": 42,
+                "product_price": 68.23
+            },
+            {
+                "product_name": "Product-blanditiis-sint",
+                "product_description": "Velit qui deleniti, saepe nisi animi officia ipsum optio harum voluptate nulla rem mollitia odio, quis incidunt dolor quisquam possimus voluptates assumenda voluptatum a.",
+                "product_quantity": 64,
+                "product_price": 7.75
+            },
+            {
+                "product_name": "Product-molestiae-at",
+                "product_description": "Dolor voluptas molestiae accusantium corrupti fuga vero ex animi rem neque, numquam architecto soluta iste optio modi sint porro maiores, natus architecto necessitatibus dolore?",
+                "product_quantity": 93,
+                "product_price": 78.24
+            }
+        ]
+    }
+}

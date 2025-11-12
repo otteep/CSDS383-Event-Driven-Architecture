@@ -1,0 +1,32 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-YpRKGJQo",
+        "supplier_contact": "supplierYpRKGJQo@example.com",
+        "products": [
+            {
+                "product_name": "Product-pariatur-eum",
+                "product_description": "Dignissimos cupiditate eum iusto dicta excepturi debitis odit impedit fugiat, eveniet quod quisquam optio sed minus rerum?",
+                "product_quantity": 75,
+                "product_price": 31.19
+            },
+            {
+                "product_name": "Product-neque-dolorem",
+                "product_description": "Dolores iure molestias voluptatum sed eligendi tempora delectus aliquam, dolorum deserunt facere dolore quidem quisquam consequatur quo perspiciatis animi in?",
+                "product_quantity": 57,
+                "product_price": 25.91
+            },
+            {
+                "product_name": "Product-maxime-in",
+                "product_description": "Voluptate quidem vel nulla culpa fugiat molestias maiores accusamus atque impedit tempore, a dolor sequi culpa nostrum saepe architecto earum, voluptates odio laborum molestias?",
+                "product_quantity": 59,
+                "product_price": 91.54
+            },
+            {
+                "product_name": "Product-cupiditate-fuga",
+                "product_description": "Repudiandae quidem nisi, porro ipsum eveniet officia eaque, aliquid deserunt deleniti sed rerum quisquam, incidunt laudantium commodi nobis harum numquam error est quam suscipit velit placeat, quos id consectetur dicta consequatur eos officia.",
+                "product_quantity": 92,
+                "product_price": 66.77
+            }
+        ]
+    }
+}

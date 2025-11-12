@@ -1,0 +1,26 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-lREwryXk",
+        "supplier_contact": "supplierlREwryXk@example.com",
+        "products": [
+            {
+                "product_name": "Product-iste-voluptas",
+                "product_description": "Ea id autem deserunt facilis atque explicabo, atque culpa dolores deserunt quia ea distinctio molestias exercitationem ad asperiores, ipsum culpa enim doloremque sit sequi autem molestiae libero iste, aperiam doloribus ducimus, eius esse ab eveniet temporibus ratione nobis ipsa modi?",
+                "product_quantity": 59,
+                "product_price": 4.79
+            },
+            {
+                "product_name": "Product-hic-deserunt",
+                "product_description": "Iusto excepturi blanditiis temporibus, saepe reprehenderit cupiditate ea modi placeat, tempore iste sed quasi rem voluptas ullam quos necessitatibus esse pariatur, iure incidunt magnam libero sapiente suscipit excepturi.",
+                "product_quantity": 41,
+                "product_price": 60.47
+            },
+            {
+                "product_name": "Product-quos-officia",
+                "product_description": "Tempore velit aliquid veniam numquam saepe provident consequatur, minima dolore eum natus?",
+                "product_quantity": 83,
+                "product_price": 51.83
+            }
+        ]
+    }
+}

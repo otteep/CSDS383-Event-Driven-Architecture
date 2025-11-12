@@ -1,0 +1,20 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-2vl5f4Mt",
+        "supplier_contact": "supplier2vl5f4Mt@example.com",
+        "products": [
+            {
+                "product_name": "Product-expedita-facere",
+                "product_description": "Aperiam odit dicta dolor architecto tenetur dolore explicabo, cum sed reiciendis animi expedita enim?",
+                "product_quantity": 91,
+                "product_price": 52.22
+            },
+            {
+                "product_name": "Product-corrupti-accusantium",
+                "product_description": "Voluptas totam rerum incidunt aperiam placeat ut deserunt, voluptatibus itaque odit distinctio architecto quos provident unde iure temporibus repudiandae sapiente, placeat sint dolores, facere accusamus et culpa officia, quasi cumque necessitatibus odio magni deserunt facilis exercitationem officia eos numquam hic.",
+                "product_quantity": 82,
+                "product_price": 10.73
+            }
+        ]
+    }
+}

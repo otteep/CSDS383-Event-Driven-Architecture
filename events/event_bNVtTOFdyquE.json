@@ -1,0 +1,26 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-5hFJX8xx",
+        "supplier_contact": "supplier5hFJX8xx@example.com",
+        "products": [
+            {
+                "product_name": "Product-fuga-eos",
+                "product_description": "Omnis quod perferendis illum expedita magni non, eligendi laborum ipsam, quis labore fuga.",
+                "product_quantity": 43,
+                "product_price": 64.77
+            },
+            {
+                "product_name": "Product-dicta-assumenda",
+                "product_description": "Voluptatibus illo culpa, temporibus eligendi dolore, vitae omnis dignissimos tempore minus quidem sequi, commodi ducimus modi amet nulla ipsum repellat?",
+                "product_quantity": 11,
+                "product_price": 59.46
+            },
+            {
+                "product_name": "Product-consequuntur-harum",
+                "product_description": "Aut consectetur itaque dolorem aperiam quo, quos doloribus adipisci explicabo quis delectus ipsa soluta nihil ex facilis, incidunt labore aliquid necessitatibus, corporis voluptatem non modi minima sequi velit pariatur est fugiat.",
+                "product_quantity": 24,
+                "product_price": 5.26
+            }
+        ]
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-aAQNShT1",
+        "supplier_contact": "supplieraAQNShT1@example.com",
+        "products": [
+            {
+                "product_name": "Product-corporis-aspernatur",
+                "product_description": "Magni perspiciatis animi qui error aliquid omnis, sapiente dolore tempore saepe debitis iusto, sit suscipit pariatur voluptate, illum eos et neque dolores.",
+                "product_quantity": 57,
+                "product_price": 95.39
+            },
+            {
+                "product_name": "Product-omnis-autem",
+                "product_description": "Illo enim delectus pariatur odio ducimus, eligendi tenetur officiis eveniet.",
+                "product_quantity": 73,
+                "product_price": 91.82
+            },
+            {
+                "product_name": "Product-aliquam-illum",
+                "product_description": "Exercitationem accusantium aliquid iusto, veritatis repellendus molestiae ullam temporibus?",
+                "product_quantity": 4,
+                "product_price": 74.23
+            }
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-cCRQtlME",
+        "supplier_contact": "suppliercCRQtlME@example.com",
+        "products": [
+            {
+                "product_name": "Product-facere-ratione",
+                "product_description": "Doloribus perferendis unde adipisci deserunt officiis minima asperiores commodi, enim quidem omnis recusandae dolores aliquid officiis?",
+                "product_quantity": 85,
+                "product_price": 79.97
+            }
+        ]
+    }
+}

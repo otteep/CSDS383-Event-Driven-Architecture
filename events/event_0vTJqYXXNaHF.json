@@ -1,0 +1,14 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-VND5VYYJ",
+        "supplier_contact": "supplierVND5VYYJ@example.com",
+        "products": [
+            {
+                "product_name": "Product-ipsam-ab",
+                "product_description": "Dignissimos sequi ut dolor consequuntur aspernatur deleniti repudiandae reprehenderit, voluptas quaerat aut rem delectus, eum cupiditate pariatur ducimus mollitia nam magni?",
+                "product_quantity": 28,
+                "product_price": 59.42
+            }
+        ]
+    }
+}

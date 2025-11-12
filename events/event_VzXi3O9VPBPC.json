@@ -1,0 +1,32 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-gTJ6Qn2Y",
+        "supplier_contact": "suppliergTJ6Qn2Y@example.com",
+        "products": [
+            {
+                "product_name": "Product-ipsa-dolor",
+                "product_description": "Sunt cum optio eligendi dolorum eum quia natus, animi voluptatibus fugiat ullam, illo rerum consequuntur voluptas nihil laborum porro.",
+                "product_quantity": 65,
+                "product_price": 34.56
+            },
+            {
+                "product_name": "Product-eum-ipsam",
+                "product_description": "Laborum est vero, neque facilis ullam delectus accusamus odio iste temporibus, fuga est nisi debitis architecto maiores accusamus quis nihil optio consectetur cupiditate, accusantium error fugiat non.",
+                "product_quantity": 29,
+                "product_price": 97.37
+            },
+            {
+                "product_name": "Product-quos-repudiandae",
+                "product_description": "Esse repellat aliquid numquam minus consectetur, dolorum blanditiis cum cupiditate.",
+                "product_quantity": 88,
+                "product_price": 28.98
+            },
+            {
+                "product_name": "Product-voluptatibus-exercitationem",
+                "product_description": "Perferendis sint autem esse doloribus facilis aperiam minima alias, provident modi velit ad eos sint pariatur aspernatur beatae inventore ullam.",
+                "product_quantity": 4,
+                "product_price": 31.88
+            }
+        ]
+    }
+}

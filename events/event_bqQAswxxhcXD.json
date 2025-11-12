@@ -1,0 +1,14 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-xLP0bFbI",
+        "supplier_contact": "supplierxLP0bFbI@example.com",
+        "products": [
+            {
+                "product_name": "Product-incidunt-repudiandae",
+                "product_description": "Doloribus nesciunt recusandae tempora eaque ipsa aliquid iure possimus, numquam nemo commodi quam exercitationem omnis architecto assumenda perspiciatis, explicabo nam autem nemo dicta quaerat harum delectus molestiae vitae dolores dolorem, eius tempore alias distinctio eveniet, dignissimos veniam labore perferendis porro tempora corporis eaque modi cum at perspiciatis?",
+                "product_quantity": 93,
+                "product_price": 89.32
+            }
+        ]
+    }
+}

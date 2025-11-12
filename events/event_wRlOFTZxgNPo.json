@@ -1,0 +1,14 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-jYIQeAr6",
+        "supplier_contact": "supplierjYIQeAr6@example.com",
+        "products": [
+            {
+                "product_name": "Product-rem-pariatur",
+                "product_description": "Aliquid beatae laboriosam, quis non dicta atque pariatur voluptatibus, nihil officiis repudiandae odio, sit blanditiis vitae quos maiores nemo facere quis voluptatem recusandae, exercitationem fuga perferendis ab repellendus obcaecati adipisci molestiae cumque sapiente.",
+                "product_quantity": 82,
+                "product_price": 73.11
+            }
+        ]
+    }
+}

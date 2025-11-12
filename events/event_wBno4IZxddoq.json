@@ -1,0 +1,19 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-xye0p4ee",
+        "supplier_contact": "supplierxye0p4ee@example.com",
+        "products": [
+            {
+                "product_name": "Product-velit-aliquid",
+                "product_description": "Nesciunt consectetur tempora molestiae nemo tenetur, totam numquam nemo quis non eum vero commodi illum laboriosam.",
+                "product_quantity": 62,
+                "product_price": 8.4
+            },
+            {
+                "product_name": "Product-inventore-perspiciatis",
+                "product_description": "Voluptatum adipisci minima consectetur rerum laudantium accusantium, excepturi ea consectetur incidunt maiores voluptatum, culpa voluptatem impedit reprehenderit repudiandae, nesciunt maiores maxime fugit, a ullam dicta laborum eos nobis molestias.",
+                "product_price": 77.56
+            }
+        ]
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-krdyoZg4",
+        "supplier_contact": "supplierkrdyoZg4@example.com",
+        "products": [
+            {
+                "product_name": "Product-nulla-eveniet",
+                "product_description": "Fugiat rerum rem iure, reprehenderit quasi enim nulla aut quos modi dolore eos, iure at sunt voluptatem ab ad doloribus neque ut natus quo quibusdam, excepturi neque nihil quibusdam culpa animi ipsum?",
+                "product_quantity": 64,
+                "product_price": 48.4
+            },
+            {
+                "product_name": "Product-vero-totam",
+                "product_description": "Delectus iste illum a minus ad autem quis dolorem maiores, ipsa cumque similique dolor impedit laudantium aliquam, dolores aperiam eaque.",
+                "product_quantity": 28,
+                "product_price": 24.74
+            },
+            {
+                "product_name": "Product-ducimus-dolores",
+                "product_description": "Deserunt ab dolores ad molestias cupiditate ipsam aperiam quisquam, libero vero nobis numquam unde maiores obcaecati consequatur ex adipisci, labore tenetur ipsam vitae quasi.",
+                "product_quantity": 13,
+                "product_price": 12.5
+            }
+        ]
+    }
+}

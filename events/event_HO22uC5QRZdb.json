@@ -1,0 +1,20 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-wsb3V1QF",
+        "supplier_contact": "supplierwsb3V1QF@example.com",
+        "products": [
+            {
+                "product_name": "Product-quo-laboriosam",
+                "product_description": "Sapiente ut quo fugit doloremque quidem mollitia voluptatem, id excepturi ducimus maxime quis voluptates suscipit, placeat harum nisi iure quae tenetur facere illum ipsum ut nam?",
+                "product_quantity": 39,
+                "product_price": 12.81
+            },
+            {
+                "product_name": "Product-reprehenderit-beatae",
+                "product_description": "Dignissimos hic fugiat velit nobis modi distinctio aliquam perspiciatis, quas nam fugiat aperiam ad aut delectus quod repellat minima est.",
+                "product_quantity": 81,
+                "product_price": 80.29
+            }
+        ]
+    }
+}

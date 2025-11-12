@@ -1,0 +1,31 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-Wy3YR4Xg",
+        "supplier_contact": "supplierWy3YR4Xg@example.com",
+        "products": [
+            {
+                "product_name": "Product-minima-nemo",
+                "product_description": "Laboriosam nulla optio modi distinctio eum facilis rem officiis minus minima, harum rem temporibus recusandae sit quia aspernatur.",
+                "product_quantity": 4,
+                "product_price": 95.67
+            },
+            {
+                "product_name": "Product-quam-numquam",
+                "product_description": "Distinctio maiores voluptatum dignissimos animi at id ratione praesentium, reiciendis sint numquam minima facilis, repudiandae voluptates tempora?",
+                "product_quantity": 16,
+                "product_price": 11.35
+            },
+            {
+                "product_description": "Eligendi hic qui quasi distinctio vel odit, veritatis aut pariatur quaerat alias consequatur, atque recusandae accusantium maiores nulla in veritatis, rerum suscipit mollitia beatae voluptatem perferendis architecto autem, hic explicabo accusantium vero.",
+                "product_quantity": 14,
+                "product_price": 7.79
+            },
+            {
+                "product_name": "Product-reprehenderit-explicabo",
+                "product_description": "Ipsum odio similique veritatis rerum deleniti natus debitis, quae labore ipsam fugit repellendus dolor, non facere deserunt eius magni omnis amet deleniti?",
+                "product_quantity": 14,
+                "product_price": 97.94
+            }
+        ]
+    }
+}

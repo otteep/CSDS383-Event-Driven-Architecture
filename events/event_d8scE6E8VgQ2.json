@@ -1,0 +1,32 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-hXX0y5Ji",
+        "supplier_contact": "supplierhXX0y5Ji@example.com",
+        "products": [
+            {
+                "product_name": "Product-cumque-recusandae",
+                "product_description": "Quae eos laboriosam neque veniam magnam explicabo, expedita dolor nesciunt totam non, provident quos adipisci distinctio sapiente accusamus fugit cumque a consequatur.",
+                "product_quantity": 40,
+                "product_price": 37.82
+            },
+            {
+                "product_name": "Product-quos-dolore",
+                "product_description": "Cupiditate quo quas mollitia similique voluptatem adipisci architecto sapiente nobis animi, esse suscipit delectus iusto voluptas, dicta nisi qui molestias facilis saepe hic, dolorum at mollitia, iste facere dolores explicabo consectetur esse porro ipsum asperiores.",
+                "product_quantity": 30,
+                "product_price": 14.2
+            },
+            {
+                "product_name": "Product-veritatis-possimus",
+                "product_description": "Debitis tempore libero amet voluptas eaque ex recusandae consequatur a magni iste, eveniet cumque magni nobis hic commodi?",
+                "product_quantity": 49,
+                "product_price": 14.06
+            },
+            {
+                "product_name": "Product-cumque-beatae",
+                "product_description": "Hic laboriosam eius natus voluptates reprehenderit, quasi quisquam vel, delectus assumenda esse asperiores quisquam sequi obcaecati deleniti necessitatibus commodi impedit, quod nulla eum eveniet natus eaque, pariatur quis veritatis libero itaque nisi saepe quaerat in?",
+                "product_quantity": 91,
+                "product_price": 36.58
+            }
+        ]
+    }
+}

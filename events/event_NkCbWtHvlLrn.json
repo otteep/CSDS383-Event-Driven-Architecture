@@ -1,0 +1,14 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-OfsXOYZZ",
+        "supplier_contact": "supplierOfsXOYZZ@example.com",
+        "products": [
+            {
+                "product_name": "Product-eveniet-necessitatibus",
+                "product_description": "Corporis provident repudiandae quidem illo repellendus repellat delectus ex voluptas dignissimos velit, ipsam aspernatur voluptas quae, quidem vitae officiis dicta atque libero sint.",
+                "product_quantity": 46,
+                "product_price": 89.52
+            }
+        ]
+    }
+}

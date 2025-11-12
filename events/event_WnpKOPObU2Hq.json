@@ -1,0 +1,37 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-3Kzmoq6m",
+        "supplier_contact": "supplier3Kzmoq6m@example.com",
+        "products": [
+            {
+                "product_name": "Product-animi-assumenda",
+                "product_description": "Distinctio illo quos consequuntur dolorum voluptates dolores dolor, ipsum rerum alias totam explicabo maxime, aut rerum delectus tempore facilis fugit et, sequi sit architecto saepe iste fuga tenetur accusamus deleniti aliquam quia.",
+                "product_quantity": 49,
+                "product_price": 49.84
+            },
+            {
+                "product_name": "Product-dicta-fugit",
+                "product_description": "Illum fugiat vero earum voluptatibus unde suscipit officia in laboriosam aliquam, cupiditate fugit eos reiciendis.",
+                "product_quantity": 65,
+                "product_price": 47.57
+            },
+            {
+                "product_name": "Product-dolore-at",
+                "product_description": "Quos eligendi nihil modi tempore consectetur perferendis tenetur, officia fugiat suscipit facilis aliquid numquam vitae, dolore praesentium aperiam beatae rem delectus ad perferendis voluptatum?",
+                "product_quantity": 74,
+                "product_price": 52.95
+            },
+            {
+                "product_name": "Product-blanditiis-odio",
+                "product_description": "Vero natus voluptatum quia quam voluptate ab placeat facilis ipsam sed, expedita labore similique consequuntur sed recusandae ipsum sunt nulla laboriosam officia, dolores harum velit earum reiciendis optio ex suscipit esse repellendus odio ab, officiis natus consectetur, veniam illo omnis corrupti temporibus?",
+                "product_price": 24.63
+            },
+            {
+                "product_name": "Product-perferendis-obcaecati",
+                "product_description": "Sint provident eligendi dolor tempora dicta numquam, perspiciatis quisquam nam odio explicabo ipsam magnam vero incidunt expedita quae, inventore repellat hic nulla ducimus ipsa ex fugiat accusantium nemo.",
+                "product_quantity": 76,
+                "product_price": 90.03
+            }
+        ]
+    }
+}

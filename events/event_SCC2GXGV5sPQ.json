@@ -1,0 +1,14 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-Fxw9CaSs",
+        "supplier_contact": "supplierFxw9CaSs@example.com",
+        "products": [
+            {
+                "product_name": "Product-rem-laborum",
+                "product_description": "Enim provident eveniet animi iste ipsa officiis, non commodi in perspiciatis laboriosam, harum nesciunt animi quae architecto facilis nihil doloremque neque tenetur ipsum pariatur, beatae soluta facere vero ut deleniti dolore, eos dolores distinctio repudiandae iste optio provident minus exercitationem enim dicta.",
+                "product_quantity": 82,
+                "product_price": 4.55
+            }
+        ]
+    }
+}

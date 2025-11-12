@@ -1,0 +1,36 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-wTXLcYQi",
+        "supplier_contact": "supplierwTXLcYQi@example.com",
+        "products": [
+            {
+                "product_name": "Product-architecto-fugit",
+                "product_description": "Facilis nam possimus numquam suscipit praesentium architecto, esse sequi nulla, nobis magni explicabo impedit laudantium blanditiis rerum aperiam assumenda iusto eligendi, minima voluptatum eligendi dolorum quae cumque odio, aspernatur aliquam nihil itaque incidunt suscipit sit nostrum id dicta voluptatem unde.",
+                "product_price": 40.72
+            },
+            {
+                "product_name": "Product-temporibus-voluptatum",
+                "product_description": "Quos magni voluptatibus, animi facere voluptates corrupti eligendi itaque ipsum id pariatur reiciendis voluptatibus, odio sed saepe, libero neque ipsam dolorem optio, quasi velit aperiam eligendi itaque nam laboriosam quas inventore quos debitis sunt?",
+                "product_quantity": 46,
+                "product_price": 75.53
+            },
+            {
+                "product_name": "Product-blanditiis-totam",
+                "product_description": "Distinctio ratione mollitia tenetur repellat sint non omnis cum expedita sunt, odit voluptatum cumque, dignissimos quo non labore ratione.",
+                "product_quantity": 49,
+                "product_price": 33.14
+            },
+            {
+                "product_name": "Product-accusamus-explicabo",
+                "product_description": "Sequi itaque perspiciatis omnis praesentium debitis voluptatem eius dolores ad aliquam, distinctio ratione magnam consequatur, quas magnam tempore maiores maxime placeat molestias eaque tenetur unde beatae, ratione velit corrupti?",
+                "product_quantity": 18,
+                "product_price": 98.84
+            },
+            {
+                "product_description": "Ipsum blanditiis perferendis illo alias aperiam soluta at, dolores ab rem dolor atque deserunt soluta perspiciatis exercitationem ullam architecto, velit distinctio harum voluptate.",
+                "product_quantity": 95,
+                "product_price": 78.19
+            }
+        ]
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-gXVB3ltl",
+        "supplier_contact": "suppliergXVB3ltl@example.com",
+        "products": [
+            {
+                "product_name": "Product-consequatur-quisquam",
+                "product_description": "Possimus sed dolorum vitae unde ipsam laudantium, dolore pariatur odit consequuntur a, aut quis illum, commodi qui voluptatem tempore obcaecati nihil totam at quam necessitatibus, officiis porro nam modi dolores sit itaque unde.",
+                "product_quantity": 46,
+                "product_price": 15.79
+            },
+            {
+                "product_name": "Product-quidem-vero",
+                "product_description": "Ut vero porro magni ad molestias omnis incidunt officiis expedita magnam, perferendis a eaque quas eveniet asperiores.",
+                "product_quantity": 69,
+                "product_price": 53.16
+            }
+        ]
+    }
+}

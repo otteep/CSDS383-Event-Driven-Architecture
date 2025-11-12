@@ -1,0 +1,14 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-bn4IZfb3",
+        "supplier_contact": "supplierbn4IZfb3@example.com",
+        "products": [
+            {
+                "product_name": "Product-eum-magnam",
+                "product_description": "Hic adipisci quis molestias dolores non nisi tempora eaque culpa commodi cum, quibusdam consequatur commodi impedit sit alias nobis a culpa delectus at ipsum, est provident excepturi repudiandae officia, amet odit fugiat officia sapiente numquam aut aspernatur accusamus, sequi eos nobis nam quibusdam quasi mollitia velit?",
+                "product_quantity": 18,
+                "product_price": 84.42
+            }
+        ]
+    }
+}

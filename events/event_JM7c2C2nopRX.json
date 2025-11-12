@@ -1,0 +1,20 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-78KVcmxc",
+        "supplier_contact": "supplier78KVcmxc@example.com",
+        "products": [
+            {
+                "product_name": "Product-ea-voluptas",
+                "product_description": "Exercitationem quas nulla dignissimos illum, aut nihil sunt laborum voluptatibus eaque nesciunt explicabo autem quia omnis incidunt, cum laboriosam dolor illum blanditiis molestiae facilis nobis voluptatem sapiente?",
+                "product_quantity": 50,
+                "product_price": 78.21
+            },
+            {
+                "product_name": "Product-soluta-tempore",
+                "product_description": "In ducimus consectetur explicabo tempora sit, sequi doloremque accusantium provident, natus reiciendis beatae consequatur dolor eius exercitationem, eveniet cupiditate fuga.",
+                "product_quantity": 99,
+                "product_price": 45.58
+            }
+        ]
+    }
+}

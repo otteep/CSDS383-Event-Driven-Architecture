@@ -1,0 +1,26 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-52SX8lnM",
+        "supplier_contact": "supplier52SX8lnM@example.com",
+        "products": [
+            {
+                "product_name": "Product-nemo-nulla",
+                "product_description": "Ea consequatur ipsa magnam, eveniet impedit perferendis corporis.",
+                "product_quantity": 18,
+                "product_price": 31.61
+            },
+            {
+                "product_name": "Product-tempora-dolorum",
+                "product_description": "Voluptates nostrum beatae omnis unde tempore repellendus obcaecati architecto magni, iusto ipsa fugit placeat ducimus minima corporis asperiores deserunt, nesciunt iusto ea quam aliquam quos distinctio eligendi?",
+                "product_quantity": 58,
+                "product_price": 1.24
+            },
+            {
+                "product_name": "Product-officiis-nostrum",
+                "product_description": "Odio illum aliquid quam asperiores animi explicabo, molestiae sed atque sunt aut amet laboriosam architecto, laborum libero beatae in deleniti nam id aliquam enim vero ullam, at et magnam ullam optio.",
+                "product_quantity": 50,
+                "product_price": 20.61
+            }
+        ]
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-HZq2X4Mp",
+        "supplier_contact": "supplierHZq2X4Mp@example.com",
+        "products": [
+            {
+                "product_name": "Product-libero-totam",
+                "product_description": "Fugiat soluta nisi ducimus beatae quasi earum totam id atque sunt, perferendis mollitia perspiciatis dolore natus, error inventore perspiciatis asperiores modi sit quam, magni qui maxime rerum hic, nam repellat officiis beatae est ut?",
+                "product_quantity": 2,
+                "product_price": 61.6
+            },
+            {
+                "product_name": "Product-sequi-autem",
+                "product_description": "Nostrum sapiente nesciunt autem dolores amet perferendis odio, quod ipsam expedita dignissimos sequi maiores sint quis architecto in rerum consectetur, necessitatibus laboriosam quia repudiandae optio itaque quasi soluta laudantium obcaecati accusamus quos, beatae hic commodi voluptatem nobis, assumenda perferendis quaerat ducimus repellendus explicabo dolorem inventore necessitatibus aspernatur?",
+                "product_quantity": 60,
+                "product_price": 28.15
+            },
+            {
+                "product_name": "Product-dolore-quis",
+                "product_description": "Fuga ullam dignissimos id eveniet ratione asperiores tempora aliquid dolorem officia nulla, labore voluptas autem, facilis iure quisquam rem consequatur nobis temporibus labore, ratione obcaecati cum in natus dolorem veritatis, dolores animi sed fugit ea?",
+                "product_quantity": 28,
+                "product_price": 96.37
+            },
+            {
+                "product_name": "Product-laborum-est",
+                "product_description": "Alias porro labore quam molestiae exercitationem accusantium cupiditate non reprehenderit, excepturi deleniti qui nobis vero laudantium eum beatae ex minus sunt, quod perferendis unde quasi repudiandae accusantium voluptatem quibusdam itaque, repellendus doloribus et ab nam nobis distinctio dolor eaque error omnis vitae?",
+                "product_quantity": 56,
+                "product_price": 51.0
+            }
+        ]
+    }
+}

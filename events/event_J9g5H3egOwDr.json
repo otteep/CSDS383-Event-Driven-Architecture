@@ -1,0 +1,37 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-qX1y6dkO",
+        "supplier_contact": "supplierqX1y6dkO@example.com",
+        "products": [
+            {
+                "product_name": "Product-officiis-commodi",
+                "product_description": "Laborum velit officiis quidem ducimus minus voluptates iusto aspernatur, doloribus ducimus doloremque in quasi aliquid provident harum vel recusandae?",
+                "product_quantity": 71,
+                "product_price": 33.79
+            },
+            {
+                "product_name": "Product-cumque-nemo",
+                "product_description": "Reprehenderit libero rem nesciunt labore id est quis placeat, optio et distinctio iusto modi dolorem dicta asperiores consequatur facere, vel sunt adipisci sit accusantium tenetur, soluta rem velit eligendi suscipit commodi architecto ea omnis, dolor minima vitae tempore a itaque reprehenderit debitis labore?",
+                "product_quantity": 24,
+                "product_price": 84.85
+            },
+            {
+                "product_name": "Product-consectetur-suscipit",
+                "product_quantity": 48,
+                "product_price": 4.73
+            },
+            {
+                "product_name": "Product-ea-deleniti",
+                "product_description": "Consectetur voluptatum assumenda illum, assumenda mollitia voluptate eos illo aliquam magnam nemo quaerat adipisci, placeat quod aperiam labore dolor doloribus inventore, explicabo neque in aspernatur nesciunt?",
+                "product_quantity": 14,
+                "product_price": 15.27
+            },
+            {
+                "product_name": "Product-ipsa-magnam",
+                "product_description": "Rerum explicabo laudantium optio molestiae, quo suscipit quam consequuntur dolor excepturi id similique, id repellendus illo blanditiis quidem sint itaque aut perferendis, dolor tempore corporis quisquam voluptatem vero quo sint explicabo id amet, illo nulla dicta tempora sit sapiente explicabo labore unde odit.",
+                "product_quantity": 79,
+                "product_price": 99.97
+            }
+        ]
+    }
+}

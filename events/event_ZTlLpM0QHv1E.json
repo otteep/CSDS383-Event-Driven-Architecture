@@ -1,0 +1,20 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-VU81VB2k",
+        "supplier_contact": "supplierVU81VB2k@example.com",
+        "products": [
+            {
+                "product_name": "Product-beatae-ab",
+                "product_description": "Tempore voluptates assumenda autem rem vero ex error quis, dolor perspiciatis nobis delectus temporibus, aperiam quod amet ducimus quas doloremque provident in ab, dolorem harum exercitationem doloremque totam voluptates.",
+                "product_quantity": 59,
+                "product_price": 77.2
+            },
+            {
+                "product_name": "Product-quia-id",
+                "product_description": "Corrupti exercitationem eius, repellendus odio accusantium magni ducimus velit fugiat illum, molestias possimus laborum sint, obcaecati aspernatur dolor minus modi?",
+                "product_quantity": 97,
+                "product_price": 87.97
+            }
+        ]
+    }
+}

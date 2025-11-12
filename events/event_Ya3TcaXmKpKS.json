@@ -1,0 +1,37 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-UmefhlE0",
+        "supplier_contact": "supplierUmefhlE0@example.com",
+        "products": [
+            {
+                "product_name": "Product-ducimus-explicabo",
+                "product_description": "Aliquam hic cupiditate debitis, placeat aperiam eum eaque?",
+                "product_quantity": 73,
+                "product_price": 39.85
+            },
+            {
+                "product_name": "Product-molestias-at",
+                "product_description": "Beatae sequi asperiores quod, esse voluptate accusamus quae mollitia sed itaque excepturi officiis soluta, expedita perferendis eius quasi vitae deserunt quidem tempora suscipit explicabo porro animi.",
+                "product_quantity": 67,
+                "product_price": 25.61
+            },
+            {
+                "product_name": "Product-suscipit-iusto",
+                "product_description": "Neque saepe debitis ducimus ipsum laudantium minima et quibusdam beatae hic, fuga similique iusto impedit porro, provident dolorum inventore eius aspernatur eos repellendus sapiente, deserunt omnis consequatur sapiente obcaecati dolorum pariatur unde enim id, voluptatem praesentium aliquid accusamus beatae soluta at magni adipisci amet ipsa itaque.",
+                "product_quantity": 98,
+                "product_price": 50.96
+            },
+            {
+                "product_name": "Product-a-quos",
+                "product_description": "Maxime sed numquam ex tempora, nobis earum maxime amet debitis nisi laborum laboriosam minus neque, tenetur sunt voluptas ipsa unde a vitae.",
+                "product_quantity": 51,
+                "product_price": 46.08
+            },
+            {
+                "product_name": "Product-quisquam-dolores",
+                "product_quantity": 15,
+                "product_price": 93.74
+            }
+        ]
+    }
+}

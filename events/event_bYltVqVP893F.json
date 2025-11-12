@@ -1,0 +1,14 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-opTwFzYf",
+        "supplier_contact": "supplieropTwFzYf@example.com",
+        "products": [
+            {
+                "product_name": "Product-culpa-consequuntur",
+                "product_description": "Unde sed assumenda tenetur nulla dolorem, nihil tenetur maiores, officia cum magnam deserunt quis inventore natus impedit molestiae, hic dolore atque illum iusto aut incidunt necessitatibus quidem delectus, eos similique tempore tempora dignissimos consectetur odio voluptate nesciunt ex.",
+                "product_quantity": 89,
+                "product_price": 70.13
+            }
+        ]
+    }
+}

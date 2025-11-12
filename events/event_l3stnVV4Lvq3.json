@@ -1,0 +1,14 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-rFTpwETX",
+        "supplier_contact": "supplierrFTpwETX@example.com",
+        "products": [
+            {
+                "product_name": "Product-laborum-dolor",
+                "product_description": "Nemo quos voluptate, fugiat qui ut voluptates dignissimos optio maiores reprehenderit totam cum commodi, quibusdam minima amet sequi suscipit aspernatur quaerat odit blanditiis aut.",
+                "product_quantity": 26,
+                "product_price": 33.45
+            }
+        ]
+    }
+}

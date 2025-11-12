@@ -1,0 +1,14 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-0Wntq9bP",
+        "supplier_contact": "supplier0Wntq9bP@example.com",
+        "products": [
+            {
+                "product_name": "Product-tempora-repudiandae",
+                "product_description": "Labore minus eligendi nostrum maxime doloremque id facere repellendus nulla veritatis, quam eaque commodi mollitia consectetur cumque ex nisi, praesentium rem ab tenetur libero minima nobis a quasi maxime et.",
+                "product_quantity": 40,
+                "product_price": 48.77
+            }
+        ]
+    }
+}

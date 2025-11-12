@@ -1,0 +1,20 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-4zabxtuN",
+        "supplier_contact": "supplier4zabxtuN@example.com",
+        "products": [
+            {
+                "product_name": "Product-hic-nam",
+                "product_description": "Temporibus necessitatibus nulla officia non laudantium sint, quo quisquam accusamus a eveniet blanditiis laborum, rem dignissimos laudantium nobis animi voluptates sunt facilis eius.",
+                "product_quantity": 15,
+                "product_price": 30.71
+            },
+            {
+                "product_name": "Product-nam-ipsa",
+                "product_description": "Labore dolore quibusdam repellendus dignissimos porro accusantium qui earum, praesentium soluta quia perspiciatis dicta, mollitia nihil explicabo blanditiis omnis esse illo exercitationem non?",
+                "product_quantity": 90,
+                "product_price": 8.01
+            }
+        ]
+    }
+}

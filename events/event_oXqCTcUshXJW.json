@@ -1,0 +1,38 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-TalTrTuq",
+        "supplier_contact": "supplierTalTrTuq@example.com",
+        "products": [
+            {
+                "product_name": "Product-culpa-nisi",
+                "product_description": "Explicabo laudantium maiores vero nostrum rerum architecto provident laborum amet magnam delectus, quia saepe possimus doloribus mollitia earum ratione, et ad excepturi unde optio libero porro asperiores voluptate tenetur natus pariatur?",
+                "product_quantity": 9,
+                "product_price": 69.99
+            },
+            {
+                "product_name": "Product-architecto-aliquam",
+                "product_description": "Quod amet eius voluptatem repellat hic accusantium, in sunt pariatur harum ex?",
+                "product_quantity": 7,
+                "product_price": 35.65
+            },
+            {
+                "product_name": "Product-minus-recusandae",
+                "product_description": "A temporibus officia ipsam vel velit quidem quos, facilis maiores quas blanditiis explicabo rerum ullam exercitationem?",
+                "product_quantity": 40,
+                "product_price": 56.12
+            },
+            {
+                "product_name": "Product-tenetur-laborum",
+                "product_description": "Facere aut recusandae temporibus laborum vel ex commodi blanditiis rem impedit iusto, vel voluptatibus ad sit alias eum voluptatem aliquam nostrum distinctio, voluptas deserunt incidunt nostrum dolore?",
+                "product_quantity": 49,
+                "product_price": 37.7
+            },
+            {
+                "product_name": "Product-provident-ratione",
+                "product_description": "Quod dolore voluptate magnam ex non, dignissimos excepturi veritatis illum harum quo vero magni eum consequatur, doloremque voluptas aliquam nulla, error nobis consequuntur, repellat provident vel minus impedit laborum?",
+                "product_quantity": 55,
+                "product_price": 18.09
+            }
+        ]
+    }
+}

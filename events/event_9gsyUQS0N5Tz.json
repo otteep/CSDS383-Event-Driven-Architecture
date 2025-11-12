@@ -1,0 +1,25 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-CcSCClzd",
+        "products": [
+            {
+                "product_name": "Product-voluptatum-et",
+                "product_description": "Quidem laboriosam molestiae enim ipsam veritatis dolores corporis tempore, labore accusamus natus sed consectetur nam nesciunt velit quia id.",
+                "product_quantity": 22,
+                "product_price": 50.03
+            },
+            {
+                "product_name": "Product-incidunt-molestiae",
+                "product_description": "Deserunt ipsam a dolores hic repudiandae, perferendis placeat praesentium, consequatur error molestiae sunt quidem provident dignissimos quae similique enim, ducimus consequatur in quasi exercitationem aut nobis incidunt, consequatur alias earum.",
+                "product_quantity": 50,
+                "product_price": 28.3
+            },
+            {
+                "product_name": "Product-alias-deserunt",
+                "product_description": "Nesciunt consequuntur impedit quo, error doloremque deserunt libero explicabo eaque, fugit eum repudiandae, totam cum ducimus eaque illum quidem?",
+                "product_quantity": 62,
+                "product_price": 67.79
+            }
+        ]
+    }
+}

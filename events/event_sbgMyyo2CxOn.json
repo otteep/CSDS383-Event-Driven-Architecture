@@ -1,0 +1,32 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-D0STKRSo",
+        "supplier_contact": "supplierD0STKRSo@example.com",
+        "products": [
+            {
+                "product_name": "Product-non-numquam",
+                "product_description": "Libero temporibus aut ipsam expedita velit commodi, pariatur iure voluptate tempore explicabo ratione nulla laborum recusandae.",
+                "product_quantity": 40,
+                "product_price": 34.89
+            },
+            {
+                "product_name": "Product-laborum-deleniti",
+                "product_description": "Quisquam ex officia quam voluptatum et perspiciatis laboriosam nostrum dolor, quis expedita explicabo laudantium maiores molestias ea officia quas laboriosam, expedita inventore ipsam, facilis adipisci iste laborum voluptatem temporibus rem aliquid repellat consequuntur illo totam, deserunt commodi repellat ipsam nisi nihil tenetur.",
+                "product_quantity": 71,
+                "product_price": 70.3
+            },
+            {
+                "product_name": "Product-necessitatibus-voluptatem",
+                "product_description": "Hic alias itaque repellendus unde dolores impedit corrupti necessitatibus quis, molestiae ipsa quis laudantium, modi nemo nostrum cupiditate rerum possimus aliquam consequuntur neque sunt, nemo eligendi quae reprehenderit quidem alias quibusdam minima fugit incidunt?",
+                "product_quantity": 21,
+                "product_price": 33.87
+            },
+            {
+                "product_name": "Product-atque-sint",
+                "product_description": "Rem accusantium nisi magnam consequatur ipsum distinctio saepe eos, accusantium amet quam minus suscipit, excepturi consequatur sunt deleniti sequi, deserunt atque iure voluptatum ab adipisci veritatis.",
+                "product_quantity": 25,
+                "product_price": 19.23
+            }
+        ]
+    }
+}

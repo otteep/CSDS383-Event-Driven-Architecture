@@ -1,0 +1,20 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-6TvUJajI",
+        "supplier_contact": "supplier6TvUJajI@example.com",
+        "products": [
+            {
+                "product_name": "Product-veritatis-cupiditate",
+                "product_description": "Fugit suscipit placeat at voluptatem sit quo temporibus odit, doloribus vero voluptates quas voluptatibus?",
+                "product_quantity": 25,
+                "product_price": 38.58
+            },
+            {
+                "product_name": "Product-ipsam-molestias",
+                "product_description": "Dolor doloremque debitis eligendi enim natus fugiat, expedita minima amet itaque sint consectetur recusandae officiis molestias libero, aspernatur quaerat vero fugiat mollitia velit nemo voluptatem omnis fugit sequi, omnis consequuntur ipsam.",
+                "product_quantity": 37,
+                "product_price": 14.82
+            }
+        ]
+    }
+}

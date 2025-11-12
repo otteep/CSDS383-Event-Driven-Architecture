@@ -1,0 +1,38 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-eERb8566",
+        "supplier_contact": "suppliereERb8566@example.com",
+        "products": [
+            {
+                "product_name": "Product-esse-praesentium",
+                "product_description": "Sit officiis mollitia enim error, pariatur veritatis earum suscipit, iure nostrum dignissimos vero harum voluptate pariatur voluptatem quia?",
+                "product_quantity": 64,
+                "product_price": 31.3
+            },
+            {
+                "product_name": "Product-repudiandae-illo",
+                "product_description": "In autem delectus harum maiores eum dicta, modi atque accusantium vel commodi officiis rerum consequatur, quaerat laudantium maiores obcaecati dolore doloribus placeat itaque tempore cupiditate odio, rerum eaque quibusdam voluptatem.",
+                "product_quantity": 24,
+                "product_price": 54.31
+            },
+            {
+                "product_name": "Product-nisi-maxime",
+                "product_description": "Tempora quasi hic voluptas ullam cum architecto autem molestias, exercitationem inventore ratione quae officia atque neque dolorum voluptatum eos sapiente quod, architecto minus voluptatem vero, esse dolores accusamus laudantium praesentium tenetur magni molestias, dolore velit nisi ullam?",
+                "product_quantity": 82,
+                "product_price": 52.5
+            },
+            {
+                "product_name": "Product-saepe-nemo",
+                "product_description": "Rem sequi veniam nam doloremque, tenetur ipsum ea vero reiciendis possimus, quos veritatis repellendus et, dolor commodi distinctio saepe?",
+                "product_quantity": 21,
+                "product_price": 36.44
+            },
+            {
+                "product_name": "Product-laborum-harum",
+                "product_description": "Odio perferendis facere totam voluptatibus qui dicta inventore debitis eius, sed blanditiis quod rem, adipisci voluptatum assumenda?",
+                "product_quantity": 25,
+                "product_price": 13.05
+            }
+        ]
+    }
+}

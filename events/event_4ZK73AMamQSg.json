@@ -1,0 +1,14 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-A0o6ePFN",
+        "supplier_contact": "supplierA0o6ePFN@example.com",
+        "products": [
+            {
+                "product_name": "Product-dicta-praesentium",
+                "product_description": "Eveniet veniam minima ex possimus ratione numquam quidem ullam error tempora, illo quos natus exercitationem deleniti alias, possimus incidunt excepturi adipisci animi?",
+                "product_quantity": 16,
+                "product_price": 1.23
+            }
+        ]
+    }
+}

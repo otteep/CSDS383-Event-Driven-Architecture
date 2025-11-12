@@ -1,0 +1,26 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-v7QgPPwi",
+        "supplier_contact": "supplierv7QgPPwi@example.com",
+        "products": [
+            {
+                "product_name": "Product-mollitia-quis",
+                "product_description": "Officiis doloribus vero tenetur, similique voluptatum ea accusantium cum labore magni?",
+                "product_quantity": 65,
+                "product_price": 42.08
+            },
+            {
+                "product_name": "Product-asperiores-culpa",
+                "product_description": "Voluptatibus necessitatibus eum ab eos cumque doloribus itaque, suscipit voluptatem reiciendis consequuntur impedit ab?",
+                "product_quantity": 80,
+                "product_price": 22.35
+            },
+            {
+                "product_name": "Product-laboriosam-cumque",
+                "product_description": "Iure facilis similique corporis nostrum quo officiis natus, nulla excepturi veniam dolor dolorem eius, fugiat pariatur vel animi?",
+                "product_quantity": 52,
+                "product_price": 28.08
+            }
+        ]
+    }
+}

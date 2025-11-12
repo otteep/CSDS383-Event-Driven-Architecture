@@ -1,0 +1,37 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-gzD2y5x9",
+        "products": [
+            {
+                "product_name": "Product-iure-reprehenderit",
+                "product_description": "Repudiandae expedita consequuntur esse quod maiores quas modi, doloremque ab aliquid fugiat excepturi at obcaecati consequatur, consequatur nam maiores soluta voluptate?",
+                "product_quantity": 61,
+                "product_price": 76.86
+            },
+            {
+                "product_name": "Product-nesciunt-accusantium",
+                "product_description": "Iure labore unde quam rem veniam, soluta ipsam nostrum tenetur saepe libero dolor?",
+                "product_quantity": 96,
+                "product_price": 26.12
+            },
+            {
+                "product_name": "Product-labore-maiores",
+                "product_description": "Qui nulla quam quod sunt maiores perspiciatis fugit temporibus impedit error eaque, est optio accusantium perspiciatis sapiente ipsum voluptatem fugit ipsam pariatur similique, dicta provident aspernatur ex, rerum molestias consequatur aut beatae id harum deserunt totam nihil distinctio ratione, nostrum dolorem necessitatibus.",
+                "product_quantity": 69,
+                "product_price": 5.49
+            },
+            {
+                "product_name": "Product-maiores-id",
+                "product_description": "Voluptatem placeat distinctio sed nostrum dolor accusantium impedit eligendi nam itaque, non iusto tenetur, harum eaque consequatur quaerat autem possimus minus, repudiandae quidem totam, rerum sapiente voluptates rem repudiandae laudantium quae.",
+                "product_quantity": 27,
+                "product_price": 2.13
+            },
+            {
+                "product_name": "Product-voluptatum-officia",
+                "product_description": "Necessitatibus facilis molestiae, explicabo iusto aut hic nemo praesentium labore culpa, enim sunt perspiciatis tenetur atque amet voluptatibus facere ea?",
+                "product_quantity": 36,
+                "product_price": 40.56
+            }
+        ]
+    }
+}

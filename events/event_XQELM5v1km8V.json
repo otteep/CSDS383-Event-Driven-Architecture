@@ -1,0 +1,14 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-vMuG2P4n",
+        "supplier_contact": "suppliervMuG2P4n@example.com",
+        "products": [
+            {
+                "product_name": "Product-expedita-quaerat",
+                "product_description": "Ipsum dignissimos accusamus maiores non porro excepturi quod, mollitia nostrum sint non voluptatem dolores amet excepturi expedita in, alias accusantium eaque, obcaecati delectus ab cupiditate distinctio laudantium officia eveniet, aliquid blanditiis sequi voluptatibus vitae vero possimus.",
+                "product_quantity": 93,
+                "product_price": 45.03
+            }
+        ]
+    }
+}

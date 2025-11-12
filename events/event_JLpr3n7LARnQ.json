@@ -1,0 +1,32 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-6H1vAcKT",
+        "supplier_contact": "supplier6H1vAcKT@example.com",
+        "products": [
+            {
+                "product_name": "Product-iste-ad",
+                "product_description": "Eum voluptatibus laboriosam dolore aliquam sed rerum ab cum, dolore quasi minus quo adipisci rem quam voluptate cum cumque tempora?",
+                "product_quantity": 81,
+                "product_price": 47.04
+            },
+            {
+                "product_name": "Product-est-blanditiis",
+                "product_description": "Aliquid molestias ab hic dignissimos repellendus commodi, velit molestias assumenda necessitatibus iure odit similique quaerat, at eum sed totam amet adipisci asperiores fuga doloribus, numquam consequatur non aliquam mollitia obcaecati deleniti.",
+                "product_quantity": 48,
+                "product_price": 20.51
+            },
+            {
+                "product_name": "Product-soluta-odit",
+                "product_description": "Delectus deserunt obcaecati sed, assumenda ad earum suscipit, quidem quaerat dolorum suscipit molestias sapiente nemo nesciunt saepe ratione, necessitatibus tenetur cum nemo ad, nesciunt iusto aliquam quis repellendus eos sit labore alias.",
+                "product_quantity": 10,
+                "product_price": 50.89
+            },
+            {
+                "product_name": "Product-explicabo-doloribus",
+                "product_description": "Voluptatibus eius adipisci, ducimus mollitia repellat quod dolorum assumenda minima animi esse corporis, non debitis nulla delectus cupiditate sequi ab beatae, quas voluptas non nam porro excepturi laborum sint quaerat?",
+                "product_quantity": 81,
+                "product_price": 55.76
+            }
+        ]
+    }
+}

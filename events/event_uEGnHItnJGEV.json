@@ -1,0 +1,25 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-zqctB06B",
+        "supplier_contact": "supplierzqctB06B@example.com",
+        "products": [
+            {
+                "product_name": "Product-eveniet-asperiores",
+                "product_description": "Distinctio autem labore magni qui asperiores cupiditate incidunt eaque vero officiis facilis, ex impedit nulla minus officia ipsum?",
+                "product_quantity": 3,
+                "product_price": 30.09
+            },
+            {
+                "product_name": "Product-soluta-labore",
+                "product_description": "Sint iste nemo quaerat rem mollitia ipsam omnis sed, aspernatur reprehenderit veniam autem exercitationem atque alias.",
+                "product_price": 41.25
+            },
+            {
+                "product_name": "Product-qui-sunt",
+                "product_description": "Modi quam dolor perspiciatis repudiandae voluptatibus maiores, dolorem tenetur ullam in labore quas harum facere laudantium, accusantium quia tempore doloremque a ducimus alias velit quisquam dolores.",
+                "product_quantity": 31,
+                "product_price": 20.76
+            }
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-9KVwCvc2",
+        "supplier_contact": "supplier9KVwCvc2@example.com",
+        "products": [
+            {
+                "product_name": "Product-omnis-harum",
+                "product_description": "Eius porro repellendus, provident repellendus veniam similique?",
+                "product_quantity": 35,
+                "product_price": 30.56
+            }
+        ]
+    }
+}

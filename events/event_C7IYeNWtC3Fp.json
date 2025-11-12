@@ -1,0 +1,20 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-VaB5gczt",
+        "supplier_contact": "supplierVaB5gczt@example.com",
+        "products": [
+            {
+                "product_name": "Product-ratione-debitis",
+                "product_description": "Eum quod ducimus provident maxime eveniet pariatur quo quidem officiis aut, tempora at suscipit, at exercitationem tempora distinctio harum doloribus suscipit consequatur, fuga nemo dolor, earum vero repudiandae eaque enim nesciunt voluptatem ut ratione asperiores numquam?",
+                "product_quantity": 89,
+                "product_price": 8.09
+            },
+            {
+                "product_name": "Product-voluptatem-magni",
+                "product_description": "Ipsum magnam at, quis est consequuntur totam animi at ipsam officia, doloremque unde mollitia ab, veritatis est assumenda at dolores atque aspernatur a porro, numquam eius consequuntur totam vero eum.",
+                "product_quantity": 77,
+                "product_price": 23.5
+            }
+        ]
+    }
+}

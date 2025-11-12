@@ -1,0 +1,26 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-XYJEHXLL",
+        "supplier_contact": "supplierXYJEHXLL@example.com",
+        "products": [
+            {
+                "product_name": "Product-delectus-aspernatur",
+                "product_description": "Ducimus sequi est fugiat harum voluptatibus iure eaque incidunt pariatur sunt, blanditiis harum nesciunt dicta?",
+                "product_quantity": 47,
+                "product_price": 50.68
+            },
+            {
+                "product_name": "Product-veniam-dolor",
+                "product_description": "Quibusdam laboriosam magnam fugit sed provident, fugiat ab natus maiores cupiditate, enim laborum itaque vero suscipit alias accusamus dolore odio quisquam, animi voluptate qui omnis distinctio velit, quidem error quas hic?",
+                "product_quantity": 12,
+                "product_price": 18.43
+            },
+            {
+                "product_name": "Product-accusantium-modi",
+                "product_description": "Recusandae ratione repellat earum placeat dolore neque dolor quam inventore, at magnam explicabo illum quod voluptatem obcaecati nemo alias natus veritatis, blanditiis quibusdam eum.",
+                "product_quantity": 57,
+                "product_price": 65.18
+            }
+        ]
+    }
+}

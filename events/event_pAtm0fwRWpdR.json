@@ -1,0 +1,38 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-A5Uq5xnp",
+        "supplier_contact": "supplierA5Uq5xnp@example.com",
+        "products": [
+            {
+                "product_name": "Product-amet-fugiat",
+                "product_description": "Saepe labore doloribus corrupti nisi blanditiis expedita sed explicabo, magnam aut nihil doloremque exercitationem eveniet voluptas, laudantium nesciunt rem inventore fugiat eum accusamus culpa, ex vitae fugiat ullam reiciendis commodi velit?",
+                "product_quantity": 55,
+                "product_price": 22.14
+            },
+            {
+                "product_name": "Product-qui-consequuntur",
+                "product_description": "Adipisci assumenda eius placeat maxime repellendus maiores natus voluptatum nulla quasi harum, delectus laudantium minus accusamus quibusdam et minima, error aliquid debitis quisquam numquam dicta voluptatem, rerum itaque at illo voluptatem quo, non voluptatem consequuntur quae odit impedit nemo nesciunt magnam corrupti ullam?",
+                "product_quantity": 93,
+                "product_price": 59.73
+            },
+            {
+                "product_name": "Product-pariatur-distinctio",
+                "product_description": "Nulla quidem voluptatibus quae doloremque laudantium illo animi, officiis rerum accusantium vel similique, culpa necessitatibus possimus explicabo laudantium.",
+                "product_quantity": 34,
+                "product_price": 62.3
+            },
+            {
+                "product_name": "Product-consequatur-porro",
+                "product_description": "Facere magni non modi, id eos quis doloribus a consequatur ratione, facere sint quod recusandae consequuntur tempora eveniet beatae porro, magni nemo laborum et laboriosam culpa.",
+                "product_quantity": 53,
+                "product_price": 16.98
+            },
+            {
+                "product_name": "Product-maxime-vel",
+                "product_description": "Dignissimos eius porro, accusamus quod expedita praesentium asperiores eius repudiandae ipsa commodi numquam, omnis ut reprehenderit dolores veritatis totam, eum nam eligendi delectus nostrum ut accusantium vel?",
+                "product_quantity": 69,
+                "product_price": 30.22
+            }
+        ]
+    }
+}

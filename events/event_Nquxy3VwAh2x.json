@@ -1,0 +1,20 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-lqbH4PVf",
+        "supplier_contact": "supplierlqbH4PVf@example.com",
+        "products": [
+            {
+                "product_name": "Product-perferendis-facilis",
+                "product_description": "Unde quidem debitis qui quae tempore eligendi magnam temporibus animi perferendis, eius nobis magni voluptates quasi necessitatibus similique aut odio nostrum, nemo sapiente facere ratione inventore nostrum itaque vitae, iste debitis doloremque dignissimos animi reprehenderit ut modi impedit aut, totam consequuntur saepe repellendus quo voluptate optio reprehenderit nobis debitis iusto?",
+                "product_quantity": 5,
+                "product_price": 44.12
+            },
+            {
+                "product_name": "Product-harum-hic",
+                "product_description": "Totam ad rem, esse perferendis accusantium necessitatibus accusamus in velit porro magnam, perspiciatis sunt impedit, fugit quisquam eaque rerum consectetur itaque enim ratione, qui pariatur suscipit error alias.",
+                "product_quantity": 86,
+                "product_price": 30.23
+            }
+        ]
+    }
+}

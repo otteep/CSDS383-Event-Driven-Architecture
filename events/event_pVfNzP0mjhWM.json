@@ -1,0 +1,20 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-5dZiMR7f",
+        "supplier_contact": "supplier5dZiMR7f@example.com",
+        "products": [
+            {
+                "product_name": "Product-placeat-libero",
+                "product_description": "Quisquam voluptates voluptate maxime blanditiis, itaque ipsum nulla laudantium mollitia.",
+                "product_quantity": 41,
+                "product_price": 36.09
+            },
+            {
+                "product_name": "Product-quibusdam-possimus",
+                "product_description": "Mollitia eius vero sint aliquid accusantium soluta placeat recusandae, expedita soluta voluptatem impedit repellat laudantium dolorem natus, officiis quae maiores eius praesentium ipsa amet blanditiis obcaecati aperiam, repellendus nam ab ratione libero facilis atque nisi dolore, nesciunt commodi voluptate sed.",
+                "product_quantity": 21,
+                "product_price": 51.5
+            }
+        ]
+    }
+}

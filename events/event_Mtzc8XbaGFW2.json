@@ -1,0 +1,13 @@
+{
+    "supplier": {
+        "supplier_contact": "supplierMTxmWhc6@example.com",
+        "products": [
+            {
+                "product_name": "Product-dolor-qui",
+                "product_description": "Nesciunt veniam ullam unde eum numquam iusto iure atque mollitia, sunt odit dolores dolore repudiandae voluptatibus animi ipsum.",
+                "product_quantity": 6,
+                "product_price": 17.67
+            }
+        ]
+    }
+}

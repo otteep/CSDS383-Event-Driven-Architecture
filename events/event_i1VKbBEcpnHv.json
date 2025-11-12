@@ -1,0 +1,32 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-Wg62GEn0",
+        "supplier_contact": "supplierWg62GEn0@example.com",
+        "products": [
+            {
+                "product_name": "Product-incidunt-voluptas",
+                "product_description": "Atque laboriosam aspernatur eaque laborum nam, dicta veniam ab?",
+                "product_quantity": 23,
+                "product_price": 77.23
+            },
+            {
+                "product_name": "Product-perferendis-laboriosam",
+                "product_description": "Totam quisquam temporibus expedita repudiandae deleniti molestiae a eius, qui labore totam repellat nemo vero consequatur error placeat harum, cupiditate quisquam temporibus enim eligendi eaque, debitis blanditiis quas dignissimos obcaecati voluptatibus soluta harum facere alias.",
+                "product_quantity": 24,
+                "product_price": 76.12
+            },
+            {
+                "product_name": "Product-eius-facilis",
+                "product_description": "Minus assumenda ad culpa aperiam ipsa consectetur deleniti eaque libero, eveniet exercitationem officiis rerum et dicta explicabo deserunt aut accusantium ea, ab id laudantium perferendis, sunt officia totam dolor minima?",
+                "product_quantity": 42,
+                "product_price": 15.59
+            },
+            {
+                "product_name": "Product-praesentium-eos",
+                "product_description": "Quod fugiat officiis quam ducimus, voluptas quae deleniti magnam veniam corrupti, voluptatibus iure praesentium sint repudiandae sequi tempora magnam suscipit voluptate.",
+                "product_quantity": 13,
+                "product_price": 63.91
+            }
+        ]
+    }
+}

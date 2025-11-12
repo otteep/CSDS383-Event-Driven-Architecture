@@ -1,0 +1,32 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-uFLFGCfn",
+        "supplier_contact": "supplieruFLFGCfn@example.com",
+        "products": [
+            {
+                "product_name": "Product-tempore-omnis",
+                "product_description": "Corporis obcaecati possimus consequuntur natus facere tempora architecto consequatur dignissimos autem, aspernatur velit ullam voluptatibus a provident, numquam odit dolor sit porro rerum dicta, nulla enim a deserunt neque et accusamus, deserunt possimus dolores eaque perferendis molestias maxime.",
+                "product_quantity": 66,
+                "product_price": 49.55
+            },
+            {
+                "product_name": "Product-nam-totam",
+                "product_description": "Rem quia magni eum in, consequuntur optio et eius?",
+                "product_quantity": 80,
+                "product_price": 39.46
+            },
+            {
+                "product_name": "Product-deserunt-quo",
+                "product_description": "Recusandae aspernatur quibusdam iure ducimus a quisquam, a quas expedita harum sunt neque, cum reprehenderit magni alias vel cupiditate ipsam, facere obcaecati ex incidunt tempore possimus exercitationem adipisci quos at veniam?",
+                "product_quantity": 95,
+                "product_price": 70.91
+            },
+            {
+                "product_name": "Product-non-architecto",
+                "product_description": "Labore impedit dolore accusamus tempora tenetur hic, aut qui nulla expedita magni accusantium sapiente nobis, consequatur dolor perferendis placeat pariatur nobis recusandae voluptatem autem eveniet dolorum, amet praesentium neque sunt incidunt rerum, quidem reiciendis maiores a vitae vero aspernatur rem doloribus consectetur?",
+                "product_quantity": 19,
+                "product_price": 47.33
+            }
+        ]
+    }
+}

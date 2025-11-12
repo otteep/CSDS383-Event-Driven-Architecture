@@ -1,0 +1,14 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-A8tCIsfq",
+        "supplier_contact": "supplierA8tCIsfq@example.com",
+        "products": [
+            {
+                "product_name": "Product-quisquam-vero",
+                "product_description": "Unde porro sequi rerum voluptatibus corporis suscipit dicta hic esse recusandae, sint voluptates aspernatur dolor nobis ut asperiores ipsam animi veniam dolorum deleniti, neque corporis fuga voluptate facere, incidunt necessitatibus quidem amet rerum modi omnis officia impedit, ducimus quasi tempore?",
+                "product_quantity": 38,
+                "product_price": 31.54
+            }
+        ]
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-zR2BOrlx",
+        "supplier_contact": "supplierzR2BOrlx@example.com",
+        "products": [
+            {
+                "product_name": "Product-similique-sunt",
+                "product_description": "Maxime eius numquam provident quae beatae dolor nemo ipsam voluptatibus alias, placeat non amet doloribus vero harum deleniti provident voluptates sapiente illum, maiores vitae eligendi doloremque facere harum corporis quos impedit dolores voluptatibus?",
+                "product_quantity": 78,
+                "product_price": 61.32
+            },
+            {
+                "product_name": "Product-doloribus-recusandae",
+                "product_description": "Sunt asperiores eaque laborum facilis tempora assumenda, eos unde quas libero explicabo dolor assumenda ea qui voluptatem autem, soluta quisquam ullam doloribus, architecto distinctio iste saepe.",
+                "product_quantity": 66,
+                "product_price": 91.72
+            },
+            {
+                "product_name": "Product-magni-sed",
+                "product_description": "Ratione asperiores aliquam debitis nemo voluptatibus, illo distinctio quidem quae sit voluptates maiores et voluptate, consequatur illo quibusdam dolor quaerat omnis ipsum?",
+                "product_quantity": 43,
+                "product_price": 42.75
+            },
+            {
+                "product_name": "Product-a-in",
+                "product_description": "Impedit autem natus quas consequatur ratione officiis neque doloremque, assumenda ipsum tempore harum fugit quasi architecto, nam illo facilis eos pariatur, obcaecati at aut omnis dolores magni nesciunt minus neque molestias ducimus, at modi expedita soluta sit commodi.",
+                "product_quantity": 50,
+                "product_price": 81.39
+            }
+        ]
+    }
+}

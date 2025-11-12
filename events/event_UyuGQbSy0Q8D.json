@@ -1,0 +1,26 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-RRWt1HZy",
+        "supplier_contact": "supplierRRWt1HZy@example.com",
+        "products": [
+            {
+                "product_name": "Product-maiores-animi",
+                "product_description": "Facere animi numquam odio cum quo quaerat quasi, placeat iure minima laboriosam ipsa inventore cumque nulla aperiam cupiditate distinctio voluptatem, quia accusamus ad reiciendis assumenda ex rem voluptas.",
+                "product_quantity": 48,
+                "product_price": 90.41
+            },
+            {
+                "product_name": "Product-tempora-dolor",
+                "product_description": "Exercitationem aperiam repudiandae facilis molestias obcaecati, sit magni odit voluptatibus nulla blanditiis, tempore minima nisi dolores officia corrupti ducimus molestias aut, accusamus ipsam modi quam dicta laudantium provident necessitatibus nisi itaque veniam quas, voluptatibus porro id sint dolores.",
+                "product_quantity": 5,
+                "product_price": 37.34
+            },
+            {
+                "product_name": "Product-vel-architecto",
+                "product_description": "Facere deserunt quidem fugiat inventore dolorum recusandae officia, est officia maxime id et accusamus sequi voluptate, dolorem delectus corporis labore maxime dolores rerum reprehenderit ab culpa, commodi aspernatur impedit, possimus nobis dicta accusamus distinctio?",
+                "product_quantity": 88,
+                "product_price": 17.4
+            }
+        ]
+    }
+}

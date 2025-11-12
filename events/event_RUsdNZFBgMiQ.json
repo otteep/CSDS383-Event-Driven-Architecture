@@ -1,0 +1,38 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-G5H0Ldy3",
+        "supplier_contact": "supplierG5H0Ldy3@example.com",
+        "products": [
+            {
+                "product_name": "Product-dignissimos-error",
+                "product_description": "Rem error eius sed, quia distinctio unde ratione sint, repellendus voluptates exercitationem dolor unde earum quae asperiores delectus fuga, libero et nemo ut iure magni velit ratione at.",
+                "product_quantity": 100,
+                "product_price": 64.43
+            },
+            {
+                "product_name": "Product-sed-nemo",
+                "product_description": "Itaque voluptas laudantium odio dolor eaque consequatur, consequuntur fugiat quae eligendi laborum quibusdam?",
+                "product_quantity": 10,
+                "product_price": 15.04
+            },
+            {
+                "product_name": "Product-quas-tempora",
+                "product_description": "Perspiciatis culpa sapiente nihil accusantium magnam natus esse cumque, in quam itaque, eaque voluptate veritatis esse id, minima placeat doloribus veniam, praesentium illum nam ipsa distinctio omnis earum obcaecati similique tempora at incidunt?",
+                "product_quantity": 30,
+                "product_price": 67.02
+            },
+            {
+                "product_name": "Product-delectus-natus",
+                "product_description": "Nulla autem magni, in suscipit sapiente quos nobis vel quia possimus magnam ut?",
+                "product_quantity": 5,
+                "product_price": 80.43
+            },
+            {
+                "product_name": "Product-dignissimos-hic",
+                "product_description": "Numquam incidunt enim cum quaerat recusandae deleniti natus omnis amet, ducimus repudiandae dicta magnam?",
+                "product_quantity": 52,
+                "product_price": 60.07
+            }
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-udpn4mes",
+        "supplier_contact": "supplierudpn4mes@example.com",
+        "products": [
+            {
+                "product_name": "Product-ipsam-necessitatibus",
+                "product_description": "Quos repellendus ipsa hic debitis perferendis quisquam doloremque veniam dicta expedita neque, facere ullam ducimus quis ut incidunt cupiditate fugiat inventore, ut inventore iusto beatae id dolorum dolorem modi magni quasi rerum in?",
+                "product_quantity": 13,
+                "product_price": 20.99
+            }
+        ]
+    }
+}

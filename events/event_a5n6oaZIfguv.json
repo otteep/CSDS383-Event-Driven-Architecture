@@ -1,0 +1,20 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-Isre6lF5",
+        "supplier_contact": "supplierIsre6lF5@example.com",
+        "products": [
+            {
+                "product_name": "Product-ipsum-praesentium",
+                "product_description": "Pariatur reiciendis possimus autem velit commodi facere, qui eos unde recusandae eum sed non officiis est harum, hic repudiandae voluptatibus consequuntur perferendis maxime repellat aut animi, a ut aspernatur voluptate minima repellendus, repellat impedit atque sint.",
+                "product_quantity": 50,
+                "product_price": 19.11
+            },
+            {
+                "product_name": "Product-deserunt-ipsa",
+                "product_description": "Sed dolore facere maxime veritatis eligendi, vel nihil saepe, neque mollitia optio vel voluptas dolore expedita animi commodi?",
+                "product_quantity": 51,
+                "product_price": 77.85
+            }
+        ]
+    }
+}

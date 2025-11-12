@@ -1,0 +1,38 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-F1ETGzAn",
+        "supplier_contact": "supplierF1ETGzAn@example.com",
+        "products": [
+            {
+                "product_name": "Product-repellendus-alias",
+                "product_description": "Quasi dolores soluta ratione a cum nemo, dolorum aliquid illum saepe iusto, earum vitae eos pariatur ipsum qui veniam nihil.",
+                "product_quantity": 26,
+                "product_price": 56.55
+            },
+            {
+                "product_name": "Product-eveniet-magnam",
+                "product_description": "Aut vel earum unde tenetur quo officiis hic suscipit, sit corrupti voluptatibus ipsam a aut aperiam.",
+                "product_quantity": 44,
+                "product_price": 54.2
+            },
+            {
+                "product_name": "Product-magnam-quam",
+                "product_description": "Ad inventore perspiciatis, reprehenderit consequuntur adipisci consectetur est nesciunt ipsam laboriosam odit nisi temporibus.",
+                "product_quantity": 20,
+                "product_price": 38.83
+            },
+            {
+                "product_name": "Product-possimus-dolores",
+                "product_description": "Accusantium laboriosam beatae optio laudantium cumque dolor itaque eaque labore, culpa eaque architecto, modi harum architecto ipsam deleniti, quod quis reiciendis, quaerat neque error?",
+                "product_quantity": 97,
+                "product_price": 5.01
+            },
+            {
+                "product_name": "Product-ratione-voluptates",
+                "product_description": "Ullam corrupti tempora modi unde in vero a quo illum, delectus dolore distinctio quo sit reprehenderit consequuntur eligendi autem in, hic similique amet consequuntur quasi, fugit nostrum similique cupiditate veritatis debitis exercitationem.",
+                "product_quantity": 6,
+                "product_price": 98.25
+            }
+        ]
+    }
+}

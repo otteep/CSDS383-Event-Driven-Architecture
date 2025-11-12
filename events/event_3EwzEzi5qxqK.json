@@ -1,0 +1,20 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-ypHYTVnZ",
+        "supplier_contact": "supplierypHYTVnZ@example.com",
+        "products": [
+            {
+                "product_name": "Product-maxime-repellat",
+                "product_description": "Unde iusto impedit aliquam inventore culpa ea molestiae temporibus quibusdam voluptatibus nulla, odit natus quis dolor, voluptatem saepe ex numquam eligendi aliquam voluptatum, corrupti dolorum libero pariatur est repellendus recusandae magnam.",
+                "product_quantity": 75,
+                "product_price": 44.5
+            },
+            {
+                "product_name": "Product-corporis-ducimus",
+                "product_description": "Molestiae accusamus repudiandae dolores nesciunt, iure dicta ex sapiente quia optio corrupti.",
+                "product_quantity": 27,
+                "product_price": 54.0
+            }
+        ]
+    }
+}

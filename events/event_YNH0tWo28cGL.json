@@ -1,0 +1,32 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-Pvn9lceI",
+        "supplier_contact": "supplierPvn9lceI@example.com",
+        "products": [
+            {
+                "product_name": "Product-quidem-repellendus",
+                "product_description": "Doloribus consequatur inventore magni sed, velit enim tempore molestias, iusto iste deserunt magni quam molestiae distinctio itaque laborum dignissimos.",
+                "product_quantity": 58,
+                "product_price": 33.53
+            },
+            {
+                "product_name": "Product-voluptatum-recusandae",
+                "product_description": "Veniam mollitia laudantium quasi voluptates, quo quaerat aut corrupti repellat adipisci vero eaque eius, error sit perspiciatis repellat minus eos similique deleniti beatae doloribus amet reprehenderit, non sint consectetur earum eos quos hic eius, perspiciatis veniam ea cupiditate nihil consequatur illo qui est nulla dolore voluptates?",
+                "product_quantity": 76,
+                "product_price": 92.68
+            },
+            {
+                "product_name": "Product-a-consectetur",
+                "product_description": "Harum porro est, dicta laborum iste architecto dignissimos quis sit natus, quia veritatis quibusdam modi eligendi quaerat nam?",
+                "product_quantity": 52,
+                "product_price": 53.28
+            },
+            {
+                "product_name": "Product-nulla-modi",
+                "product_description": "Cupiditate architecto ducimus vitae velit ipsam eveniet unde, ea dignissimos provident temporibus enim, cupiditate sed earum mollitia reprehenderit aliquid quos, iure suscipit atque nobis doloremque aspernatur ullam ratione aut, totam ipsa iste sunt dicta minus.",
+                "product_quantity": 91,
+                "product_price": 21.49
+            }
+        ]
+    }
+}

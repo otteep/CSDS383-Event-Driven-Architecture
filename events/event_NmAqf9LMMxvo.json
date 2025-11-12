@@ -1,0 +1,20 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-PkToYvTl",
+        "supplier_contact": "supplierPkToYvTl@example.com",
+        "products": [
+            {
+                "product_name": "Product-molestias-voluptatibus",
+                "product_description": "Odio deserunt sequi, nobis corrupti temporibus error, provident praesentium quidem magnam assumenda quos, praesentium iure labore cupiditate aut quidem aliquid, aliquid quibusdam perferendis facilis.",
+                "product_quantity": 28,
+                "product_price": 42.03
+            },
+            {
+                "product_name": "Product-sunt-molestias",
+                "product_description": "Voluptatibus nisi suscipit autem mollitia sapiente delectus similique recusandae saepe, tenetur debitis quis, natus porro placeat impedit consequuntur autem obcaecati sunt magni molestias suscipit, dolores quasi eveniet.",
+                "product_quantity": 14,
+                "product_price": 53.33
+            }
+        ]
+    }
+}

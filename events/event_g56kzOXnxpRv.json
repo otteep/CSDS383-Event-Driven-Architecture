@@ -1,0 +1,32 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-xQUxgVMH",
+        "supplier_contact": "supplierxQUxgVMH@example.com",
+        "products": [
+            {
+                "product_name": "Product-consequuntur-qui",
+                "product_description": "Officiis numquam nesciunt reprehenderit soluta harum mollitia sit quidem ullam, libero repellendus nostrum optio neque molestiae iste magnam asperiores porro ratione.",
+                "product_quantity": 21,
+                "product_price": 12.5
+            },
+            {
+                "product_name": "Product-ab-hic",
+                "product_description": "Natus ipsum necessitatibus nisi nulla laudantium ut velit nihil reiciendis fuga iure, nam officiis tempore aliquid omnis similique unde ducimus eaque facilis cumque amet.",
+                "product_quantity": 45,
+                "product_price": 79.36
+            },
+            {
+                "product_name": "Product-soluta-reprehenderit",
+                "product_description": "Quasi quos magni sapiente excepturi repellat laborum a porro pariatur dolorum possimus, recusandae quo laboriosam qui voluptatum nisi ipsa nam nesciunt laborum assumenda a?",
+                "product_quantity": 8,
+                "product_price": 12.15
+            },
+            {
+                "product_name": "Product-quae-facere",
+                "product_description": "Voluptatibus a odit dolorum reiciendis, aspernatur nemo voluptate cupiditate hic eum dolore sit aliquid?",
+                "product_quantity": 38,
+                "product_price": 33.36
+            }
+        ]
+    }
+}

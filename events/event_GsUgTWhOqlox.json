@@ -1,0 +1,38 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-QhJKPGqu",
+        "supplier_contact": "supplierQhJKPGqu@example.com",
+        "products": [
+            {
+                "product_name": "Product-aut-nulla",
+                "product_description": "Saepe nobis laboriosam beatae perferendis quaerat, enim voluptates nesciunt quasi harum aspernatur cupiditate quo ducimus.",
+                "product_quantity": 63,
+                "product_price": 58.54
+            },
+            {
+                "product_name": "Product-modi-reprehenderit",
+                "product_description": "Sed magnam illum sit recusandae molestias asperiores deleniti dolorum labore ex molestiae, officia ducimus ea laudantium eveniet repellendus, dignissimos repudiandae veniam iste illum provident ullam quaerat sed similique, tempore dolorum dolore repellat modi error ipsam dicta architecto deleniti doloribus, consequuntur vel dolorem esse voluptatem rem.",
+                "product_quantity": 20,
+                "product_price": 43.24
+            },
+            {
+                "product_name": "Product-quaerat-cupiditate",
+                "product_description": "Expedita impedit et veniam ducimus asperiores corporis deserunt, explicabo laudantium aliquid fugit repellat esse recusandae, rerum adipisci consequuntur in perspiciatis minima, repudiandae necessitatibus ipsum laudantium fuga ducimus, nobis esse quis cumque ipsum iure ullam modi quibusdam rerum blanditiis.",
+                "product_quantity": 50,
+                "product_price": 90.11
+            },
+            {
+                "product_name": "Product-mollitia-cumque",
+                "product_description": "Voluptatibus sint possimus odit qui dicta, repellat nostrum exercitationem temporibus magnam inventore ullam asperiores, distinctio temporibus unde sed ab voluptas, quam dolores maxime eum rem ducimus explicabo.",
+                "product_quantity": 78,
+                "product_price": 11.79
+            },
+            {
+                "product_name": "Product-quod-eaque",
+                "product_description": "Perferendis doloribus tempora repellendus, fugit officia possimus, nisi fugiat cupiditate tempore iure, perspiciatis ex architecto ullam ipsa tempora iusto, repudiandae porro assumenda officiis consectetur neque.",
+                "product_quantity": 85,
+                "product_price": 97.5
+            }
+        ]
+    }
+}

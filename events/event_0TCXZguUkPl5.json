@@ -1,0 +1,26 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-8VsxajHj",
+        "supplier_contact": "supplier8VsxajHj@example.com",
+        "products": [
+            {
+                "product_name": "Product-sequi-eligendi",
+                "product_description": "Doloremque modi atque, possimus at ipsa non minus, quisquam tenetur porro, minus quis maxime, magnam officia expedita maiores suscipit praesentium?",
+                "product_quantity": 6,
+                "product_price": 23.21
+            },
+            {
+                "product_name": "Product-explicabo-provident",
+                "product_description": "Facere quod doloremque unde et nobis fugit suscipit fugiat non impedit quo, ea molestiae eaque, beatae ab necessitatibus saepe quod consequatur provident obcaecati architecto libero reprehenderit, veritatis repudiandae at quidem ab?",
+                "product_quantity": 30,
+                "product_price": 88.06
+            },
+            {
+                "product_name": "Product-consequuntur-natus",
+                "product_description": "Quod excepturi nihil quo quae saepe quam inventore perspiciatis sed, quae beatae doloremque, atque obcaecati officiis dolorem adipisci cupiditate ipsum recusandae vero, saepe enim doloribus vel cum earum, consectetur amet asperiores cupiditate sunt commodi vel voluptatum quod voluptatibus?",
+                "product_quantity": 1,
+                "product_price": 24.01
+            }
+        ]
+    }
+}

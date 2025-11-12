@@ -1,0 +1,25 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-rxBmsnNm",
+        "supplier_contact": "supplierrxBmsnNm@example.com",
+        "products": [
+            {
+                "product_name": "Product-debitis-corporis",
+                "product_description": "Minima voluptatem commodi tempora aut voluptates aliquam pariatur distinctio laudantium architecto, earum natus at aperiam repellendus rerum possimus, quis minima sunt totam veritatis nobis, molestiae quasi placeat eum at fugiat nulla possimus consequuntur autem corrupti?",
+                "product_quantity": 36,
+                "product_price": 41.74
+            },
+            {
+                "product_name": "Product-libero-non",
+                "product_description": "Quaerat repellat labore magnam sit, ex voluptate doloribus voluptatibus, pariatur dolores odio minima odit nam provident accusantium, debitis ipsam nihil magnam molestiae natus inventore minima quasi iste eius, consequatur natus nulla dignissimos ad dolorem voluptatem laboriosam aliquam neque.",
+                "product_quantity": 43,
+                "product_price": 33.47
+            },
+            {
+                "product_description": "Quas temporibus doloribus nihil quam aliquid, alias aliquid impedit itaque veritatis rem temporibus, ex architecto voluptas veritatis, exercitationem beatae vitae praesentium autem recusandae, laboriosam laudantium recusandae ad quibusdam distinctio provident perferendis doloremque maiores repudiandae magni.",
+                "product_quantity": 32,
+                "product_price": 50.2
+            }
+        ]
+    }
+}

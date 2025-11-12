@@ -1,0 +1,14 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-aQejMvKx",
+        "supplier_contact": "supplieraQejMvKx@example.com",
+        "products": [
+            {
+                "product_name": "Product-sint-recusandae",
+                "product_description": "Praesentium inventore aliquam ad aperiam quas quibusdam excepturi officiis quaerat nulla, temporibus itaque veritatis esse, deserunt architecto facere aperiam.",
+                "product_quantity": 2,
+                "product_price": 79.41
+            }
+        ]
+    }
+}

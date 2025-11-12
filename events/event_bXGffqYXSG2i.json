@@ -1,0 +1,25 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-1Fyinaat",
+        "products": [
+            {
+                "product_name": "Product-impedit-necessitatibus",
+                "product_description": "Quidem laudantium ea est, dolorem ducimus similique sunt dicta nihil aliquid, quod quia saepe amet ex aut ratione quibusdam, doloremque ducimus cumque officia sequi optio porro rerum qui, officia ducimus laborum recusandae iure accusantium.",
+                "product_quantity": 53,
+                "product_price": 94.09
+            },
+            {
+                "product_name": "Product-unde-adipisci",
+                "product_description": "Deserunt iste aperiam qui dignissimos illum praesentium culpa dicta quaerat ad perferendis, beatae placeat architecto, nesciunt suscipit enim odit ducimus?",
+                "product_quantity": 55,
+                "product_price": 90.07
+            },
+            {
+                "product_name": "Product-fuga-provident",
+                "product_description": "Maiores tempore ducimus, ab sed quo consectetur quos amet, quia blanditiis iusto minima laboriosam, eligendi dolorem commodi nihil amet rerum natus harum corporis ipsam nostrum asperiores?",
+                "product_quantity": 4,
+                "product_price": 72.07
+            }
+        ]
+    }
+}

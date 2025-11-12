@@ -1,0 +1,20 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-C3ptQ2Ka",
+        "supplier_contact": "supplierC3ptQ2Ka@example.com",
+        "products": [
+            {
+                "product_name": "Product-consequuntur-magnam",
+                "product_description": "Nihil molestiae provident quae facilis nostrum itaque dolores dolore enim, repellat quidem quasi eaque quam blanditiis hic commodi esse, inventore asperiores nihil dolor odio aperiam?",
+                "product_quantity": 75,
+                "product_price": 53.18
+            },
+            {
+                "product_name": "Product-voluptates-praesentium",
+                "product_description": "Cumque ratione sequi exercitationem ullam eaque dolor laudantium ut, libero itaque eius dicta, sapiente maxime reprehenderit ducimus impedit delectus.",
+                "product_quantity": 24,
+                "product_price": 84.5
+            }
+        ]
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-pTIpYmOO",
+        "supplier_contact": "supplierpTIpYmOO@example.com",
+        "products": [
+            {
+                "product_name": "Product-provident-quo",
+                "product_description": "Rem neque asperiores voluptatibus eum expedita quo, sapiente officiis magni, natus recusandae magni voluptatem impedit consequuntur iure nemo, culpa dolor inventore, nihil doloremque iure esse aliquam veniam consequuntur temporibus.",
+                "product_quantity": 68,
+                "product_price": 57.93
+            },
+            {
+                "product_name": "Product-magni-sapiente",
+                "product_description": "Incidunt numquam debitis consequatur natus ullam rem veniam quo, nobis nam suscipit aut quas adipisci tempora quibusdam sint corporis, dolores alias placeat neque cum dolorem sed cupiditate in harum?",
+                "product_quantity": 72,
+                "product_price": 9.63
+            }
+        ]
+    }
+}

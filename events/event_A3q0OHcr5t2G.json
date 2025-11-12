@@ -1,0 +1,20 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-XmgDRVo9",
+        "supplier_contact": "supplierXmgDRVo9@example.com",
+        "products": [
+            {
+                "product_name": "Product-eaque-et",
+                "product_description": "Nobis eius minus corporis impedit dolore exercitationem modi placeat a ea, nulla mollitia laboriosam excepturi iste delectus rerum dolor incidunt, atque inventore autem quos sequi similique, odio corporis sunt velit repellat maxime similique assumenda eius rem vel ipsum.",
+                "product_quantity": 77,
+                "product_price": 8.47
+            },
+            {
+                "product_name": "Product-fugit-delectus",
+                "product_description": "Doloremque laboriosam quibusdam esse voluptatum numquam neque qui earum laborum, magni architecto ut earum possimus asperiores vitae, accusantium hic totam odio?",
+                "product_quantity": 59,
+                "product_price": 81.86
+            }
+        ]
+    }
+}

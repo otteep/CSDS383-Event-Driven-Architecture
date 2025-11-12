@@ -1,0 +1,32 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-AwkeSRVx",
+        "supplier_contact": "supplierAwkeSRVx@example.com",
+        "products": [
+            {
+                "product_name": "Product-at-et",
+                "product_description": "Hic odio laboriosam quod, deserunt incidunt perferendis aspernatur earum mollitia nobis recusandae in officiis ut?",
+                "product_quantity": 15,
+                "product_price": 4.6
+            },
+            {
+                "product_name": "Product-quibusdam-eum",
+                "product_description": "Voluptate cupiditate debitis odio rerum perspiciatis quasi exercitationem voluptas, fuga facere voluptatem dignissimos tempore nulla minus, praesentium nisi explicabo cum porro sit ab quibusdam incidunt quisquam totam vero.",
+                "product_quantity": 65,
+                "product_price": 95.61
+            },
+            {
+                "product_name": "Product-blanditiis-praesentium",
+                "product_description": "Praesentium fugiat perspiciatis, reiciendis aliquid ipsum aliquam ipsa voluptatibus sunt pariatur corrupti deleniti?",
+                "product_quantity": 17,
+                "product_price": 16.74
+            },
+            {
+                "product_name": "Product-animi-aspernatur",
+                "product_description": "Vel quisquam praesentium laborum aspernatur consectetur officia expedita mollitia cumque, assumenda iure itaque earum illo aperiam aliquid debitis ipsum eius deleniti.",
+                "product_quantity": 92,
+                "product_price": 4.76
+            }
+        ]
+    }
+}

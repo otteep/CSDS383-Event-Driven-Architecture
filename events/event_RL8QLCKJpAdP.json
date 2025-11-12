@@ -1,0 +1,14 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-8VQ8oIju",
+        "supplier_contact": "supplier8VQ8oIju@example.com",
+        "products": [
+            {
+                "product_name": "Product-obcaecati-cum",
+                "product_description": "Vel dolorem eaque quis vitae harum reiciendis omnis sint tenetur minus laudantium, provident dignissimos eum officia odit illum?",
+                "product_quantity": 52,
+                "product_price": 5.77
+            }
+        ]
+    }
+}

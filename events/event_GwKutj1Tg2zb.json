@@ -1,0 +1,26 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-uXc1lVT0",
+        "supplier_contact": "supplieruXc1lVT0@example.com",
+        "products": [
+            {
+                "product_name": "Product-incidunt-eos",
+                "product_description": "A modi nisi laboriosam odio, illum numquam aperiam, reiciendis deleniti velit vel sit nisi, quasi nesciunt eius et placeat ratione dicta earum accusamus blanditiis necessitatibus?",
+                "product_quantity": 18,
+                "product_price": 70.6
+            },
+            {
+                "product_name": "Product-beatae-molestiae",
+                "product_description": "Eum dolorum et, ex officia a quod quos quam voluptatibus earum rem fugit dolorum optio, voluptas quia recusandae?",
+                "product_quantity": 4,
+                "product_price": 77.17
+            },
+            {
+                "product_name": "Product-itaque-tenetur",
+                "product_description": "Earum distinctio quam aliquid quas sit, nostrum et neque quisquam repellendus itaque nemo a nobis, sed ducimus dolore inventore facilis voluptas repellendus dignissimos delectus aspernatur vero sequi, reiciendis hic eius nam labore explicabo, dolores natus aut distinctio incidunt?",
+                "product_quantity": 65,
+                "product_price": 46.41
+            }
+        ]
+    }
+}

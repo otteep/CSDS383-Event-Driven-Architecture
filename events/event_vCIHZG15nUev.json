@@ -1,0 +1,14 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-ugf1qoa8",
+        "supplier_contact": "supplierugf1qoa8@example.com",
+        "products": [
+            {
+                "product_name": "Product-eligendi-atque",
+                "product_description": "Inventore minima aliquam animi cupiditate, nobis mollitia quaerat quis, eaque facere reprehenderit nobis modi, minus nisi autem porro eligendi nesciunt dicta ex officiis vel sapiente culpa.",
+                "product_quantity": 13,
+                "product_price": 70.88
+            }
+        ]
+    }
+}

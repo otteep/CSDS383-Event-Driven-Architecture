@@ -1,0 +1,14 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-CHYtjmkD",
+        "supplier_contact": "supplierCHYtjmkD@example.com",
+        "products": [
+            {
+                "product_name": "Product-iusto-velit",
+                "product_description": "Amet magni libero, facere fuga nulla neque id deserunt praesentium dolore consequuntur saepe quod, quidem nobis nisi.",
+                "product_quantity": 32,
+                "product_price": 47.91
+            }
+        ]
+    }
+}

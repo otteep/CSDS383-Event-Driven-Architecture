@@ -1,0 +1,20 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-dmMm0KQH",
+        "supplier_contact": "supplierdmMm0KQH@example.com",
+        "products": [
+            {
+                "product_name": "Product-nostrum-repellat",
+                "product_description": "Laborum doloremque distinctio nemo, excepturi quae iste similique vel quam laudantium rem dolor delectus eaque, adipisci dolorum sint, quibusdam est facere?",
+                "product_quantity": 14,
+                "product_price": 38.05
+            },
+            {
+                "product_name": "Product-eaque-praesentium",
+                "product_description": "Atque ratione autem necessitatibus molestiae dolorum veritatis quas, est quae expedita nihil quia ex quis qui quo?",
+                "product_quantity": 61,
+                "product_price": 31.28
+            }
+        ]
+    }
+}

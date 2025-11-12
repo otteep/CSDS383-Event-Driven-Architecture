@@ -1,0 +1,20 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-QYJduUP1",
+        "supplier_contact": "supplierQYJduUP1@example.com",
+        "products": [
+            {
+                "product_name": "Product-quasi-tenetur",
+                "product_description": "Quisquam sed quas, accusantium atque temporibus accusamus harum aliquid est ipsa a quis maiores sapiente, sapiente suscipit soluta dolore corporis libero obcaecati ex inventore sunt, enim eaque veniam nam quae recusandae possimus ullam.",
+                "product_quantity": 43,
+                "product_price": 61.23
+            },
+            {
+                "product_name": "Product-consequuntur-repudiandae",
+                "product_description": "Impedit distinctio perspiciatis minus, quos fugiat quibusdam, quis sit ipsum obcaecati in labore maxime itaque id?",
+                "product_quantity": 64,
+                "product_price": 43.26
+            }
+        ]
+    }
+}

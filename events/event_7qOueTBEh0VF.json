@@ -1,0 +1,32 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-WT4uzXQC",
+        "supplier_contact": "supplierWT4uzXQC@example.com",
+        "products": [
+            {
+                "product_name": "Product-nostrum-est",
+                "product_description": "Adipisci impedit laborum eos nulla harum necessitatibus soluta magnam, commodi quos vero adipisci neque non, quisquam numquam eius ad ullam voluptatum ab aspernatur, nemo quos quisquam nobis veritatis optio nostrum aut maxime labore cum culpa.",
+                "product_quantity": 58,
+                "product_price": 2.69
+            },
+            {
+                "product_name": "Product-quisquam-rerum",
+                "product_description": "Quisquam non ipsa cumque pariatur consequatur aliquid modi earum explicabo, velit incidunt laboriosam facere at hic atque voluptatem quis.",
+                "product_quantity": 9,
+                "product_price": 7.52
+            },
+            {
+                "product_name": "Product-accusamus-odio",
+                "product_description": "Necessitatibus dignissimos quibusdam obcaecati enim minus commodi molestiae quisquam maxime eos quam, in quis et at sed ipsum sunt.",
+                "product_quantity": 72,
+                "product_price": 36.27
+            },
+            {
+                "product_name": "Product-corrupti-earum",
+                "product_description": "Quibusdam distinctio dolorum provident fugiat quae eaque ipsa, cum minus velit voluptatibus nulla tenetur sed, perferendis a consequatur ab aspernatur ex at, veniam dolores illum laudantium architecto vitae animi officia perspiciatis dolore voluptatum, numquam animi ad sequi.",
+                "product_quantity": 57,
+                "product_price": 2.1
+            }
+        ]
+    }
+}

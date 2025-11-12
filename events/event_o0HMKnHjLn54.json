@@ -1,0 +1,26 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-8XAZo27d",
+        "supplier_contact": "supplier8XAZo27d@example.com",
+        "products": [
+            {
+                "product_name": "Product-ipsam-debitis",
+                "product_description": "Natus assumenda eius reiciendis cum, temporibus laborum rerum ea, quia praesentium eaque doloribus repellat fugit voluptates, molestias obcaecati saepe animi?",
+                "product_quantity": 9,
+                "product_price": 40.11
+            },
+            {
+                "product_name": "Product-explicabo-quae",
+                "product_description": "Perferendis voluptates explicabo, beatae in exercitationem veniam sed ut harum nostrum possimus, porro quaerat sapiente doloremque nemo numquam earum architecto eius, eligendi alias quae dignissimos consequuntur magnam totam aut quasi nobis, voluptas quos quis libero?",
+                "product_quantity": 1,
+                "product_price": 65.02
+            },
+            {
+                "product_name": "Product-amet-officiis",
+                "product_description": "Reiciendis eum atque fuga animi officiis quae explicabo qui repellat ex, pariatur repellendus expedita quam odio rem rerum, mollitia architecto officia distinctio magni, minus illo ut sapiente vero quia libero adipisci, ab molestiae eum officia corrupti ratione voluptatibus quos illum?",
+                "product_quantity": 39,
+                "product_price": 80.38
+            }
+        ]
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-vgyCgeay",
+        "products": [
+            {
+                "product_name": "Product-architecto-nemo",
+                "product_description": "Aspernatur laborum ducimus deserunt dolores reprehenderit, similique sapiente obcaecati neque eum?",
+                "product_quantity": 9,
+                "product_price": 46.57
+            },
+            {
+                "product_name": "Product-dicta-fugiat",
+                "product_description": "Cum numquam cupiditate eaque eligendi, sapiente provident fugit eaque quaerat commodi, quis atque distinctio incidunt aliquam iure?",
+                "product_quantity": 86,
+                "product_price": 61.7
+            },
+            {
+                "product_name": "Product-repellat-sapiente",
+                "product_description": "Libero officiis ratione saepe adipisci corrupti earum placeat dolores voluptas ad dolor, aliquid dolorum eius voluptatum iusto tenetur temporibus voluptas necessitatibus, quam earum doloremque.",
+                "product_quantity": 95,
+                "product_price": 76.39
+            },
+            {
+                "product_name": "Product-iste-repudiandae",
+                "product_description": "Autem magni temporibus sit inventore architecto sunt impedit nihil reprehenderit sapiente ut, hic eius nesciunt corrupti laborum dicta quas amet sit numquam.",
+                "product_quantity": 54,
+                "product_price": 42.35
+            }
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-JpK2K755",
+        "supplier_contact": "supplierJpK2K755@example.com",
+        "products": [
+            {
+                "product_name": "Product-natus-recusandae",
+                "product_description": "Dolore iusto ratione cum, eius ducimus maiores repellat id quia obcaecati culpa sequi voluptatum, voluptas neque nemo ullam eos corrupti eligendi omnis quod quis, corporis unde possimus officia minima illo mollitia sapiente excepturi tenetur atque illum?",
+                "product_quantity": 27,
+                "product_price": 71.88
+            }
+        ]
+    }
+}

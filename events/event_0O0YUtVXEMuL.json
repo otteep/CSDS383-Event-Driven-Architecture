@@ -1,0 +1,20 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-nrHbqfvc",
+        "supplier_contact": "suppliernrHbqfvc@example.com",
+        "products": [
+            {
+                "product_name": "Product-laboriosam-nihil",
+                "product_description": "Consequatur impedit nostrum hic saepe asperiores amet fugit quasi, tempora veniam cum iste iure aspernatur porro minima quos odit voluptatum, odio earum hic pariatur beatae unde aliquid atque?",
+                "product_quantity": 95,
+                "product_price": 74.21
+            },
+            {
+                "product_name": "Product-et-ipsam",
+                "product_description": "Corporis tenetur dolorum ipsum esse obcaecati at cum dolorem, facere placeat nemo earum corrupti quidem expedita unde hic omnis fuga neque?",
+                "product_quantity": 23,
+                "product_price": 99.62
+            }
+        ]
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-ru9T1onj",
+        "supplier_contact": "supplierru9T1onj@example.com",
+        "products": [
+            {
+                "product_name": "Product-vitae-molestiae",
+                "product_description": "Fuga assumenda inventore exercitationem voluptate atque architecto esse quod odit, ad et eum nisi repudiandae neque minus, nulla excepturi minus, sunt cupiditate laboriosam eaque consectetur modi, porro distinctio iste quisquam sunt voluptates fuga.",
+                "product_quantity": 46,
+                "product_price": 6.79
+            },
+            {
+                "product_name": "Product-quos-mollitia",
+                "product_description": "Itaque magnam error, ducimus nulla totam ea dolorum dicta nisi tempora officia, facere asperiores qui id illo consequatur, perspiciatis maxime illo eligendi laboriosam magni vel dignissimos vero obcaecati quod nemo.",
+                "product_quantity": 72,
+                "product_price": 93.38
+            },
+            {
+                "product_name": "Product-excepturi-quos",
+                "product_description": "Sequi magni reiciendis hic, sint iste inventore dignissimos soluta voluptate, ex aspernatur odio nesciunt, quisquam sequi magni nam voluptates?",
+                "product_quantity": 46,
+                "product_price": 90.92
+            },
+            {
+                "product_name": "Product-voluptatem-atque",
+                "product_description": "Ex beatae sed numquam totam sunt similique consectetur dolorem id voluptate, nulla nisi quis earum alias, veritatis in numquam officiis accusamus quidem magnam asperiores adipisci possimus quasi modi, culpa fugiat suscipit?",
+                "product_quantity": 64,
+                "product_price": 77.03
+            },
+            {
+                "product_name": "Product-corporis-odio",
+                "product_description": "Nostrum suscipit magnam optio quibusdam ipsum vitae, beatae iusto corrupti nostrum, laborum id dolor officiis harum ad itaque quisquam, asperiores ratione culpa voluptatem ducimus neque modi eaque aliquam quo cumque corrupti?",
+                "product_quantity": 74,
+                "product_price": 13.38
+            }
+        ]
+    }
+}

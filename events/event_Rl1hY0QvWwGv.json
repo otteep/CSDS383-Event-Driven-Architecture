@@ -1,0 +1,14 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-k3cON9Ci",
+        "supplier_contact": "supplierk3cON9Ci@example.com",
+        "products": [
+            {
+                "product_name": "Product-facere-esse",
+                "product_description": "Praesentium ex beatae, veritatis vero eum ex veniam possimus molestiae doloribus, repellat debitis inventore provident commodi sunt expedita laboriosam esse iure repellendus, dolor non amet eveniet tenetur temporibus.",
+                "product_quantity": 22,
+                "product_price": 93.55
+            }
+        ]
+    }
+}

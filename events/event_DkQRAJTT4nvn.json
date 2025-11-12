@@ -1,0 +1,14 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-COHYdlNw",
+        "supplier_contact": "supplierCOHYdlNw@example.com",
+        "products": [
+            {
+                "product_name": "Product-a-optio",
+                "product_description": "Culpa accusamus ad sit illo itaque obcaecati explicabo iusto doloribus aut expedita, labore facilis sed qui ullam itaque iusto debitis, nulla consequuntur minima?",
+                "product_quantity": 78,
+                "product_price": 87.14
+            }
+        ]
+    }
+}

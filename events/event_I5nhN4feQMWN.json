@@ -1,0 +1,38 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-56s70WQO",
+        "supplier_contact": "supplier56s70WQO@example.com",
+        "products": [
+            {
+                "product_name": "Product-voluptatum-esse",
+                "product_description": "Voluptatem cumque ratione dignissimos, ea quas quia corrupti sint libero placeat, laudantium inventore cum aperiam quibusdam eius commodi eveniet voluptate quia quidem animi?",
+                "product_quantity": 5,
+                "product_price": 46.76
+            },
+            {
+                "product_name": "Product-minus-beatae",
+                "product_description": "Nam sed quasi eaque atque, dolores soluta repellendus numquam quae labore et distinctio voluptate impedit, consectetur officia perferendis nostrum reiciendis reprehenderit beatae.",
+                "product_quantity": 34,
+                "product_price": 71.0
+            },
+            {
+                "product_name": "Product-cupiditate-quae",
+                "product_description": "Molestias quae reiciendis quos doloremque nisi voluptatibus odio explicabo dolorem laborum minus, provident tenetur error dignissimos dicta cupiditate nesciunt officiis, ex iusto asperiores nemo sed ad maxime a odio, perspiciatis necessitatibus quo iste earum repudiandae?",
+                "product_quantity": 46,
+                "product_price": 76.66
+            },
+            {
+                "product_name": "Product-velit-minus",
+                "product_description": "Quidem eum doloremque labore omnis praesentium accusamus ab voluptate repellendus id, voluptatem modi quo velit laborum assumenda asperiores molestiae laboriosam nemo maiores quibusdam, veritatis qui odio impedit amet placeat.",
+                "product_quantity": 70,
+                "product_price": 84.84
+            },
+            {
+                "product_name": "Product-quis-porro",
+                "product_description": "Tempora at nemo, molestias nulla sequi quod at earum magni numquam, molestiae aperiam minus numquam necessitatibus illum magnam doloremque quasi?",
+                "product_quantity": 39,
+                "product_price": 96.77
+            }
+        ]
+    }
+}

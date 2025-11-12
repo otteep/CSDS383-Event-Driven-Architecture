@@ -1,0 +1,19 @@
+{
+    "supplier": {
+        "supplier_contact": "supplierPzAqvCZC@example.com",
+        "products": [
+            {
+                "product_name": "Product-magni-suscipit",
+                "product_description": "Cum maiores quasi ratione adipisci, perferendis maxime similique quas quae id, quisquam libero itaque sit quibusdam tempora eum soluta mollitia voluptas sequi, deleniti tenetur veritatis debitis tempora nemo mollitia eum temporibus cupiditate repudiandae velit, quis voluptates optio exercitationem.",
+                "product_quantity": 72,
+                "product_price": 20.2
+            },
+            {
+                "product_name": "Product-atque-labore",
+                "product_description": "Laboriosam esse quas sint sequi, rerum aliquam enim reprehenderit inventore nisi at maiores soluta, id quaerat nostrum aliquam beatae fugit quos consectetur corporis soluta iusto, rerum eius dolorum cum non neque eum quisquam ipsa iste voluptatibus, maiores laudantium quod culpa tempore perferendis consequatur perspiciatis obcaecati labore.",
+                "product_quantity": 100,
+                "product_price": 13.85
+            }
+        ]
+    }
+}

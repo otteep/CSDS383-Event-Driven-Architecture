@@ -1,0 +1,26 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-REC2fFRa",
+        "supplier_contact": "supplierREC2fFRa@example.com",
+        "products": [
+            {
+                "product_name": "Product-qui-temporibus",
+                "product_description": "Aspernatur vitae et asperiores laboriosam laborum excepturi fugit aut, eius distinctio harum esse itaque aut voluptas debitis nobis sint quos exercitationem, autem iure sed et harum voluptas, debitis cupiditate eos officia dolore?",
+                "product_quantity": 56,
+                "product_price": 54.66
+            },
+            {
+                "product_name": "Product-porro-sit",
+                "product_description": "Eum porro ratione, quaerat quibusdam voluptate nobis odit voluptas fuga sequi pariatur aut, quaerat nostrum consequatur veritatis, inventore vel vitae quam sunt ipsum voluptas totam autem delectus obcaecati, assumenda saepe eveniet rerum eaque animi.",
+                "product_quantity": 38,
+                "product_price": 80.84
+            },
+            {
+                "product_name": "Product-tempore-autem",
+                "product_description": "Dolores suscipit excepturi magni praesentium labore alias, porro id recusandae repellat, maxime nihil voluptatem deserunt praesentium expedita odit.",
+                "product_quantity": 61,
+                "product_price": 80.57
+            }
+        ]
+    }
+}

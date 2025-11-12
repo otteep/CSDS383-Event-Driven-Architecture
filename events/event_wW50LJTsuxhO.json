@@ -1,0 +1,20 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-PTORjrXl",
+        "supplier_contact": "supplierPTORjrXl@example.com",
+        "products": [
+            {
+                "product_name": "Product-incidunt-aliquid",
+                "product_description": "Odit quam modi error dolores dignissimos nihil, molestiae cupiditate culpa dolore dicta ipsam, fuga voluptate quasi iste aliquid dolore ducimus esse voluptatum fugiat officiis, esse nobis reiciendis qui necessitatibus nihil?",
+                "product_quantity": 77,
+                "product_price": 33.98
+            },
+            {
+                "product_name": "Product-eius-sapiente",
+                "product_description": "Est dolores inventore quasi facilis dignissimos optio officiis, repudiandae aperiam soluta ea nesciunt, tempore incidunt asperiores ad nihil vel dolorem sint nobis ullam deleniti ipsa.",
+                "product_quantity": 88,
+                "product_price": 19.86
+            }
+        ]
+    }
+}

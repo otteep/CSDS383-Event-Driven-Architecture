@@ -1,0 +1,26 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-8GESBp6M",
+        "supplier_contact": "supplier8GESBp6M@example.com",
+        "products": [
+            {
+                "product_name": "Product-deserunt-ex",
+                "product_description": "Nulla eveniet sequi recusandae asperiores exercitationem vel cum quisquam blanditiis ea repellat, necessitatibus vitae excepturi magni natus quasi ad aliquam blanditiis, ratione accusantium deserunt dolore animi nobis necessitatibus distinctio perferendis itaque, laborum alias animi corrupti necessitatibus tenetur.",
+                "product_quantity": 74,
+                "product_price": 83.85
+            },
+            {
+                "product_name": "Product-autem-veniam",
+                "product_description": "Impedit voluptates id odit facilis ab incidunt voluptas sequi, officiis dolorem odit dicta nulla odio fugit cumque, fuga voluptas repellat ad esse maxime aspernatur, eum doloribus quis omnis ab ex nobis obcaecati sunt nostrum doloremque tempore?",
+                "product_quantity": 59,
+                "product_price": 34.88
+            },
+            {
+                "product_name": "Product-doloribus-ex",
+                "product_description": "Error ullam ipsum optio possimus eos, eius odio quod vitae nulla sint fugiat magni consectetur, consectetur fugiat voluptates laudantium deleniti alias ullam, deleniti consectetur veniam ipsa autem optio adipisci iure.",
+                "product_quantity": 11,
+                "product_price": 35.95
+            }
+        ]
+    }
+}

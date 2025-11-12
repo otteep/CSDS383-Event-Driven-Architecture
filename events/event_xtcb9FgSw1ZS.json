@@ -1,0 +1,20 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-J5UTi8d9",
+        "supplier_contact": "supplierJ5UTi8d9@example.com",
+        "products": [
+            {
+                "product_name": "Product-quas-aliquam",
+                "product_description": "Possimus at facere voluptate expedita placeat repudiandae dolorem soluta minus commodi necessitatibus, ea voluptas provident quibusdam libero inventore distinctio accusantium nisi cupiditate officiis consequuntur, beatae deleniti accusamus nesciunt totam voluptatibus, ipsa labore ullam expedita excepturi beatae vitae sapiente eius?",
+                "product_quantity": 61,
+                "product_price": 24.89
+            },
+            {
+                "product_name": "Product-sint-totam",
+                "product_description": "Iure alias culpa animi, quae id libero nam ut dicta cum consequatur, vitae quisquam consectetur, officiis adipisci quas suscipit tenetur optio, voluptatum ipsam aspernatur vero numquam porro temporibus quasi culpa laudantium ea debitis.",
+                "product_quantity": 9,
+                "product_price": 56.36
+            }
+        ]
+    }
+}

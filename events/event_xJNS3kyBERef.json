@@ -1,0 +1,14 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-vXWln6Nj",
+        "supplier_contact": "suppliervXWln6Nj@example.com",
+        "products": [
+            {
+                "product_name": "Product-dolore-eum",
+                "product_description": "Repellat recusandae est provident incidunt eius illum eveniet, eligendi quo possimus excepturi?",
+                "product_quantity": 1,
+                "product_price": 38.58
+            }
+        ]
+    }
+}

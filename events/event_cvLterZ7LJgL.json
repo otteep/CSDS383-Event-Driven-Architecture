@@ -1,0 +1,20 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-cIvJ2NBL",
+        "supplier_contact": "suppliercIvJ2NBL@example.com",
+        "products": [
+            {
+                "product_name": "Product-eum-maxime",
+                "product_description": "Qui labore dignissimos soluta nisi quis eligendi vitae aspernatur dolorum, autem dolor incidunt doloremque officia necessitatibus.",
+                "product_quantity": 89,
+                "product_price": 24.2
+            },
+            {
+                "product_name": "Product-molestias-accusantium",
+                "product_description": "Vel odit reiciendis quod ullam ad, magnam a fuga ea dolorum enim nihil assumenda saepe iusto autem sequi, iste animi dolores aut commodi deserunt cumque.",
+                "product_quantity": 22,
+                "product_price": 10.35
+            }
+        ]
+    }
+}

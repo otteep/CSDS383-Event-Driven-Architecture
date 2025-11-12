@@ -1,0 +1,38 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-MmJIkKTq",
+        "supplier_contact": "supplierMmJIkKTq@example.com",
+        "products": [
+            {
+                "product_name": "Product-quaerat-rem",
+                "product_description": "Deleniti accusamus libero vero tenetur quibusdam accusantium magnam amet cumque, ullam id inventore qui non pariatur quos dolore nisi?",
+                "product_quantity": 71,
+                "product_price": 64.94
+            },
+            {
+                "product_name": "Product-perspiciatis-accusamus",
+                "product_description": "Dolorem aperiam minima accusamus eligendi quae, debitis excepturi libero suscipit dignissimos quis vel aspernatur animi ad illo maxime, nisi ipsum culpa natus quisquam, pariatur deleniti aspernatur nihil?",
+                "product_quantity": 27,
+                "product_price": 74.4
+            },
+            {
+                "product_name": "Product-aut-corporis",
+                "product_description": "Vel architecto illum minima sequi placeat consequuntur magnam, eius vero vel voluptate dolores non in autem soluta modi, deserunt accusamus officia cupiditate sequi aut atque?",
+                "product_quantity": 7,
+                "product_price": 71.04
+            },
+            {
+                "product_name": "Product-modi-animi",
+                "product_description": "Minus eligendi incidunt natus, molestiae quia dolorum harum itaque nisi amet ratione in perferendis, labore maiores iste cupiditate voluptatum optio, iste reprehenderit ducimus eligendi cumque est deleniti perspiciatis quam consectetur saepe ullam?",
+                "product_quantity": 51,
+                "product_price": 20.12
+            },
+            {
+                "product_name": "Product-facilis-molestiae",
+                "product_description": "Deleniti totam deserunt facere dolore vel maxime natus ex libero, at eveniet deleniti similique accusantium qui ad dolore?",
+                "product_quantity": 49,
+                "product_price": 45.7
+            }
+        ]
+    }
+}

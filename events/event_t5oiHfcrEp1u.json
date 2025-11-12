@@ -1,0 +1,26 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-bopmOBOw",
+        "supplier_contact": "supplierbopmOBOw@example.com",
+        "products": [
+            {
+                "product_name": "Product-eos-quasi",
+                "product_description": "Corrupti at rem qui repudiandae deserunt explicabo nulla repellendus tempore obcaecati atque, consequatur distinctio consectetur architecto veniam enim cumque, esse exercitationem distinctio molestias repellendus eum fuga, illo perspiciatis perferendis, delectus magnam necessitatibus culpa iusto consequuntur.",
+                "product_quantity": 88,
+                "product_price": 20.66
+            },
+            {
+                "product_name": "Product-alias-debitis",
+                "product_description": "Dolorum inventore ipsam suscipit consequatur, illo fugit dolore deleniti dolorum at, ad excepturi ducimus neque esse sequi quod sit inventore, ducimus libero deleniti impedit aut esse hic architecto, doloribus modi hic.",
+                "product_quantity": 10,
+                "product_price": 9.03
+            },
+            {
+                "product_name": "Product-eos-quos",
+                "product_description": "Ipsam quas facilis corporis beatae repellendus tempore quia tenetur cupiditate incidunt, possimus facere magni labore unde accusamus.",
+                "product_quantity": 72,
+                "product_price": 12.09
+            }
+        ]
+    }
+}

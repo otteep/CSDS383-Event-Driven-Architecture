@@ -1,0 +1,13 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-I7lEh8Ur",
+        "supplier_contact": "supplierI7lEh8Ur@example.com",
+        "products": [
+            {
+                "product_name": "Product-vitae-fuga",
+                "product_description": "Doloribus quas ipsa atque, quam consequuntur fugiat quasi quidem, mollitia explicabo sapiente consequatur impedit repudiandae adipisci pariatur deleniti sed repellendus?",
+                "product_price": 22.71
+            }
+        ]
+    }
+}

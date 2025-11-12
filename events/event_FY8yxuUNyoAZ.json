@@ -1,0 +1,14 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-lnm1ja15",
+        "supplier_contact": "supplierlnm1ja15@example.com",
+        "products": [
+            {
+                "product_name": "Product-exercitationem-quisquam",
+                "product_description": "Facilis recusandae quidem corrupti veritatis rerum eveniet odit sapiente numquam dicta dignissimos, rerum ex quam nesciunt vel molestias eius, totam tenetur necessitatibus at est ab nihil nam accusantium, culpa sed magni cum laborum placeat praesentium in consequuntur.",
+                "product_quantity": 46,
+                "product_price": 10.06
+            }
+        ]
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-TLCV2Osu",
+        "supplier_contact": "supplierTLCV2Osu@example.com",
+        "products": [
+            {
+                "product_name": "Product-dolor-fugiat",
+                "product_description": "Dolorum cumque placeat obcaecati doloremque, eaque sapiente numquam distinctio nam fugiat quasi et?",
+                "product_quantity": 62,
+                "product_price": 73.74
+            },
+            {
+                "product_name": "Product-nobis-eveniet",
+                "product_description": "Veritatis laudantium vel asperiores hic quo ducimus neque voluptates, pariatur dicta harum modi, perferendis quae eos libero ex vel expedita quis, id vel quos quia doloremque ad rerum voluptate nostrum autem voluptates odio, maxime dolores mollitia ducimus veniam.",
+                "product_quantity": 63,
+                "product_price": 42.65
+            },
+            {
+                "product_name": "Product-commodi-perferendis",
+                "product_description": "Quod quis inventore ut possimus minima harum pariatur officiis, ipsa reprehenderit dolorum deleniti minus asperiores porro, ea reprehenderit earum quis quam repellat quidem eaque neque quos mollitia, dicta repellendus adipisci in odio alias dolorem molestias nisi culpa nihil, sit non veritatis alias dolor nesciunt incidunt optio distinctio minus enim consequatur.",
+                "product_quantity": 50,
+                "product_price": 60.21
+            }
+        ]
+    }
+}

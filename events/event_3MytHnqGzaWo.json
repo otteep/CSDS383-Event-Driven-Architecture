@@ -1,0 +1,26 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-m7bp3gqQ",
+        "supplier_contact": "supplierm7bp3gqQ@example.com",
+        "products": [
+            {
+                "product_name": "Product-iste-unde",
+                "product_description": "Molestias impedit tempore consectetur velit corrupti vero qui animi facilis provident, dicta sapiente adipisci eos pariatur molestiae, ut quasi corrupti, necessitatibus earum in iste.",
+                "product_quantity": 90,
+                "product_price": 36.17
+            },
+            {
+                "product_name": "Product-quo-recusandae",
+                "product_description": "Quasi sint beatae fugiat ducimus doloribus, sed commodi nulla corrupti, illum nemo voluptates neque corrupti rem nostrum magnam.",
+                "product_quantity": 96,
+                "product_price": 58.2
+            },
+            {
+                "product_name": "Product-et-repellendus",
+                "product_description": "Rerum unde asperiores modi temporibus necessitatibus a, voluptatem beatae ipsam sequi provident animi odio, fugiat iure cumque maiores officiis, dolores veniam consequuntur quis qui doloremque laborum?",
+                "product_quantity": 39,
+                "product_price": 19.49
+            }
+        ]
+    }
+}

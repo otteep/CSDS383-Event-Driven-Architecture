@@ -1,0 +1,26 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-zRJCYMxC",
+        "supplier_contact": "supplierzRJCYMxC@example.com",
+        "products": [
+            {
+                "product_name": "Product-excepturi-enim",
+                "product_description": "Deserunt itaque ad pariatur consectetur obcaecati provident eaque, repellat est architecto quisquam illo ex aut, dolorum totam voluptatem rem architecto vel, voluptates quidem vitae esse pariatur neque voluptas nisi perferendis illo.",
+                "product_quantity": 83,
+                "product_price": 29.29
+            },
+            {
+                "product_name": "Product-voluptates-rerum",
+                "product_description": "Voluptate possimus obcaecati voluptatibus deleniti error rem quia saepe, molestiae voluptatem voluptas?",
+                "product_quantity": 61,
+                "product_price": 67.1
+            },
+            {
+                "product_name": "Product-tempora-aliquid",
+                "product_description": "Voluptatum nesciunt reiciendis quod hic, voluptates tempora eos praesentium soluta dolorem ipsum iste error quos.",
+                "product_quantity": 26,
+                "product_price": 57.06
+            }
+        ]
+    }
+}

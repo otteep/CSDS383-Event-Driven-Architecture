@@ -1,0 +1,20 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-kdHyWpbE",
+        "supplier_contact": "supplierkdHyWpbE@example.com",
+        "products": [
+            {
+                "product_name": "Product-possimus-saepe",
+                "product_description": "Quidem nostrum minima sint repellat labore laboriosam neque odio assumenda tempore animi, ut eos non accusamus corporis reprehenderit, inventore unde placeat eligendi numquam est ipsam quaerat iste perferendis?",
+                "product_quantity": 31,
+                "product_price": 68.34
+            },
+            {
+                "product_name": "Product-nostrum-veniam",
+                "product_description": "Expedita voluptatum dicta excepturi aut animi debitis nobis voluptatibus tempora maxime, eos voluptatum repellat necessitatibus eligendi laboriosam, reiciendis sapiente a consequuntur ullam vitae recusandae numquam, ea iure possimus.",
+                "product_quantity": 50,
+                "product_price": 68.79
+            }
+        ]
+    }
+}

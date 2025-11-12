@@ -1,0 +1,14 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-hDmKkXAu",
+        "supplier_contact": "supplierhDmKkXAu@example.com",
+        "products": [
+            {
+                "product_name": "Product-maxime-illum",
+                "product_description": "Nam necessitatibus assumenda soluta voluptatem corrupti ullam commodi tempore, error quod quisquam assumenda dolorum delectus laudantium molestias vitae beatae cupiditate dolores, eum voluptas eaque necessitatibus labore assumenda quaerat.",
+                "product_quantity": 53,
+                "product_price": 47.13
+            }
+        ]
+    }
+}

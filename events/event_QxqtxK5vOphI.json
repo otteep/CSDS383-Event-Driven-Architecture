@@ -1,0 +1,38 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-Ao48BxTj",
+        "supplier_contact": "supplierAo48BxTj@example.com",
+        "products": [
+            {
+                "product_name": "Product-dolores-ipsum",
+                "product_description": "Necessitatibus corrupti quod amet possimus quia natus delectus reprehenderit maxime laboriosam consequatur, eveniet suscipit laudantium, architecto vero ea nisi alias quibusdam nostrum rerum.",
+                "product_quantity": 77,
+                "product_price": 84.03
+            },
+            {
+                "product_name": "Product-officia-ex",
+                "product_description": "Accusantium consectetur ex sapiente at sint, unde itaque explicabo et ipsum dignissimos voluptatibus at, temporibus veritatis pariatur similique dolorem earum unde voluptatum deleniti tempore?",
+                "product_quantity": 44,
+                "product_price": 72.98
+            },
+            {
+                "product_name": "Product-quasi-eius",
+                "product_description": "Tempore mollitia excepturi architecto temporibus natus animi id perspiciatis, exercitationem deleniti maiores consectetur assumenda autem vero nostrum natus magnam at, id consequatur non quaerat reprehenderit doloremque a velit laborum iste adipisci, assumenda molestias optio sapiente perspiciatis magnam suscipit?",
+                "product_quantity": 10,
+                "product_price": 59.28
+            },
+            {
+                "product_name": "Product-quaerat-sint",
+                "product_description": "Alias velit eveniet obcaecati ex maxime asperiores quos nihil, unde blanditiis tenetur possimus itaque.",
+                "product_quantity": 48,
+                "product_price": 26.92
+            },
+            {
+                "product_name": "Product-pariatur-adipisci",
+                "product_description": "Aspernatur quae earum inventore unde in itaque, numquam aliquid quidem cupiditate, voluptatibus dignissimos blanditiis mollitia temporibus a expedita sunt, voluptas est culpa sint ipsa temporibus ea sequi id, possimus eveniet sint expedita incidunt?",
+                "product_quantity": 79,
+                "product_price": 64.99
+            }
+        ]
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-bMJMZfSL",
+        "supplier_contact": "supplierbMJMZfSL@example.com",
+        "products": [
+            {
+                "product_name": "Product-natus-blanditiis",
+                "product_description": "Ullam sint natus dolor ea quidem ad reiciendis porro maxime excepturi, recusandae odit ad sapiente non labore, adipisci quasi earum minus rerum a eum perspiciatis ea dolores consectetur, labore pariatur at nesciunt libero.",
+                "product_quantity": 77,
+                "product_price": 19.88
+            },
+            {
+                "product_name": "Product-velit-natus",
+                "product_description": "Autem illum cupiditate quam atque rerum perferendis voluptatum sed voluptatibus, tempora ex nam aliquam molestiae similique, magni voluptas provident error fugiat laudantium quibusdam.",
+                "product_quantity": 12,
+                "product_price": 27.26
+            },
+            {
+                "product_name": "Product-accusantium-necessitatibus",
+                "product_description": "Recusandae culpa ea veritatis provident excepturi, culpa alias dolores iure, mollitia amet fuga tempora laboriosam earum porro magnam laudantium sapiente.",
+                "product_quantity": 41,
+                "product_price": 37.99
+            },
+            {
+                "product_name": "Product-quam-reprehenderit",
+                "product_description": "Eligendi non recusandae id temporibus animi debitis obcaecati ab totam earum dolorem, tempore atque impedit, ut id iure assumenda et quas doloribus facilis?",
+                "product_quantity": 26,
+                "product_price": 80.87
+            },
+            {
+                "product_name": "Product-quae-deserunt",
+                "product_description": "Voluptatum sint praesentium vel unde perferendis itaque, in incidunt nulla dicta quisquam error sed odit animi, hic dolore facilis illo sapiente, tenetur hic iure sapiente odit voluptates quidem veniam voluptas aperiam?",
+                "product_quantity": 46,
+                "product_price": 69.25
+            }
+        ]
+    }
+}

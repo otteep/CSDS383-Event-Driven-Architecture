@@ -1,0 +1,32 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-DlRn1jzB",
+        "supplier_contact": "supplierDlRn1jzB@example.com",
+        "products": [
+            {
+                "product_name": "Product-veritatis-dicta",
+                "product_description": "Pariatur perspiciatis modi rem placeat delectus, sapiente expedita laborum ea eligendi corporis cumque voluptates.",
+                "product_quantity": 41,
+                "product_price": 33.98
+            },
+            {
+                "product_name": "Product-ullam-alias",
+                "product_description": "Fugit numquam earum ex magni adipisci doloribus voluptatem ipsum animi dolore quas, amet molestias molestiae corporis et possimus, eveniet exercitationem iste cupiditate repellendus rem mollitia adipisci eligendi quae?",
+                "product_quantity": 28,
+                "product_price": 48.25
+            },
+            {
+                "product_name": "Product-laboriosam-omnis",
+                "product_description": "Excepturi placeat est, id laborum eveniet, quaerat unde eius qui voluptas, veritatis sapiente quasi ratione eligendi officia assumenda autem pariatur, eaque recusandae earum commodi inventore voluptatibus asperiores animi corrupti cupiditate sed accusamus.",
+                "product_quantity": 35,
+                "product_price": 31.25
+            },
+            {
+                "product_name": "Product-eaque-nam",
+                "product_description": "Deserunt placeat officiis explicabo maiores molestias, facere dignissimos hic.",
+                "product_quantity": 84,
+                "product_price": 64.57
+            }
+        ]
+    }
+}

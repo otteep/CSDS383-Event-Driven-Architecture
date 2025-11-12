@@ -1,0 +1,32 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-QgQwI7wQ",
+        "supplier_contact": "supplierQgQwI7wQ@example.com",
+        "products": [
+            {
+                "product_name": "Product-quia-doloribus",
+                "product_description": "Quos debitis commodi optio blanditiis tempora minima nisi, voluptates soluta deserunt optio repellat dicta ad numquam est.",
+                "product_quantity": 84,
+                "product_price": 19.52
+            },
+            {
+                "product_name": "Product-ullam-nisi",
+                "product_description": "Amet labore optio quibusdam vero asperiores, reiciendis veritatis nobis blanditiis atque modi sunt deleniti cupiditate nostrum quibusdam, fugiat iure eos provident laborum debitis eligendi quod.",
+                "product_quantity": 95,
+                "product_price": 37.18
+            },
+            {
+                "product_name": "Product-ex-id",
+                "product_description": "Reiciendis soluta fuga dicta possimus, natus facere incidunt optio commodi numquam error neque, nesciunt provident cum consectetur, quis praesentium quibusdam illum ad.",
+                "product_quantity": 1,
+                "product_price": 55.73
+            },
+            {
+                "product_name": "Product-explicabo-laboriosam",
+                "product_description": "Voluptates iste rerum laudantium obcaecati quasi aut, quis cupiditate fugiat voluptatibus odit id recusandae?",
+                "product_quantity": 76,
+                "product_price": 38.49
+            }
+        ]
+    }
+}

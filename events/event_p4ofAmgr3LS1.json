@@ -1,0 +1,26 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-Qbs3PJzm",
+        "supplier_contact": "supplierQbs3PJzm@example.com",
+        "products": [
+            {
+                "product_name": "Product-culpa-illum",
+                "product_description": "Doloribus deleniti nam, dolore quae incidunt quaerat eius corporis, ut suscipit omnis accusamus dolorum veritatis recusandae magnam, distinctio dignissimos doloribus aliquid consequuntur cumque vitae commodi quia sunt, error corrupti officiis?",
+                "product_quantity": 54,
+                "product_price": 36.9
+            },
+            {
+                "product_name": "Product-aliquid-molestiae",
+                "product_description": "Consequatur commodi eum quam iure explicabo libero fuga excepturi blanditiis, eaque aut totam ab odit vitae eveniet amet, recusandae ut voluptas odit rerum, itaque voluptatem officia magni optio magnam quis delectus fugiat eos.",
+                "product_quantity": 47,
+                "product_price": 14.45
+            },
+            {
+                "product_name": "Product-obcaecati-non",
+                "product_description": "Corporis dicta ducimus veritatis sint itaque tenetur recusandae facere eligendi vero quidem, dolorem fuga ullam asperiores temporibus voluptatibus error architecto voluptatum eum id repellat.",
+                "product_quantity": 94,
+                "product_price": 95.48
+            }
+        ]
+    }
+}

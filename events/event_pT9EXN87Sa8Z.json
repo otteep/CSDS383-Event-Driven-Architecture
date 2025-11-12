@@ -1,0 +1,31 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-zbcYpBl3",
+        "supplier_contact": "supplierzbcYpBl3@example.com",
+        "products": [
+            {
+                "product_name": "Product-doloribus-sint",
+                "product_description": "A soluta consectetur, cumque numquam magni, veritatis vero aliquam perspiciatis tenetur odit earum maiores voluptatum eligendi.",
+                "product_quantity": 6
+            },
+            {
+                "product_name": "Product-eligendi-natus",
+                "product_description": "Aperiam deleniti quidem quas ducimus repellendus non ex dolorem, vel tempore libero corporis consequuntur nam aspernatur debitis delectus quibusdam ex perspiciatis, in itaque doloribus assumenda quo quibusdam sapiente, magni nulla harum delectus rerum.",
+                "product_quantity": 96,
+                "product_price": 6.33
+            },
+            {
+                "product_name": "Product-corporis-similique",
+                "product_description": "Minus aliquam nam ab odit vel provident, eos sint natus possimus error exercitationem culpa aspernatur ipsam itaque explicabo, reiciendis possimus fuga mollitia, eum suscipit corrupti culpa sapiente fugit, ratione quo suscipit saepe commodi ipsam reprehenderit molestiae perferendis fugiat.",
+                "product_quantity": 98,
+                "product_price": 96.28
+            },
+            {
+                "product_name": "Product-animi-excepturi",
+                "product_description": "Nihil dolor consequatur ab dolore minus blanditiis eum, ipsum nulla quia accusamus ipsam esse excepturi mollitia, rerum tempora molestiae iste temporibus, incidunt inventore quisquam ullam culpa molestias et quae debitis provident obcaecati aliquam, delectus quae quam natus a libero eius laudantium rerum?",
+                "product_quantity": 99,
+                "product_price": 5.27
+            }
+        ]
+    }
+}

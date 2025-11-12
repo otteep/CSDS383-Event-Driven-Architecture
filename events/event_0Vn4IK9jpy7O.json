@@ -1,0 +1,20 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-23T6GgLj",
+        "supplier_contact": "supplier23T6GgLj@example.com",
+        "products": [
+            {
+                "product_name": "Product-ducimus-officiis",
+                "product_description": "Nobis illo possimus maxime architecto explicabo non eius quia a dicta repudiandae, quidem placeat debitis aspernatur delectus modi ut tempore minima laboriosam officia, porro nostrum laboriosam.",
+                "product_quantity": 10,
+                "product_price": 78.7
+            },
+            {
+                "product_name": "Product-velit-nostrum",
+                "product_description": "Alias nostrum saepe impedit in, sunt voluptates neque, et incidunt minima consequatur nesciunt omnis voluptatem cupiditate cumque repellendus assumenda, cum totam molestiae reiciendis, consectetur obcaecati vel?",
+                "product_quantity": 19,
+                "product_price": 91.84
+            }
+        ]
+    }
+}

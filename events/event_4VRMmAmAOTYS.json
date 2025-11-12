@@ -1,0 +1,37 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-4L2tm1L5",
+        "products": [
+            {
+                "product_name": "Product-culpa-illum",
+                "product_description": "Labore perferendis deleniti cumque earum quam consequatur obcaecati qui dolorem ad velit, minus assumenda unde dolor sint voluptates veritatis cupiditate, dolor suscipit odio ut sapiente commodi?",
+                "product_quantity": 7,
+                "product_price": 49.12
+            },
+            {
+                "product_name": "Product-ullam-cupiditate",
+                "product_description": "Corrupti voluptatum quis quos aut, quidem debitis ipsum numquam minima ea.",
+                "product_quantity": 85,
+                "product_price": 82.22
+            },
+            {
+                "product_name": "Product-corrupti-non",
+                "product_description": "Iste dignissimos nisi ratione repellat, nesciunt ipsa quam quo, numquam nemo quos saepe atque est repellendus nobis, reprehenderit eligendi impedit reiciendis ullam enim quisquam saepe facere.",
+                "product_quantity": 79,
+                "product_price": 99.53
+            },
+            {
+                "product_name": "Product-praesentium-expedita",
+                "product_description": "Saepe laboriosam nam qui, ipsa ad velit aperiam numquam cum.",
+                "product_quantity": 52,
+                "product_price": 49.27
+            },
+            {
+                "product_name": "Product-pariatur-ipsam",
+                "product_description": "Ut alias quasi nobis consequatur rerum hic itaque, sint odit assumenda ipsa provident quia sequi voluptates rerum qui ratione quos, vero voluptate repellendus ab voluptatem ducimus, recusandae consequuntur fugiat officia exercitationem sequi magnam obcaecati voluptas asperiores.",
+                "product_quantity": 21,
+                "product_price": 11.46
+            }
+        ]
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-X6qiSSRP",
+        "supplier_contact": "supplierX6qiSSRP@example.com",
+        "products": [
+            {
+                "product_name": "Product-totam-asperiores",
+                "product_description": "Adipisci asperiores doloremque autem harum tenetur quasi obcaecati blanditiis molestiae, eaque tempora eum, quam adipisci magni nemo sunt nostrum veniam in corrupti maiores, aliquam omnis reiciendis vel animi exercitationem tempora obcaecati odit voluptatum inventore et, ut assumenda aspernatur totam consectetur.",
+                "product_quantity": 95,
+                "product_price": 82.9
+            },
+            {
+                "product_name": "Product-architecto-alias",
+                "product_description": "Ex deleniti assumenda ad quia tenetur minima sit temporibus, reiciendis exercitationem excepturi voluptate molestiae quidem atque ipsam perferendis?",
+                "product_quantity": 69,
+                "product_price": 92.52
+            },
+            {
+                "product_name": "Product-explicabo-expedita",
+                "product_description": "Itaque fuga veniam repudiandae id laboriosam delectus dicta distinctio dolor, distinctio laboriosam provident consectetur deleniti laudantium nihil expedita repellat unde, eius consequuntur ipsam repellendus officia, officia iure eveniet earum praesentium quos maiores voluptatem assumenda exercitationem et neque.",
+                "product_quantity": 32,
+                "product_price": 52.52
+            },
+            {
+                "product_name": "Product-aspernatur-doloremque",
+                "product_description": "Nulla accusamus dolorum inventore incidunt ut quam, non reprehenderit itaque modi, saepe reiciendis pariatur ea quo quam nobis?",
+                "product_quantity": 55,
+                "product_price": 12.96
+            }
+        ]
+    }
+}

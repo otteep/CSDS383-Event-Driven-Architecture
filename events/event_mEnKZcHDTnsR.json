@@ -1,0 +1,14 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-OtMBGdfg",
+        "supplier_contact": "supplierOtMBGdfg@example.com",
+        "products": [
+            {
+                "product_name": "Product-aut-molestias",
+                "product_description": "Et sit voluptatem, quia soluta reiciendis harum natus error facilis perferendis expedita recusandae ratione, eligendi ipsa nam nesciunt culpa eius eum earum vero expedita distinctio.",
+                "product_quantity": 47,
+                "product_price": 48.37
+            }
+        ]
+    }
+}

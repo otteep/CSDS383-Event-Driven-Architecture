@@ -1,0 +1,32 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-B5rnsyj2",
+        "supplier_contact": "supplierB5rnsyj2@example.com",
+        "products": [
+            {
+                "product_name": "Product-sequi-ab",
+                "product_description": "Repellendus accusantium perspiciatis fuga sint eum, labore illum delectus saepe aut sit, rem minus saepe voluptatem tempora autem modi expedita eveniet cum quis, accusamus veniam cum earum facilis eos.",
+                "product_quantity": 60,
+                "product_price": 17.32
+            },
+            {
+                "product_name": "Product-officiis-eum",
+                "product_description": "Maxime at reiciendis, quis laudantium tempore id repellat quod praesentium quaerat.",
+                "product_quantity": 26,
+                "product_price": 88.18
+            },
+            {
+                "product_name": "Product-eaque-et",
+                "product_description": "Quasi cumque tempora sapiente ipsum mollitia voluptatum corporis nihil, eveniet rerum aliquid nemo assumenda?",
+                "product_quantity": 3,
+                "product_price": 69.28
+            },
+            {
+                "product_name": "Product-possimus-asperiores",
+                "product_description": "Facilis cum totam odio obcaecati in qui corrupti commodi nemo, reiciendis id similique, voluptas sunt sed unde facere minima voluptates, eos architecto necessitatibus at aspernatur consectetur saepe, eaque a placeat laboriosam dolore expedita delectus est rem voluptates mollitia?",
+                "product_quantity": 8,
+                "product_price": 68.77
+            }
+        ]
+    }
+}

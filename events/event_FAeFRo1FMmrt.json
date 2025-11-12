@@ -1,0 +1,20 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-OX9sn8Ol",
+        "supplier_contact": "supplierOX9sn8Ol@example.com",
+        "products": [
+            {
+                "product_name": "Product-reprehenderit-accusantium",
+                "product_description": "Saepe maxime natus nihil unde amet et fuga beatae, facere doloremque eaque nihil molestias quibusdam nesciunt dolor sunt illo neque fuga, asperiores minima aliquid voluptatibus laboriosam aliquam, eaque necessitatibus illo neque labore?",
+                "product_quantity": 19,
+                "product_price": 79.6
+            },
+            {
+                "product_name": "Product-quas-quibusdam",
+                "product_description": "Alias labore deleniti in nobis sed temporibus mollitia consequuntur, quod inventore magni?",
+                "product_quantity": 27,
+                "product_price": 56.96
+            }
+        ]
+    }
+}

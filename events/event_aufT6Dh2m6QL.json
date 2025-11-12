@@ -1,0 +1,32 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-CVPSb0nS",
+        "supplier_contact": "supplierCVPSb0nS@example.com",
+        "products": [
+            {
+                "product_name": "Product-incidunt-aspernatur",
+                "product_description": "Architecto doloribus dolor distinctio sit aspernatur in earum, provident aliquid maxime aliquam assumenda, repudiandae impedit cupiditate, atque quasi quos temporibus dolores at molestias a ab?",
+                "product_quantity": 46,
+                "product_price": 6.81
+            },
+            {
+                "product_name": "Product-dolor-libero",
+                "product_description": "Eligendi necessitatibus porro magnam ratione velit debitis quaerat, porro repudiandae explicabo, recusandae sapiente repellendus, ut non totam quam alias architecto, mollitia animi eius tempora quas velit placeat eos cumque ipsa nostrum deserunt.",
+                "product_quantity": 1,
+                "product_price": 52.79
+            },
+            {
+                "product_name": "Product-vitae-recusandae",
+                "product_description": "Necessitatibus praesentium maxime aspernatur voluptatibus in alias aperiam, autem placeat eius accusamus cupiditate odio harum temporibus ad praesentium ipsam fugiat, id similique quisquam placeat sint sunt alias molestias dolorum, quae et ducimus repudiandae in consequatur exercitationem consectetur expedita consequuntur, facere amet perspiciatis iste cum eligendi laboriosam aperiam tenetur laborum?",
+                "product_quantity": 9,
+                "product_price": 40.44
+            },
+            {
+                "product_name": "Product-laudantium-sapiente",
+                "product_description": "Molestiae nemo nam, ipsa ad nobis accusamus eius eos.",
+                "product_quantity": 61,
+                "product_price": 36.36
+            }
+        ]
+    }
+}

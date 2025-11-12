@@ -1,0 +1,32 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-8L1WMrXL",
+        "supplier_contact": "supplier8L1WMrXL@example.com",
+        "products": [
+            {
+                "product_name": "Product-consequuntur-ratione",
+                "product_description": "Corrupti quidem similique saepe a enim, fuga provident quos omnis maxime vero molestiae perferendis.",
+                "product_quantity": 66,
+                "product_price": 98.07
+            },
+            {
+                "product_name": "Product-quam-a",
+                "product_description": "Ipsa facilis ducimus omnis alias eaque doloremque voluptates quasi dolorem, beatae explicabo facilis aut hic consectetur eius atque necessitatibus provident?",
+                "product_quantity": 62,
+                "product_price": 23.71
+            },
+            {
+                "product_name": "Product-unde-porro",
+                "product_description": "Excepturi labore quae architecto iste animi dolore facere, voluptatibus quia deserunt?",
+                "product_quantity": 5,
+                "product_price": 80.91
+            },
+            {
+                "product_name": "Product-quae-omnis",
+                "product_description": "Nisi officia beatae voluptatem minus eveniet ea velit error neque accusantium est, fugiat ullam unde ad modi obcaecati, cupiditate repellendus modi obcaecati unde necessitatibus labore?",
+                "product_quantity": 71,
+                "product_price": 93.51
+            }
+        ]
+    }
+}

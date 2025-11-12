@@ -1,0 +1,31 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-dcarNqcd",
+        "supplier_contact": "supplierdcarNqcd@example.com",
+        "products": [
+            {
+                "product_name": "Product-molestiae-culpa",
+                "product_quantity": 61,
+                "product_price": 32.02
+            },
+            {
+                "product_name": "Product-natus-libero",
+                "product_description": "Excepturi incidunt repellendus libero eius quam dignissimos, repellendus illo dolores omnis perferendis.",
+                "product_quantity": 13,
+                "product_price": 78.68
+            },
+            {
+                "product_name": "Product-error-modi",
+                "product_description": "Iure eius quia accusamus repellat rerum iste soluta ab rem, esse ex voluptatem sed nemo maxime pariatur nam in natus ducimus.",
+                "product_quantity": 96,
+                "product_price": 82.76
+            },
+            {
+                "product_name": "Product-iure-repellendus",
+                "product_description": "Voluptatem eius animi dolorem vero autem qui deleniti minus, laborum quisquam autem nesciunt illum fugit error consectetur soluta quidem sapiente, assumenda magnam sunt amet.",
+                "product_quantity": 58,
+                "product_price": 81.31
+            }
+        ]
+    }
+}

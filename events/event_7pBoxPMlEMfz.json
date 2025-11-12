@@ -1,0 +1,31 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-IS4kA0Us",
+        "supplier_contact": "supplierIS4kA0Us@example.com",
+        "products": [
+            {
+                "product_name": "Product-quos-fuga",
+                "product_description": "Architecto ab magnam, odio a amet architecto, repellat ratione tempore esse distinctio ipsam?",
+                "product_quantity": 68,
+                "product_price": 26.05
+            },
+            {
+                "product_name": "Product-asperiores-aperiam",
+                "product_description": "Autem excepturi expedita voluptate omnis, nisi doloremque aliquam neque ab velit adipisci non reiciendis, ratione iste quaerat error numquam odit quidem sit corrupti sapiente illum perferendis, excepturi in earum inventore dolorem sit iste laborum minus incidunt?",
+                "product_quantity": 72,
+                "product_price": 57.37
+            },
+            {
+                "product_name": "Product-quis-odio",
+                "product_description": "Doloremque temporibus velit dolores suscipit iusto, soluta vitae accusamus omnis ea repellat.",
+                "product_quantity": 82,
+                "product_price": 81.15
+            },
+            {
+                "product_description": "Dolorum veritatis debitis nesciunt, et minus ullam error cum distinctio mollitia quas corrupti.",
+                "product_quantity": 2,
+                "product_price": 56.27
+            }
+        ]
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-vFtTw07V",
+        "supplier_contact": "suppliervFtTw07V@example.com",
+        "products": [
+            {
+                "product_name": "Product-voluptatem-earum",
+                "product_description": "Nihil tenetur architecto aut iste rem saepe nam facere nemo eum hic, ut animi necessitatibus accusantium aut quibusdam, qui suscipit molestias, hic itaque expedita?",
+                "product_quantity": 29,
+                "product_price": 51.55
+            },
+            {
+                "product_name": "Product-reiciendis-voluptate",
+                "product_description": "Eligendi ducimus et voluptatem, repudiandae reprehenderit voluptatibus veritatis nam illo totam cumque asperiores deserunt eaque perferendis, sed doloribus eligendi aliquam?",
+                "product_quantity": 8,
+                "product_price": 24.37
+            },
+            {
+                "product_name": "Product-impedit-exercitationem",
+                "product_description": "Voluptatum voluptates quae eveniet possimus suscipit sint culpa labore officiis libero magnam, neque modi fugiat molestias blanditiis quisquam atque ipsa consequatur doloribus maxime, exercitationem aspernatur pariatur corporis, accusamus iste voluptatum sunt in fuga ratione ipsa sint error impedit nostrum?",
+                "product_quantity": 26,
+                "product_price": 3.05
+            }
+        ]
+    }
+}

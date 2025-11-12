@@ -1,0 +1,32 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-R0BA0ihY",
+        "supplier_contact": "supplierR0BA0ihY@example.com",
+        "products": [
+            {
+                "product_name": "Product-optio-laudantium",
+                "product_description": "Enim quasi quidem, quidem nesciunt aspernatur reiciendis consectetur, iure autem quasi suscipit illo enim eligendi, earum sunt itaque ex natus accusantium ab qui unde optio ullam?",
+                "product_quantity": 21,
+                "product_price": 60.72
+            },
+            {
+                "product_name": "Product-temporibus-voluptatem",
+                "product_description": "Temporibus quaerat provident similique voluptatem impedit, accusamus et reprehenderit minima ipsa?",
+                "product_quantity": 47,
+                "product_price": 45.93
+            },
+            {
+                "product_name": "Product-error-cum",
+                "product_description": "Officiis perferendis aspernatur repellat enim totam minus, voluptatem quae eos iure provident accusamus dignissimos fugit omnis necessitatibus totam, libero asperiores quaerat ex sequi voluptate repellendus excepturi eveniet rerum animi.",
+                "product_quantity": 66,
+                "product_price": 1.62
+            },
+            {
+                "product_name": "Product-voluptates-accusamus",
+                "product_description": "Possimus dicta reiciendis reprehenderit cupiditate eligendi hic aspernatur, voluptates in omnis aliquam quia autem quod vel temporibus ipsa minima quo, voluptas placeat quasi quo odio voluptate nemo natus expedita, voluptas odio tempore ipsa possimus id blanditiis a officiis hic necessitatibus laborum.",
+                "product_quantity": 99,
+                "product_price": 72.26
+            }
+        ]
+    }
+}

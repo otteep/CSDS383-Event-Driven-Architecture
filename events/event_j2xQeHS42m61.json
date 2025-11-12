@@ -1,0 +1,26 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-QaKFGPb1",
+        "supplier_contact": "supplierQaKFGPb1@example.com",
+        "products": [
+            {
+                "product_name": "Product-minima-accusamus",
+                "product_description": "Praesentium adipisci soluta aut sapiente, natus sit aperiam cupiditate omnis accusantium perspiciatis praesentium libero enim?",
+                "product_quantity": 28,
+                "product_price": 42.48
+            },
+            {
+                "product_name": "Product-cupiditate-rerum",
+                "product_description": "Doloribus sunt iure tempora accusantium vel voluptatum, ipsa impedit amet saepe, consectetur illo est dolor vero, quod amet id saepe, commodi consequatur nam praesentium blanditiis vitae assumenda aperiam sit explicabo?",
+                "product_quantity": 34,
+                "product_price": 44.88
+            },
+            {
+                "product_name": "Product-ad-saepe",
+                "product_description": "Rem similique repellat voluptas error reprehenderit delectus id atque, fuga nemo itaque adipisci accusamus delectus neque facere necessitatibus, veniam quod voluptas ipsa quo mollitia qui possimus facere perspiciatis sint iste.",
+                "product_quantity": 71,
+                "product_price": 18.11
+            }
+        ]
+    }
+}

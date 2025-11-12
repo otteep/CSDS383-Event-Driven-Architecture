@@ -1,0 +1,26 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-gO5vja07",
+        "supplier_contact": "suppliergO5vja07@example.com",
+        "products": [
+            {
+                "product_name": "Product-dolorum-cupiditate",
+                "product_description": "Modi reprehenderit temporibus cum facilis in voluptates rem repellendus saepe distinctio, cupiditate commodi quod dolore in voluptates sequi modi illo distinctio, voluptatibus commodi in vel accusantium illum nemo cumque, nemo architecto velit a, quae officia tempora assumenda accusantium quisquam?",
+                "product_quantity": 90,
+                "product_price": 75.68
+            },
+            {
+                "product_name": "Product-totam-libero",
+                "product_description": "Esse quo eaque minus cupiditate, sequi mollitia quis, dolor quibusdam quam quod quis voluptates adipisci dignissimos nemo tempore assumenda harum, exercitationem eveniet aspernatur ipsa temporibus provident, dolorum modi itaque vel nobis expedita?",
+                "product_quantity": 38,
+                "product_price": 25.14
+            },
+            {
+                "product_name": "Product-commodi-officia",
+                "product_description": "Accusantium consequatur dolor, obcaecati accusamus deserunt error ducimus excepturi harum esse repudiandae?",
+                "product_quantity": 65,
+                "product_price": 82.45
+            }
+        ]
+    }
+}

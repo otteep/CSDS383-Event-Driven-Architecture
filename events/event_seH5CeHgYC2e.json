@@ -1,0 +1,26 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-FhgeTifz",
+        "supplier_contact": "supplierFhgeTifz@example.com",
+        "products": [
+            {
+                "product_name": "Product-maxime-laudantium",
+                "product_description": "Nesciunt quisquam deleniti odio molestiae distinctio mollitia fuga ducimus laudantium doloremque cupiditate, nulla soluta maxime dolorem nemo beatae ipsum temporibus, ea dignissimos rem, provident cumque ipsa vero consectetur, ab cumque provident voluptatibus minus maxime ex?",
+                "product_quantity": 84,
+                "product_price": 26.27
+            },
+            {
+                "product_name": "Product-ea-atque",
+                "product_description": "Voluptate saepe facere dignissimos eveniet soluta, ipsum corrupti architecto mollitia dolorum similique quia atque nam, id aperiam nisi tempore.",
+                "product_quantity": 15,
+                "product_price": 48.45
+            },
+            {
+                "product_name": "Product-illum-autem",
+                "product_description": "Minus perspiciatis in a natus dicta, praesentium placeat molestias doloribus eum optio voluptatibus, dolorem saepe voluptatem harum exercitationem in, quisquam esse sed aliquid tempore repellendus inventore quos doloribus quam repellat, accusantium iusto nulla deleniti tempore perspiciatis amet sapiente asperiores nisi aspernatur.",
+                "product_quantity": 58,
+                "product_price": 40.99
+            }
+        ]
+    }
+}

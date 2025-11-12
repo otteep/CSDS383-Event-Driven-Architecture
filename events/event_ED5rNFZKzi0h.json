@@ -1,0 +1,14 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-xYqOLLTb",
+        "supplier_contact": "supplierxYqOLLTb@example.com",
+        "products": [
+            {
+                "product_name": "Product-eligendi-mollitia",
+                "product_description": "Ratione atque adipisci sint aperiam alias, quae in mollitia culpa fuga nihil?",
+                "product_quantity": 38,
+                "product_price": 99.61
+            }
+        ]
+    }
+}

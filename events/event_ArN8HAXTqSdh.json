@@ -1,0 +1,14 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-BpNFOn8R",
+        "supplier_contact": "supplierBpNFOn8R@example.com",
+        "products": [
+            {
+                "product_name": "Product-non-eum",
+                "product_description": "Officiis corrupti maxime mollitia architecto dolorem, et earum blanditiis hic dolore perspiciatis impedit consectetur cupiditate magni aut quia, exercitationem eligendi quo.",
+                "product_quantity": 1,
+                "product_price": 43.25
+            }
+        ]
+    }
+}

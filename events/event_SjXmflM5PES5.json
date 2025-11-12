@@ -1,0 +1,38 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-y1J2BP5E",
+        "supplier_contact": "suppliery1J2BP5E@example.com",
+        "products": [
+            {
+                "product_name": "Product-sequi-accusamus",
+                "product_description": "Quasi iure amet itaque quia velit dolorum inventore ipsum consectetur expedita, ducimus explicabo eaque, incidunt est a perferendis vitae?",
+                "product_quantity": 35,
+                "product_price": 81.51
+            },
+            {
+                "product_name": "Product-perferendis-ad",
+                "product_description": "Similique sint officia hic quam eum, explicabo nam cum nisi voluptas, commodi ipsam libero consectetur modi beatae numquam deleniti a asperiores odit expedita, animi magni sequi incidunt.",
+                "product_quantity": 47,
+                "product_price": 62.43
+            },
+            {
+                "product_name": "Product-ab-animi",
+                "product_description": "Dolor sapiente temporibus, ad quidem velit ea maiores inventore eum rem similique commodi amet?",
+                "product_quantity": 13,
+                "product_price": 14.57
+            },
+            {
+                "product_name": "Product-earum-quae",
+                "product_description": "Neque vitae minus cumque, a quidem delectus, magnam doloremque mollitia?",
+                "product_quantity": 11,
+                "product_price": 81.81
+            },
+            {
+                "product_name": "Product-quaerat-deserunt",
+                "product_description": "Totam blanditiis iste nobis facere commodi, excepturi sed id dicta veniam rerum incidunt, rerum quaerat modi pariatur corporis, natus quia blanditiis aliquid nulla necessitatibus distinctio.",
+                "product_quantity": 92,
+                "product_price": 1.18
+            }
+        ]
+    }
+}

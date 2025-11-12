@@ -1,0 +1,20 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-E3QaH5dJ",
+        "supplier_contact": "supplierE3QaH5dJ@example.com",
+        "products": [
+            {
+                "product_name": "Product-ullam-ex",
+                "product_description": "Aperiam repellat reprehenderit odio saepe consequatur quia voluptatem ex enim officiis, impedit adipisci maxime eligendi amet odit ea voluptates blanditiis neque quos iusto, reprehenderit suscipit facere ducimus laborum totam quia, facilis et excepturi recusandae incidunt reprehenderit qui odio deserunt totam?",
+                "product_quantity": 45,
+                "product_price": 5.28
+            },
+            {
+                "product_name": "Product-nemo-soluta",
+                "product_description": "Voluptates explicabo eum velit doloribus labore temporibus delectus, harum quibusdam recusandae quo atque quis, nesciunt vel amet hic pariatur eligendi id ducimus vero aliquid officia, facilis perferendis veritatis aperiam iure nobis atque voluptates alias consequatur, officia ipsam nemo maxime.",
+                "product_quantity": 53,
+                "product_price": 50.97
+            }
+        ]
+    }
+}

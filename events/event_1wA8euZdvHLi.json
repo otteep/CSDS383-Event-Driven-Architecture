@@ -1,0 +1,26 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-ZAYsqJdD",
+        "supplier_contact": "supplierZAYsqJdD@example.com",
+        "products": [
+            {
+                "product_name": "Product-necessitatibus-voluptas",
+                "product_description": "Minus omnis molestias ad totam quo pariatur et dolor dicta ipsum cupiditate, dolorum officiis similique excepturi dolores dolore, magni animi quasi expedita, labore ab exercitationem quae eos blanditiis velit nisi id, atque repudiandae sunt blanditiis esse fugit tempore.",
+                "product_quantity": 5,
+                "product_price": 83.56
+            },
+            {
+                "product_name": "Product-numquam-aspernatur",
+                "product_description": "Delectus dolores laborum, officiis pariatur ducimus culpa asperiores corporis sit eum dignissimos quaerat, enim fugiat dolorum molestias magni neque quidem deleniti dolore facilis, incidunt eius nisi officia atque vero pariatur sint error architecto, nemo hic consequuntur aperiam eum.",
+                "product_quantity": 62,
+                "product_price": 80.9
+            },
+            {
+                "product_name": "Product-qui-voluptates",
+                "product_description": "Alias iure eos aperiam, dolorum illo reprehenderit saepe magni eaque iusto ea voluptatem facere hic.",
+                "product_quantity": 77,
+                "product_price": 28.94
+            }
+        ]
+    }
+}

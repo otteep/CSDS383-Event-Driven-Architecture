@@ -1,0 +1,20 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-DgtbBw7f",
+        "supplier_contact": "supplierDgtbBw7f@example.com",
+        "products": [
+            {
+                "product_name": "Product-aliquam-doloribus",
+                "product_description": "Illum ipsa beatae esse, error unde velit voluptas assumenda?",
+                "product_quantity": 44,
+                "product_price": 80.15
+            },
+            {
+                "product_name": "Product-expedita-libero",
+                "product_description": "Saepe laborum ad repellat minus voluptates, vel iusto debitis?",
+                "product_quantity": 86,
+                "product_price": 10.87
+            }
+        ]
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-1f00NNfz",
+        "supplier_contact": "supplier1f00NNfz@example.com",
+        "products": [
+            {
+                "product_name": "Product-hic-cumque",
+                "product_description": "At ad expedita non rem eveniet, odit voluptas eum numquam itaque reprehenderit sunt, dolore magni optio animi et quasi qui eveniet nostrum id iusto iure, blanditiis esse numquam perferendis tempore reprehenderit autem doloremque nobis velit nisi dolorem?",
+                "product_quantity": 24,
+                "product_price": 53.38
+            },
+            {
+                "product_name": "Product-cumque-aliquam",
+                "product_description": "Totam sit ea accusamus ullam non, iure laudantium hic, dolores corporis cupiditate amet quasi voluptas perspiciatis, cumque sint voluptate aperiam repudiandae possimus culpa veritatis dolorem natus numquam enim?",
+                "product_quantity": 68,
+                "product_price": 68.17
+            },
+            {
+                "product_name": "Product-sunt-molestias",
+                "product_description": "Ratione explicabo atque, dicta exercitationem nihil sapiente?",
+                "product_quantity": 89,
+                "product_price": 31.77
+            },
+            {
+                "product_name": "Product-ad-alias",
+                "product_description": "Eaque consectetur exercitationem vero voluptatibus vel, voluptate sint dolorem hic enim distinctio inventore accusantium possimus atque, corrupti enim ea quia adipisci similique expedita voluptate veniam, harum cumque suscipit placeat illum modi labore molestias delectus.",
+                "product_quantity": 20,
+                "product_price": 83.95
+            },
+            {
+                "product_name": "Product-beatae-ipsum",
+                "product_description": "Eligendi quas commodi consequuntur voluptates recusandae eos sint laudantium ex, deserunt enim nobis illum dicta, veniam ipsum sequi temporibus labore ipsa.",
+                "product_quantity": 85,
+                "product_price": 7.94
+            }
+        ]
+    }
+}

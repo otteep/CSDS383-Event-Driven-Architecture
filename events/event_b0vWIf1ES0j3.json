@@ -1,0 +1,32 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-WMsgSFUK",
+        "supplier_contact": "supplierWMsgSFUK@example.com",
+        "products": [
+            {
+                "product_name": "Product-nemo-blanditiis",
+                "product_description": "Dolorum nulla tempora, consequuntur nesciunt sit eaque beatae quas excepturi tempora amet tenetur ducimus impedit, rem architecto molestiae quis, totam culpa doloribus, suscipit tempore eveniet neque nostrum ipsum odio rerum quisquam id asperiores?",
+                "product_quantity": 13,
+                "product_price": 21.45
+            },
+            {
+                "product_name": "Product-odio-distinctio",
+                "product_description": "Voluptatibus inventore alias mollitia voluptas atque similique eum laborum assumenda ad tenetur, mollitia dolores architecto sequi enim, veritatis ad similique facilis est alias autem nemo aspernatur.",
+                "product_quantity": 87,
+                "product_price": 15.04
+            },
+            {
+                "product_name": "Product-sint-unde",
+                "product_description": "Quaerat incidunt nostrum commodi deserunt cum iure, distinctio rerum sint facere et fugit impedit quibusdam quis obcaecati mollitia.",
+                "product_quantity": 65,
+                "product_price": 51.77
+            },
+            {
+                "product_name": "Product-nobis-assumenda",
+                "product_description": "Harum minima autem nulla facere cumque quod eius ut, officia non voluptate tempore voluptatum accusamus nihil facilis consequatur modi placeat perferendis, necessitatibus porro voluptatibus quas est suscipit cupiditate aliquid sed nemo, deserunt reiciendis maxime ea, consequatur nulla quae.",
+                "product_quantity": 94,
+                "product_price": 85.43
+            }
+        ]
+    }
+}

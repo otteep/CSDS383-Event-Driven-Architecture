@@ -1,0 +1,32 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-PSQeD0BG",
+        "supplier_contact": "supplierPSQeD0BG@example.com",
+        "products": [
+            {
+                "product_name": "Product-eveniet-illo",
+                "product_description": "Doloremque quisquam suscipit reiciendis esse, deleniti consequuntur quisquam facilis consequatur facere sint molestias voluptatibus nihil dolore, accusantium cumque rem, dolores inventore earum autem libero ut saepe doloremque beatae.",
+                "product_quantity": 65,
+                "product_price": 21.22
+            },
+            {
+                "product_name": "Product-quod-deserunt",
+                "product_description": "Modi blanditiis animi recusandae in maiores ab corrupti obcaecati ullam, cupiditate repellendus obcaecati natus dolorum, eos voluptate ab ratione veniam perferendis excepturi, quibusdam voluptatum error reprehenderit nobis tempore sit nemo explicabo magnam?",
+                "product_quantity": 3,
+                "product_price": 22.29
+            },
+            {
+                "product_name": "Product-error-optio",
+                "product_description": "Mollitia fugiat ut molestiae officia voluptatibus quis harum optio eaque eius earum, fugit asperiores fugiat labore ipsum perspiciatis laboriosam illum autem adipisci totam reiciendis, dolorem quo quasi illo, minus molestias vitae ducimus recusandae explicabo vel obcaecati corrupti itaque asperiores, error labore autem iusto?",
+                "product_quantity": 47,
+                "product_price": 90.41
+            },
+            {
+                "product_name": "Product-asperiores-sunt",
+                "product_description": "Minima aliquam ad iusto quos dolor, culpa impedit repellendus aperiam odit magnam?",
+                "product_quantity": 92,
+                "product_price": 65.24
+            }
+        ]
+    }
+}

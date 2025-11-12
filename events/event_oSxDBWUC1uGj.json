@@ -1,0 +1,14 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-2bfNIAtk",
+        "supplier_contact": "supplier2bfNIAtk@example.com",
+        "products": [
+            {
+                "product_name": "Product-aperiam-sequi",
+                "product_description": "Aut nobis sapiente illum tenetur sit, omnis quidem voluptates odio, enim voluptatibus quod mollitia voluptate ipsam dignissimos aut hic a deleniti et, magnam labore quibusdam, ea excepturi possimus hic rerum fuga veniam sed doloribus consequatur adipisci?",
+                "product_quantity": 85,
+                "product_price": 56.43
+            }
+        ]
+    }
+}

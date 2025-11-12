@@ -1,0 +1,14 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-03IJMg6A",
+        "supplier_contact": "supplier03IJMg6A@example.com",
+        "products": [
+            {
+                "product_name": "Product-expedita-ducimus",
+                "product_description": "Dolore id neque blanditiis consectetur exercitationem possimus reprehenderit, perferendis cum exercitationem saepe eligendi repudiandae facilis?",
+                "product_quantity": 80,
+                "product_price": 43.55
+            }
+        ]
+    }
+}

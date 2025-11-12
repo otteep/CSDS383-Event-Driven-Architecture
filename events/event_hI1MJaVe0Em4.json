@@ -1,0 +1,14 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-FP1UPKHU",
+        "supplier_contact": "supplierFP1UPKHU@example.com",
+        "products": [
+            {
+                "product_name": "Product-excepturi-ab",
+                "product_description": "Earum soluta officia sunt dolor eligendi deserunt quasi vitae neque praesentium odio, alias facilis tenetur blanditiis dolorem nesciunt adipisci in mollitia accusamus, nemo aliquid totam distinctio saepe odio sapiente quidem laudantium praesentium eaque aspernatur, omnis doloremque mollitia quam necessitatibus delectus qui, ipsum at labore necessitatibus.",
+                "product_quantity": 17,
+                "product_price": 30.83
+            }
+        ]
+    }
+}

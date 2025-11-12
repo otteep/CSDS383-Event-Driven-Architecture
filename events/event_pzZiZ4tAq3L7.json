@@ -1,0 +1,26 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-ij6BKkiZ",
+        "supplier_contact": "supplierij6BKkiZ@example.com",
+        "products": [
+            {
+                "product_name": "Product-perspiciatis-nostrum",
+                "product_description": "Quis possimus necessitatibus fuga blanditiis dolores dolorum molestias nam, exercitationem esse quaerat sunt, quo debitis veritatis cum, ipsum quasi minima expedita quidem fugit, quam dolorum vero ducimus esse iste id?",
+                "product_quantity": 70,
+                "product_price": 58.07
+            },
+            {
+                "product_name": "Product-nobis-accusamus",
+                "product_description": "Voluptas perspiciatis adipisci consectetur voluptatum corrupti similique amet iure eos, nemo fugiat fugit.",
+                "product_quantity": 51,
+                "product_price": 46.47
+            },
+            {
+                "product_name": "Product-sint-ex",
+                "product_description": "Incidunt vel quod doloremque nam quaerat quasi omnis at, a totam fuga quaerat sequi expedita natus, quisquam pariatur facilis inventore omnis dicta placeat eaque perferendis nam.",
+                "product_quantity": 34,
+                "product_price": 18.38
+            }
+        ]
+    }
+}

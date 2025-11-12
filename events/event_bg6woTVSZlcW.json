@@ -1,0 +1,19 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-ZLCAYqSL",
+        "supplier_contact": "supplierZLCAYqSL@example.com",
+        "products": [
+            {
+                "product_name": "Product-quos-est",
+                "product_quantity": 25,
+                "product_price": 96.7
+            },
+            {
+                "product_name": "Product-nulla-nostrum",
+                "product_description": "Ratione hic suscipit quidem maxime quae, enim dolorum non aliquam labore quia sint, consequuntur dignissimos itaque iste voluptate odio nam adipisci, accusantium maxime rerum nemo exercitationem?",
+                "product_quantity": 1,
+                "product_price": 51.3
+            }
+        ]
+    }
+}

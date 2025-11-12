@@ -1,0 +1,24 @@
+{
+    "supplier": {
+        "supplier_contact": "supplierUd4yuKxW@example.com",
+        "products": [
+            {
+                "product_name": "Product-veritatis-commodi",
+                "product_description": "Tempora quaerat nostrum tenetur sint at, inventore delectus quos dolor eius blanditiis consequatur exercitationem deserunt suscipit quis adipisci, beatae eaque fugiat minima quisquam id, iure obcaecati expedita quaerat cum laboriosam porro quisquam veritatis, voluptates ad velit esse eum accusamus quidem beatae dicta a quos vel.",
+                "product_quantity": 68,
+                "product_price": 47.78
+            },
+            {
+                "product_name": "Product-illum-culpa",
+                "product_description": "Aut consequuntur dolorum ex iusto nihil, temporibus placeat obcaecati praesentium pariatur quo sit, laudantium fuga deserunt voluptas modi aperiam nesciunt ex molestias labore, aperiam sapiente unde commodi placeat optio enim tempora.",
+                "product_quantity": 52
+            },
+            {
+                "product_name": "Product-excepturi-minima",
+                "product_description": "Aperiam quibusdam minus, minus provident eos laboriosam, quae autem fugiat omnis, quidem tempore ipsam a harum, voluptatem adipisci nisi illum cupiditate?",
+                "product_quantity": 28,
+                "product_price": 29.98
+            }
+        ]
+    }
+}

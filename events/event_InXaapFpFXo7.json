@@ -1,0 +1,24 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-FjB23mV6",
+        "supplier_contact": "supplierFjB23mV6@example.com",
+        "products": [
+            {
+                "product_description": "Consectetur autem veritatis sequi officia illum hic enim placeat expedita cumque ut, ipsam deleniti impedit placeat doloribus incidunt porro consequuntur animi est commodi, expedita laudantium quam nemo vitae voluptatibus accusantium at repudiandae nihil reiciendis rem?",
+                "product_quantity": 73,
+                "product_price": 5.96
+            },
+            {
+                "product_name": "Product-quo-maiores",
+                "product_description": "Vero ex placeat soluta repellendus illum, nam tenetur fugiat molestiae, neque dolore ea enim necessitatibus alias vel natus?",
+                "product_quantity": 80
+            },
+            {
+                "product_name": "Product-vero-reiciendis",
+                "product_description": "Enim quasi veritatis libero amet, tempore in porro aperiam similique placeat consectetur illo nesciunt incidunt, sequi provident accusamus quos ullam alias libero exercitationem debitis pariatur, obcaecati provident architecto soluta pariatur mollitia cumque autem.",
+                "product_quantity": 5,
+                "product_price": 81.53
+            }
+        ]
+    }
+}

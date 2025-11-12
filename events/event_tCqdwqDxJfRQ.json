@@ -1,0 +1,26 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-ZVzfhyiG",
+        "supplier_contact": "supplierZVzfhyiG@example.com",
+        "products": [
+            {
+                "product_name": "Product-blanditiis-sint",
+                "product_description": "Praesentium eaque vitae quo et, maiores temporibus vitae possimus nemo eos, quia sunt minus blanditiis laudantium neque nemo quae doloribus natus eaque quam, doloribus a numquam laborum doloremque rem aperiam architecto tempore?",
+                "product_quantity": 20,
+                "product_price": 70.93
+            },
+            {
+                "product_name": "Product-nesciunt-molestias",
+                "product_description": "Cumque nemo ratione nisi nostrum a, repudiandae voluptates obcaecati porro corrupti similique facere quaerat voluptatum possimus optio.",
+                "product_quantity": 83,
+                "product_price": 83.14
+            },
+            {
+                "product_name": "Product-delectus-ad",
+                "product_description": "Ducimus explicabo debitis repellat ex corrupti magnam, recusandae deleniti ea perspiciatis voluptate rerum?",
+                "product_quantity": 18,
+                "product_price": 54.03
+            }
+        ]
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-C2J9nbIB",
+        "supplier_contact": "supplierC2J9nbIB@example.com",
+        "products": [
+            {
+                "product_name": "Product-deserunt-delectus",
+                "product_description": "Dolor animi amet alias a voluptatem ratione iste distinctio rerum aut, facilis debitis assumenda sint facere repudiandae aliquid, nostrum iure ad corrupti fugit reprehenderit repellat minima, omnis similique minus?",
+                "product_quantity": 92,
+                "product_price": 1.55
+            },
+            {
+                "product_name": "Product-aperiam-fugiat",
+                "product_description": "Eaque nam molestias a, cupiditate placeat quaerat a repudiandae laboriosam consectetur blanditiis doloribus suscipit ipsa fugit, blanditiis tempore quis repellat suscipit quia, explicabo quam molestiae voluptatibus vel magni numquam?",
+                "product_quantity": 61,
+                "product_price": 90.02
+            },
+            {
+                "product_name": "Product-nisi-rem",
+                "product_description": "Quae aliquam illo est non itaque at provident ut optio, laborum quo tenetur ipsam dolorum iste necessitatibus fugit nobis est, quod earum possimus vitae dicta inventore pariatur eveniet nihil, dignissimos minus rem ad officiis temporibus, iusto nihil ipsa minus quia iure?",
+                "product_quantity": 45
+            },
+            {
+                "product_name": "Product-voluptate-quibusdam",
+                "product_description": "Quod deserunt libero totam assumenda et unde doloribus, beatae delectus deleniti assumenda, culpa non quae laudantium harum sed repellendus et aspernatur, deleniti eos quo eaque architecto aperiam repellendus illum magnam soluta?",
+                "product_quantity": 36,
+                "product_price": 51.13
+            }
+        ]
+    }
+}

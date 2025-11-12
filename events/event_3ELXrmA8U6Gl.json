@@ -1,0 +1,26 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-RBaQ4vAm",
+        "supplier_contact": "supplierRBaQ4vAm@example.com",
+        "products": [
+            {
+                "product_name": "Product-ea-repudiandae",
+                "product_description": "Excepturi sequi rerum vel asperiores sint harum repellendus expedita illum officia, suscipit ipsum eos ad nesciunt ea quibusdam perspiciatis sint, dignissimos iusto facere, molestias obcaecati repudiandae quisquam error magni ad ipsam placeat et a aperiam, sit quis unde nisi mollitia et nemo explicabo?",
+                "product_quantity": 23,
+                "product_price": 46.04
+            },
+            {
+                "product_name": "Product-enim-nemo",
+                "product_description": "Illum fuga nisi quisquam doloribus molestiae quidem architecto, deserunt est accusantium eius ducimus debitis pariatur odio sit doloribus, sit modi aliquam officiis?",
+                "product_quantity": 99,
+                "product_price": 18.08
+            },
+            {
+                "product_name": "Product-sapiente-commodi",
+                "product_description": "Tempora maiores dignissimos, ea vel dolores, voluptates laboriosam qui iste repellat repellendus amet a magni vel alias praesentium.",
+                "product_quantity": 7,
+                "product_price": 33.83
+            }
+        ]
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-XVotEaWx",
+        "supplier_contact": "supplierXVotEaWx@example.com",
+        "products": [
+            {
+                "product_name": "Product-modi-veritatis",
+                "product_description": "Consectetur maxime iusto quam iure, consequuntur magnam iure saepe numquam, corrupti voluptatem ipsa et nihil nobis numquam molestiae cumque possimus.",
+                "product_quantity": 14,
+                "product_price": 35.52
+            },
+            {
+                "product_name": "Product-nisi-repudiandae",
+                "product_description": "Nisi ad a vitae officia maxime ab nulla culpa iste quibusdam eveniet, rerum veniam odit sequi labore aliquam blanditiis minima eius, totam deleniti error sint doloremque enim reprehenderit et?",
+                "product_quantity": 96,
+                "product_price": 23.39
+            },
+            {
+                "product_name": "Product-deserunt-nulla",
+                "product_description": "Labore quod quis sed necessitatibus expedita provident vel alias, voluptas officia vero minus eaque, ad dignissimos rerum debitis laboriosam illum excepturi, nam nostrum veritatis nihil ratione amet numquam, quia consequuntur ab odit ullam ducimus totam veniam eum?",
+                "product_quantity": 69,
+                "product_price": 97.4
+            },
+            {
+                "product_name": "Product-repellendus-ab",
+                "product_description": "Distinctio esse rerum officiis ut voluptatum autem expedita quaerat id, minima voluptates reiciendis, nemo magnam eius necessitatibus numquam ipsa laudantium, natus corporis aliquam est repellendus, omnis itaque laudantium obcaecati labore quasi cumque harum dignissimos minus.",
+                "product_quantity": 34,
+                "product_price": 38.44
+            },
+            {
+                "product_description": "Maxime numquam consequatur asperiores inventore commodi earum sapiente ipsam autem voluptas facere, eaque exercitationem repellendus et vel magnam ducimus quasi nostrum doloremque, cumque impedit reiciendis nobis vel saepe error obcaecati necessitatibus cupiditate, nesciunt voluptatum numquam est maiores corrupti dolore porro.",
+                "product_quantity": 82,
+                "product_price": 50.06
+            }
+        ]
+    }
+}

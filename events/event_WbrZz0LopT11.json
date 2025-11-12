@@ -1,0 +1,20 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-g3ZSnc0Y",
+        "supplier_contact": "supplierg3ZSnc0Y@example.com",
+        "products": [
+            {
+                "product_name": "Product-explicabo-veniam",
+                "product_description": "Laborum ipsam nulla aperiam possimus sed repellat blanditiis voluptatibus quam porro libero, vero veniam aspernatur sunt accusamus saepe nisi sint, doloremque incidunt delectus sapiente in atque odit voluptatibus, sunt a voluptatem iure omnis voluptas facilis ea, enim quo deleniti corrupti excepturi voluptatum vel rem nostrum.",
+                "product_quantity": 75,
+                "product_price": 91.92
+            },
+            {
+                "product_name": "Product-eum-voluptatem",
+                "product_description": "Aliquid provident vero iure omnis asperiores non beatae quod explicabo a, ad adipisci perspiciatis eius recusandae expedita, unde ratione amet fugiat illo sit cupiditate veniam molestiae qui, accusamus iste quam numquam dolorem consequuntur nostrum temporibus nam magnam?",
+                "product_quantity": 29,
+                "product_price": 67.08
+            }
+        ]
+    }
+}

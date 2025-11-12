@@ -1,0 +1,32 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-ubqbfgZB",
+        "supplier_contact": "supplierubqbfgZB@example.com",
+        "products": [
+            {
+                "product_name": "Product-quam-sapiente",
+                "product_description": "Architecto dolorem ipsum a porro vero quibusdam officia consequatur sint, ipsam quia recusandae expedita illo culpa delectus dolore illum voluptatibus, earum at saepe cupiditate inventore, quaerat quasi aliquam quidem vel sunt quos totam optio error eligendi quis, ab exercitationem atque dolore obcaecati sint facilis ipsam quam dolorum?",
+                "product_quantity": 59,
+                "product_price": 59.24
+            },
+            {
+                "product_name": "Product-magni-perferendis",
+                "product_description": "At aspernatur architecto impedit illo dolor nobis voluptatum debitis excepturi molestiae inventore, et omnis ratione est autem cupiditate accusantium doloribus eius aut ab quam, fuga praesentium libero?",
+                "product_quantity": 40,
+                "product_price": 19.55
+            },
+            {
+                "product_name": "Product-debitis-delectus",
+                "product_description": "Animi qui ad repudiandae, tempora excepturi iusto.",
+                "product_quantity": 55,
+                "product_price": 6.91
+            },
+            {
+                "product_name": "Product-esse-asperiores",
+                "product_description": "Omnis sunt laudantium doloremque, amet nostrum temporibus tempore obcaecati explicabo ad voluptate illo nam vitae, deserunt veritatis ullam accusamus aspernatur quibusdam, ullam nostrum fuga sit saepe fugit odit amet soluta, a et molestias laborum ea quae.",
+                "product_quantity": 26,
+                "product_price": 19.84
+            }
+        ]
+    }
+}

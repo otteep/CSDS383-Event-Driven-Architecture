@@ -1,0 +1,37 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-ItfENbpu",
+        "supplier_contact": "supplierItfENbpu@example.com",
+        "products": [
+            {
+                "product_name": "Product-eos-fuga",
+                "product_description": "Sequi impedit fugit ipsum, voluptatem earum ipsa inventore excepturi adipisci doloremque molestias, repellat ea iste aliquam.",
+                "product_quantity": 73,
+                "product_price": 51.04
+            },
+            {
+                "product_name": "Product-odio-enim",
+                "product_description": "Laudantium totam nostrum consequuntur rem, aperiam nesciunt eveniet necessitatibus quasi quaerat blanditiis illum, quasi vero neque ad adipisci rerum iste optio quisquam cumque modi voluptatum, sit repellat earum maxime?",
+                "product_quantity": 96,
+                "product_price": 94.44
+            },
+            {
+                "product_name": "Product-a-quas",
+                "product_description": "Odio excepturi cumque delectus obcaecati suscipit facere temporibus ex quisquam, voluptate ullam accusantium aliquid?",
+                "product_quantity": 85,
+                "product_price": 46.76
+            },
+            {
+                "product_name": "Product-voluptates-labore",
+                "product_description": "Facere est autem nihil officiis iusto placeat sequi ad cumque, officiis pariatur veniam, aut nihil illo velit cupiditate exercitationem, autem molestiae nemo sunt quas porro, nostrum vel corrupti esse alias neque placeat ducimus natus velit?",
+                "product_quantity": 82,
+                "product_price": 58.62
+            },
+            {
+                "product_name": "Product-voluptate-blanditiis",
+                "product_description": "Quo ratione officia autem numquam, non aspernatur perferendis corrupti sed consequuntur odio, nesciunt laudantium hic dolor nam doloribus quo atque consectetur tempora, eaque nulla dicta, fuga earum soluta accusantium praesentium ea doloribus necessitatibus reiciendis dolore ipsum id.",
+                "product_price": 89.46
+            }
+        ]
+    }
+}

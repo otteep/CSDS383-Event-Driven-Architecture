@@ -1,0 +1,32 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-akBS3jF5",
+        "supplier_contact": "supplierakBS3jF5@example.com",
+        "products": [
+            {
+                "product_name": "Product-ducimus-voluptatum",
+                "product_description": "Ducimus mollitia iste accusamus, eligendi illum hic consectetur vitae non officia totam animi ducimus, maxime aspernatur dolorum expedita recusandae reprehenderit quam cupiditate in pariatur.",
+                "product_quantity": 24,
+                "product_price": 54.12
+            },
+            {
+                "product_name": "Product-voluptas-maiores",
+                "product_description": "Quo impedit nostrum facilis, dolores cupiditate quia sapiente est, placeat in provident nam dolores consequatur reiciendis qui architecto aliquam, quam laboriosam nihil aspernatur voluptatem magnam quas at, molestiae necessitatibus perspiciatis corporis laboriosam fugiat?",
+                "product_quantity": 95,
+                "product_price": 6.83
+            },
+            {
+                "product_name": "Product-omnis-accusantium",
+                "product_description": "Ad id rem amet et error deleniti porro molestias, omnis quo natus dignissimos nostrum laborum cum illo, ea nihil voluptatum voluptas facilis vero doloribus pariatur, itaque fugiat impedit facilis ipsam maxime quae nam quibusdam inventore voluptates sunt?",
+                "product_quantity": 45,
+                "product_price": 78.85
+            },
+            {
+                "product_name": "Product-fuga-quisquam",
+                "product_description": "Autem iure recusandae, cum natus provident pariatur ratione enim atque est nam.",
+                "product_quantity": 12,
+                "product_price": 53.49
+            }
+        ]
+    }
+}

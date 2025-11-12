@@ -1,0 +1,32 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-n8196CLi",
+        "supplier_contact": "suppliern8196CLi@example.com",
+        "products": [
+            {
+                "product_name": "Product-voluptatibus-rem",
+                "product_description": "Numquam eius qui iusto nesciunt magni impedit maiores cumque, quidem tempore quibusdam aspernatur unde dicta.",
+                "product_quantity": 55,
+                "product_price": 39.02
+            },
+            {
+                "product_name": "Product-delectus-earum",
+                "product_description": "Distinctio architecto ipsa placeat perferendis esse qui fugiat vel odio laborum voluptates, eveniet enim maxime vel minus sed quibusdam, eveniet libero harum, fugiat vero porro quos odio repellendus rem mollitia non architecto odit, ex quam ratione veritatis suscipit placeat eligendi dolorem voluptates.",
+                "product_quantity": 4,
+                "product_price": 25.41
+            },
+            {
+                "product_name": "Product-ex-libero",
+                "product_description": "Ea inventore ratione dignissimos est ipsam earum, vero molestias eaque consequuntur dolorum perferendis quia minus qui rem nemo, dolor ipsa quos ipsum ex unde officiis, quos molestiae voluptatum id.",
+                "product_quantity": 31,
+                "product_price": 42.64
+            },
+            {
+                "product_name": "Product-perferendis-iste",
+                "product_description": "Cumque obcaecati eaque, ipsum illum impedit voluptatibus asperiores sunt ad odio maxime, quasi aliquam esse nihil nesciunt minus alias incidunt dolore voluptatem?",
+                "product_quantity": 15,
+                "product_price": 92.69
+            }
+        ]
+    }
+}

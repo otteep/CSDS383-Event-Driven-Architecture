@@ -1,0 +1,20 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-kG1xwdD0",
+        "supplier_contact": "supplierkG1xwdD0@example.com",
+        "products": [
+            {
+                "product_name": "Product-blanditiis-inventore",
+                "product_description": "Obcaecati velit culpa, maxime in dolores reiciendis atque nam veritatis possimus, quam ducimus nesciunt dolore commodi, totam nobis mollitia ratione quos enim, officiis animi provident incidunt voluptatum tempora modi ipsum non rem.",
+                "product_quantity": 29,
+                "product_price": 77.81
+            },
+            {
+                "product_name": "Product-ea-ab",
+                "product_description": "Ut minus tenetur hic sequi eum dicta nisi, corrupti animi quas voluptatibus minima aliquid sit?",
+                "product_quantity": 89,
+                "product_price": 44.93
+            }
+        ]
+    }
+}

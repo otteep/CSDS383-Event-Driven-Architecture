@@ -1,0 +1,14 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-UhQx0koh",
+        "supplier_contact": "supplierUhQx0koh@example.com",
+        "products": [
+            {
+                "product_name": "Product-enim-quos",
+                "product_description": "Nesciunt doloremque iusto ea porro, at quibusdam distinctio tempore eius tenetur beatae fugit unde dolore officiis, iure deleniti nostrum perferendis cupiditate impedit in mollitia provident illo, neque sequi dignissimos dolores animi soluta quidem ipsum eum qui nam?",
+                "product_quantity": 2,
+                "product_price": 40.75
+            }
+        ]
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-AJEzm9vG",
+        "supplier_contact": "supplierAJEzm9vG@example.com",
+        "products": [
+            {
+                "product_name": "Product-quasi-nihil",
+                "product_description": "Error officiis alias iure debitis sit assumenda blanditiis quam officia aliquam exercitationem, temporibus incidunt quas praesentium ab blanditiis pariatur, cumque culpa omnis odio expedita.",
+                "product_quantity": 54,
+                "product_price": 74.11
+            },
+            {
+                "product_name": "Product-pariatur-repellat",
+                "product_description": "Cum corrupti rerum facere nemo amet vel nostrum error vero odio ipsam, neque fugiat exercitationem incidunt magnam doloribus labore eum quo.",
+                "product_quantity": 63,
+                "product_price": 13.75
+            },
+            {
+                "product_name": "Product-iure-dignissimos",
+                "product_description": "Non inventore aliquid, sequi assumenda nihil nulla commodi unde numquam eum architecto, non neque necessitatibus vel doloremque quia dicta voluptate suscipit.",
+                "product_quantity": 8,
+                "product_price": 49.93
+            },
+            {
+                "product_name": "Product-asperiores-esse",
+                "product_description": "Atque fugit dignissimos impedit quis ut soluta et illum, quae cum commodi alias ratione distinctio quo non laboriosam, libero nemo sed sequi, quaerat aut voluptate ipsum voluptates totam architecto impedit suscipit rerum esse?",
+                "product_quantity": 66,
+                "product_price": 47.74
+            }
+        ]
+    }
+}

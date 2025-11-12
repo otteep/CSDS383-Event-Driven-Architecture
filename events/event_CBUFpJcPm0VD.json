@@ -1,0 +1,20 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-DzC6jZyp",
+        "supplier_contact": "supplierDzC6jZyp@example.com",
+        "products": [
+            {
+                "product_name": "Product-unde-sequi",
+                "product_description": "Vitae numquam beatae at, qui necessitatibus officia iure delectus tenetur omnis esse, recusandae nemo veritatis consequuntur accusamus rerum?",
+                "product_quantity": 31,
+                "product_price": 93.2
+            },
+            {
+                "product_name": "Product-dolor-veniam",
+                "product_description": "Harum beatae error earum corrupti soluta porro autem voluptatem dolores incidunt est, quam quo vero hic quis enim at aut maxime est, itaque est corporis minus nulla dignissimos ad nobis nisi aliquam, ipsum vero unde tempore accusamus voluptate reprehenderit odio deserunt reiciendis asperiores, iure quo cum aspernatur?",
+                "product_quantity": 5,
+                "product_price": 8.82
+            }
+        ]
+    }
+}

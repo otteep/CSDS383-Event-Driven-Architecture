@@ -1,0 +1,20 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-uO6M0WwG",
+        "supplier_contact": "supplieruO6M0WwG@example.com",
+        "products": [
+            {
+                "product_name": "Product-repellendus-qui",
+                "product_description": "Impedit nihil magnam maiores labore officiis nulla deleniti fugit aliquam repellendus, fuga molestias maiores est eveniet id nemo non eum asperiores soluta?",
+                "product_quantity": 31,
+                "product_price": 67.19
+            },
+            {
+                "product_name": "Product-facilis-culpa",
+                "product_description": "Dolores quaerat velit vero cum ipsum, repudiandae id animi quia, facilis suscipit laboriosam, molestiae quaerat omnis hic dolores libero, mollitia quod at?",
+                "product_quantity": 84,
+                "product_price": 15.88
+            }
+        ]
+    }
+}

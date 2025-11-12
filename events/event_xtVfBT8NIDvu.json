@@ -1,0 +1,31 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-Jnvzcn26",
+        "supplier_contact": "supplierJnvzcn26@example.com",
+        "products": [
+            {
+                "product_name": "Product-enim-quidem",
+                "product_quantity": 55,
+                "product_price": 18.72
+            },
+            {
+                "product_name": "Product-impedit-vero",
+                "product_description": "Reiciendis minus molestias nostrum quasi quam quidem esse in, explicabo eius in?",
+                "product_quantity": 54,
+                "product_price": 92.54
+            },
+            {
+                "product_name": "Product-quidem-excepturi",
+                "product_description": "Obcaecati ea tenetur soluta id repudiandae quae placeat architecto itaque dolore, soluta labore illo voluptatibus velit cupiditate provident perferendis tempora, dolores ipsum quidem, molestias odio aut hic veritatis.",
+                "product_quantity": 74,
+                "product_price": 96.77
+            },
+            {
+                "product_name": "Product-molestias-quae",
+                "product_description": "Ipsum odio perferendis eveniet aliquam facilis sed eaque iste, odio quo error similique iure ipsa neque illo eveniet optio ut, aut explicabo tenetur sapiente dignissimos earum rem, fugiat voluptatibus nostrum quidem eum accusantium consequatur aspernatur enim?",
+                "product_quantity": 17,
+                "product_price": 71.48
+            }
+        ]
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-HcRa8zkw",
+        "supplier_contact": "supplierHcRa8zkw@example.com",
+        "products": [
+            {
+                "product_name": "Product-ex-error",
+                "product_description": "Hic quos quo delectus repellat accusamus voluptatem quod amet sit omnis aspernatur, saepe deleniti fuga minima beatae commodi iste placeat mollitia, nulla possimus numquam cumque quod cupiditate ea enim id, quos sed libero dolorum eum maxime optio corporis maiores quia unde, molestiae at facilis similique.",
+                "product_quantity": 15,
+                "product_price": 33.83
+            },
+            {
+                "product_name": "Product-cum-repudiandae",
+                "product_description": "Expedita eos aspernatur fugiat velit officiis, optio commodi ipsa asperiores molestiae eligendi culpa non fugit, obcaecati aspernatur quo non placeat voluptate optio provident harum ab omnis labore.",
+                "product_quantity": 89,
+                "product_price": 35.59
+            }
+        ]
+    }
+}

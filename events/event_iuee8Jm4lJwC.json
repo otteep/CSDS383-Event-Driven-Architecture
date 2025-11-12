@@ -1,0 +1,26 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-KUTJt8LW",
+        "supplier_contact": "supplierKUTJt8LW@example.com",
+        "products": [
+            {
+                "product_name": "Product-ipsam-alias",
+                "product_description": "Quibusdam repudiandae explicabo maiores, consequatur velit debitis ad ab nemo molestias omnis illum quaerat recusandae assumenda, fugiat minus eum ratione magnam.",
+                "product_quantity": 21,
+                "product_price": 94.97
+            },
+            {
+                "product_name": "Product-in-hic",
+                "product_description": "Tempore voluptas ullam magnam eligendi perferendis impedit sunt maiores repellendus illum, praesentium excepturi ipsa ut distinctio maxime itaque vero veritatis magnam quisquam soluta, impedit officia iste rerum nemo quo quae mollitia at cum, molestias fugit mollitia obcaecati aut optio quod facere voluptatibus veniam consectetur, voluptatum vitae voluptates reprehenderit laudantium omnis?",
+                "product_quantity": 81,
+                "product_price": 34.13
+            },
+            {
+                "product_name": "Product-amet-ducimus",
+                "product_description": "Aut tempora eligendi voluptates ea aperiam architecto consequatur voluptate fugiat in, dolorem tempore placeat quis debitis quasi harum, incidunt veniam dolor sint praesentium repellat ipsam quaerat quam eos error quo, iste fuga nemo laboriosam necessitatibus ad obcaecati possimus voluptate nostrum.",
+                "product_quantity": 42,
+                "product_price": 59.51
+            }
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-6fk5zhkg",
+        "supplier_contact": "supplier6fk5zhkg@example.com",
+        "products": [
+            {
+                "product_name": "Product-ut-distinctio",
+                "product_description": "Et reiciendis dolores, temporibus obcaecati suscipit illo ipsam nam magni accusamus, exercitationem voluptates neque dolor inventore voluptas?",
+                "product_quantity": 83,
+                "product_price": 90.03
+            }
+        ]
+    }
+}

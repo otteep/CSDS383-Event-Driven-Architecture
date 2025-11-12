@@ -1,0 +1,26 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-XstyxgpP",
+        "supplier_contact": "supplierXstyxgpP@example.com",
+        "products": [
+            {
+                "product_name": "Product-officia-eligendi",
+                "product_description": "Similique omnis vel perspiciatis ut incidunt quia maiores dolorem voluptates, corrupti voluptatum est dolorum sequi at.",
+                "product_quantity": 26,
+                "product_price": 37.41
+            },
+            {
+                "product_name": "Product-neque-facilis",
+                "product_description": "Asperiores odio commodi facere, cumque molestiae assumenda error numquam, cum ipsa doloribus at dolor sit qui iusto.",
+                "product_quantity": 94,
+                "product_price": 17.02
+            },
+            {
+                "product_name": "Product-quam-vel",
+                "product_description": "Quos soluta laboriosam itaque minima recusandae debitis enim ratione, molestiae quod tenetur iure at necessitatibus vel dolorem aut, ducimus consectetur magnam sequi omnis?",
+                "product_quantity": 84,
+                "product_price": 46.37
+            }
+        ]
+    }
+}

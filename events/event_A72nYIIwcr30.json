@@ -1,0 +1,20 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-a2xgeTIW",
+        "supplier_contact": "suppliera2xgeTIW@example.com",
+        "products": [
+            {
+                "product_name": "Product-doloremque-suscipit",
+                "product_description": "Molestias dignissimos eos laudantium at saepe culpa eveniet eum esse, esse ad ipsum nam omnis exercitationem, amet at voluptas labore tenetur quia nemo dolorem vel assumenda animi aliquam.",
+                "product_quantity": 62,
+                "product_price": 64.53
+            },
+            {
+                "product_name": "Product-laudantium-dolores",
+                "product_description": "In nam vero culpa enim ullam soluta impedit ut aut debitis reprehenderit, recusandae minima id labore architecto laborum pariatur quisquam, recusandae laborum eius suscipit quos ad et pariatur laudantium, excepturi similique asperiores voluptate distinctio dolorem fuga facilis maiores assumenda ab quisquam.",
+                "product_quantity": 96,
+                "product_price": 89.91
+            }
+        ]
+    }
+}

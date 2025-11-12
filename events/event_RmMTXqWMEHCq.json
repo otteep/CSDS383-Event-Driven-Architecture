@@ -1,0 +1,26 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-FVwQEzKH",
+        "supplier_contact": "supplierFVwQEzKH@example.com",
+        "products": [
+            {
+                "product_name": "Product-quasi-repudiandae",
+                "product_description": "Nemo odio eligendi pariatur, quam rem inventore quasi, dolorum quisquam ipsam dicta nisi quasi quo accusantium?",
+                "product_quantity": 97,
+                "product_price": 86.76
+            },
+            {
+                "product_name": "Product-illum-labore",
+                "product_description": "Ipsa eveniet natus, autem accusantium libero deserunt sapiente quos illo eum ullam rerum ipsa blanditiis, neque a culpa magni voluptates ex aliquam atque, quos incidunt temporibus esse maxime exercitationem numquam dolorem, unde accusantium in facere?",
+                "product_quantity": 43,
+                "product_price": 37.24
+            },
+            {
+                "product_name": "Product-mollitia-maxime",
+                "product_description": "Voluptates vitae deserunt, distinctio vitae esse error vero ipsum vel rem fugit harum quam iusto.",
+                "product_quantity": 70,
+                "product_price": 11.85
+            }
+        ]
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-nbp0VLWB",
+        "supplier_contact": "suppliernbp0VLWB@example.com",
+        "products": [
+            {
+                "product_name": "Product-animi-quis",
+                "product_description": "Assumenda magnam inventore excepturi, modi laudantium cupiditate dicta, temporibus vero dicta ea aperiam ipsa assumenda aliquid, voluptatibus quaerat sit nam vitae odio voluptatum hic iste adipisci officia quisquam, eius deserunt porro nesciunt tempora aspernatur rerum sit dolorem enim reprehenderit voluptatum?",
+                "product_quantity": 54,
+                "product_price": 52.01
+            },
+            {
+                "product_name": "Product-cupiditate-accusantium",
+                "product_description": "Doloribus nisi eos ipsum odio commodi vitae, architecto voluptatem maxime soluta maiores, voluptatem velit nisi perspiciatis neque modi repellat?",
+                "product_quantity": 6,
+                "product_price": 19.7
+            },
+            {
+                "product_name": "Product-exercitationem-eos",
+                "product_description": "Sequi quis quas ut ipsum perferendis odit officia soluta sit, velit recusandae dolores temporibus?",
+                "product_quantity": 24,
+                "product_price": 77.74
+            },
+            {
+                "product_name": "Product-sunt-facilis",
+                "product_description": "Possimus autem in sed maiores incidunt suscipit sit molestiae ullam saepe fuga, explicabo sint non vel provident quas expedita dolorum rerum.",
+                "product_quantity": 69,
+                "product_price": 91.11
+            },
+            {
+                "product_name": "Product-fugiat-non",
+                "product_description": "Cupiditate placeat laboriosam debitis molestiae commodi mollitia asperiores amet, maxime quibusdam vitae quos pariatur aliquam labore ratione deleniti inventore, quisquam quo aperiam nam voluptatum eaque quaerat tempora iure enim ipsam.",
+                "product_quantity": 38,
+                "product_price": 11.81
+            }
+        ]
+    }
+}

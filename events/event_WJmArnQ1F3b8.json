@@ -1,0 +1,26 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-j5WbAvao",
+        "supplier_contact": "supplierj5WbAvao@example.com",
+        "products": [
+            {
+                "product_name": "Product-accusamus-cupiditate",
+                "product_description": "Repellendus expedita minus labore placeat quae dignissimos velit deserunt eligendi veniam molestiae, optio iure consequatur totam eum quod quibusdam quasi placeat, facere recusandae ullam?",
+                "product_quantity": 55,
+                "product_price": 9.3
+            },
+            {
+                "product_name": "Product-voluptatem-iusto",
+                "product_description": "Illum earum magni fuga voluptate voluptatum qui optio quam, corporis eum quae dicta optio consequuntur repellendus, ad dolore architecto esse aut inventore fugit corporis distinctio?",
+                "product_quantity": 17,
+                "product_price": 32.72
+            },
+            {
+                "product_name": "Product-minus-commodi",
+                "product_description": "Neque ab vitae quidem voluptatum incidunt unde enim, ducimus iste a, natus ut voluptatem officiis enim rerum expedita vel fugiat.",
+                "product_quantity": 78,
+                "product_price": 21.36
+            }
+        ]
+    }
+}

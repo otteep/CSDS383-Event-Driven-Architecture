@@ -1,0 +1,14 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-Lo8w8ZVZ",
+        "supplier_contact": "supplierLo8w8ZVZ@example.com",
+        "products": [
+            {
+                "product_name": "Product-impedit-possimus",
+                "product_description": "Fuga deserunt facilis tempore, expedita eveniet eligendi facere aspernatur iusto rerum consequatur atque aperiam repellat ipsam, unde atque expedita explicabo hic dignissimos neque quod corrupti blanditiis reprehenderit, aliquid minima molestiae officia non ut quos, quam in accusantium dignissimos mollitia debitis architecto ducimus corporis eligendi fugit?",
+                "product_quantity": 37,
+                "product_price": 13.46
+            }
+        ]
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "supplier": {
+        "supplier_contact": "supplierFbLfze5p@example.com",
+        "products": [
+            {
+                "product_name": "Product-molestiae-incidunt",
+                "product_description": "Maiores similique perferendis magni debitis quaerat voluptatem consequuntur eveniet neque excepturi, odit sunt harum a temporibus inventore nulla eos, assumenda eum nihil pariatur sequi soluta maxime consequuntur tempore.",
+                "product_price": 97.15
+            },
+            {
+                "product_name": "Product-sint-totam",
+                "product_description": "Molestiae vel ut nam possimus architecto sit, magnam exercitationem consectetur, excepturi recusandae illo architecto exercitationem sapiente voluptates perspiciatis quaerat sit alias.",
+                "product_quantity": 92,
+                "product_price": 13.38
+            }
+        ]
+    }
+}

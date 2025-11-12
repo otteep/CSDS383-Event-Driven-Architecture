@@ -1,0 +1,25 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-T88usK3x",
+        "supplier_contact": "supplierT88usK3x@example.com",
+        "products": [
+            {
+                "product_name": "Product-nulla-quibusdam",
+                "product_description": "Obcaecati doloremque enim aut ut quae minus modi praesentium quia dignissimos, nobis nemo expedita dolores recusandae necessitatibus voluptate consequatur molestias molestiae, perferendis ad exercitationem qui optio eligendi iusto aut, nisi quisquam eum exercitationem dolore magni maxime voluptates nesciunt cumque hic, error quas laboriosam delectus dolor pariatur numquam aliquam repellendus eius molestias.",
+                "product_quantity": 44,
+                "product_price": 67.47
+            },
+            {
+                "product_name": "Product-sequi-consequatur",
+                "product_description": "Numquam vel error eos facere eaque et exercitationem minima sit dolores, repellendus corporis assumenda numquam velit molestiae sapiente recusandae, praesentium obcaecati soluta at deleniti molestias veniam saepe similique minima cum numquam, cum quod aspernatur atque tenetur voluptatem minus nemo tempore consequatur nesciunt nisi, consequatur nostrum nihil molestiae eum sit laudantium ex dicta repellendus doloribus aspernatur?",
+                "product_quantity": 6,
+                "product_price": 50.84
+            },
+            {
+                "product_description": "Veniam quae suscipit dolorum rerum perspiciatis ipsa, consequuntur fuga natus error officia sint magnam dignissimos quam, cum debitis odit culpa et labore, explicabo tempore eum perspiciatis culpa fuga, libero quod eveniet?",
+                "product_quantity": 81,
+                "product_price": 6.94
+            }
+        ]
+    }
+}

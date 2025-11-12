@@ -1,0 +1,26 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-SCqr6PYq",
+        "supplier_contact": "supplierSCqr6PYq@example.com",
+        "products": [
+            {
+                "product_name": "Product-alias-perspiciatis",
+                "product_description": "Excepturi deserunt perspiciatis magni possimus modi repellat, debitis quod velit error minus beatae ratione non?",
+                "product_quantity": 97,
+                "product_price": 30.26
+            },
+            {
+                "product_name": "Product-delectus-recusandae",
+                "product_description": "Suscipit quaerat aliquid quis debitis unde fuga, sunt laudantium similique cumque ut voluptatum earum praesentium nemo odit, aperiam sapiente dolor soluta dolorem voluptas praesentium dolore ipsum atque iste obcaecati?",
+                "product_quantity": 90,
+                "product_price": 36.36
+            },
+            {
+                "product_name": "Product-vel-minima",
+                "product_description": "Neque ad ipsam sunt, nulla soluta fuga vitae molestias deserunt, neque illum maxime quo officiis quibusdam facere officia consequuntur?",
+                "product_quantity": 38,
+                "product_price": 75.3
+            }
+        ]
+    }
+}

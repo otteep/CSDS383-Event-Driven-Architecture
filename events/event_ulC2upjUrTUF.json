@@ -1,0 +1,32 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-l7cC9lNR",
+        "supplier_contact": "supplierl7cC9lNR@example.com",
+        "products": [
+            {
+                "product_name": "Product-magnam-sed",
+                "product_description": "Quos dignissimos optio aliquam minus sapiente sunt, maxime tenetur rerum laboriosam totam alias repudiandae quisquam assumenda doloribus cupiditate, ut itaque ad similique eligendi dolore hic ipsum vero harum quo minima, eius iusto provident assumenda nobis, animi neque blanditiis fuga consectetur dolor placeat tempore et modi cum.",
+                "product_quantity": 29,
+                "product_price": 51.18
+            },
+            {
+                "product_name": "Product-iure-laboriosam",
+                "product_description": "Nemo sequi optio vel quidem doloribus magni id neque, soluta a dolores architecto exercitationem minima nostrum ratione, pariatur fuga sequi voluptate animi sint quis quaerat enim illo.",
+                "product_quantity": 80,
+                "product_price": 68.82
+            },
+            {
+                "product_name": "Product-impedit-numquam",
+                "product_description": "Excepturi maiores quidem nobis laudantium earum praesentium beatae et voluptatum assumenda, est sunt expedita reiciendis dicta non ratione odio inventore officiis ab eveniet.",
+                "product_quantity": 53,
+                "product_price": 33.04
+            },
+            {
+                "product_name": "Product-consequatur-quas",
+                "product_description": "Cupiditate reprehenderit voluptatibus eligendi aperiam atque ipsam, adipisci temporibus quasi?",
+                "product_quantity": 80,
+                "product_price": 81.26
+            }
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-bOH9Y7hW",
+        "supplier_contact": "supplierbOH9Y7hW@example.com",
+        "products": [
+            {
+                "product_name": "Product-totam-labore",
+                "product_description": "Facere dicta quisquam eveniet sit optio esse eius dolore ab, quis suscipit accusantium iure dolorum dicta consectetur enim consequatur veniam quasi expedita, beatae provident deleniti consequuntur nulla?",
+                "product_quantity": 25,
+                "product_price": 70.02
+            }
+        ]
+    }
+}

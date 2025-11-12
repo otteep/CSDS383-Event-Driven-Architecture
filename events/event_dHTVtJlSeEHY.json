@@ -1,0 +1,32 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-My3vcG8b",
+        "supplier_contact": "supplierMy3vcG8b@example.com",
+        "products": [
+            {
+                "product_name": "Product-inventore-magnam",
+                "product_description": "Animi repellendus amet ducimus quia fuga ea sint nesciunt, a dolorum eos magnam laborum deleniti esse debitis similique saepe, iusto vitae quos qui nostrum totam.",
+                "product_quantity": 39,
+                "product_price": 42.04
+            },
+            {
+                "product_name": "Product-natus-porro",
+                "product_description": "Consectetur maiores sapiente maxime, facilis aliquid exercitationem aperiam nesciunt dolores nobis cum sit, similique harum minus saepe cumque culpa animi sapiente fugit ullam incidunt?",
+                "product_quantity": 24,
+                "product_price": 18.94
+            },
+            {
+                "product_name": "Product-quidem-dolores",
+                "product_description": "Aspernatur eos nisi quia saepe corporis, ducimus exercitationem optio illo?",
+                "product_quantity": 95,
+                "product_price": 32.93
+            },
+            {
+                "product_name": "Product-accusantium-id",
+                "product_description": "Aut exercitationem earum reiciendis esse distinctio sapiente, alias eum natus voluptate similique vitae autem?",
+                "product_quantity": 22,
+                "product_price": 49.05
+            }
+        ]
+    }
+}

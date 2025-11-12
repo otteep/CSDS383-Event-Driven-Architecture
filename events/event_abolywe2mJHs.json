@@ -1,0 +1,31 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-TdjDl8aE",
+        "supplier_contact": "supplierTdjDl8aE@example.com",
+        "products": [
+            {
+                "product_name": "Product-nihil-veritatis",
+                "product_description": "Vitae deserunt facere eveniet, excepturi earum exercitationem dolore maiores, consequuntur velit dolorem exercitationem, amet nam sint ullam voluptatibus optio laboriosam odio beatae dolorum illo?",
+                "product_quantity": 33,
+                "product_price": 37.15
+            },
+            {
+                "product_name": "Product-quam-aperiam",
+                "product_description": "Maiores iste dolorum ea repellat voluptatum, illum ex consequatur provident, quae quaerat quibusdam harum, quasi iusto cupiditate, necessitatibus impedit vero aut ipsam quam consectetur?",
+                "product_quantity": 90,
+                "product_price": 8.98
+            },
+            {
+                "product_name": "Product-accusamus-earum",
+                "product_description": "Veniam porro eligendi eveniet maxime soluta, eligendi excepturi aliquid commodi illum illo, officiis tenetur nobis, quas quidem repudiandae, dolore quaerat dolor velit atque odit doloremque.",
+                "product_quantity": 91,
+                "product_price": 1.92
+            },
+            {
+                "product_name": "Product-rem-assumenda",
+                "product_description": "Vitae provident eos enim excepturi consequatur, dignissimos repudiandae ea, voluptatum fugiat quo assumenda praesentium distinctio similique dolor quidem, iure iste cupiditate praesentium a pariatur perspiciatis sed id totam, ea quod eaque?",
+                "product_quantity": 93
+            }
+        ]
+    }
+}

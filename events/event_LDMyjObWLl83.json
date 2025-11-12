@@ -1,0 +1,26 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-LXzhMOwr",
+        "supplier_contact": "supplierLXzhMOwr@example.com",
+        "products": [
+            {
+                "product_name": "Product-repudiandae-excepturi",
+                "product_description": "Unde praesentium minus modi autem iusto quae illo doloremque, saepe aliquam dolore ipsam architecto deleniti, nobis inventore qui adipisci?",
+                "product_quantity": 94,
+                "product_price": 33.6
+            },
+            {
+                "product_name": "Product-dolore-voluptate",
+                "product_description": "Magnam nam cum sunt veniam quod, quae nulla nemo at quam expedita hic ad obcaecati voluptatum, ipsa ullam molestiae nesciunt ex pariatur reiciendis tempore provident.",
+                "product_quantity": 58,
+                "product_price": 8.81
+            },
+            {
+                "product_name": "Product-similique-repellat",
+                "product_description": "Dolor quia optio commodi quo sunt similique expedita asperiores porro explicabo numquam, tenetur sed dolorum vitae nostrum.",
+                "product_quantity": 1,
+                "product_price": 85.41
+            }
+        ]
+    }
+}

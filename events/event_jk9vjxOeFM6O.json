@@ -1,0 +1,20 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-isBdHURf",
+        "supplier_contact": "supplierisBdHURf@example.com",
+        "products": [
+            {
+                "product_name": "Product-voluptatem-ipsa",
+                "product_description": "Incidunt optio ipsa quas vitae iste ex molestiae sint deserunt harum, fuga hic adipisci enim asperiores tenetur odio minus, fugit similique optio cumque mollitia exercitationem assumenda cupiditate, voluptates numquam animi exercitationem totam nobis incidunt quo expedita?",
+                "product_quantity": 98,
+                "product_price": 66.65
+            },
+            {
+                "product_name": "Product-facere-deserunt",
+                "product_description": "Suscipit reiciendis aut quas incidunt quos laborum officiis, necessitatibus nobis est voluptatibus eum, aliquid atque delectus, maxime provident ipsa tenetur illo aspernatur commodi laboriosam eius unde voluptate excepturi, veritatis quisquam veniam fugit architecto sed quos distinctio consectetur.",
+                "product_quantity": 89,
+                "product_price": 82.5
+            }
+        ]
+    }
+}

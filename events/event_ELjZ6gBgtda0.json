@@ -1,0 +1,26 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-vn4YpYf7",
+        "supplier_contact": "suppliervn4YpYf7@example.com",
+        "products": [
+            {
+                "product_name": "Product-saepe-voluptate",
+                "product_description": "Ut atque earum porro tempore est delectus adipisci mollitia consectetur, nemo at eos molestias accusantium inventore iste aliquam, atque ipsum ut aut doloremque eligendi eum, quasi error molestias neque vel doloribus consectetur nesciunt at sapiente, magnam officia cum illo ab voluptatum dolorum.",
+                "product_quantity": 90,
+                "product_price": 92.09
+            },
+            {
+                "product_name": "Product-suscipit-ratione",
+                "product_description": "Recusandae deleniti dolores quas sunt iure, eaque obcaecati debitis culpa quos nobis.",
+                "product_quantity": 46,
+                "product_price": 35.28
+            },
+            {
+                "product_name": "Product-mollitia-aliquam",
+                "product_description": "Repellat minus doloremque ipsum culpa atque, mollitia accusamus voluptatibus aspernatur temporibus aut distinctio soluta praesentium commodi.",
+                "product_quantity": 88,
+                "product_price": 45.62
+            }
+        ]
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-GJNnbCj6",
+        "supplier_contact": "supplierGJNnbCj6@example.com",
+        "products": [
+            {
+                "product_name": "Product-odio-quia",
+                "product_description": "Excepturi quos quae distinctio saepe sapiente, reiciendis architecto omnis exercitationem, dolores rerum distinctio tenetur possimus, facere incidunt iure beatae nostrum tempora tenetur quisquam, minima vero quis saepe totam voluptatibus?",
+                "product_quantity": 88,
+                "product_price": 55.04
+            },
+            {
+                "product_name": "Product-vero-ab",
+                "product_description": "Fugit velit placeat sunt iste debitis eos consectetur tempore atque voluptatem, ad sequi ipsam molestiae, hic officia nobis ratione non pariatur error quidem iste, voluptatem architecto dignissimos hic beatae a laboriosam dolorum minima.",
+                "product_quantity": 11,
+                "product_price": 57.99
+            },
+            {
+                "product_name": "Product-similique-eveniet",
+                "product_description": "Porro sequi enim rem iusto cumque veritatis, tempora sapiente in soluta veritatis rem cupiditate vel qui voluptatem magni optio, aliquam perspiciatis debitis labore excepturi sint facere tenetur.",
+                "product_quantity": 59,
+                "product_price": 37.99
+            },
+            {
+                "product_name": "Product-corrupti-perspiciatis",
+                "product_description": "Voluptatibus reiciendis quaerat esse sunt at ipsam temporibus, tenetur est aperiam reiciendis atque laboriosam a amet soluta, culpa enim nesciunt optio doloremque hic exercitationem et voluptatum blanditiis nemo, asperiores officiis et sit aliquid illo temporibus.",
+                "product_quantity": 73,
+                "product_price": 62.27
+            },
+            {
+                "product_name": "Product-repellat-commodi",
+                "product_description": "Tempora aliquam accusantium minus nisi quas molestiae fuga, dolores quaerat debitis totam quos id quo assumenda neque, quaerat quod tempora laboriosam, sit tenetur sequi dolore.",
+                "product_quantity": 85,
+                "product_price": 60.16
+            }
+        ]
+    }
+}

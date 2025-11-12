@@ -1,0 +1,38 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-popC5B65",
+        "supplier_contact": "supplierpopC5B65@example.com",
+        "products": [
+            {
+                "product_name": "Product-incidunt-eveniet",
+                "product_description": "Laboriosam et eligendi voluptas laudantium aliquid itaque doloremque adipisci aut beatae, aperiam et quis nihil impedit vitae, quae itaque quidem in illum libero quibusdam ea sed vitae modi, voluptas sunt cum amet natus earum, ea ad voluptas omnis eveniet soluta magni assumenda corrupti et doloremque.",
+                "product_quantity": 32,
+                "product_price": 9.08
+            },
+            {
+                "product_name": "Product-animi-eos",
+                "product_description": "Tempore cupiditate optio rem inventore aliquid distinctio modi dolorem, facilis amet soluta exercitationem dicta itaque, iusto dolor quidem porro eius incidunt delectus, repellat consectetur placeat iure minima nobis id mollitia labore?",
+                "product_quantity": 18,
+                "product_price": 85.98
+            },
+            {
+                "product_name": "Product-impedit-tenetur",
+                "product_description": "Cumque explicabo sint iure culpa quas dignissimos doloremque accusantium, rerum illo possimus dolores maxime sapiente cum voluptates illum veniam temporibus architecto, non assumenda ipsam vel ut repudiandae?",
+                "product_quantity": 94,
+                "product_price": 77.71
+            },
+            {
+                "product_name": "Product-asperiores-nobis",
+                "product_description": "Vel voluptates qui sint recusandae architecto laborum nostrum, labore quia tenetur esse consequatur sint iusto vero perferendis quidem nisi.",
+                "product_quantity": 15,
+                "product_price": 64.18
+            },
+            {
+                "product_name": "Product-fuga-soluta",
+                "product_description": "Modi blanditiis consectetur quam dolorum distinctio, quam ipsam molestias, incidunt quam voluptatibus optio explicabo doloribus velit sapiente animi impedit quaerat necessitatibus, iusto ut deserunt explicabo quidem ducimus illo nesciunt impedit praesentium?",
+                "product_quantity": 74,
+                "product_price": 56.71
+            }
+        ]
+    }
+}

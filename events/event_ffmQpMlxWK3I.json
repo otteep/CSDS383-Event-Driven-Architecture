@@ -1,0 +1,20 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-1yD0aAHr",
+        "supplier_contact": "supplier1yD0aAHr@example.com",
+        "products": [
+            {
+                "product_name": "Product-blanditiis-voluptatibus",
+                "product_description": "Illum expedita neque enim voluptates nostrum quasi, voluptatibus ab aperiam sunt sapiente optio libero culpa amet a, esse ab perspiciatis accusantium commodi culpa repudiandae aspernatur excepturi.",
+                "product_quantity": 46,
+                "product_price": 28.94
+            },
+            {
+                "product_name": "Product-eum-fugit",
+                "product_description": "Inventore esse debitis, ad tenetur eaque ipsa fugiat itaque natus expedita quas, praesentium quod odit sequi harum odio doloremque quas velit aspernatur ipsam.",
+                "product_quantity": 54,
+                "product_price": 21.69
+            }
+        ]
+    }
+}

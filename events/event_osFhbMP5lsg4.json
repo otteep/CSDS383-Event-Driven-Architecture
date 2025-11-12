@@ -1,0 +1,31 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-VvJ0g2PA",
+        "supplier_contact": "supplierVvJ0g2PA@example.com",
+        "products": [
+            {
+                "product_name": "Product-provident-facilis",
+                "product_description": "Dolorem commodi velit optio eos nesciunt magnam animi, fugit atque impedit excepturi ipsum similique culpa eligendi aliquam harum eos, accusamus enim repellendus unde sit sint sequi magnam itaque reprehenderit cumque.",
+                "product_quantity": 46,
+                "product_price": 74.54
+            },
+            {
+                "product_name": "Product-porro-voluptas",
+                "product_description": "Esse error laborum corporis cupiditate soluta sequi dolorem nihil, esse voluptatem blanditiis fuga nesciunt eius possimus, dolores delectus aliquid voluptate ratione enim quidem.",
+                "product_quantity": 27,
+                "product_price": 61.36
+            },
+            {
+                "product_name": "Product-voluptatem-aut",
+                "product_description": "Aliquam aspernatur ipsa nobis consequatur iure, non commodi aliquid repellat distinctio autem quasi sapiente ipsum itaque ipsa?",
+                "product_price": 45.7
+            },
+            {
+                "product_name": "Product-reprehenderit-ex",
+                "product_description": "Soluta ad recusandae facere, suscipit incidunt eligendi blanditiis neque et dolores consequatur molestiae vel dolore, beatae atque voluptatem, tempora soluta voluptas fugit accusantium assumenda sequi.",
+                "product_quantity": 68,
+                "product_price": 15.51
+            }
+        ]
+    }
+}

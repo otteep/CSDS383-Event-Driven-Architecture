@@ -1,0 +1,14 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-tcpN6b5a",
+        "supplier_contact": "suppliertcpN6b5a@example.com",
+        "products": [
+            {
+                "product_name": "Product-eum-similique",
+                "product_description": "Iure numquam eius vitae autem in ad obcaecati, modi veniam assumenda illo possimus?",
+                "product_quantity": 84,
+                "product_price": 8.55
+            }
+        ]
+    }
+}

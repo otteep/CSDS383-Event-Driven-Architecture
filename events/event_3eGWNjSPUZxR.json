@@ -1,0 +1,20 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-sx4cPavL",
+        "supplier_contact": "suppliersx4cPavL@example.com",
+        "products": [
+            {
+                "product_name": "Product-odit-quia",
+                "product_description": "Facere distinctio quam autem at architecto rerum recusandae, sapiente id culpa ut fugiat nisi necessitatibus laudantium, eligendi maxime aut, eveniet quaerat eaque quidem, voluptatum est temporibus velit accusantium cum mollitia.",
+                "product_quantity": 50,
+                "product_price": 79.24
+            },
+            {
+                "product_name": "Product-ea-reprehenderit",
+                "product_description": "Enim dolorem quia voluptas quos mollitia repellat, ex quisquam officiis quis repellat quas expedita debitis distinctio necessitatibus voluptatibus, hic aspernatur et doloremque reiciendis dolor iusto voluptas eaque facilis iste quos.",
+                "product_quantity": 2,
+                "product_price": 88.29
+            }
+        ]
+    }
+}

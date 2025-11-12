@@ -1,0 +1,26 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-GL3y4MTP",
+        "supplier_contact": "supplierGL3y4MTP@example.com",
+        "products": [
+            {
+                "product_name": "Product-aut-minus",
+                "product_description": "A cumque aliquid nemo ducimus voluptatibus enim esse saepe officia voluptates repellendus, alias odit inventore harum vitae culpa iure ipsum, soluta assumenda aspernatur omnis possimus molestias ipsam iure, deleniti quidem ipsam, harum omnis rem quod deserunt corporis iure earum sequi voluptatem quasi.",
+                "product_quantity": 42,
+                "product_price": 34.99
+            },
+            {
+                "product_name": "Product-non-facere",
+                "product_description": "Ipsum nostrum optio ea beatae veritatis corrupti sed suscipit iste ipsam placeat, dolor eligendi enim dignissimos eveniet blanditiis vero incidunt, ipsam adipisci vel, itaque repudiandae recusandae numquam deleniti corrupti sunt?",
+                "product_quantity": 7,
+                "product_price": 58.53
+            },
+            {
+                "product_name": "Product-praesentium-nulla",
+                "product_description": "Dolor quidem tenetur dicta sed debitis alias, sapiente repellendus porro corporis, et dolorum dolores hic porro, rem nihil consectetur?",
+                "product_quantity": 78,
+                "product_price": 1.08
+            }
+        ]
+    }
+}

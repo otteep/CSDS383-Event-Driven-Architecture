@@ -1,0 +1,25 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-7NFIMgUS",
+        "supplier_contact": "supplier7NFIMgUS@example.com",
+        "products": [
+            {
+                "product_name": "Product-dolore-blanditiis",
+                "product_description": "Consequatur quas dolores quia distinctio, consequuntur quaerat libero magnam labore veritatis, eum qui ratione corporis dolorum, harum provident quae quia beatae nobis et doloribus fuga tempora, quia minus veritatis facere repellendus ipsam excepturi magni quas itaque culpa?",
+                "product_quantity": 40,
+                "product_price": 38.44
+            },
+            {
+                "product_name": "Product-minus-laborum",
+                "product_description": "Sunt possimus laboriosam, earum autem doloremque ipsum natus quam explicabo fugit eligendi alias?",
+                "product_quantity": 64,
+                "product_price": 48.71
+            },
+            {
+                "product_name": "Product-incidunt-qui",
+                "product_description": "Suscipit neque cumque eum a enim deleniti, iste quidem porro expedita molestias est atque laboriosam facere enim vel minima, repellat commodi nulla ipsum quisquam nam maiores veniam deleniti.",
+                "product_quantity": 70
+            }
+        ]
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-VASbKNSI",
+        "supplier_contact": "supplierVASbKNSI@example.com",
+        "products": [
+            {
+                "product_name": "Product-labore-quas",
+                "product_description": "Ea et soluta asperiores blanditiis voluptates possimus, placeat distinctio aliquam quo nobis atque nisi corrupti officiis?",
+                "product_quantity": 46,
+                "product_price": 64.61
+            },
+            {
+                "product_name": "Product-nesciunt-accusantium",
+                "product_description": "Ex maiores molestiae temporibus labore eligendi reprehenderit perspiciatis earum, sequi voluptate perferendis recusandae atque rem earum?",
+                "product_quantity": 83,
+                "product_price": 2.63
+            },
+            {
+                "product_name": "Product-suscipit-iste",
+                "product_description": "Porro dolores nulla sed ea sint velit pariatur, quisquam doloremque repudiandae dolorum.",
+                "product_quantity": 2,
+                "product_price": 27.14
+            },
+            {
+                "product_name": "Product-suscipit-ipsa",
+                "product_description": "Eligendi soluta quae maiores suscipit, quae velit consequuntur et ipsam nobis ratione expedita magni maxime sit, dolorum aspernatur recusandae sed voluptatum.",
+                "product_quantity": 87,
+                "product_price": 5.98
+            }
+        ]
+    }
+}

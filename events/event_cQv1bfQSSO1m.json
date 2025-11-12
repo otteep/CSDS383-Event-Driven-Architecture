@@ -1,0 +1,38 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-cTIC56hL",
+        "supplier_contact": "suppliercTIC56hL@example.com",
+        "products": [
+            {
+                "product_name": "Product-incidunt-dolore",
+                "product_description": "Sapiente qui est, iusto nisi expedita, quasi aut iste omnis, itaque adipisci minus illum debitis animi perspiciatis distinctio modi quam illo dicta, saepe voluptatem quaerat necessitatibus nobis quae nisi quidem illum repudiandae quibusdam.",
+                "product_quantity": 49,
+                "product_price": 2.59
+            },
+            {
+                "product_name": "Product-totam-provident",
+                "product_description": "Excepturi pariatur cumque illo repellendus quidem commodi, voluptates alias ea ex laudantium eaque architecto accusamus tempora nisi nostrum quod, eos recusandae autem a.",
+                "product_quantity": 70,
+                "product_price": 27.57
+            },
+            {
+                "product_name": "Product-a-iure",
+                "product_description": "Eos nobis sed voluptatum earum, nostrum excepturi porro blanditiis, officia illo dolorum maiores illum tempora quam quos, excepturi praesentium tempore nostrum rem laborum sed vitae doloribus eos ipsam tempora.",
+                "product_quantity": 13,
+                "product_price": 77.27
+            },
+            {
+                "product_name": "Product-perspiciatis-delectus",
+                "product_description": "Ullam accusamus accusantium non cumque fuga, excepturi similique quia nulla ducimus rem hic cum illum ad aperiam accusamus, fugit facilis nostrum molestias veniam dolore ratione in expedita nulla.",
+                "product_quantity": 5,
+                "product_price": 80.86
+            },
+            {
+                "product_name": "Product-reprehenderit-similique",
+                "product_description": "Dolores sint nisi, fugiat blanditiis odio eaque at rerum impedit, blanditiis tempora minus nostrum laboriosam beatae pariatur nulla eos, hic veritatis quo maxime quam tempora sit placeat pariatur vero?",
+                "product_quantity": 88,
+                "product_price": 9.3
+            }
+        ]
+    }
+}

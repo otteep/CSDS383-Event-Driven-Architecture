@@ -1,0 +1,37 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-5SjYcLmv",
+        "products": [
+            {
+                "product_name": "Product-praesentium-eveniet",
+                "product_description": "Libero eaque accusantium veniam, mollitia eum similique nulla quae doloremque fugit ab quo nam, porro temporibus reprehenderit fugit magni, excepturi consectetur ipsum molestias asperiores culpa ullam dolores deserunt itaque modi quod?",
+                "product_quantity": 54,
+                "product_price": 72.94
+            },
+            {
+                "product_name": "Product-recusandae-quia",
+                "product_description": "Minima harum assumenda consequatur sunt voluptatibus rerum odit impedit ab velit, ratione amet eum error eius non alias delectus sapiente atque quae et, mollitia a tenetur molestiae magni natus accusamus, similique aliquid distinctio reiciendis, inventore delectus saepe debitis nihil?",
+                "product_quantity": 35,
+                "product_price": 93.46
+            },
+            {
+                "product_name": "Product-amet-reiciendis",
+                "product_description": "Sapiente quos fuga, autem blanditiis nobis distinctio vel expedita quod illo minus quibusdam ipsum tenetur, ratione nisi deleniti pariatur commodi at, possimus expedita totam earum aut ex est eos nisi voluptas cum, quas dolores suscipit illo molestias repellat?",
+                "product_quantity": 26,
+                "product_price": 7.06
+            },
+            {
+                "product_name": "Product-ab-atque",
+                "product_description": "Aut earum nam iure repellat est sunt natus, quidem corrupti deleniti quibusdam voluptates nam, nesciunt cupiditate temporibus quo quaerat, officiis pariatur dicta, nulla fuga vero repellendus dolores doloribus temporibus odio totam?",
+                "product_quantity": 60,
+                "product_price": 81.43
+            },
+            {
+                "product_name": "Product-eum-minima",
+                "product_description": "Magnam tempora soluta aliquid ea aperiam, libero distinctio voluptatibus, debitis dolorum aperiam eius a tempore sed libero ratione omnis odit adipisci, at corrupti tempore similique exercitationem dolor.",
+                "product_quantity": 52,
+                "product_price": 81.37
+            }
+        ]
+    }
+}

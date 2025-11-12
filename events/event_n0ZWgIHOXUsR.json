@@ -1,0 +1,20 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-xceNALbr",
+        "supplier_contact": "supplierxceNALbr@example.com",
+        "products": [
+            {
+                "product_name": "Product-nihil-enim",
+                "product_description": "Deleniti ea dolorum sunt hic delectus tempora accusantium nesciunt consequuntur a quod, asperiores doloribus debitis, eum tenetur deleniti, deserunt neque vitae cupiditate eum obcaecati nulla, dolor quam dolore autem quibusdam dolorum ad officiis a fuga dolores?",
+                "product_quantity": 9,
+                "product_price": 56.7
+            },
+            {
+                "product_name": "Product-assumenda-accusantium",
+                "product_description": "Impedit dignissimos quam corporis accusamus doloremque ea suscipit laboriosam et totam molestias, itaque culpa incidunt saepe quidem dignissimos omnis?",
+                "product_quantity": 96,
+                "product_price": 43.49
+            }
+        ]
+    }
+}

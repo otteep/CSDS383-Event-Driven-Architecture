@@ -1,0 +1,20 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-Xlfd39nx",
+        "supplier_contact": "supplierXlfd39nx@example.com",
+        "products": [
+            {
+                "product_name": "Product-voluptas-ex",
+                "product_description": "Deleniti voluptatem dolorum nobis, reprehenderit at nulla deserunt aut quo voluptatum minus laudantium error facilis illum, autem numquam velit possimus quaerat delectus hic nobis illo minus amet nihil, corrupti ea dicta sapiente ratione a facilis nam?",
+                "product_quantity": 88,
+                "product_price": 93.2
+            },
+            {
+                "product_name": "Product-tempora-incidunt",
+                "product_description": "Eos ducimus sequi maiores illum facere ipsum quis dolor, dolor corporis expedita culpa pariatur explicabo voluptate laboriosam quasi qui, sed nobis temporibus quisquam corporis officia harum atque, alias amet accusantium.",
+                "product_quantity": 78,
+                "product_price": 1.62
+            }
+        ]
+    }
+}

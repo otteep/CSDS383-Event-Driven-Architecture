@@ -1,0 +1,38 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-xkzvGFyN",
+        "supplier_contact": "supplierxkzvGFyN@example.com",
+        "products": [
+            {
+                "product_name": "Product-dolorum-fugit",
+                "product_description": "Aliquam reiciendis laborum, sit quos est quo consequatur consectetur minima quod sequi optio nemo, provident tempore impedit praesentium sint, debitis modi harum numquam.",
+                "product_quantity": 37,
+                "product_price": 50.93
+            },
+            {
+                "product_name": "Product-autem-culpa",
+                "product_description": "Eius molestiae quae fugit ex sapiente amet deleniti officiis nulla sunt inventore, dolorem eos rem quis sequi eveniet possimus vitae, voluptate provident doloribus error sed voluptatibus aut quod dicta similique aliquid, nesciunt suscipit rerum accusamus modi nam eos fuga.",
+                "product_quantity": 72,
+                "product_price": 47.14
+            },
+            {
+                "product_name": "Product-necessitatibus-ullam",
+                "product_description": "Molestiae quae veniam, placeat laborum animi praesentium facilis perspiciatis ipsa quam non consequuntur dolores, sunt doloribus nobis ex deleniti, possimus tenetur tempore eos ipsam nam consequuntur doloremque sint omnis rerum, expedita ullam dolorem?",
+                "product_quantity": 29,
+                "product_price": 27.82
+            },
+            {
+                "product_name": "Product-in-hic",
+                "product_description": "Itaque nisi hic sequi voluptatibus, nostrum delectus libero eveniet, maxime repudiandae adipisci?",
+                "product_quantity": 94,
+                "product_price": 90.97
+            },
+            {
+                "product_name": "Product-est-vel",
+                "product_description": "Rerum tenetur consequatur incidunt pariatur eligendi, ipsum qui nostrum consequuntur, pariatur explicabo quod a voluptates fugit?",
+                "product_quantity": 66,
+                "product_price": 84.06
+            }
+        ]
+    }
+}

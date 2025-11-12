@@ -1,0 +1,14 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-ASyjMQbp",
+        "supplier_contact": "supplierASyjMQbp@example.com",
+        "products": [
+            {
+                "product_name": "Product-natus-eaque",
+                "product_description": "Perferendis laudantium quae minus tenetur similique consequatur enim nihil, voluptates fugiat corrupti eum necessitatibus sint distinctio eius impedit commodi voluptatibus, velit eaque similique illo et, at hic dolorum?",
+                "product_quantity": 93,
+                "product_price": 91.29
+            }
+        ]
+    }
+}

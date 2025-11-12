@@ -1,0 +1,32 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-rxjBYwaZ",
+        "supplier_contact": "supplierrxjBYwaZ@example.com",
+        "products": [
+            {
+                "product_name": "Product-aperiam-ipsum",
+                "product_description": "Soluta doloribus dolorem eos voluptatem accusamus, repudiandae harum iste blanditiis quidem maiores animi exercitationem alias, eaque perferendis voluptas alias molestiae quas repellendus recusandae omnis neque cum.",
+                "product_quantity": 47,
+                "product_price": 47.03
+            },
+            {
+                "product_name": "Product-ullam-atque",
+                "product_description": "Minima quidem in nemo perspiciatis earum tempora laudantium, beatae commodi eligendi deleniti est eos harum quisquam?",
+                "product_quantity": 98,
+                "product_price": 43.35
+            },
+            {
+                "product_name": "Product-velit-voluptate",
+                "product_description": "Debitis fugit sunt error culpa earum maiores ut tenetur consequatur odio voluptates, obcaecati aspernatur ea deleniti atque quia, amet sit rerum architecto?",
+                "product_quantity": 24,
+                "product_price": 83.97
+            },
+            {
+                "product_name": "Product-perspiciatis-odio",
+                "product_description": "Asperiores neque doloribus alias similique ea tempora blanditiis mollitia, aspernatur odio necessitatibus numquam dolores?",
+                "product_quantity": 2,
+                "product_price": 29.15
+            }
+        ]
+    }
+}

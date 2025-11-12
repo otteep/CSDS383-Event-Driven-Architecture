@@ -1,0 +1,19 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-EH7fAHrn",
+        "supplier_contact": "supplierEH7fAHrn@example.com",
+        "products": [
+            {
+                "product_name": "Product-laudantium-aut",
+                "product_description": "Porro corrupti velit error tempore expedita quisquam enim, pariatur vero nobis itaque cum autem mollitia minus neque eveniet voluptatibus animi, fugit debitis ipsa eveniet reiciendis magnam tempora voluptates, necessitatibus hic nobis quos expedita quod amet quas magni, animi quis doloremque mollitia eius laborum nobis eligendi expedita fuga delectus.",
+                "product_quantity": 90,
+                "product_price": 80.39
+            },
+            {
+                "product_description": "Ex laborum veritatis labore repellat recusandae aliquam, explicabo aut veniam ratione animi eligendi molestias voluptatem minima, cum deleniti ipsum iure rerum tenetur incidunt accusamus placeat aspernatur.",
+                "product_quantity": 63,
+                "product_price": 35.8
+            }
+        ]
+    }
+}

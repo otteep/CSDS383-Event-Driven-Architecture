@@ -1,0 +1,32 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-4OZqpIoD",
+        "supplier_contact": "supplier4OZqpIoD@example.com",
+        "products": [
+            {
+                "product_name": "Product-ad-dignissimos",
+                "product_description": "Deleniti alias est id amet perferendis quam ipsum recusandae doloribus unde consectetur, quae voluptate ullam exercitationem animi.",
+                "product_quantity": 12,
+                "product_price": 78.54
+            },
+            {
+                "product_name": "Product-necessitatibus-expedita",
+                "product_description": "Adipisci praesentium quae assumenda quaerat harum expedita, porro corporis voluptatum eaque amet commodi at eos doloremque sed minus dolorem, nobis a excepturi debitis adipisci.",
+                "product_quantity": 32,
+                "product_price": 41.4
+            },
+            {
+                "product_name": "Product-fugit-perferendis",
+                "product_description": "Consectetur minus nihil ab nobis sed non laboriosam magni, nemo eaque explicabo.",
+                "product_quantity": 70,
+                "product_price": 92.65
+            },
+            {
+                "product_name": "Product-neque-voluptatem",
+                "product_description": "Quos ipsam deleniti sapiente aperiam dolorem, dicta tenetur nam sapiente architecto perspiciatis aperiam mollitia necessitatibus aliquid ullam hic, maiores minus id sequi aspernatur tenetur impedit?",
+                "product_quantity": 48,
+                "product_price": 1.31
+            }
+        ]
+    }
+}

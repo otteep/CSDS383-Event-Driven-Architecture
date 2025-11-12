@@ -1,0 +1,32 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-AisZoDmR",
+        "supplier_contact": "supplierAisZoDmR@example.com",
+        "products": [
+            {
+                "product_name": "Product-corporis-inventore",
+                "product_description": "Itaque eligendi nam reiciendis accusamus quaerat quas pariatur veniam ut recusandae, architecto eaque vel suscipit rerum ea blanditiis culpa accusantium.",
+                "product_quantity": 67,
+                "product_price": 64.54
+            },
+            {
+                "product_name": "Product-quas-esse",
+                "product_description": "Quam ratione rerum quae ex exercitationem iure harum voluptas nam facilis aliquid, adipisci illo veniam doloribus, voluptates nisi veritatis amet iste sapiente?",
+                "product_quantity": 97,
+                "product_price": 7.45
+            },
+            {
+                "product_name": "Product-earum-est",
+                "product_description": "Quas doloribus molestiae quod itaque, repudiandae quo consequatur exercitationem provident illo assumenda velit quis nisi aliquid, ducimus reiciendis voluptatum ex odit voluptate fugiat facere voluptatem officiis recusandae, totam repellendus qui rem animi nobis dicta doloribus laudantium in?",
+                "product_quantity": 20,
+                "product_price": 91.2
+            },
+            {
+                "product_name": "Product-vitae-fugit",
+                "product_description": "Exercitationem quas libero itaque blanditiis, iste dolorem suscipit obcaecati at, eligendi aperiam ipsam dignissimos inventore commodi et rem, praesentium ad nemo unde asperiores?",
+                "product_quantity": 18,
+                "product_price": 21.35
+            }
+        ]
+    }
+}

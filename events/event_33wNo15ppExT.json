@@ -1,0 +1,32 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-Amhe7nNh",
+        "supplier_contact": "supplierAmhe7nNh@example.com",
+        "products": [
+            {
+                "product_name": "Product-illum-minus",
+                "product_description": "At natus perferendis amet facilis quae porro, eligendi perspiciatis minus sit blanditiis incidunt assumenda, rem ea quos inventore excepturi cupiditate provident amet quibusdam eius sapiente vero, sapiente obcaecati cupiditate nesciunt cum culpa soluta?",
+                "product_quantity": 1,
+                "product_price": 52.8
+            },
+            {
+                "product_name": "Product-inventore-rem",
+                "product_description": "Ex quaerat hic nostrum deserunt quos accusamus, est eveniet sint suscipit non.",
+                "product_quantity": 40,
+                "product_price": 47.95
+            },
+            {
+                "product_name": "Product-ipsam-reiciendis",
+                "product_description": "Dolor deleniti ipsum libero dicta nobis, quisquam perferendis cum repellat consectetur sunt aspernatur?",
+                "product_quantity": 11,
+                "product_price": 14.96
+            },
+            {
+                "product_name": "Product-cumque-ad",
+                "product_description": "Aperiam hic libero culpa perferendis cum nostrum ab dignissimos sapiente accusantium, voluptas commodi necessitatibus aliquid laboriosam quo doloremque, magnam repudiandae recusandae rem velit aut cupiditate magni quidem nesciunt ut ea?",
+                "product_quantity": 96,
+                "product_price": 83.17
+            }
+        ]
+    }
+}

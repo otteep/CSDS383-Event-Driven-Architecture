@@ -1,0 +1,37 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-312IwD3X",
+        "supplier_contact": "supplier312IwD3X@example.com",
+        "products": [
+            {
+                "product_name": "Product-debitis-enim",
+                "product_description": "Incidunt sapiente quas eaque adipisci quo odio sunt laborum, aspernatur accusantium laboriosam, corporis nobis eum odit sequi, dolorem explicabo veritatis quae ipsam.",
+                "product_quantity": 65,
+                "product_price": 93.77
+            },
+            {
+                "product_name": "Product-molestias-sequi",
+                "product_description": "Commodi ratione perferendis laboriosam exercitationem voluptatibus, earum obcaecati nesciunt velit molestias sapiente aspernatur labore est et repudiandae consequatur, quasi sint assumenda vero, eos deleniti officiis quia natus harum quaerat atque voluptates consequuntur sapiente, ullam harum error odio aliquid?",
+                "product_quantity": 69,
+                "product_price": 68.85
+            },
+            {
+                "product_name": "Product-maxime-ducimus",
+                "product_description": "Iste repudiandae molestiae aspernatur, consectetur delectus quia facilis magni nesciunt repellendus ducimus enim, molestiae inventore maiores est repellendus porro doloremque non, asperiores libero repellendus quam.",
+                "product_quantity": 33,
+                "product_price": 83.89
+            },
+            {
+                "product_name": "Product-ut-saepe",
+                "product_description": "Et similique vitae dolore perferendis itaque quisquam eligendi, quaerat vitae eveniet dolore deserunt alias hic, cupiditate repudiandae pariatur ducimus suscipit commodi saepe odit at eum necessitatibus vero, odio repellat officia atque veritatis sed ratione, expedita nostrum possimus alias quasi quidem nisi tempore error officia pariatur labore?",
+                "product_quantity": 16,
+                "product_price": 73.76
+            },
+            {
+                "product_name": "Product-minus-pariatur",
+                "product_description": "Libero voluptates quae in, esse magnam fugit similique quae deleniti corporis quibusdam perspiciatis, voluptatibus cum incidunt non dolorum quo atque repellat, autem atque sequi consectetur voluptatibus?",
+                "product_quantity": 84
+            }
+        ]
+    }
+}

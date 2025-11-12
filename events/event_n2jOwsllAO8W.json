@@ -1,0 +1,26 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-9INBAY8r",
+        "supplier_contact": "supplier9INBAY8r@example.com",
+        "products": [
+            {
+                "product_name": "Product-delectus-qui",
+                "product_description": "Corrupti dolorem porro suscipit non nihil aliquid provident incidunt, repudiandae dicta necessitatibus eos expedita illum similique ipsam delectus veritatis voluptatum, fuga blanditiis esse cupiditate ratione aspernatur nulla quae quas repellendus, eius laborum sint voluptas alias quam minus?",
+                "product_quantity": 26,
+                "product_price": 19.03
+            },
+            {
+                "product_name": "Product-nesciunt-ipsum",
+                "product_description": "Velit in quos omnis, incidunt corporis labore ipsum dicta et at nam modi, tempore expedita iure quam neque voluptatum amet accusantium vero consequuntur.",
+                "product_quantity": 47,
+                "product_price": 34.19
+            },
+            {
+                "product_name": "Product-enim-dolores",
+                "product_description": "Sed alias dolorum aliquid vero, natus laudantium omnis, excepturi optio id.",
+                "product_quantity": 42,
+                "product_price": 23.12
+            }
+        ]
+    }
+}

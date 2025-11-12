@@ -1,0 +1,13 @@
+{
+    "supplier": {
+        "supplier_contact": "supplierwGaVgbFZ@example.com",
+        "products": [
+            {
+                "product_name": "Product-quas-voluptatibus",
+                "product_description": "Labore repellat asperiores expedita temporibus explicabo vel hic, sequi repellendus ipsa voluptatum consequuntur, commodi magnam placeat voluptatum nam tempore eum odit earum, placeat neque commodi?",
+                "product_quantity": 33,
+                "product_price": 40.08
+            }
+        ]
+    }
+}

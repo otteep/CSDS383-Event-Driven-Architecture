@@ -1,0 +1,14 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-YCmouf7u",
+        "supplier_contact": "supplierYCmouf7u@example.com",
+        "products": [
+            {
+                "product_name": "Product-nostrum-at",
+                "product_description": "Nihil soluta rerum officiis consequuntur, fuga et officia atque optio doloribus asperiores architecto sit animi ipsa aliquam?",
+                "product_quantity": 45,
+                "product_price": 67.5
+            }
+        ]
+    }
+}

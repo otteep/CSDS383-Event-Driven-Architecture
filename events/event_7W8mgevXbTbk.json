@@ -1,0 +1,14 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-ZV8UarFP",
+        "supplier_contact": "supplierZV8UarFP@example.com",
+        "products": [
+            {
+                "product_name": "Product-corporis-fuga",
+                "product_description": "Perspiciatis architecto repellendus officia nisi accusantium dolorem sit quis voluptate reprehenderit, quod quam ipsa?",
+                "product_quantity": 31,
+                "product_price": 86.89
+            }
+        ]
+    }
+}

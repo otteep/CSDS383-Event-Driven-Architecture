@@ -1,0 +1,37 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-aEc5y4Yk",
+        "supplier_contact": "supplieraEc5y4Yk@example.com",
+        "products": [
+            {
+                "product_name": "Product-dolorem-voluptatem",
+                "product_description": "Dicta quia aperiam, cupiditate voluptates sapiente rem earum commodi eos.",
+                "product_quantity": 43,
+                "product_price": 17.45
+            },
+            {
+                "product_name": "Product-quibusdam-animi",
+                "product_description": "Sit repellendus recusandae reprehenderit alias, expedita cumque deserunt omnis velit dolorem consectetur error similique, accusantium enim deleniti labore assumenda error nulla consectetur odit excepturi exercitationem quo, mollitia id quaerat laudantium?",
+                "product_quantity": 83,
+                "product_price": 79.78
+            },
+            {
+                "product_name": "Product-autem-sit",
+                "product_description": "Iste est hic exercitationem officiis, amet iusto qui sapiente illum itaque ipsa optio harum atque quam quos.",
+                "product_quantity": 15,
+                "product_price": 79.66
+            },
+            {
+                "product_name": "Product-id-quae",
+                "product_quantity": 38,
+                "product_price": 74.15
+            },
+            {
+                "product_name": "Product-debitis-iure",
+                "product_description": "Ab eius provident, numquam quas quae dolor, dolore consequuntur explicabo, tempore inventore ab sed sint ratione facilis nulla autem dignissimos quia, molestiae tenetur illum odit temporibus voluptas sed?",
+                "product_quantity": 62,
+                "product_price": 49.9
+            }
+        ]
+    }
+}

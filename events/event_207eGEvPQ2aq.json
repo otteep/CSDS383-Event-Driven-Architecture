@@ -1,0 +1,26 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-QW4xxChO",
+        "supplier_contact": "supplierQW4xxChO@example.com",
+        "products": [
+            {
+                "product_name": "Product-quas-odit",
+                "product_description": "Totam explicabo autem blanditiis voluptas eligendi necessitatibus laborum mollitia, dolore at porro unde impedit facere vero corporis, iste voluptatibus accusamus laboriosam inventore.",
+                "product_quantity": 43,
+                "product_price": 84.24
+            },
+            {
+                "product_name": "Product-sed-ullam",
+                "product_description": "Ipsa at fugit beatae recusandae iste, dolores optio laboriosam rem nam sit, tempore deserunt obcaecati expedita dolorem quos repellat quas aut omnis.",
+                "product_quantity": 71,
+                "product_price": 8.32
+            },
+            {
+                "product_name": "Product-corporis-possimus",
+                "product_description": "Provident placeat asperiores rem amet modi, ab eius incidunt deserunt voluptates quia perferendis voluptatibus dolor impedit, voluptatem odit cupiditate minus, voluptatem totam iusto amet nam at ipsum deserunt debitis?",
+                "product_quantity": 75,
+                "product_price": 46.29
+            }
+        ]
+    }
+}

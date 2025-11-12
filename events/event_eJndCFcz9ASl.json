@@ -1,0 +1,31 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-EDtJMXn2",
+        "supplier_contact": "supplierEDtJMXn2@example.com",
+        "products": [
+            {
+                "product_name": "Product-nam-vel",
+                "product_description": "Aliquam vitae odit, dolore facilis et ea rerum sed soluta sequi exercitationem, omnis facilis consequuntur, nisi officiis vitae sequi illum similique debitis eligendi excepturi dolorem nemo expedita, expedita blanditiis quidem magnam cum unde omnis.",
+                "product_quantity": 63,
+                "product_price": 38.56
+            },
+            {
+                "product_name": "Product-laudantium-ipsam",
+                "product_quantity": 47,
+                "product_price": 42.36
+            },
+            {
+                "product_name": "Product-consequatur-tempora",
+                "product_description": "Inventore delectus dolores repellat voluptatum veniam nemo, possimus aliquam nisi illo enim quod impedit ad placeat, asperiores provident reprehenderit laborum sint quibusdam, nobis eligendi incidunt rem consectetur eaque, optio at dicta est tempore?",
+                "product_quantity": 27,
+                "product_price": 98.24
+            },
+            {
+                "product_name": "Product-porro-ducimus",
+                "product_description": "Magnam cum quidem reprehenderit quam fugiat ratione, impedit molestias accusamus repellat, aliquam porro ducimus.",
+                "product_quantity": 79,
+                "product_price": 96.24
+            }
+        ]
+    }
+}

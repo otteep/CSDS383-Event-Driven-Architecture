@@ -1,0 +1,20 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-VLZzfDyi",
+        "supplier_contact": "supplierVLZzfDyi@example.com",
+        "products": [
+            {
+                "product_name": "Product-autem-eaque",
+                "product_description": "Voluptates accusantium quo expedita totam tempore voluptatem officia, reprehenderit sunt explicabo ratione quaerat debitis repudiandae velit, dolor quibusdam libero sed placeat repellat pariatur?",
+                "product_quantity": 83,
+                "product_price": 49.5
+            },
+            {
+                "product_name": "Product-animi-ullam",
+                "product_description": "Ullam quo voluptatem modi molestias excepturi amet minima, aliquid amet eveniet totam quis perferendis architecto iure quod porro ullam veritatis?",
+                "product_quantity": 9,
+                "product_price": 84.54
+            }
+        ]
+    }
+}

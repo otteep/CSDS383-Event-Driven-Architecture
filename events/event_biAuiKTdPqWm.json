@@ -1,0 +1,37 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-zaBFUUlM",
+        "supplier_contact": "supplierzaBFUUlM@example.com",
+        "products": [
+            {
+                "product_name": "Product-sequi-labore",
+                "product_description": "Tempore molestias ipsum velit saepe omnis enim iste, dolor quidem ipsum fuga tempore ipsa.",
+                "product_quantity": 45,
+                "product_price": 87.24
+            },
+            {
+                "product_name": "Product-hic-aperiam",
+                "product_description": "Sapiente dicta fugiat nam, quasi illo illum incidunt magni voluptatum, dicta nesciunt temporibus magnam enim earum omnis sint similique aperiam officia consequatur, ratione minus reprehenderit dolor dolores.",
+                "product_quantity": 82
+            },
+            {
+                "product_name": "Product-error-tempore",
+                "product_description": "At ullam rem labore qui iusto, reprehenderit ratione asperiores eligendi id vero distinctio?",
+                "product_quantity": 96,
+                "product_price": 1.96
+            },
+            {
+                "product_name": "Product-numquam-quo",
+                "product_description": "Perferendis commodi aliquam quaerat voluptates non quisquam magni consectetur consequatur earum, fuga quod tenetur ad esse magni repellendus culpa beatae mollitia, et iste culpa quasi omnis quam quo reiciendis quisquam officia veritatis.",
+                "product_quantity": 5,
+                "product_price": 74.2
+            },
+            {
+                "product_name": "Product-tenetur-laboriosam",
+                "product_description": "Assumenda sit quasi dicta reiciendis ipsa, repellendus delectus accusantium ex, exercitationem nulla quibusdam sed quas repudiandae vero iusto iste inventore?",
+                "product_quantity": 20,
+                "product_price": 54.79
+            }
+        ]
+    }
+}

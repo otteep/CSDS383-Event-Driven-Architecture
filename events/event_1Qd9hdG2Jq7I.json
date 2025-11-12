@@ -1,0 +1,26 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-kJAEZb7l",
+        "supplier_contact": "supplierkJAEZb7l@example.com",
+        "products": [
+            {
+                "product_name": "Product-similique-commodi",
+                "product_description": "Veritatis similique ducimus incidunt id tenetur, fuga doloremque eum labore?",
+                "product_quantity": 84,
+                "product_price": 27.27
+            },
+            {
+                "product_name": "Product-ab-tenetur",
+                "product_description": "Quibusdam molestiae doloremque delectus sequi, amet perspiciatis iure, in distinctio magnam ducimus, dignissimos aliquam at maxime eum quod deserunt voluptatibus, impedit nesciunt magnam sunt quasi cum aperiam animi odio.",
+                "product_quantity": 68,
+                "product_price": 48.06
+            },
+            {
+                "product_name": "Product-enim-error",
+                "product_description": "Tenetur libero exercitationem iure, fugit corrupti explicabo libero ut laboriosam ex illum nulla praesentium temporibus incidunt, libero vitae facere corrupti cupiditate iste commodi explicabo quisquam labore voluptate, odit quo quia earum dolor sit nemo veniam, eveniet voluptate cumque laboriosam doloremque aut mollitia autem delectus optio ipsa.",
+                "product_quantity": 24,
+                "product_price": 90.42
+            }
+        ]
+    }
+}

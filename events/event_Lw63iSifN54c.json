@@ -1,0 +1,20 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-TJn8L1OC",
+        "supplier_contact": "supplierTJn8L1OC@example.com",
+        "products": [
+            {
+                "product_name": "Product-quidem-optio",
+                "product_description": "Cumque possimus expedita a soluta reiciendis quisquam corporis quis alias officia corrupti, voluptatem consequuntur voluptas animi inventore quia perspiciatis consequatur, modi commodi quisquam officiis unde minus incidunt temporibus eaque aliquid ipsum, fugiat magni unde labore.",
+                "product_quantity": 91,
+                "product_price": 82.11
+            },
+            {
+                "product_name": "Product-illo-optio",
+                "product_description": "Qui optio expedita sunt itaque rerum, neque repellendus unde reiciendis ducimus aut, eveniet facere odio consequatur ea quos tempora, voluptatem sunt dicta.",
+                "product_quantity": 15,
+                "product_price": 74.07
+            }
+        ]
+    }
+}

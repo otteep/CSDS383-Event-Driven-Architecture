@@ -1,0 +1,32 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-9IbKu7a0",
+        "supplier_contact": "supplier9IbKu7a0@example.com",
+        "products": [
+            {
+                "product_name": "Product-quisquam-eum",
+                "product_description": "Fugiat placeat sint rem nisi eos nostrum, ullam beatae debitis animi quaerat sunt eum repellendus perspiciatis, animi fugit accusamus deleniti officia tempore quis, harum impedit veritatis blanditiis ut ipsam atque illo assumenda repellat ab?",
+                "product_quantity": 83,
+                "product_price": 38.2
+            },
+            {
+                "product_name": "Product-cupiditate-facere",
+                "product_description": "Delectus vel veniam pariatur porro, quis et quia rem repudiandae quibusdam necessitatibus dignissimos illo sequi deleniti, quasi magni cum sint molestiae ab corrupti minus, id quod veniam.",
+                "product_quantity": 78,
+                "product_price": 72.76
+            },
+            {
+                "product_name": "Product-nisi-adipisci",
+                "product_description": "Iste dolorem nemo consequuntur possimus esse debitis nisi quis accusantium, fugiat eligendi necessitatibus nobis qui id sint ab.",
+                "product_quantity": 28,
+                "product_price": 52.14
+            },
+            {
+                "product_name": "Product-impedit-repellendus",
+                "product_description": "Cupiditate dolores recusandae sapiente vero quae cum iste id fugiat, iste deleniti eaque reiciendis, id dolorem pariatur.",
+                "product_quantity": 30,
+                "product_price": 43.47
+            }
+        ]
+    }
+}

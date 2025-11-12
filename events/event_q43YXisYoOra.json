@@ -1,0 +1,14 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-zGnGMxtV",
+        "supplier_contact": "supplierzGnGMxtV@example.com",
+        "products": [
+            {
+                "product_name": "Product-similique-sunt",
+                "product_description": "Eos iusto nemo, ex voluptate maxime asperiores unde et, aspernatur earum libero pariatur, eveniet assumenda laboriosam distinctio explicabo asperiores cum ea quas dolore.",
+                "product_quantity": 34,
+                "product_price": 67.05
+            }
+        ]
+    }
+}

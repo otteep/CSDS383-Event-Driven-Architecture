@@ -1,0 +1,37 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-fCFySdl8",
+        "supplier_contact": "supplierfCFySdl8@example.com",
+        "products": [
+            {
+                "product_name": "Product-possimus-cupiditate",
+                "product_description": "Soluta cum debitis suscipit ad quaerat dicta quidem exercitationem, sapiente at laborum dignissimos totam beatae odit quasi fugit molestiae odio.",
+                "product_quantity": 52,
+                "product_price": 27.93
+            },
+            {
+                "product_name": "Product-itaque-aspernatur",
+                "product_description": "Sapiente optio necessitatibus tenetur rem voluptas, corporis aliquid rerum exercitationem voluptates qui vero repellat quidem eaque?",
+                "product_quantity": 91,
+                "product_price": 89.77
+            },
+            {
+                "product_name": "Product-voluptatum-ut",
+                "product_description": "Labore sunt quia nam, harum repellendus voluptates repellat porro vel, sint fuga esse aperiam, quidem omnis libero pariatur molestiae?",
+                "product_quantity": 88,
+                "product_price": 25.02
+            },
+            {
+                "product_name": "Product-sit-deleniti",
+                "product_quantity": 56,
+                "product_price": 15.44
+            },
+            {
+                "product_name": "Product-libero-nisi",
+                "product_description": "Nihil autem quam quo dolorem deleniti deserunt ducimus officia nam vero amet, possimus labore architecto iste dolorum temporibus quidem.",
+                "product_quantity": 44,
+                "product_price": 44.1
+            }
+        ]
+    }
+}

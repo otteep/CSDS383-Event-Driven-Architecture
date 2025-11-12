@@ -1,0 +1,26 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-TINJGuDD",
+        "supplier_contact": "supplierTINJGuDD@example.com",
+        "products": [
+            {
+                "product_name": "Product-eligendi-ad",
+                "product_description": "Veritatis incidunt esse, itaque sed aspernatur enim dolores omnis sit repellendus saepe, incidunt quas magnam illo provident.",
+                "product_quantity": 33,
+                "product_price": 82.33
+            },
+            {
+                "product_name": "Product-aspernatur-ea",
+                "product_description": "Fugiat ex adipisci quae architecto libero eligendi sequi, blanditiis cumque aliquam neque dolor nesciunt aut, obcaecati adipisci blanditiis nam quibusdam quaerat?",
+                "product_quantity": 82,
+                "product_price": 19.51
+            },
+            {
+                "product_name": "Product-nobis-harum",
+                "product_description": "Harum incidunt voluptates tempora, qui dolorum quam aliquid amet expedita laudantium, excepturi velit reiciendis magnam quam voluptates tempore?",
+                "product_quantity": 3,
+                "product_price": 26.67
+            }
+        ]
+    }
+}

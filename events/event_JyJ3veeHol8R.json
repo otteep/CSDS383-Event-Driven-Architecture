@@ -1,0 +1,26 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-WdVgwQzg",
+        "supplier_contact": "supplierWdVgwQzg@example.com",
+        "products": [
+            {
+                "product_name": "Product-consectetur-eum",
+                "product_description": "Harum exercitationem eius quae eveniet corrupti, voluptas libero quas enim consectetur tempora minus cumque perferendis nobis reprehenderit repellendus, ut soluta molestiae iure laudantium veniam provident adipisci placeat iusto voluptatem sint, ab aliquam maiores qui dolor laboriosam itaque pariatur?",
+                "product_quantity": 87,
+                "product_price": 48.37
+            },
+            {
+                "product_name": "Product-voluptate-aspernatur",
+                "product_description": "Inventore id fuga ratione similique aut esse provident nostrum magni repudiandae doloribus, molestiae nemo architecto repudiandae adipisci possimus voluptatum necessitatibus repellat, veritatis dolorem cum numquam quibusdam totam impedit harum mollitia excepturi animi eius?",
+                "product_quantity": 85,
+                "product_price": 74.72
+            },
+            {
+                "product_name": "Product-hic-ullam",
+                "product_description": "Nemo voluptates temporibus repudiandae officiis, repellendus cupiditate tempora ex voluptates blanditiis optio tenetur inventore sequi vero aliquam, atque autem vel vitae est libero nam fuga tenetur dolorum, reiciendis dolores tempore at rem obcaecati perspiciatis omnis unde ad sit.",
+                "product_quantity": 55,
+                "product_price": 56.15
+            }
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-IY2cnOH0",
+        "supplier_contact": "supplierIY2cnOH0@example.com",
+        "products": [
+            {
+                "product_name": "Product-dolorum-odit",
+                "product_description": "Mollitia quidem voluptates ratione consequatur ipsum tempore nobis illo ipsam corporis ipsa, asperiores dolorum totam libero, nisi officia vel explicabo sed quod laborum blanditiis repudiandae.",
+                "product_quantity": 8,
+                "product_price": 47.76
+            }
+        ]
+    }
+}

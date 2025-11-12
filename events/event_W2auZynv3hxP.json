@@ -1,0 +1,26 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-WlvgK8Dz",
+        "supplier_contact": "supplierWlvgK8Dz@example.com",
+        "products": [
+            {
+                "product_name": "Product-corrupti-pariatur",
+                "product_description": "Sed esse voluptatibus unde dolorem, fugit itaque dicta possimus veritatis similique voluptate voluptas tempore, ex corrupti officiis dolorum velit nesciunt at, mollitia neque repellendus omnis ipsa minus doloremque sed dolore, maxime porro beatae autem exercitationem laborum esse voluptate vel.",
+                "product_quantity": 32,
+                "product_price": 71.57
+            },
+            {
+                "product_name": "Product-aut-repellat",
+                "product_description": "Illum rem id inventore corrupti numquam sit accusamus repellat cumque veritatis hic, quod nostrum consequatur nihil fugiat eos animi numquam ex aut pariatur deserunt, distinctio illum necessitatibus vel harum corrupti provident consequuntur inventore, esse inventore sunt saepe minima.",
+                "product_quantity": 100,
+                "product_price": 12.65
+            },
+            {
+                "product_name": "Product-ex-accusamus",
+                "product_description": "Modi nostrum dolore necessitatibus veniam incidunt repellat, quibusdam ut obcaecati laborum quo culpa doloribus eligendi, culpa exercitationem reprehenderit consequuntur fugit mollitia?",
+                "product_quantity": 56,
+                "product_price": 65.16
+            }
+        ]
+    }
+}

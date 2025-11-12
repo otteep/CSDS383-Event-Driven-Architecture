@@ -1,0 +1,20 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-OHQwb3in",
+        "supplier_contact": "supplierOHQwb3in@example.com",
+        "products": [
+            {
+                "product_name": "Product-debitis-iure",
+                "product_description": "Aspernatur mollitia odit fuga temporibus, aliquam maxime ratione, eaque cum quas?",
+                "product_quantity": 32,
+                "product_price": 66.06
+            },
+            {
+                "product_name": "Product-ipsam-non",
+                "product_description": "Rerum minus odit eius, dolores non aut facilis dolorem temporibus sunt odit soluta ea tempore, magni hic cupiditate?",
+                "product_quantity": 97,
+                "product_price": 16.9
+            }
+        ]
+    }
+}

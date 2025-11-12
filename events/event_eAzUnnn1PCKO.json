@@ -1,0 +1,26 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-GoNiNcGq",
+        "supplier_contact": "supplierGoNiNcGq@example.com",
+        "products": [
+            {
+                "product_name": "Product-nesciunt-dolores",
+                "product_description": "Eaque accusamus modi beatae, temporibus laudantium quibusdam delectus, adipisci fugit ipsum vitae eaque nostrum repellendus itaque soluta velit natus quibusdam, vitae officia at debitis non omnis excepturi porro quaerat voluptatibus vero corrupti, distinctio odio maxime quaerat magnam nam facere sapiente eos quo.",
+                "product_quantity": 85,
+                "product_price": 92.85
+            },
+            {
+                "product_name": "Product-ipsam-facilis",
+                "product_description": "Harum dolores nesciunt iure eos vitae animi reprehenderit numquam fugiat earum alias, amet nam inventore voluptates neque incidunt sunt esse exercitationem mollitia?",
+                "product_quantity": 33,
+                "product_price": 97.58
+            },
+            {
+                "product_name": "Product-iure-quia",
+                "product_description": "Sint dolorum provident, nobis ea repudiandae consequatur qui quia accusantium at quidem amet.",
+                "product_quantity": 67,
+                "product_price": 68.5
+            }
+        ]
+    }
+}

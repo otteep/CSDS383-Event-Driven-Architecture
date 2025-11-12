@@ -1,0 +1,38 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-1rtF2OAI",
+        "supplier_contact": "supplier1rtF2OAI@example.com",
+        "products": [
+            {
+                "product_name": "Product-numquam-voluptate",
+                "product_description": "Obcaecati delectus vel id in aperiam neque commodi voluptates, unde perspiciatis incidunt assumenda mollitia quam sunt ex eius, quos et repellendus ab assumenda doloremque accusantium a esse omnis.",
+                "product_quantity": 27,
+                "product_price": 68.35
+            },
+            {
+                "product_name": "Product-pariatur-labore",
+                "product_description": "Odio quod facilis eaque est nesciunt nulla doloremque assumenda quo voluptate ullam, atque incidunt commodi iusto odio tenetur magni non nulla modi.",
+                "product_quantity": 6,
+                "product_price": 78.92
+            },
+            {
+                "product_name": "Product-accusamus-ad",
+                "product_description": "Facilis eos aspernatur rem nisi voluptatum ad minus voluptate aperiam, sed hic quam sit harum error ad reprehenderit, velit esse at similique dolores magnam ipsa earum assumenda quos quaerat aspernatur, quas accusantium expedita totam nisi porro, labore veritatis ea rerum exercitationem soluta nostrum pariatur placeat totam ab magni?",
+                "product_quantity": 7,
+                "product_price": 63.36
+            },
+            {
+                "product_name": "Product-itaque-deleniti",
+                "product_description": "Eveniet harum nisi dolor id recusandae ipsam, sunt exercitationem vel dolorum vitae dignissimos, ad dolorum vitae assumenda laudantium quae neque fuga corrupti voluptates, recusandae eveniet corrupti, modi provident veritatis architecto odio excepturi officiis consequatur dicta?",
+                "product_quantity": 42,
+                "product_price": 11.94
+            },
+            {
+                "product_name": "Product-sequi-dolore",
+                "product_description": "Inventore sed quia ipsa facere optio eaque itaque odit, quas atque laboriosam totam est repellendus nihil odio quasi velit consequatur facilis.",
+                "product_quantity": 41,
+                "product_price": 42.32
+            }
+        ]
+    }
+}

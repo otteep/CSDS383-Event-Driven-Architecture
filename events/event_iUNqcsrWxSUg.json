@@ -1,0 +1,38 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-R8JfgvkM",
+        "supplier_contact": "supplierR8JfgvkM@example.com",
+        "products": [
+            {
+                "product_name": "Product-tempore-veniam",
+                "product_description": "Esse blanditiis possimus odit suscipit nostrum, quae assumenda distinctio illo corporis velit et fuga?",
+                "product_quantity": 85,
+                "product_price": 53.92
+            },
+            {
+                "product_name": "Product-consectetur-libero",
+                "product_description": "Reiciendis inventore voluptas error cumque corporis, architecto quaerat ullam, sunt voluptatem cupiditate quia sint repellendus impedit, ea quam voluptate numquam.",
+                "product_quantity": 21,
+                "product_price": 58.9
+            },
+            {
+                "product_name": "Product-ipsam-blanditiis",
+                "product_description": "Sunt dolor inventore repudiandae maxime nam veniam totam, aperiam id asperiores deserunt explicabo natus provident odit, quod a molestias in libero ab sunt dolorem nihil nemo, molestias ipsam quidem necessitatibus dolores hic nobis sed enim sunt adipisci dolore?",
+                "product_quantity": 68,
+                "product_price": 85.45
+            },
+            {
+                "product_name": "Product-impedit-doloremque",
+                "product_description": "Minus error sit et, provident veritatis pariatur sequi impedit, aspernatur omnis neque cumque delectus molestias sequi excepturi unde non sapiente vel, quis tempora eum odit quia neque impedit eligendi nisi facere.",
+                "product_quantity": 29,
+                "product_price": 70.83
+            },
+            {
+                "product_name": "Product-autem-repudiandae",
+                "product_description": "Quasi ipsam harum odit distinctio veniam unde quia est, commodi enim sit quibusdam blanditiis quidem, tenetur obcaecati ducimus sed fugiat aut provident fuga necessitatibus maxime reiciendis eum, porro nihil adipisci debitis provident omnis, et amet cum omnis vero tempora.",
+                "product_quantity": 27,
+                "product_price": 65.69
+            }
+        ]
+    }
+}

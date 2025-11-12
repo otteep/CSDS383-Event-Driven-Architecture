@@ -1,0 +1,26 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-uMQ1cVO6",
+        "supplier_contact": "supplieruMQ1cVO6@example.com",
+        "products": [
+            {
+                "product_name": "Product-omnis-aliquid",
+                "product_description": "Quas repellendus facere repudiandae eligendi repellat soluta veritatis cupiditate quisquam eius sequi, quis blanditiis voluptatum illum a?",
+                "product_quantity": 29,
+                "product_price": 35.18
+            },
+            {
+                "product_name": "Product-repudiandae-provident",
+                "product_description": "Sint obcaecati excepturi ipsa ipsum nulla ducimus, quaerat officiis atque unde dolores id maiores porro ullam facilis, ipsum harum voluptatem veritatis suscipit aut, iure esse rem atque neque, fugit veniam soluta alias aut obcaecati id accusantium mollitia saepe?",
+                "product_quantity": 23,
+                "product_price": 27.48
+            },
+            {
+                "product_name": "Product-id-libero",
+                "product_description": "Ab beatae provident tempore ex, sed veritatis eos odio fugit quasi maxime consequuntur nam enim, non laborum laboriosam dicta ratione tenetur distinctio alias aliquid dolorem hic, nam alias veritatis amet impedit ratione rem et eos?",
+                "product_quantity": 32,
+                "product_price": 44.4
+            }
+        ]
+    }
+}

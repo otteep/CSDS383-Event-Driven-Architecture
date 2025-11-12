@@ -1,0 +1,37 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-xrrRcLwu",
+        "supplier_contact": "supplierxrrRcLwu@example.com",
+        "products": [
+            {
+                "product_name": "Product-a-cumque",
+                "product_description": "Deleniti sint id totam mollitia molestias, minus unde est ipsum, cupiditate illo fugit, tempora quia atque cupiditate veniam tempore.",
+                "product_quantity": 45,
+                "product_price": 86.51
+            },
+            {
+                "product_name": "Product-veritatis-dolores",
+                "product_description": "Delectus quo aliquam omnis odit tempore sapiente alias quos, mollitia laudantium quis officia fugit minima esse praesentium.",
+                "product_price": 90.74
+            },
+            {
+                "product_name": "Product-doloremque-aperiam",
+                "product_description": "Est deleniti repudiandae, facilis eius ipsa repellat tenetur, ex necessitatibus ab, pariatur numquam odit, ullam beatae minima alias aliquam quibusdam voluptatibus laborum similique libero laudantium.",
+                "product_quantity": 71,
+                "product_price": 47.7
+            },
+            {
+                "product_name": "Product-minima-qui",
+                "product_description": "Dolorum consequuntur eaque velit vitae, magnam sint corrupti iure harum reprehenderit quasi labore quo voluptate cumque deserunt, optio quibusdam quasi vitae possimus laudantium provident, odio aperiam nisi nemo rerum cumque sunt sint natus quae odit, reiciendis cupiditate numquam ipsam cumque provident doloremque blanditiis voluptates nesciunt.",
+                "product_quantity": 4,
+                "product_price": 98.15
+            },
+            {
+                "product_name": "Product-delectus-error",
+                "product_description": "Obcaecati odit earum placeat aliquam inventore iure soluta et error libero, quo blanditiis cupiditate temporibus dignissimos eveniet veritatis quasi incidunt.",
+                "product_quantity": 68,
+                "product_price": 46.36
+            }
+        ]
+    }
+}

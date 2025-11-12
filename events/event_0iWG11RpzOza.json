@@ -1,0 +1,26 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-2IFaDyDq",
+        "supplier_contact": "supplier2IFaDyDq@example.com",
+        "products": [
+            {
+                "product_name": "Product-quidem-necessitatibus",
+                "product_description": "Deserunt dolor enim consectetur doloremque nisi asperiores aspernatur illo ipsa minus, aliquam animi voluptates alias et quo, cupiditate nulla nihil voluptatibus rem voluptates dicta ad nemo ipsam labore architecto?",
+                "product_quantity": 3,
+                "product_price": 23.64
+            },
+            {
+                "product_name": "Product-illum-modi",
+                "product_description": "Ut eius ducimus eveniet delectus culpa libero, adipisci saepe architecto odio dolorum assumenda?",
+                "product_quantity": 59,
+                "product_price": 98.64
+            },
+            {
+                "product_name": "Product-incidunt-porro",
+                "product_description": "Assumenda sequi vel magni obcaecati, distinctio quidem soluta ad facilis, id eaque facere tempore debitis voluptate.",
+                "product_quantity": 54,
+                "product_price": 89.86
+            }
+        ]
+    }
+}

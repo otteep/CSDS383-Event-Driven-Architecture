@@ -1,0 +1,14 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-MlqGBDdH",
+        "supplier_contact": "supplierMlqGBDdH@example.com",
+        "products": [
+            {
+                "product_name": "Product-dicta-soluta",
+                "product_description": "Ex facilis architecto, ducimus totam quisquam excepturi cum.",
+                "product_quantity": 26,
+                "product_price": 9.56
+            }
+        ]
+    }
+}

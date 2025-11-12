@@ -1,0 +1,38 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-C0udZNqI",
+        "supplier_contact": "supplierC0udZNqI@example.com",
+        "products": [
+            {
+                "product_name": "Product-quisquam-culpa",
+                "product_description": "Quo a itaque, dolore amet corporis impedit, optio ad commodi soluta incidunt quia atque fuga laboriosam qui velit, quod provident unde recusandae maiores delectus obcaecati corporis exercitationem voluptatibus, suscipit culpa incidunt ut eligendi unde porro a vero?",
+                "product_quantity": 37,
+                "product_price": 36.16
+            },
+            {
+                "product_name": "Product-adipisci-corrupti",
+                "product_description": "Dolore consectetur labore magni eius blanditiis veritatis repellendus sunt natus iure voluptatibus, eligendi quo labore delectus reprehenderit voluptate maiores dolorem, eaque quisquam asperiores expedita iste.",
+                "product_quantity": 91,
+                "product_price": 25.75
+            },
+            {
+                "product_name": "Product-pariatur-sit",
+                "product_description": "Consectetur maxime illum dolorem perferendis, illum facere voluptas non saepe quaerat in distinctio quo, tempora necessitatibus qui eligendi nisi assumenda, obcaecati numquam labore minima officiis, nulla est maxime aspernatur aperiam nesciunt saepe animi?",
+                "product_quantity": 23,
+                "product_price": 77.95
+            },
+            {
+                "product_name": "Product-porro-quaerat",
+                "product_description": "Ratione sequi ex repellat sapiente pariatur, magni nihil totam asperiores quasi, maxime incidunt totam voluptatum architecto quia perspiciatis molestiae accusantium recusandae nulla repudiandae.",
+                "product_quantity": 15,
+                "product_price": 94.0
+            },
+            {
+                "product_name": "Product-quos-quo",
+                "product_description": "Quaerat possimus earum veniam reprehenderit, quasi enim saepe, iste minus modi sequi, consequuntur ipsum aspernatur libero fugiat quam voluptas voluptates.",
+                "product_quantity": 10,
+                "product_price": 43.11
+            }
+        ]
+    }
+}

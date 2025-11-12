@@ -1,0 +1,26 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-wcQaeSam",
+        "supplier_contact": "supplierwcQaeSam@example.com",
+        "products": [
+            {
+                "product_name": "Product-nemo-veniam",
+                "product_description": "Autem inventore similique nobis, praesentium illo ex vel vitae error sequi a enim expedita amet nihil, corrupti officia perspiciatis labore odio in dicta, labore laboriosam ipsum cumque expedita nisi similique nesciunt minima suscipit, corrupti provident repellat accusamus odit molestiae natus aspernatur sit porro.",
+                "product_quantity": 5,
+                "product_price": 95.13
+            },
+            {
+                "product_name": "Product-consequatur-eum",
+                "product_description": "Minus maiores officiis labore quidem ducimus aliquid, temporibus nisi nostrum earum unde animi voluptate, aut optio quas iusto aperiam nisi sint magni consequuntur, iure quibusdam eveniet cum, dicta quo dolorem alias.",
+                "product_quantity": 90,
+                "product_price": 54.3
+            },
+            {
+                "product_name": "Product-consequuntur-inventore",
+                "product_description": "Rerum praesentium fugiat officia vitae asperiores dolorem aperiam, voluptas numquam in, quidem deserunt minima inventore necessitatibus dolores libero, iste non repudiandae porro modi voluptate dicta quos iusto facilis?",
+                "product_quantity": 46,
+                "product_price": 71.54
+            }
+        ]
+    }
+}

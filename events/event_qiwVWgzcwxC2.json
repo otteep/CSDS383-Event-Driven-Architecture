@@ -1,0 +1,31 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-nZ8yYm9v",
+        "supplier_contact": "suppliernZ8yYm9v@example.com",
+        "products": [
+            {
+                "product_name": "Product-assumenda-placeat",
+                "product_description": "Laudantium temporibus provident maxime rerum molestiae quos unde suscipit quaerat, architecto minus ea nam tenetur quisquam quam deserunt obcaecati vero, omnis earum in doloremque dolore corporis laboriosam repellat iusto, dolorum est pariatur quaerat accusantium quis recusandae nulla sunt at, at dolorem optio?",
+                "product_price": 23.81
+            },
+            {
+                "product_name": "Product-ad-quisquam",
+                "product_description": "Natus sint voluptatem itaque qui labore aspernatur cupiditate inventore dolorem, adipisci blanditiis at omnis eaque minus delectus?",
+                "product_quantity": 12,
+                "product_price": 56.62
+            },
+            {
+                "product_name": "Product-animi-culpa",
+                "product_description": "Id voluptate distinctio vitae assumenda earum quos facilis tenetur debitis iste, aperiam ab omnis illo debitis saepe qui laborum, doloremque itaque quia optio ad ipsa sapiente rerum vitae, corrupti ullam ab recusandae quibusdam inventore odit alias id delectus commodi sit?",
+                "product_quantity": 20,
+                "product_price": 7.11
+            },
+            {
+                "product_name": "Product-id-iste",
+                "product_description": "Vero fugiat itaque, aliquam voluptatem assumenda non ea labore exercitationem praesentium eos nesciunt cumque, quod nobis pariatur atque voluptatum quos aliquid animi beatae, corporis possimus praesentium voluptatem labore quo?",
+                "product_quantity": 58,
+                "product_price": 36.89
+            }
+        ]
+    }
+}

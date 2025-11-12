@@ -1,0 +1,32 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-aLm182uz",
+        "supplier_contact": "supplieraLm182uz@example.com",
+        "products": [
+            {
+                "product_name": "Product-quis-itaque",
+                "product_description": "Rem nesciunt at alias optio earum facilis in, ipsam aspernatur rem fuga est dolor cupiditate, optio omnis odio cupiditate consectetur minima.",
+                "product_quantity": 27,
+                "product_price": 98.16
+            },
+            {
+                "product_name": "Product-aperiam-dicta",
+                "product_description": "Esse vel dolor id sunt architecto laboriosam animi nemo eos, ipsum officiis velit at nihil explicabo eaque rerum nemo incidunt dolore repellat?",
+                "product_quantity": 72,
+                "product_price": 61.46
+            },
+            {
+                "product_name": "Product-in-ab",
+                "product_description": "Sequi eius quos adipisci vel at cum aut voluptas voluptate quaerat, assumenda aperiam officia ab, totam ipsum dolores doloribus soluta ipsam, provident in labore inventore?",
+                "product_quantity": 4,
+                "product_price": 84.55
+            },
+            {
+                "product_name": "Product-quasi-cum",
+                "product_description": "Nobis harum illum eligendi id eius, ut corporis deserunt minus, atque laudantium vel minima, nobis illum accusantium vitae quos voluptatum.",
+                "product_quantity": 10,
+                "product_price": 44.83
+            }
+        ]
+    }
+}

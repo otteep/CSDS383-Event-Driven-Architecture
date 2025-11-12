@@ -1,0 +1,37 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-xOQGG6q6",
+        "supplier_contact": "supplierxOQGG6q6@example.com",
+        "products": [
+            {
+                "product_name": "Product-aspernatur-corrupti",
+                "product_description": "Assumenda eum corrupti saepe doloribus aperiam, dolorem saepe eum eaque, repellendus praesentium illo mollitia laboriosam possimus nostrum odio nobis quo expedita incidunt.",
+                "product_quantity": 43,
+                "product_price": 51.48
+            },
+            {
+                "product_name": "Product-eaque-quo",
+                "product_description": "Harum iure suscipit aliquam excepturi incidunt tempora eaque provident sint, unde quisquam nemo exercitationem totam tempora fugiat voluptas, nobis repellendus corporis esse officia molestias ullam eum officiis?",
+                "product_quantity": 80,
+                "product_price": 62.82
+            },
+            {
+                "product_name": "Product-quas-numquam",
+                "product_description": "Necessitatibus commodi sequi animi inventore et natus quas possimus similique, eos nisi laboriosam sequi aliquid similique earum deleniti molestias, repudiandae placeat perspiciatis aperiam qui hic, earum ad quia quo aliquid ab sint vero dolores.",
+                "product_quantity": 85
+            },
+            {
+                "product_name": "Product-sit-numquam",
+                "product_description": "Explicabo dolorum reiciendis quod ad deleniti ipsa sunt, dolorem asperiores quod recusandae, accusamus earum ratione iure adipisci est voluptatibus eligendi esse sunt suscipit?",
+                "product_quantity": 64,
+                "product_price": 75.43
+            },
+            {
+                "product_name": "Product-impedit-rerum",
+                "product_description": "Hic placeat magni eum suscipit nemo nihil, adipisci molestiae commodi veniam illo voluptatum, corporis accusantium dignissimos veritatis commodi accusamus maxime?",
+                "product_quantity": 66,
+                "product_price": 51.98
+            }
+        ]
+    }
+}

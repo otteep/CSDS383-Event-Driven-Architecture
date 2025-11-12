@@ -1,0 +1,37 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-YCaGHanR",
+        "supplier_contact": "supplierYCaGHanR@example.com",
+        "products": [
+            {
+                "product_name": "Product-inventore-suscipit",
+                "product_description": "Eveniet eum consequatur error voluptate veritatis esse, fugit quos non quasi tempore quisquam explicabo?",
+                "product_quantity": 7,
+                "product_price": 74.07
+            },
+            {
+                "product_name": "Product-quis-dolores",
+                "product_description": "Corrupti recusandae voluptates non culpa perspiciatis nobis nostrum laudantium nesciunt veritatis cum, sit repellat iusto modi cum beatae neque quisquam similique, officia eveniet laudantium sequi, sequi necessitatibus autem, sint deleniti recusandae earum vel iusto expedita sed facere.",
+                "product_price": 63.52
+            },
+            {
+                "product_name": "Product-veritatis-necessitatibus",
+                "product_description": "Dolores esse quidem eius fugiat dolore itaque earum, amet beatae mollitia unde quaerat asperiores labore voluptatem repellat esse?",
+                "product_quantity": 52,
+                "product_price": 82.39
+            },
+            {
+                "product_name": "Product-molestias-magnam",
+                "product_description": "Voluptatum harum est suscipit, nesciunt quis excepturi harum optio aut reprehenderit qui corrupti dolorum culpa error.",
+                "product_quantity": 57,
+                "product_price": 4.1
+            },
+            {
+                "product_name": "Product-dignissimos-enim",
+                "product_description": "Odit maxime culpa ad praesentium illo voluptatum, quibusdam cupiditate rem magni iusto numquam adipisci impedit placeat iure deserunt, sit veniam deleniti, debitis animi tenetur incidunt laborum distinctio odio eum, debitis vitae voluptatibus.",
+                "product_quantity": 100,
+                "product_price": 69.99
+            }
+        ]
+    }
+}

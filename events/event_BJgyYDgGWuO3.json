@@ -1,0 +1,32 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-pHS96SmJ",
+        "supplier_contact": "supplierpHS96SmJ@example.com",
+        "products": [
+            {
+                "product_name": "Product-voluptas-aperiam",
+                "product_description": "Nostrum debitis cumque repellendus hic rem tenetur ipsam et illum delectus, molestias quae architecto, itaque voluptatibus voluptates pariatur natus quasi maxime placeat voluptatum sit illum, eum repellendus porro natus deleniti obcaecati placeat facere sequi magnam?",
+                "product_quantity": 67,
+                "product_price": 18.03
+            },
+            {
+                "product_name": "Product-expedita-modi",
+                "product_description": "Esse alias consequatur blanditiis facere dicta tempore fugit quaerat veniam dignissimos nihil, magni sunt obcaecati aliquid omnis placeat, id nemo ipsam sit architecto incidunt?",
+                "product_quantity": 30,
+                "product_price": 24.24
+            },
+            {
+                "product_name": "Product-laboriosam-officia",
+                "product_description": "Ratione maxime veritatis quos corporis mollitia sit maiores, magnam accusamus eligendi nobis tenetur et adipisci reprehenderit laboriosam cumque tempora?",
+                "product_quantity": 55,
+                "product_price": 73.54
+            },
+            {
+                "product_name": "Product-aliquam-at",
+                "product_description": "Possimus iure sequi consequuntur hic nulla consequatur, impedit iste dicta exercitationem quia repellat enim officiis aperiam quae, suscipit corporis aspernatur temporibus saepe ipsum esse odio nobis enim?",
+                "product_quantity": 75,
+                "product_price": 9.92
+            }
+        ]
+    }
+}

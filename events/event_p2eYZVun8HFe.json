@@ -1,0 +1,19 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-saLPw3GB",
+        "supplier_contact": "suppliersaLPw3GB@example.com",
+        "products": [
+            {
+                "product_name": "Product-harum-incidunt",
+                "product_description": "Provident sunt nesciunt fuga quo laboriosam nihil quia, accusamus nam quam assumenda voluptate quaerat veniam, quia possimus pariatur ipsum culpa modi quas sapiente fugiat atque ea, possimus quaerat sequi numquam molestias error harum.",
+                "product_quantity": 3,
+                "product_price": 12.2
+            },
+            {
+                "product_name": "Product-sit-nemo",
+                "product_description": "Quod ad magnam placeat soluta molestiae aliquid excepturi dolorem voluptate, veniam nam inventore eum voluptas?",
+                "product_quantity": 60
+            }
+        ]
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-dSY27Ee3",
+        "supplier_contact": "supplierdSY27Ee3@example.com",
+        "products": [
+            {
+                "product_name": "Product-recusandae-nam",
+                "product_description": "Possimus quidem nobis corporis inventore numquam fuga, earum voluptatibus ut ea molestias nostrum eaque sint magni veritatis, in temporibus cumque dolores velit corporis culpa maiores laborum voluptatem quasi?",
+                "product_quantity": 98,
+                "product_price": 22.49
+            },
+            {
+                "product_name": "Product-et-neque",
+                "product_description": "Minus laudantium ipsam necessitatibus id odio quae architecto, quia quae eius beatae minus rerum possimus tempore nihil reiciendis esse placeat.",
+                "product_quantity": 50,
+                "product_price": 74.17
+            },
+            {
+                "product_name": "Product-maiores-aut",
+                "product_description": "Libero dolore repellendus accusamus optio inventore, esse adipisci earum ut explicabo ullam temporibus atque?",
+                "product_quantity": 68,
+                "product_price": 5.32
+            }
+        ]
+    }
+}

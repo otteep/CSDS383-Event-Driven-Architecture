@@ -1,0 +1,37 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-tKevHcYh",
+        "supplier_contact": "suppliertKevHcYh@example.com",
+        "products": [
+            {
+                "product_name": "Product-aperiam-cum",
+                "product_description": "Qui voluptatem nemo quisquam ipsa obcaecati necessitatibus dolores, consequuntur reiciendis dolore?",
+                "product_quantity": 1,
+                "product_price": 29.5
+            },
+            {
+                "product_name": "Product-illum-recusandae",
+                "product_description": "Ea incidunt porro debitis aliquid eligendi nemo veniam, eum aliquid corrupti rem tenetur magnam, temporibus necessitatibus vitae sit unde culpa quisquam quo obcaecati id, incidunt accusantium obcaecati perspiciatis ducimus sunt.",
+                "product_quantity": 38,
+                "product_price": 2.78
+            },
+            {
+                "product_name": "Product-placeat-ratione",
+                "product_description": "Porro tempora pariatur voluptas nulla delectus quo adipisci, voluptate excepturi debitis beatae praesentium natus nostrum, harum officia maxime officiis deserunt sit facere, optio ea quidem est provident laudantium ut, repellat quo corrupti officia cupiditate quas a et unde labore?",
+                "product_quantity": 4,
+                "product_price": 40.19
+            },
+            {
+                "product_name": "Product-eaque-ratione",
+                "product_description": "Ratione natus voluptatibus aliquam ex unde, quo magni dicta molestias eveniet laborum labore, perspiciatis eveniet eligendi rerum dolorum, aspernatur ipsa soluta quas ut tempore?",
+                "product_quantity": 99,
+                "product_price": 13.43
+            },
+            {
+                "product_name": "Product-laborum-ex",
+                "product_description": "Doloremque illum sapiente, dolore nobis repudiandae quidem ullam nulla excepturi expedita facere vero nihil, nobis sit consectetur sequi officiis inventore natus quibusdam, tenetur magni aliquam nemo?",
+                "product_price": 51.93
+            }
+        ]
+    }
+}

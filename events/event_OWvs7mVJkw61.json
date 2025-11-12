@@ -1,0 +1,26 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-enAtGfL5",
+        "supplier_contact": "supplierenAtGfL5@example.com",
+        "products": [
+            {
+                "product_name": "Product-voluptate-inventore",
+                "product_description": "At exercitationem recusandae fugit cumque, consequuntur nostrum impedit, alias sequi minus minima corporis sapiente modi, nemo obcaecati a quisquam dolor amet debitis voluptatem ea?",
+                "product_quantity": 91,
+                "product_price": 82.34
+            },
+            {
+                "product_name": "Product-unde-pariatur",
+                "product_description": "Consectetur eaque sequi totam, sapiente cupiditate consectetur harum, culpa nam voluptate libero fugit voluptatibus unde, accusamus architecto ullam iste incidunt enim molestias quis nesciunt, perspiciatis illum vitae ullam itaque aut magnam.",
+                "product_quantity": 43,
+                "product_price": 83.05
+            },
+            {
+                "product_name": "Product-nemo-soluta",
+                "product_description": "Facere harum molestias itaque, id harum eius sequi natus similique sed asperiores, deserunt repellat fugit in iusto molestiae eos sapiente illum quo accusantium, aperiam quam odio labore facere sint maxime praesentium similique iusto, consectetur voluptates qui cumque corrupti.",
+                "product_quantity": 47,
+                "product_price": 48.28
+            }
+        ]
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-PNuK3tDh",
+        "products": [
+            {
+                "product_name": "Product-sapiente-ut",
+                "product_description": "Eos error eum nesciunt minus recusandae dolorum officiis excepturi impedit voluptatibus, a nulla vitae officia assumenda aut maiores fugit doloremque quibusdam earum odio.",
+                "product_quantity": 45,
+                "product_price": 55.66
+            },
+            {
+                "product_name": "Product-architecto-sapiente",
+                "product_description": "Hic aperiam quod laboriosam repudiandae, rem totam ducimus dolorem, quidem hic quod sint harum.",
+                "product_quantity": 55,
+                "product_price": 18.03
+            }
+        ]
+    }
+}

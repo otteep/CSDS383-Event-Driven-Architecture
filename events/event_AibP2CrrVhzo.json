@@ -1,0 +1,20 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-dIrwdRX8",
+        "supplier_contact": "supplierdIrwdRX8@example.com",
+        "products": [
+            {
+                "product_name": "Product-tenetur-quos",
+                "product_description": "Modi porro ullam suscipit, possimus assumenda fugiat nobis, dignissimos debitis architecto porro reiciendis, esse itaque suscipit cupiditate?",
+                "product_quantity": 58,
+                "product_price": 40.05
+            },
+            {
+                "product_name": "Product-quisquam-doloremque",
+                "product_description": "Nihil amet qui, cum voluptates blanditiis quidem atque dignissimos tenetur voluptas a expedita, vero culpa quo earum dicta sunt explicabo numquam repellat quod obcaecati nostrum, libero culpa repellat totam aliquid.",
+                "product_quantity": 65,
+                "product_price": 32.31
+            }
+        ]
+    }
+}

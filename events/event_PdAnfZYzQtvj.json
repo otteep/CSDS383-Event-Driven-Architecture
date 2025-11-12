@@ -1,0 +1,32 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-EA0EiFMH",
+        "supplier_contact": "supplierEA0EiFMH@example.com",
+        "products": [
+            {
+                "product_name": "Product-dolorem-corporis",
+                "product_description": "Commodi voluptate harum quos odit consequatur, reiciendis in repellendus ipsum mollitia ipsa consectetur, itaque commodi dolorem et magnam, consequatur ut fuga dolor ipsa temporibus velit nisi.",
+                "product_quantity": 54,
+                "product_price": 41.71
+            },
+            {
+                "product_name": "Product-quis-et",
+                "product_description": "Numquam modi placeat eligendi facere nihil velit consequatur minima ut, reprehenderit minima animi consequatur libero et nostrum enim, numquam ducimus nobis libero porro perferendis illo saepe.",
+                "product_quantity": 87,
+                "product_price": 73.27
+            },
+            {
+                "product_name": "Product-ut-aut",
+                "product_description": "Ducimus mollitia alias autem dolorum quam amet sequi vero reprehenderit, dignissimos atque perspiciatis voluptas debitis, quos adipisci facilis alias et officiis sed nihil, fuga explicabo ut repellendus.",
+                "product_quantity": 33,
+                "product_price": 98.65
+            },
+            {
+                "product_name": "Product-cum-minima",
+                "product_description": "Explicabo earum aperiam impedit amet alias consectetur laboriosam illum, consequuntur voluptatum natus ipsa a excepturi, accusamus autem est ea libero odit officia obcaecati unde odio mollitia provident?",
+                "product_quantity": 15,
+                "product_price": 39.54
+            }
+        ]
+    }
+}

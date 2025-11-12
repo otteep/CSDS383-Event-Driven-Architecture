@@ -1,0 +1,20 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-cBylzpwr",
+        "supplier_contact": "suppliercBylzpwr@example.com",
+        "products": [
+            {
+                "product_name": "Product-cupiditate-at",
+                "product_description": "Vel eaque ipsam repellat animi ea facere harum explicabo officia, aut a labore doloremque rem quisquam asperiores laboriosam impedit odio itaque.",
+                "product_quantity": 96,
+                "product_price": 59.84
+            },
+            {
+                "product_name": "Product-ex-maxime",
+                "product_description": "Tempore recusandae repudiandae in hic aliquid odit aspernatur placeat asperiores assumenda suscipit, impedit aliquid perferendis iste eligendi assumenda reprehenderit quis autem illum veniam?",
+                "product_quantity": 48,
+                "product_price": 35.95
+            }
+        ]
+    }
+}

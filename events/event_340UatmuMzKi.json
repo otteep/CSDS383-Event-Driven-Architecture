@@ -1,0 +1,32 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-NcTemykA",
+        "supplier_contact": "supplierNcTemykA@example.com",
+        "products": [
+            {
+                "product_name": "Product-quod-perferendis",
+                "product_description": "Quasi earum in fuga, deserunt nihil totam animi laudantium impedit fugit dolorum dignissimos, dolorum vero similique quasi nobis quibusdam ab labore?",
+                "product_quantity": 18,
+                "product_price": 64.5
+            },
+            {
+                "product_name": "Product-aliquid-saepe",
+                "product_description": "Pariatur a quidem fugiat quam optio sapiente non, ab quas eos est fugit consequuntur minima mollitia, impedit in voluptatem necessitatibus ratione exercitationem voluptatum facere porro voluptas, voluptatum magni delectus.",
+                "product_quantity": 11,
+                "product_price": 57.8
+            },
+            {
+                "product_name": "Product-sed-corrupti",
+                "product_description": "Iusto ratione ex optio quisquam ipsum beatae, aspernatur voluptatem laudantium veritatis amet recusandae, suscipit quisquam error dolore aliquam atque, maiores numquam impedit hic.",
+                "product_quantity": 68,
+                "product_price": 77.58
+            },
+            {
+                "product_name": "Product-quae-expedita",
+                "product_description": "Quo quia impedit incidunt perferendis consequuntur consequatur hic distinctio rem, laborum nam ut voluptas quis, minima voluptatem magni earum quod sint, beatae repudiandae voluptates, esse vero non sint alias repudiandae dicta quasi cum?",
+                "product_quantity": 56,
+                "product_price": 54.34
+            }
+        ]
+    }
+}

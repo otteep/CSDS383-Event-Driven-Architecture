@@ -1,0 +1,20 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-kJiSBqcL",
+        "supplier_contact": "supplierkJiSBqcL@example.com",
+        "products": [
+            {
+                "product_name": "Product-illo-nostrum",
+                "product_description": "Sapiente voluptatum libero dolore consectetur odit amet modi, reiciendis debitis minus repellendus pariatur inventore recusandae aut, molestias eaque qui dicta soluta quisquam inventore omnis error?",
+                "product_quantity": 20,
+                "product_price": 8.74
+            },
+            {
+                "product_name": "Product-alias-minima",
+                "product_description": "Maxime harum quae iusto voluptate adipisci minus dolor, provident tempore officia dolores distinctio temporibus culpa atque enim placeat sint.",
+                "product_quantity": 93,
+                "product_price": 17.08
+            }
+        ]
+    }
+}

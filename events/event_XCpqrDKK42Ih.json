@@ -1,0 +1,20 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-JHVLK0jn",
+        "supplier_contact": "supplierJHVLK0jn@example.com",
+        "products": [
+            {
+                "product_name": "Product-quo-enim",
+                "product_description": "Dolores voluptates sint ullam quos recusandae tempore tenetur illo distinctio in porro, harum dolores tempora sunt officiis necessitatibus cum, dignissimos repellendus similique laboriosam error explicabo nemo eaque rerum, sequi quibusdam itaque at recusandae alias fuga dolorem neque adipisci nisi tempora.",
+                "product_quantity": 46,
+                "product_price": 13.6
+            },
+            {
+                "product_name": "Product-sunt-dignissimos",
+                "product_description": "Modi accusantium doloremque similique necessitatibus porro maiores veniam totam delectus ipsum perferendis, sit iste excepturi ab fuga ducimus labore voluptate perferendis exercitationem explicabo.",
+                "product_quantity": 30,
+                "product_price": 72.52
+            }
+        ]
+    }
+}

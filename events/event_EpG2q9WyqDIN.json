@@ -1,0 +1,37 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-3bO45Szw",
+        "supplier_contact": "supplier3bO45Szw@example.com",
+        "products": [
+            {
+                "product_name": "Product-saepe-vel",
+                "product_description": "Deserunt cum autem dicta sit ea numquam necessitatibus, sunt nesciunt perferendis molestias soluta aspernatur repellendus commodi praesentium molestiae, pariatur consequatur in exercitationem fuga non quisquam vel autem voluptate sit, odit ipsa voluptas exercitationem eos aliquid, aperiam cupiditate reiciendis quidem quasi architecto est dolore iste vero molestiae odit?",
+                "product_quantity": 31,
+                "product_price": 1.62
+            },
+            {
+                "product_name": "Product-est-accusamus",
+                "product_description": "Iure minima nisi natus, neque assumenda velit repellat quia laboriosam dolor impedit sequi.",
+                "product_quantity": 25,
+                "product_price": 51.82
+            },
+            {
+                "product_name": "Product-ipsam-soluta",
+                "product_description": "Maxime repellat quis id exercitationem est consequuntur quo perferendis rem, a iure aliquam, molestiae molestias doloribus tempora incidunt ipsam, natus dicta nesciunt sint fugit asperiores?",
+                "product_quantity": 13,
+                "product_price": 99.21
+            },
+            {
+                "product_description": "Debitis dolores perferendis quam asperiores nostrum deserunt aliquam at facere recusandae, soluta possimus eius qui numquam fugiat blanditiis eligendi ipsa, excepturi reprehenderit fuga?",
+                "product_quantity": 13,
+                "product_price": 59.32
+            },
+            {
+                "product_name": "Product-odio-accusantium",
+                "product_description": "Obcaecati labore repellat doloribus natus optio ad culpa, in adipisci est amet eius excepturi quibusdam?",
+                "product_quantity": 37,
+                "product_price": 77.68
+            }
+        ]
+    }
+}

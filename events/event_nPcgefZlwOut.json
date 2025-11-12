@@ -1,0 +1,26 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-R2sqkEkz",
+        "supplier_contact": "supplierR2sqkEkz@example.com",
+        "products": [
+            {
+                "product_name": "Product-reiciendis-nobis",
+                "product_description": "Sunt amet exercitationem quis ad quasi vitae ex accusantium itaque ducimus, aspernatur adipisci amet debitis, dolor optio inventore sequi illum recusandae, ex ducimus in suscipit?",
+                "product_quantity": 65,
+                "product_price": 47.65
+            },
+            {
+                "product_name": "Product-magni-doloribus",
+                "product_description": "Culpa non error, qui consequuntur deleniti recusandae vitae?",
+                "product_quantity": 39,
+                "product_price": 4.69
+            },
+            {
+                "product_name": "Product-quae-quod",
+                "product_description": "Exercitationem temporibus itaque odio, iusto iure odio mollitia assumenda provident molestiae beatae amet debitis numquam.",
+                "product_quantity": 13,
+                "product_price": 28.78
+            }
+        ]
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-ZozZnD59",
+        "supplier_contact": "supplierZozZnD59@example.com",
+        "products": [
+            {
+                "product_name": "Product-voluptatum-sint",
+                "product_description": "Vitae quaerat voluptatum quas architecto esse ab provident, mollitia quod nam molestias quibusdam tempora a repellat et quo vitae veniam, quod nihil veniam libero soluta illum voluptas ipsam voluptatibus minus consequuntur repellendus, aliquid inventore cum soluta quam recusandae illum voluptate officiis.",
+                "product_quantity": 41,
+                "product_price": 86.96
+            },
+            {
+                "product_name": "Product-soluta-eius",
+                "product_description": "Nam iste cum at neque nemo adipisci, voluptatem dolor corrupti quisquam velit officiis, ullam doloremque quisquam libero non sed est facilis incidunt?",
+                "product_quantity": 55,
+                "product_price": 42.97
+            }
+        ]
+    }
+}

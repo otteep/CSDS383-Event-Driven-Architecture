@@ -1,0 +1,14 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-kriQUNBi",
+        "supplier_contact": "supplierkriQUNBi@example.com",
+        "products": [
+            {
+                "product_name": "Product-animi-voluptate",
+                "product_description": "Iste tenetur nihil molestiae quas nam, quis distinctio dolorum nisi alias obcaecati, ipsam obcaecati saepe ea pariatur dolorum aliquam dolores placeat?",
+                "product_quantity": 77,
+                "product_price": 31.27
+            }
+        ]
+    }
+}

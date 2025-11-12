@@ -1,0 +1,13 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-oJnnjQIV",
+        "supplier_contact": "supplieroJnnjQIV@example.com",
+        "products": [
+            {
+                "product_name": "Product-aut-neque",
+                "product_description": "Enim deserunt delectus deleniti voluptates rem, provident asperiores reiciendis maiores nemo rem tenetur, corrupti laboriosam perferendis, vero tempora tempore et deleniti quis?",
+                "product_price": 59.73
+            }
+        ]
+    }
+}

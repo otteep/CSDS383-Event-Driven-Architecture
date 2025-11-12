@@ -1,0 +1,13 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-8riMOGLz",
+        "supplier_contact": "supplier8riMOGLz@example.com",
+        "products": [
+            {
+                "product_description": "Consequuntur voluptatem quidem quae, corporis laudantium nobis asperiores recusandae repellendus excepturi, nostrum laboriosam omnis quidem repellendus quos expedita optio possimus et libero saepe, soluta quaerat numquam quisquam sequi qui totam similique recusandae?",
+                "product_quantity": 16,
+                "product_price": 87.3
+            }
+        ]
+    }
+}

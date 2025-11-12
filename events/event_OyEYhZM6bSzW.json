@@ -1,0 +1,26 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-69V5rblN",
+        "supplier_contact": "supplier69V5rblN@example.com",
+        "products": [
+            {
+                "product_name": "Product-quasi-magni",
+                "product_description": "Nam tempore ut, eligendi iure sunt provident optio autem nam praesentium, delectus ab veritatis sed unde assumenda, veritatis quas aliquam itaque cupiditate consequuntur beatae tempore cum natus, eum laborum cupiditate eaque ipsam voluptatem voluptates ducimus impedit?",
+                "product_quantity": 24,
+                "product_price": 54.33
+            },
+            {
+                "product_name": "Product-fugit-dolore",
+                "product_description": "Nesciunt aspernatur incidunt quisquam ab illo nemo in molestias nisi, eveniet dolores pariatur alias placeat odit odio quaerat quo delectus.",
+                "product_quantity": 20,
+                "product_price": 1.96
+            },
+            {
+                "product_name": "Product-excepturi-nostrum",
+                "product_description": "Itaque voluptate deleniti ullam pariatur, dignissimos culpa explicabo harum cumque placeat quaerat perferendis.",
+                "product_quantity": 45,
+                "product_price": 68.25
+            }
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-Gupo2Pil",
+        "supplier_contact": "supplierGupo2Pil@example.com",
+        "products": [
+            {
+                "product_name": "Product-perspiciatis-expedita",
+                "product_description": "Assumenda hic placeat non molestias maiores, voluptatum libero saepe sint dolorem illo sit minus dolore dignissimos.",
+                "product_quantity": 89,
+                "product_price": 46.55
+            }
+        ]
+    }
+}

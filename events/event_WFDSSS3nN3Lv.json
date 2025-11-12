@@ -1,0 +1,14 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-M5G5bkhy",
+        "supplier_contact": "supplierM5G5bkhy@example.com",
+        "products": [
+            {
+                "product_name": "Product-quisquam-nisi",
+                "product_description": "Pariatur reiciendis accusamus, optio nesciunt itaque, eos distinctio non eius quisquam molestiae repellat voluptatum eveniet vel quidem quasi, possimus sapiente non dolorem delectus rem error.",
+                "product_quantity": 38,
+                "product_price": 40.14
+            }
+        ]
+    }
+}

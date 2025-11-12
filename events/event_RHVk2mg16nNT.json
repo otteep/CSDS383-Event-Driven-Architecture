@@ -1,0 +1,20 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-9qHZc0nF",
+        "supplier_contact": "supplier9qHZc0nF@example.com",
+        "products": [
+            {
+                "product_name": "Product-omnis-accusamus",
+                "product_description": "At ratione consequatur magni dolorem neque cupiditate hic commodi placeat delectus tenetur, adipisci dolore provident sit quae nobis, itaque rem dicta molestias dolorem?",
+                "product_quantity": 69,
+                "product_price": 11.26
+            },
+            {
+                "product_name": "Product-corrupti-aliquam",
+                "product_description": "Eveniet non sint sed, quis ipsum sapiente velit tempore nihil nulla iure, inventore magni facere?",
+                "product_quantity": 21,
+                "product_price": 83.18
+            }
+        ]
+    }
+}

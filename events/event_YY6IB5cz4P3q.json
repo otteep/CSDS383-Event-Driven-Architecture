@@ -1,0 +1,26 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-GwuxStqp",
+        "supplier_contact": "supplierGwuxStqp@example.com",
+        "products": [
+            {
+                "product_name": "Product-dolorum-tenetur",
+                "product_description": "Quasi ut repudiandae qui inventore quos voluptas commodi atque, dolorem quas quia illum veniam asperiores in ipsum placeat necessitatibus, fuga quaerat facere explicabo error nisi expedita officia maiores non vero molestias, molestias reiciendis voluptatibus vero blanditiis fugiat neque modi rerum consequatur omnis, porro magnam expedita nesciunt dolorem sunt illo ipsa labore.",
+                "product_quantity": 84,
+                "product_price": 61.85
+            },
+            {
+                "product_name": "Product-ea-rem",
+                "product_description": "Voluptatem pariatur dignissimos exercitationem quisquam, accusamus excepturi assumenda hic illo quas dicta eos quae voluptatem?",
+                "product_quantity": 25,
+                "product_price": 2.48
+            },
+            {
+                "product_name": "Product-repudiandae-libero",
+                "product_description": "Velit fugit qui itaque voluptate hic, voluptas voluptate veniam alias accusamus non fuga tenetur.",
+                "product_quantity": 29,
+                "product_price": 52.76
+            }
+        ]
+    }
+}

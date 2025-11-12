@@ -1,0 +1,14 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-Zg9rT4FB",
+        "supplier_contact": "supplierZg9rT4FB@example.com",
+        "products": [
+            {
+                "product_name": "Product-rerum-modi",
+                "product_description": "Voluptatum ullam qui temporibus saepe ex suscipit, obcaecati iusto temporibus aperiam sit corporis aut reprehenderit error tenetur quas?",
+                "product_quantity": 31,
+                "product_price": 44.78
+            }
+        ]
+    }
+}

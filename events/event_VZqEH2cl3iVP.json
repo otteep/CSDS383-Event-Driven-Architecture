@@ -1,0 +1,37 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-PB4O1xmJ",
+        "supplier_contact": "supplierPB4O1xmJ@example.com",
+        "products": [
+            {
+                "product_name": "Product-non-quibusdam",
+                "product_description": "Similique ea quasi ex possimus amet nostrum, tempore corporis consequuntur reiciendis culpa, vero suscipit quis exercitationem molestias ut reiciendis amet laborum debitis voluptatum, atque magnam suscipit aspernatur, repudiandae laborum in ut?",
+                "product_quantity": 86,
+                "product_price": 19.77
+            },
+            {
+                "product_name": "Product-voluptas-perferendis",
+                "product_description": "Doloremque ut quisquam, perspiciatis facere ratione eius voluptates temporibus minima impedit facilis reiciendis?",
+                "product_price": 57.05
+            },
+            {
+                "product_name": "Product-qui-odit",
+                "product_description": "Suscipit ratione quas iure doloremque ducimus sunt modi ullam iste voluptas, alias deserunt adipisci aliquam eum iusto ut corporis ducimus nam facilis aut.",
+                "product_quantity": 2,
+                "product_price": 73.85
+            },
+            {
+                "product_name": "Product-voluptatibus-illum",
+                "product_description": "Nisi cupiditate animi ab fuga saepe doloribus placeat modi ex, beatae saepe consequatur quam molestias tempora fuga enim quisquam nam animi, cum labore quisquam dolores dicta hic perspiciatis alias est mollitia, est impedit vitae tenetur sequi molestias repellendus.",
+                "product_quantity": 89,
+                "product_price": 28.81
+            },
+            {
+                "product_name": "Product-harum-numquam",
+                "product_description": "Tenetur non eum est nemo necessitatibus animi, quod animi numquam eligendi placeat esse illo doloremque quis hic, at mollitia aut corporis repudiandae, vitae sit dolore molestiae possimus doloribus quas ducimus.",
+                "product_quantity": 75,
+                "product_price": 99.4
+            }
+        ]
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-fffjmdBa",
+        "supplier_contact": "supplierfffjmdBa@example.com",
+        "products": [
+            {
+                "product_name": "Product-ipsa-rem",
+                "product_description": "Sequi optio nisi rerum ex ducimus qui esse harum necessitatibus laboriosam dolorum, fugiat architecto alias provident error adipisci, dolorum temporibus aliquid quaerat distinctio rerum enim laboriosam architecto, neque dignissimos deleniti delectus earum nulla fugiat commodi dicta?",
+                "product_quantity": 46,
+                "product_price": 1.72
+            },
+            {
+                "product_name": "Product-nihil-facilis",
+                "product_description": "Optio excepturi harum doloribus quas in molestiae ex fugiat et, praesentium doloribus error vel explicabo dolorum, veritatis voluptatem adipisci maxime magnam et temporibus reprehenderit corrupti?",
+                "product_quantity": 17,
+                "product_price": 7.76
+            }
+        ]
+    }
+}

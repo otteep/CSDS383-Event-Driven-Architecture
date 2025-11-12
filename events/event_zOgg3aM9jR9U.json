@@ -1,0 +1,14 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-Tk6SqRIP",
+        "supplier_contact": "supplierTk6SqRIP@example.com",
+        "products": [
+            {
+                "product_name": "Product-culpa-ipsa",
+                "product_description": "Veritatis obcaecati est animi temporibus aspernatur amet nesciunt recusandae quo vero, veniam labore autem sequi minus nulla laudantium cupiditate, dolor ab nisi amet aliquam illo recusandae ipsam consectetur consequatur modi, non dignissimos vel beatae expedita quisquam accusantium error?",
+                "product_quantity": 44,
+                "product_price": 50.29
+            }
+        ]
+    }
+}

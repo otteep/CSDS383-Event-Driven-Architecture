@@ -1,0 +1,20 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-kkDBjotW",
+        "supplier_contact": "supplierkkDBjotW@example.com",
+        "products": [
+            {
+                "product_name": "Product-quidem-odit",
+                "product_description": "Esse ea tempora assumenda nam quas explicabo, quae officiis accusantium qui iste eum distinctio maiores magnam ad a, recusandae quia itaque doloribus expedita repellendus, voluptate dicta tempore placeat earum ratione suscipit omnis cupiditate ipsa vero.",
+                "product_quantity": 82,
+                "product_price": 51.08
+            },
+            {
+                "product_name": "Product-cumque-eos",
+                "product_description": "Ratione aliquid ipsam recusandae minima eaque architecto eum, dignissimos illo nisi deserunt saepe alias quisquam, explicabo fuga corrupti maiores quam quidem minima ipsam amet est, nihil odio commodi dolorem tempora praesentium consequatur excepturi deleniti?",
+                "product_quantity": 78,
+                "product_price": 56.66
+            }
+        ]
+    }
+}

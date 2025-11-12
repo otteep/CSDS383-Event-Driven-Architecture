@@ -1,0 +1,38 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-DwVNCbeA",
+        "supplier_contact": "supplierDwVNCbeA@example.com",
+        "products": [
+            {
+                "product_name": "Product-aliquid-magni",
+                "product_description": "Quibusdam laudantium ad perferendis nisi expedita, sequi excepturi et exercitationem consequatur fugit adipisci ullam iusto amet suscipit, incidunt obcaecati nesciunt eligendi atque enim nobis accusantium, in nostrum aperiam delectus maiores harum repudiandae dolor quas magni, eos ad sequi eius?",
+                "product_quantity": 14,
+                "product_price": 91.16
+            },
+            {
+                "product_name": "Product-alias-error",
+                "product_description": "Voluptatum quo ea saepe voluptates culpa tenetur est totam, fugit quae beatae placeat dolorem atque praesentium magnam eligendi illo voluptates, voluptatibus sequi dignissimos vel facere id ea ab qui iusto maiores, quae adipisci impedit corporis animi?",
+                "product_quantity": 82,
+                "product_price": 95.4
+            },
+            {
+                "product_name": "Product-odio-nisi",
+                "product_description": "Esse earum fugiat, corrupti itaque beatae minima ut aut magni fugit enim ratione et, beatae maiores reprehenderit dolor nisi obcaecati ex expedita quae odio laudantium.",
+                "product_quantity": 67,
+                "product_price": 36.69
+            },
+            {
+                "product_name": "Product-id-necessitatibus",
+                "product_description": "Eum eius culpa labore ullam necessitatibus, at officiis accusantium repellat ratione dolore tempora laborum distinctio commodi odit porro, quos voluptatum recusandae eius nesciunt placeat culpa voluptatem omnis ducimus quis maxime, repellat iste maxime perspiciatis voluptate fuga dolorum tempore.",
+                "product_quantity": 2,
+                "product_price": 12.46
+            },
+            {
+                "product_name": "Product-voluptatem-ratione",
+                "product_description": "Ex deserunt repellendus hic aut, sequi perspiciatis itaque nulla nobis aperiam deserunt molestias nesciunt sunt tenetur, magnam saepe veniam at rem, eaque a consequuntur aliquid fugit?",
+                "product_quantity": 9,
+                "product_price": 24.7
+            }
+        ]
+    }
+}

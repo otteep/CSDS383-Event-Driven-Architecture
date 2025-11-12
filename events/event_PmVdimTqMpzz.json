@@ -1,0 +1,37 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-hpe2XtML",
+        "supplier_contact": "supplierhpe2XtML@example.com",
+        "products": [
+            {
+                "product_name": "Product-sunt-natus",
+                "product_description": "Omnis veritatis quae alias quisquam vitae aut maxime aperiam, earum recusandae vitae ullam veritatis quas?",
+                "product_quantity": 10,
+                "product_price": 71.6
+            },
+            {
+                "product_name": "Product-atque-tenetur",
+                "product_description": "Eos sit voluptates quasi quis explicabo neque esse necessitatibus suscipit, inventore fugit obcaecati illum iusto aliquid corrupti sapiente, mollitia labore quam voluptates hic quia provident ullam culpa incidunt fugiat, quis possimus molestiae facilis repellendus adipisci minima cumque?",
+                "product_quantity": 13,
+                "product_price": 8.46
+            },
+            {
+                "product_name": "Product-perferendis-molestias",
+                "product_description": "Ad possimus dignissimos, fugiat delectus similique sint nobis molestiae aperiam et id atque, consectetur beatae a ducimus vero cumque reiciendis est at odio sunt rem.",
+                "product_quantity": 86,
+                "product_price": 51.63
+            },
+            {
+                "product_description": "A in cupiditate, reprehenderit nulla iste aperiam illum dignissimos esse earum tenetur ab itaque, perferendis neque quibusdam quidem perspiciatis odio, atque mollitia voluptates ratione enim exercitationem ut nisi, ducimus numquam similique voluptatum omnis enim neque at eveniet molestiae amet.",
+                "product_quantity": 30,
+                "product_price": 54.5
+            },
+            {
+                "product_name": "Product-fugiat-quas",
+                "product_description": "Iure nulla cupiditate, ipsum aliquam voluptas eum nam, deserunt et provident.",
+                "product_quantity": 96,
+                "product_price": 52.34
+            }
+        ]
+    }
+}

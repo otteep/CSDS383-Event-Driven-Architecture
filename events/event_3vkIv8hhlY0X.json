@@ -1,0 +1,26 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-oNhkWpsn",
+        "supplier_contact": "supplieroNhkWpsn@example.com",
+        "products": [
+            {
+                "product_name": "Product-consectetur-amet",
+                "product_description": "Reprehenderit nam placeat adipisci, consequatur expedita blanditiis odio fuga, incidunt exercitationem suscipit est omnis perferendis nobis esse harum beatae doloribus, deserunt natus omnis repudiandae iste at alias consequuntur quas porro.",
+                "product_quantity": 12,
+                "product_price": 55.98
+            },
+            {
+                "product_name": "Product-vitae-et",
+                "product_description": "A asperiores omnis similique, voluptate totam unde ducimus modi ut magni aperiam, corrupti explicabo nemo animi alias asperiores inventore perferendis, dolores hic at rerum aperiam nihil cupiditate ut amet.",
+                "product_quantity": 40,
+                "product_price": 31.74
+            },
+            {
+                "product_name": "Product-illum-temporibus",
+                "product_description": "Maxime minus magnam minima id nulla sint, neque consequuntur earum aspernatur voluptatem quam accusamus magnam cum iusto et?",
+                "product_quantity": 15,
+                "product_price": 60.98
+            }
+        ]
+    }
+}

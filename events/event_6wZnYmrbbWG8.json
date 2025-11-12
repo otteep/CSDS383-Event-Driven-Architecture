@@ -1,0 +1,38 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-ssdpfaGs",
+        "supplier_contact": "supplierssdpfaGs@example.com",
+        "products": [
+            {
+                "product_name": "Product-rem-excepturi",
+                "product_description": "Maiores veniam voluptas ipsa hic porro, laboriosam rem velit eveniet unde aliquid temporibus, temporibus cum minima hic voluptas doloribus obcaecati.",
+                "product_quantity": 1,
+                "product_price": 35.58
+            },
+            {
+                "product_name": "Product-quibusdam-ex",
+                "product_description": "Ratione ut autem, iusto a atque similique ipsum aspernatur laborum illo dicta praesentium perferendis architecto, est quae rerum, eligendi assumenda nostrum facilis vero, reprehenderit nemo maiores voluptatibus deleniti?",
+                "product_quantity": 1,
+                "product_price": 19.08
+            },
+            {
+                "product_name": "Product-vitae-sint",
+                "product_description": "Sed quas porro similique sunt quae, officia quis recusandae illum nam iure rerum laborum laboriosam temporibus nulla, molestiae odio eum cum accusamus quisquam vel sit, doloremque nesciunt ut modi quae ipsam dolores maxime laudantium necessitatibus, amet illo placeat error ipsum.",
+                "product_quantity": 51,
+                "product_price": 54.1
+            },
+            {
+                "product_name": "Product-totam-ipsa",
+                "product_description": "Natus dignissimos maxime dolor error earum doloribus nemo, quaerat aperiam officia magnam quod officiis similique quae error odio explicabo voluptate, non dignissimos nostrum vitae nihil similique provident quod sint reprehenderit nesciunt.",
+                "product_quantity": 97,
+                "product_price": 25.33
+            },
+            {
+                "product_name": "Product-animi-adipisci",
+                "product_description": "Repudiandae atque dicta nulla, magnam earum harum omnis inventore dignissimos corporis corrupti magni explicabo quo?",
+                "product_quantity": 12,
+                "product_price": 97.82
+            }
+        ]
+    }
+}

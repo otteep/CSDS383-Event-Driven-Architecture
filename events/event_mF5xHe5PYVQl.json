@@ -1,0 +1,20 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-sZ8Vnom9",
+        "supplier_contact": "suppliersZ8Vnom9@example.com",
+        "products": [
+            {
+                "product_name": "Product-fuga-at",
+                "product_description": "Delectus illo blanditiis alias ipsum totam fugit itaque, sunt tempore sed natus, doloribus ipsum quasi itaque nihil necessitatibus quae exercitationem incidunt, sit maiores ducimus quo modi illo eos temporibus error, id architecto nisi voluptatum alias?",
+                "product_quantity": 86,
+                "product_price": 13.22
+            },
+            {
+                "product_name": "Product-minima-odio",
+                "product_description": "Assumenda est eos dolorum odit, sint explicabo suscipit fuga expedita doloribus reiciendis quidem facere quo provident, optio temporibus corrupti praesentium magni earum reiciendis totam dolor impedit, consequuntur quo deleniti ex.",
+                "product_quantity": 25,
+                "product_price": 52.74
+            }
+        ]
+    }
+}

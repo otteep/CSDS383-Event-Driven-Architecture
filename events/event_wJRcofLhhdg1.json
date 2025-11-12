@@ -1,0 +1,14 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-8q4GiFXk",
+        "supplier_contact": "supplier8q4GiFXk@example.com",
+        "products": [
+            {
+                "product_name": "Product-tenetur-a",
+                "product_description": "Perferendis earum a fugiat ut unde magni doloremque, saepe voluptate reprehenderit id, voluptatem fugit quia, commodi quia enim illo dolores, illo molestiae ab obcaecati placeat necessitatibus velit aliquam voluptate enim eum consequatur?",
+                "product_quantity": 9,
+                "product_price": 44.27
+            }
+        ]
+    }
+}

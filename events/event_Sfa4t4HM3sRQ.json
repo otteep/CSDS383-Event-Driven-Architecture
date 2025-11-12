@@ -1,0 +1,14 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-S6ede0Af",
+        "supplier_contact": "supplierS6ede0Af@example.com",
+        "products": [
+            {
+                "product_name": "Product-illo-natus",
+                "product_description": "Quae repellat suscipit in minus aliquam, commodi est provident iste ab, debitis facilis numquam ab tempore ea, laboriosam id quis nobis.",
+                "product_quantity": 54,
+                "product_price": 73.74
+            }
+        ]
+    }
+}

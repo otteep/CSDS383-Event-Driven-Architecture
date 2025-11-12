@@ -1,0 +1,32 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-3IAfLOwO",
+        "supplier_contact": "supplier3IAfLOwO@example.com",
+        "products": [
+            {
+                "product_name": "Product-incidunt-quasi",
+                "product_description": "Explicabo expedita dicta dolores eius dolor aliquid laudantium veniam minus exercitationem dolorem, iste optio autem distinctio recusandae.",
+                "product_quantity": 74,
+                "product_price": 41.35
+            },
+            {
+                "product_name": "Product-obcaecati-iusto",
+                "product_description": "Hic nulla laborum aperiam provident aut rerum ratione laboriosam, consectetur accusantium temporibus, incidunt corporis cum voluptate illo aperiam delectus totam beatae quidem magnam ad, aut reiciendis rem doloribus totam deserunt.",
+                "product_quantity": 79,
+                "product_price": 72.05
+            },
+            {
+                "product_name": "Product-quaerat-facere",
+                "product_description": "Est eius repudiandae explicabo accusantium aut sed molestias, explicabo ut corporis nobis maiores qui deserunt possimus id repellendus minima hic, error maiores doloribus cupiditate dolore accusantium explicabo impedit, cum hic tenetur similique pariatur eligendi commodi, dicta quidem harum pariatur temporibus in labore debitis esse veniam.",
+                "product_quantity": 82,
+                "product_price": 44.28
+            },
+            {
+                "product_name": "Product-officia-quis",
+                "product_description": "Adipisci officia quas nemo laudantium sequi accusantium velit consectetur sunt vero, veniam dolorem animi voluptates autem quia porro excepturi, enim omnis veritatis temporibus labore dicta.",
+                "product_quantity": 26,
+                "product_price": 71.89
+            }
+        ]
+    }
+}

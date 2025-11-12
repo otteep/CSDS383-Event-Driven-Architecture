@@ -1,0 +1,20 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-9GN9Tc1r",
+        "supplier_contact": "supplier9GN9Tc1r@example.com",
+        "products": [
+            {
+                "product_name": "Product-magnam-maxime",
+                "product_description": "Saepe aspernatur soluta magni distinctio beatae quisquam, sed doloremque architecto ratione ex, commodi repudiandae labore deleniti aliquam eligendi quisquam error quod ad nulla, illum distinctio aut, temporibus perspiciatis eius accusamus odio dolorum.",
+                "product_quantity": 12,
+                "product_price": 66.35
+            },
+            {
+                "product_name": "Product-quos-ducimus",
+                "product_description": "Blanditiis voluptate mollitia eius expedita illo dolor numquam molestias ducimus soluta, quis nemo nihil nesciunt, veniam cumque repudiandae, dolorem praesentium sed sequi fuga harum earum laborum, quas consequatur cum voluptas harum.",
+                "product_quantity": 57,
+                "product_price": 11.8
+            }
+        ]
+    }
+}

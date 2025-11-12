@@ -1,0 +1,25 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-iYICS9Qe",
+        "supplier_contact": "supplieriYICS9Qe@example.com",
+        "products": [
+            {
+                "product_name": "Product-reiciendis-itaque",
+                "product_description": "Asperiores quas aspernatur delectus cum sit fugit qui laudantium tempore animi, tempore quidem sunt consectetur minus iure voluptates.",
+                "product_quantity": 60,
+                "product_price": 83.79
+            },
+            {
+                "product_name": "Product-reprehenderit-vitae",
+                "product_quantity": 38,
+                "product_price": 53.03
+            },
+            {
+                "product_name": "Product-doloribus-animi",
+                "product_description": "Quam obcaecati error odit perferendis ex a sapiente natus accusamus doloremque distinctio, suscipit illo ducimus delectus consequatur dolore eius voluptatem fugit, sint ipsum quisquam voluptatem debitis eaque, at repellendus odio exercitationem rerum?",
+                "product_quantity": 19,
+                "product_price": 78.16
+            }
+        ]
+    }
+}

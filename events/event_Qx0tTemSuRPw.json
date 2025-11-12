@@ -1,0 +1,38 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-OmqTHwMp",
+        "supplier_contact": "supplierOmqTHwMp@example.com",
+        "products": [
+            {
+                "product_name": "Product-explicabo-omnis",
+                "product_description": "Eos ad autem cumque ex harum, velit odit deleniti itaque unde ex natus voluptatum est nam hic illum, error minus et accusantium impedit.",
+                "product_quantity": 49,
+                "product_price": 17.96
+            },
+            {
+                "product_name": "Product-officia-quo",
+                "product_description": "Dolor similique nesciunt placeat, provident deleniti recusandae eius quam amet tempore molestias assumenda maxime culpa exercitationem, dolore quasi aut ducimus, sapiente asperiores aperiam nam soluta in, quod perferendis placeat cum eum rerum maxime in tenetur ratione.",
+                "product_quantity": 93,
+                "product_price": 29.58
+            },
+            {
+                "product_name": "Product-omnis-deleniti",
+                "product_description": "Vero dicta minus officiis doloribus facere amet eum modi iure voluptate nobis, minima nemo illo praesentium.",
+                "product_quantity": 31,
+                "product_price": 8.42
+            },
+            {
+                "product_name": "Product-necessitatibus-eum",
+                "product_description": "Tenetur quo consectetur modi dolorum tempora quis debitis ullam facere, rerum perspiciatis laudantium ducimus ipsam neque ullam illum quis quaerat.",
+                "product_quantity": 17,
+                "product_price": 1.2
+            },
+            {
+                "product_name": "Product-harum-consequatur",
+                "product_description": "Et error harum, rem pariatur qui, itaque error labore quidem?",
+                "product_quantity": 60,
+                "product_price": 59.13
+            }
+        ]
+    }
+}

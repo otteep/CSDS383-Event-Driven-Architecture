@@ -1,0 +1,20 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-RdbNhOUv",
+        "supplier_contact": "supplierRdbNhOUv@example.com",
+        "products": [
+            {
+                "product_name": "Product-iure-aliquid",
+                "product_description": "Quibusdam mollitia nulla, accusamus ullam praesentium laboriosam, nostrum ex doloribus nemo vero dignissimos iusto ducimus suscipit fugiat perferendis, adipisci beatae ullam deserunt quidem perferendis corporis accusantium fugiat doloribus eligendi, accusamus tempore ut dolorum officiis ducimus dolore in repudiandae rerum quam blanditiis?",
+                "product_quantity": 71,
+                "product_price": 61.39
+            },
+            {
+                "product_name": "Product-a-nulla",
+                "product_description": "Distinctio expedita vel ratione tenetur aperiam quis, temporibus excepturi repellat?",
+                "product_quantity": 78,
+                "product_price": 7.06
+            }
+        ]
+    }
+}

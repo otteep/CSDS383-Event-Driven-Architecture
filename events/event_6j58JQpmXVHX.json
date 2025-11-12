@@ -1,0 +1,26 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-Xu5xsqmn",
+        "supplier_contact": "supplierXu5xsqmn@example.com",
+        "products": [
+            {
+                "product_name": "Product-est-vero",
+                "product_description": "Laboriosam ad officia veniam asperiores quam quod non possimus voluptatum, ea corrupti rem quo eos repudiandae officiis hic optio maiores dolore, corporis laudantium voluptatibus nam recusandae sequi aliquam deserunt id minus est, accusantium nam deleniti inventore rem qui optio repellendus ad ipsam, eius rerum reiciendis laboriosam omnis itaque quia ea.",
+                "product_quantity": 49,
+                "product_price": 70.64
+            },
+            {
+                "product_name": "Product-porro-sequi",
+                "product_description": "Sed odio minus impedit perspiciatis nulla quam optio, deleniti optio fugiat assumenda sed aliquam?",
+                "product_quantity": 41,
+                "product_price": 81.38
+            },
+            {
+                "product_name": "Product-impedit-tenetur",
+                "product_description": "Similique autem velit aut repellat sed harum modi aliquid exercitationem itaque nihil, maiores optio fugiat accusamus non, illo porro ullam cum id corporis consequuntur tenetur, nostrum perferendis fugit voluptate unde ea cupiditate a quod optio dolorum, distinctio quasi mollitia molestiae provident eveniet neque veniam amet?",
+                "product_quantity": 80,
+                "product_price": 57.37
+            }
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-wQJTZ7ko",
+        "supplier_contact": "supplierwQJTZ7ko@example.com",
+        "products": [
+            {
+                "product_name": "Product-rem-repellat",
+                "product_description": "At beatae sit minima laborum, temporibus officia harum suscipit labore non, molestiae ipsam quis voluptatibus doloremque ratione reiciendis, labore laborum architecto a earum quam adipisci, omnis in ea impedit incidunt iste?",
+                "product_quantity": 20,
+                "product_price": 59.74
+            }
+        ]
+    }
+}

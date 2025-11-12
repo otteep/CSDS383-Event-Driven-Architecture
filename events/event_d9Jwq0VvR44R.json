@@ -1,0 +1,26 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-Lc2zjBhR",
+        "supplier_contact": "supplierLc2zjBhR@example.com",
+        "products": [
+            {
+                "product_name": "Product-voluptatem-numquam",
+                "product_description": "Nam perferendis magnam quas repellendus, iusto molestias quod quae aliquam sint ipsam quis eius necessitatibus nulla, porro labore vel quo eveniet mollitia ad eum similique laborum recusandae, nesciunt temporibus at est libero illum.",
+                "product_quantity": 91,
+                "product_price": 57.35
+            },
+            {
+                "product_name": "Product-accusamus-illum",
+                "product_description": "Laboriosam ullam quisquam id iste assumenda vero corrupti error deserunt, saepe voluptate nulla error tenetur itaque.",
+                "product_quantity": 81,
+                "product_price": 8.56
+            },
+            {
+                "product_name": "Product-quis-laborum",
+                "product_description": "Esse minus laboriosam perspiciatis quaerat, quod mollitia totam cum et perferendis quae quam, adipisci repellendus voluptas autem, consectetur nam corrupti vero quo recusandae ea est illo similique quidem?",
+                "product_quantity": 86,
+                "product_price": 10.47
+            }
+        ]
+    }
+}

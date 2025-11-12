@@ -1,0 +1,26 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-7tmK6vgE",
+        "supplier_contact": "supplier7tmK6vgE@example.com",
+        "products": [
+            {
+                "product_name": "Product-accusamus-natus",
+                "product_description": "Fugit tempore unde officia sunt fugiat necessitatibus praesentium saepe cupiditate rem adipisci, at itaque nulla quasi et eum, inventore architecto neque sed.",
+                "product_quantity": 1,
+                "product_price": 79.31
+            },
+            {
+                "product_name": "Product-consequuntur-corrupti",
+                "product_description": "Saepe esse non, inventore dolores commodi laborum voluptates consequuntur assumenda nisi vel debitis adipisci.",
+                "product_quantity": 48,
+                "product_price": 63.26
+            },
+            {
+                "product_name": "Product-saepe-architecto",
+                "product_description": "Tenetur laudantium officiis numquam, debitis nemo animi dicta doloribus alias possimus accusantium perferendis.",
+                "product_quantity": 99,
+                "product_price": 42.96
+            }
+        ]
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-CM7nbDDA",
+        "supplier_contact": "supplierCM7nbDDA@example.com",
+        "products": [
+            {
+                "product_name": "Product-nemo-optio",
+                "product_description": "Quam perspiciatis nostrum odit harum possimus sed ratione assumenda nulla enim, esse odit ut recusandae qui natus sed aut, quo repellendus non est similique quidem, repudiandae nam laborum quis assumenda possimus ratione tempore dolore error optio quisquam, sint quam suscipit at voluptates voluptatem.",
+                "product_quantity": 53,
+                "product_price": 38.32
+            },
+            {
+                "product_name": "Product-debitis-natus",
+                "product_description": "Harum hic dignissimos placeat modi officia quae impedit id a, quas placeat facere ex quod hic ea debitis quos iure sapiente, amet deleniti provident laudantium, dicta adipisci placeat iusto?",
+                "product_quantity": 6,
+                "product_price": 25.12
+            },
+            {
+                "product_name": "Product-cum-sapiente",
+                "product_description": "Autem dolorum vitae, illo deleniti totam ad maiores?",
+                "product_quantity": 14,
+                "product_price": 27.67
+            }
+        ]
+    }
+}

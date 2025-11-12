@@ -1,0 +1,36 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-lW3U8zzA",
+        "supplier_contact": "supplierlW3U8zzA@example.com",
+        "products": [
+            {
+                "product_description": "Repellat illo est minus optio quisquam vero ratione pariatur esse alias, similique quis vel?",
+                "product_quantity": 3,
+                "product_price": 51.81
+            },
+            {
+                "product_name": "Product-nihil-eaque",
+                "product_description": "Saepe ad iusto, architecto deserunt minus error facilis, molestiae eum inventore sint eaque cumque animi eveniet incidunt corrupti, error iusto provident maiores necessitatibus ea rerum enim, minus consequuntur aliquid vitae adipisci.",
+                "product_quantity": 91,
+                "product_price": 22.77
+            },
+            {
+                "product_name": "Product-rerum-culpa",
+                "product_description": "Aliquid ducimus iure eos mollitia accusantium obcaecati voluptates laborum beatae consequatur, eum exercitationem perspiciatis a veritatis beatae nisi, soluta illum consequatur, voluptatem obcaecati dignissimos aut placeat quo laborum sit impedit, sunt alias porro?",
+                "product_price": 28.74
+            },
+            {
+                "product_name": "Product-minima-quis",
+                "product_description": "Animi eos quas eveniet obcaecati voluptas, culpa quia dignissimos consequatur dolores sequi ullam facilis eos fugit sed recusandae, quas quos minima.",
+                "product_quantity": 73,
+                "product_price": 34.61
+            },
+            {
+                "product_name": "Product-laboriosam-ex",
+                "product_description": "Deleniti dolor natus animi doloribus, ipsum quos a ab beatae corporis velit, ut animi nemo iste, animi culpa velit quo.",
+                "product_quantity": 83,
+                "product_price": 80.44
+            }
+        ]
+    }
+}

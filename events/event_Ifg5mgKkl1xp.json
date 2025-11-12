@@ -1,0 +1,14 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-I45swAjb",
+        "supplier_contact": "supplierI45swAjb@example.com",
+        "products": [
+            {
+                "product_name": "Product-repellat-laboriosam",
+                "product_description": "Neque odio rerum ducimus aliquid, culpa autem explicabo eius commodi libero nihil nulla, officia saepe numquam quod iusto fugit, facilis tempore nemo beatae?",
+                "product_quantity": 38,
+                "product_price": 53.59
+            }
+        ]
+    }
+}

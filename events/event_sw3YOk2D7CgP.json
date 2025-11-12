@@ -1,0 +1,26 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-4nKtUPpu",
+        "supplier_contact": "supplier4nKtUPpu@example.com",
+        "products": [
+            {
+                "product_name": "Product-rem-tempora",
+                "product_description": "Ex facere quae maiores odit sed, illum animi hic officiis cum nulla omnis explicabo repellendus, esse atque hic modi eius rerum.",
+                "product_quantity": 64,
+                "product_price": 84.28
+            },
+            {
+                "product_name": "Product-in-aperiam",
+                "product_description": "Velit maxime aspernatur, in facere totam natus ea ullam autem amet accusamus velit cum, quod ad earum nemo voluptate at, libero ex dicta nostrum iste eaque officia reiciendis debitis.",
+                "product_quantity": 100,
+                "product_price": 68.56
+            },
+            {
+                "product_name": "Product-animi-et",
+                "product_description": "Nulla nam et aut excepturi nemo sint explicabo magnam aliquam, obcaecati consequuntur animi iusto unde atque velit quaerat enim ducimus cumque a, officiis minus ut exercitationem maxime?",
+                "product_quantity": 50,
+                "product_price": 46.1
+            }
+        ]
+    }
+}

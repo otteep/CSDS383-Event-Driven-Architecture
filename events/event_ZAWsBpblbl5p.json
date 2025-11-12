@@ -1,0 +1,24 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-O622o9Ia",
+        "products": [
+            {
+                "product_name": "Product-accusamus-quod",
+                "product_description": "Reprehenderit quae ipsa ducimus illum facilis in debitis, sequi deleniti obcaecati quasi nulla expedita, assumenda atque repudiandae sunt nostrum hic reprehenderit.",
+                "product_quantity": 80,
+                "product_price": 4.78
+            },
+            {
+                "product_name": "Product-quod-dolores",
+                "product_description": "Iste quis nemo, amet veniam quod laborum quis ea nam pariatur illum, et pariatur saepe, eveniet ducimus aliquam consequuntur?",
+                "product_quantity": 58,
+                "product_price": 27.51
+            },
+            {
+                "product_name": "Product-dignissimos-esse",
+                "product_quantity": 28,
+                "product_price": 81.38
+            }
+        ]
+    }
+}

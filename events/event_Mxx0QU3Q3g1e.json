@@ -1,0 +1,20 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-pHr8XSlX",
+        "supplier_contact": "supplierpHr8XSlX@example.com",
+        "products": [
+            {
+                "product_name": "Product-praesentium-atque",
+                "product_description": "Alias dolorem nesciunt, aut molestiae rerum suscipit maxime non praesentium hic corrupti, dolore magnam illum.",
+                "product_quantity": 74,
+                "product_price": 19.61
+            },
+            {
+                "product_name": "Product-nisi-perferendis",
+                "product_description": "Alias quisquam quam asperiores animi labore eum molestiae dolorum maiores ut nesciunt, quae consequuntur quam harum sit vitae eum tempore, fugiat molestias debitis ratione officiis qui accusantium iusto asperiores eos similique rem, aperiam sit architecto voluptatibus.",
+                "product_quantity": 99,
+                "product_price": 95.38
+            }
+        ]
+    }
+}

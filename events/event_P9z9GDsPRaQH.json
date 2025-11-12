@@ -1,0 +1,38 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-xCK86vpx",
+        "supplier_contact": "supplierxCK86vpx@example.com",
+        "products": [
+            {
+                "product_name": "Product-libero-quasi",
+                "product_description": "Sint maxime id hic dolores quam architecto neque quibusdam, velit impedit eveniet necessitatibus, ex voluptatibus explicabo placeat.",
+                "product_quantity": 30,
+                "product_price": 23.42
+            },
+            {
+                "product_name": "Product-quia-quaerat",
+                "product_description": "Cum mollitia eius dolore recusandae ipsa, expedita similique possimus, repudiandae nostrum cumque deserunt iusto.",
+                "product_quantity": 21,
+                "product_price": 70.91
+            },
+            {
+                "product_name": "Product-accusantium-dolorem",
+                "product_description": "Dolorem voluptatibus aperiam praesentium optio ea labore eum reiciendis quos repellendus recusandae, assumenda porro error tempora natus incidunt a ut molestias.",
+                "product_quantity": 33,
+                "product_price": 28.25
+            },
+            {
+                "product_name": "Product-dolorem-omnis",
+                "product_description": "In sed magni dolorem aliquid, sequi numquam veniam ut ex blanditiis obcaecati vitae, eum et architecto sequi similique minus odio tenetur voluptatibus quis laboriosam?",
+                "product_quantity": 1,
+                "product_price": 83.53
+            },
+            {
+                "product_name": "Product-voluptatum-officiis",
+                "product_description": "Magnam illo accusantium dolore ipsum itaque cum autem sint laudantium maiores, reiciendis unde quod laborum ipsum libero esse quam itaque similique, sed veniam rem maiores excepturi unde reprehenderit error illum blanditiis, ea consequatur vel cumque tempora voluptas laboriosam error ipsum, eum officia tenetur ducimus a sequi cupiditate praesentium perspiciatis sapiente consectetur?",
+                "product_quantity": 81,
+                "product_price": 37.68
+            }
+        ]
+    }
+}

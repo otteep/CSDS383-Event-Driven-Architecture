@@ -1,0 +1,32 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-jCJF3pie",
+        "supplier_contact": "supplierjCJF3pie@example.com",
+        "products": [
+            {
+                "product_name": "Product-ipsa-ipsum",
+                "product_description": "Quia suscipit ea laborum rem repellendus ipsam quod, ex culpa fugit omnis officia est laboriosam quaerat itaque officiis enim maiores, distinctio animi illum sequi mollitia minus, doloribus corporis odio tenetur nesciunt eius totam nulla dolores facilis repellat.",
+                "product_quantity": 77,
+                "product_price": 46.73
+            },
+            {
+                "product_name": "Product-qui-sed",
+                "product_description": "Beatae fuga id iure, minus odit quis nostrum.",
+                "product_quantity": 34,
+                "product_price": 15.8
+            },
+            {
+                "product_name": "Product-harum-aut",
+                "product_description": "Voluptatem impedit laudantium nulla exercitationem fuga nam voluptatum, eveniet nisi aliquam aut magni dolores reiciendis debitis, doloremque commodi deleniti delectus laudantium unde, vitae molestiae dolores blanditiis quasi corporis ipsam, ea perferendis nemo magnam consequatur tempora optio?",
+                "product_quantity": 14,
+                "product_price": 33.8
+            },
+            {
+                "product_name": "Product-culpa-praesentium",
+                "product_description": "Est maxime odit nobis provident maiores dolores at, impedit ex dolor molestiae vero atque laborum facilis odit ipsum rerum ratione, molestiae asperiores vitae odio sit adipisci at, harum fugiat accusamus quis et?",
+                "product_quantity": 55,
+                "product_price": 64.18
+            }
+        ]
+    }
+}

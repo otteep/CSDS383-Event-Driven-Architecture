@@ -1,0 +1,32 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-0jNMaFMD",
+        "supplier_contact": "supplier0jNMaFMD@example.com",
+        "products": [
+            {
+                "product_name": "Product-numquam-earum",
+                "product_description": "Iure amet nemo natus assumenda laboriosam nulla itaque doloremque totam harum, exercitationem nemo molestias voluptatum eius dolor animi expedita ullam, accusantium itaque neque recusandae iusto eveniet eius in qui ducimus numquam officiis, animi inventore sapiente quae sed a id voluptatem perferendis debitis reiciendis?",
+                "product_quantity": 44,
+                "product_price": 79.74
+            },
+            {
+                "product_name": "Product-ex-consequatur",
+                "product_description": "Labore eligendi animi reiciendis sint nostrum saepe fugit aspernatur numquam, in asperiores ducimus reiciendis, laudantium a adipisci delectus aperiam.",
+                "product_quantity": 56,
+                "product_price": 45.89
+            },
+            {
+                "product_name": "Product-corrupti-non",
+                "product_description": "Aspernatur libero ipsum perspiciatis odit eius illum necessitatibus provident temporibus voluptatum impedit, totam maiores architecto sequi tempore quod possimus voluptatem, aliquid maxime quibusdam corrupti officia omnis eaque quia voluptatem vero odio eligendi, nobis ipsam ex necessitatibus commodi asperiores aperiam, pariatur deleniti voluptates facilis inventore nulla porro.",
+                "product_quantity": 62,
+                "product_price": 93.16
+            },
+            {
+                "product_name": "Product-maxime-odio",
+                "product_description": "Maxime enim aliquid amet, minus eos quasi id quod maxime ut, tempore dignissimos earum ex quae animi aspernatur tenetur aliquid?",
+                "product_quantity": 70,
+                "product_price": 56.88
+            }
+        ]
+    }
+}

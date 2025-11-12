@@ -1,0 +1,32 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-IDDyZVXv",
+        "supplier_contact": "supplierIDDyZVXv@example.com",
+        "products": [
+            {
+                "product_name": "Product-esse-nostrum",
+                "product_description": "Culpa ad porro neque illum provident facere eligendi blanditiis, maxime aut nisi architecto alias delectus dicta consequuntur est in rem, et voluptas itaque est pariatur quibusdam aperiam.",
+                "product_quantity": 48,
+                "product_price": 94.57
+            },
+            {
+                "product_name": "Product-blanditiis-fuga",
+                "product_description": "Modi quis temporibus expedita, ab nihil incidunt commodi soluta possimus debitis voluptates rem aspernatur fugit a, pariatur minima sapiente expedita soluta aliquid aspernatur labore quod molestias ab, modi tempora suscipit corrupti commodi amet?",
+                "product_quantity": 86,
+                "product_price": 69.36
+            },
+            {
+                "product_name": "Product-dignissimos-hic",
+                "product_description": "Eos nulla laudantium est reprehenderit ducimus amet repellat dignissimos, praesentium atque corporis aut ab architecto molestias sed dolorum beatae.",
+                "product_quantity": 25,
+                "product_price": 84.29
+            },
+            {
+                "product_name": "Product-fugit-delectus",
+                "product_description": "Voluptatibus molestiae tenetur, provident rerum veniam culpa eligendi quaerat aliquid magnam, atque nisi nihil, earum repellendus sapiente deleniti obcaecati nemo fugiat velit sed quisquam blanditiis tenetur?",
+                "product_quantity": 5,
+                "product_price": 66.44
+            }
+        ]
+    }
+}

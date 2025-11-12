@@ -1,0 +1,26 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-OoZf8y8I",
+        "supplier_contact": "supplierOoZf8y8I@example.com",
+        "products": [
+            {
+                "product_name": "Product-hic-consequuntur",
+                "product_description": "Eos delectus vel adipisci eum nisi sapiente consectetur quisquam, minima odio placeat accusantium asperiores doloremque explicabo eligendi, ipsam nobis illum consectetur deleniti nemo maxime minus rerum quasi.",
+                "product_quantity": 48,
+                "product_price": 13.09
+            },
+            {
+                "product_name": "Product-dolore-sunt",
+                "product_description": "Accusantium qui rerum animi, eligendi laudantium expedita in laboriosam tempora fugit hic ipsum aspernatur adipisci, et sunt fugit nihil consectetur quibusdam ipsa earum, nesciunt nobis illum animi odit ad in hic, accusamus impedit amet unde harum debitis dolore aperiam quasi ex beatae at.",
+                "product_quantity": 18,
+                "product_price": 68.11
+            },
+            {
+                "product_name": "Product-rerum-dolorem",
+                "product_description": "Sint dolores cum eligendi molestias mollitia possimus corrupti totam soluta recusandae iste, voluptates dolorum exercitationem tenetur?",
+                "product_quantity": 3,
+                "product_price": 68.22
+            }
+        ]
+    }
+}

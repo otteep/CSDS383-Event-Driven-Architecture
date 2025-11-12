@@ -1,0 +1,26 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-sHKcBNaf",
+        "supplier_contact": "suppliersHKcBNaf@example.com",
+        "products": [
+            {
+                "product_name": "Product-nisi-nesciunt",
+                "product_description": "Corrupti molestiae dolorum, magni iusto exercitationem odit deleniti tempora autem, laboriosam dolor odit dolore quia nesciunt consequatur saepe incidunt, expedita reiciendis ullam architecto aliquid magnam assumenda autem nulla placeat, inventore illum aperiam aspernatur ut?",
+                "product_quantity": 4,
+                "product_price": 32.44
+            },
+            {
+                "product_name": "Product-sequi-deleniti",
+                "product_description": "Aut fuga in omnis laudantium id commodi assumenda doloremque blanditiis est quae, repellat eligendi ipsum suscipit consequuntur, nemo saepe doloribus enim?",
+                "product_quantity": 13,
+                "product_price": 2.08
+            },
+            {
+                "product_name": "Product-culpa-ducimus",
+                "product_description": "Aspernatur accusantium necessitatibus delectus sequi, explicabo suscipit ad voluptate libero esse quaerat, suscipit voluptate magnam sunt cumque sed deleniti reiciendis earum.",
+                "product_quantity": 75,
+                "product_price": 18.82
+            }
+        ]
+    }
+}

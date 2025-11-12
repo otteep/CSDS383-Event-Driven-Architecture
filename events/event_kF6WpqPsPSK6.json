@@ -1,0 +1,38 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-Qdgw9Uu9",
+        "supplier_contact": "supplierQdgw9Uu9@example.com",
+        "products": [
+            {
+                "product_name": "Product-modi-illo",
+                "product_description": "Voluptas mollitia a facere autem, non totam sed error, dolores explicabo necessitatibus blanditiis magni rerum cumque quae sed, velit commodi debitis labore numquam earum non expedita?",
+                "product_quantity": 28,
+                "product_price": 45.93
+            },
+            {
+                "product_name": "Product-consequuntur-dolorum",
+                "product_description": "Suscipit delectus voluptate doloribus reprehenderit distinctio consequuntur impedit numquam pariatur, ullam dolores ipsam repellendus sequi quisquam vitae molestias hic, dicta repellendus rerum accusantium explicabo, beatae voluptatum quas necessitatibus cumque delectus praesentium?",
+                "product_quantity": 97,
+                "product_price": 40.43
+            },
+            {
+                "product_name": "Product-sunt-quas",
+                "product_description": "Unde error doloribus dolore obcaecati minus, est repellendus tenetur accusantium odio ipsum iste minima officia, culpa eum nisi laudantium.",
+                "product_quantity": 4,
+                "product_price": 73.68
+            },
+            {
+                "product_name": "Product-quisquam-voluptate",
+                "product_description": "Nemo provident voluptatem optio vero odio voluptate laboriosam perspiciatis, facilis illum voluptas facere rem aliquam sequi eligendi quisquam sed eius itaque, praesentium culpa illo in labore eligendi dicta nobis aperiam, amet dicta temporibus.",
+                "product_quantity": 50,
+                "product_price": 26.98
+            },
+            {
+                "product_name": "Product-rerum-libero",
+                "product_description": "Possimus doloribus autem qui impedit, inventore neque consectetur obcaecati sapiente debitis exercitationem perferendis, reprehenderit culpa alias voluptatibus molestiae consectetur accusantium ea?",
+                "product_quantity": 92,
+                "product_price": 52.88
+            }
+        ]
+    }
+}

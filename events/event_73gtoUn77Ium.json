@@ -1,0 +1,32 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-qL76egPP",
+        "supplier_contact": "supplierqL76egPP@example.com",
+        "products": [
+            {
+                "product_name": "Product-aliquam-deleniti",
+                "product_description": "Amet voluptas et reprehenderit dolores impedit ducimus praesentium perspiciatis autem, facilis sapiente autem explicabo possimus repudiandae corrupti reiciendis sit accusantium magni, mollitia incidunt minus perferendis enim nemo error, at quisquam mollitia totam odit earum voluptatem.",
+                "product_quantity": 37,
+                "product_price": 23.0
+            },
+            {
+                "product_name": "Product-nihil-nisi",
+                "product_description": "Reprehenderit at numquam nam obcaecati commodi ducimus dolore quos magnam minus, id iste ipsam harum nobis, aut enim cumque itaque placeat eaque minus?",
+                "product_quantity": 63,
+                "product_price": 3.27
+            },
+            {
+                "product_name": "Product-unde-a",
+                "product_description": "Error perferendis rerum nostrum culpa animi inventore nihil tempore, unde molestiae soluta voluptate sint illum tempore repudiandae, natus nihil distinctio beatae consequuntur quam facere voluptatem dolores ratione explicabo quod, esse eos ullam iure veniam.",
+                "product_quantity": 64,
+                "product_price": 14.5
+            },
+            {
+                "product_name": "Product-nemo-fuga",
+                "product_description": "Unde nulla molestiae laboriosam accusantium natus temporibus distinctio ab, fugit excepturi doloribus similique saepe nihil tempore iure architecto nostrum molestias, enim deleniti ab ducimus officia ratione sed eius iusto dolorum corrupti quia, cupiditate ea autem nobis ipsum labore non placeat praesentium laudantium.",
+                "product_quantity": 67,
+                "product_price": 29.6
+            }
+        ]
+    }
+}

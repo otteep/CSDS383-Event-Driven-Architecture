@@ -15,16 +15,16 @@ services:
       retries: 5
     restart: unless-stopped
 
-  event-producer:
+  event-publisher:
     build:
       context: ./server/event-publisher
       dockerfile: Dockerfile
     container_name: event-publisher
     environment:
       - RABBITMQ_URL=amqp://admin:admin@rabbitmq:5672/
-      - EVENTS_FILE=/app/events.json
+      - EVENTS_DIR=/app/events
     volumes:
-      - ./events.json:/app/events.json:ro
+      - ./events:/app/events:ro  # Mount the entire events directory
     depends_on:
       rabbitmq:
         condition: service_healthy

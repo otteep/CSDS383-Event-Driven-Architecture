@@ -1,0 +1,38 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-EHJLibVA",
+        "supplier_contact": "supplierEHJLibVA@example.com",
+        "products": [
+            {
+                "product_name": "Product-expedita-facilis",
+                "product_description": "Eos maxime eaque voluptatem deserunt porro est saepe quaerat, autem provident quia ipsam recusandae dolor facere modi fugiat repudiandae similique.",
+                "product_quantity": 25,
+                "product_price": 75.5
+            },
+            {
+                "product_name": "Product-neque-iure",
+                "product_description": "Perspiciatis quidem sunt at asperiores impedit sint delectus molestias debitis veniam, quos architecto expedita hic at explicabo assumenda reprehenderit mollitia excepturi?",
+                "product_quantity": 2,
+                "product_price": 49.32
+            },
+            {
+                "product_name": "Product-rem-ea",
+                "product_description": "Impedit tempore molestias earum, nihil beatae iste explicabo eveniet, voluptates ratione consequuntur assumenda facere sapiente nam accusamus repellendus, quae veniam ipsam sunt ducimus sed possimus autem consequatur fugit, reiciendis voluptas dolores cum ipsa neque perferendis ad voluptatum magnam tempore?",
+                "product_quantity": 5,
+                "product_price": 71.62
+            },
+            {
+                "product_name": "Product-officia-repudiandae",
+                "product_description": "Neque autem harum, voluptatum earum maiores mollitia enim laudantium minus magni repellat nulla, natus minus fugiat odio iure neque.",
+                "product_quantity": 87,
+                "product_price": 47.69
+            },
+            {
+                "product_name": "Product-sapiente-error",
+                "product_description": "Blanditiis obcaecati odio voluptates iste cupiditate nostrum magnam quia quos similique, magni ipsam dignissimos soluta quia doloremque a eos earum suscipit placeat.",
+                "product_quantity": 90,
+                "product_price": 16.27
+            }
+        ]
+    }
+}

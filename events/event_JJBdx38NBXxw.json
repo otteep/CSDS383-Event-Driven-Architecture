@@ -1,0 +1,32 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-kuZqY9EH",
+        "supplier_contact": "supplierkuZqY9EH@example.com",
+        "products": [
+            {
+                "product_name": "Product-nulla-nobis",
+                "product_description": "Unde iusto voluptatem explicabo ipsam ab dolor, delectus illum expedita sequi, ducimus praesentium sed obcaecati veniam voluptas cum sint unde?",
+                "product_quantity": 91,
+                "product_price": 80.86
+            },
+            {
+                "product_name": "Product-neque-rerum",
+                "product_description": "Impedit optio minus excepturi harum accusamus itaque modi nisi nulla, fuga eum perferendis consequatur voluptatem dicta dolorum, assumenda quibusdam ullam quae, dolore quo aliquam quis tenetur aut non.",
+                "product_quantity": 40,
+                "product_price": 42.44
+            },
+            {
+                "product_name": "Product-veritatis-maxime",
+                "product_description": "Molestias esse unde soluta impedit dolores repellat officiis tempora, eveniet molestias aperiam quae doloremque quo, earum repellendus impedit eaque repellat cum amet, exercitationem quod delectus ipsa corrupti saepe id veniam reiciendis at, asperiores deleniti quidem alias id tempora libero quia cumque.",
+                "product_quantity": 45,
+                "product_price": 2.05
+            },
+            {
+                "product_name": "Product-architecto-quos",
+                "product_description": "Temporibus quod cumque sit, voluptates aspernatur ipsum vero consequatur expedita nisi repellat iure assumenda, dolor minima officiis sit molestiae dolores animi vel eveniet quae dignissimos, iste harum itaque deserunt debitis minus, nulla eligendi accusamus suscipit.",
+                "product_quantity": 31,
+                "product_price": 85.15
+            }
+        ]
+    }
+}

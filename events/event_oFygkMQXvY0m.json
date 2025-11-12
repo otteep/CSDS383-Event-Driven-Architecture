@@ -1,0 +1,13 @@
+{
+    "supplier": {
+        "supplier_contact": "supplier0tGl2NSG@example.com",
+        "products": [
+            {
+                "product_name": "Product-exercitationem-repellendus",
+                "product_description": "Officiis veritatis unde temporibus, totam est repellat id exercitationem rem aspernatur earum temporibus unde a vitae.",
+                "product_quantity": 71,
+                "product_price": 24.2
+            }
+        ]
+    }
+}

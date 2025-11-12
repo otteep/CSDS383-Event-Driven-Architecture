@@ -1,0 +1,38 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-gBKwz4YL",
+        "supplier_contact": "suppliergBKwz4YL@example.com",
+        "products": [
+            {
+                "product_name": "Product-optio-deleniti",
+                "product_description": "Ipsa vel voluptatibus dolore quibusdam eveniet deleniti hic earum, dolores exercitationem corporis maxime in quisquam debitis voluptas perspiciatis quis?",
+                "product_quantity": 15,
+                "product_price": 35.48
+            },
+            {
+                "product_name": "Product-minus-asperiores",
+                "product_description": "Quod vel reiciendis rem praesentium impedit tenetur porro totam, fuga eaque animi eligendi in, neque quisquam repellendus illo veritatis doloremque facere quas natus, maxime vitae distinctio culpa facere eius iusto aut consequuntur voluptates aspernatur, magni libero blanditiis laborum consequatur officiis.",
+                "product_quantity": 87,
+                "product_price": 55.83
+            },
+            {
+                "product_name": "Product-quod-aliquam",
+                "product_description": "Nobis temporibus delectus cupiditate dolorum iste similique, quibusdam doloremque itaque quo fugit inventore, corrupti excepturi illo sunt quasi neque incidunt labore.",
+                "product_quantity": 100,
+                "product_price": 19.57
+            },
+            {
+                "product_name": "Product-provident-ducimus",
+                "product_description": "Corrupti a sint consequatur ullam earum tempora enim, eveniet repudiandae facere cupiditate, inventore mollitia natus iste quae ipsa alias optio assumenda, atque error ullam asperiores dolorem molestias excepturi porro adipisci ex possimus, eos perspiciatis praesentium?",
+                "product_quantity": 91,
+                "product_price": 49.22
+            },
+            {
+                "product_name": "Product-accusantium-consectetur",
+                "product_description": "Blanditiis commodi omnis, excepturi officia animi incidunt assumenda, omnis veniam sequi dicta illo eos commodi, labore consectetur maiores eaque libero.",
+                "product_quantity": 68,
+                "product_price": 41.57
+            }
+        ]
+    }
+}

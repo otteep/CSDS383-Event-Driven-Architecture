@@ -1,0 +1,14 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-Nsiv7joa",
+        "supplier_contact": "supplierNsiv7joa@example.com",
+        "products": [
+            {
+                "product_name": "Product-quia-sunt",
+                "product_description": "At commodi mollitia eius, deserunt doloremque facilis saepe aperiam consequuntur accusamus.",
+                "product_quantity": 29,
+                "product_price": 13.76
+            }
+        ]
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-8qY9Ej6m",
+        "supplier_contact": "supplier8qY9Ej6m@example.com",
+        "products": [
+            {
+                "product_name": "Product-fugit-odit",
+                "product_description": "Amet unde quo rerum assumenda nemo voluptatem repudiandae quisquam asperiores laudantium aliquam, quia a dicta pariatur nihil excepturi possimus nostrum.",
+                "product_quantity": 65,
+                "product_price": 34.21
+            },
+            {
+                "product_name": "Product-blanditiis-reiciendis",
+                "product_description": "Enim quia dolorem commodi delectus molestiae magni, facere molestias sapiente delectus est sit omnis architecto qui incidunt iusto, est eligendi expedita necessitatibus explicabo nulla soluta qui, ratione nam ipsa laboriosam placeat debitis voluptatem est excepturi vero, quam doloribus non.",
+                "product_quantity": 20,
+                "product_price": 19.45
+            },
+            {
+                "product_name": "Product-sint-nostrum",
+                "product_description": "Explicabo quaerat dolorem dignissimos id nemo, mollitia aliquam fugiat consectetur iste officia odio quae quidem ut error?",
+                "product_quantity": 92,
+                "product_price": 84.93
+            }
+        ]
+    }
+}

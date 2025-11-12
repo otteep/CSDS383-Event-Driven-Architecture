@@ -1,0 +1,20 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-cJZeSJTV",
+        "supplier_contact": "suppliercJZeSJTV@example.com",
+        "products": [
+            {
+                "product_name": "Product-ab-voluptatum",
+                "product_description": "Voluptatem cupiditate veritatis ea explicabo expedita quae tempora tenetur debitis ullam vel, autem sunt alias repellat nulla at maiores cumque nostrum iusto qui, voluptate numquam quo cumque similique laboriosam quaerat repellendus corporis, aspernatur eveniet laudantium quae ullam, ea qui saepe ipsum aspernatur est in cupiditate dolore?",
+                "product_quantity": 19,
+                "product_price": 44.58
+            },
+            {
+                "product_name": "Product-doloremque-facilis",
+                "product_description": "Quia minima suscipit, esse nam veritatis blanditiis magnam, rerum earum aut numquam sapiente vitae?",
+                "product_quantity": 50,
+                "product_price": 39.82
+            }
+        ]
+    }
+}

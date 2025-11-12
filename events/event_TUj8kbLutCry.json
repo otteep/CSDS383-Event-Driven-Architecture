@@ -1,0 +1,14 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-xut1mFFl",
+        "supplier_contact": "supplierxut1mFFl@example.com",
+        "products": [
+            {
+                "product_name": "Product-dolore-iusto",
+                "product_description": "Blanditiis amet neque libero necessitatibus vero labore eum nisi sapiente id provident, veniam placeat aliquam magni, debitis enim nulla quibusdam at, praesentium sint ipsam magnam quo quasi, autem illo debitis assumenda qui voluptatibus.",
+                "product_quantity": 66,
+                "product_price": 65.53
+            }
+        ]
+    }
+}

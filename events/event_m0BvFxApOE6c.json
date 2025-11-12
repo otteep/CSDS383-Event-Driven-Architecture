@@ -1,0 +1,26 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-fGZTIhqx",
+        "supplier_contact": "supplierfGZTIhqx@example.com",
+        "products": [
+            {
+                "product_name": "Product-cumque-blanditiis",
+                "product_description": "Corporis eos illum ab eius quibusdam cupiditate doloribus, perspiciatis laboriosam earum illum incidunt natus dolor reprehenderit nesciunt iusto beatae, officia harum architecto fugiat doloremque praesentium, quibusdam quos culpa at asperiores expedita tenetur dicta, earum cupiditate ullam?",
+                "product_quantity": 45,
+                "product_price": 30.44
+            },
+            {
+                "product_name": "Product-inventore-voluptatem",
+                "product_description": "Sint quis alias placeat odit aspernatur atque in numquam error, nisi quae labore perspiciatis tempore soluta dolor exercitationem temporibus assumenda a nobis, sequi autem rerum repellendus officiis alias voluptatem a nihil quas iusto at.",
+                "product_quantity": 3,
+                "product_price": 64.89
+            },
+            {
+                "product_name": "Product-unde-dignissimos",
+                "product_description": "Id facere molestiae et, nobis voluptates suscipit debitis quo perferendis facilis totam aliquid dolorum, nihil excepturi veritatis sint quasi ipsam blanditiis quaerat doloribus?",
+                "product_quantity": 17,
+                "product_price": 43.66
+            }
+        ]
+    }
+}

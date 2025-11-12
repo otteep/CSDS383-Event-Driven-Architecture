@@ -1,0 +1,32 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-ncbUTUeb",
+        "supplier_contact": "supplierncbUTUeb@example.com",
+        "products": [
+            {
+                "product_name": "Product-ipsa-ducimus",
+                "product_description": "Sed iusto aspernatur recusandae unde exercitationem, voluptatem pariatur harum beatae numquam expedita provident minus enim, similique numquam quidem repellat ex laborum dolor, veniam quam mollitia dicta amet quos molestiae repellat excepturi, reprehenderit nobis facilis veritatis quia quos obcaecati?",
+                "product_quantity": 42,
+                "product_price": 79.27
+            },
+            {
+                "product_name": "Product-illo-alias",
+                "product_description": "Ad modi quia molestias, placeat sequi dolores libero, recusandae quae cupiditate tempora nemo nobis labore enim earum aliquid dolorem sint, illum dolore ab molestias officiis consectetur iure deserunt magni, laudantium vero nisi reprehenderit ipsam rem quam itaque voluptas ratione?",
+                "product_quantity": 3,
+                "product_price": 11.44
+            },
+            {
+                "product_name": "Product-quaerat-odit",
+                "product_description": "Aperiam beatae velit consequatur fugit, optio laboriosam dolore cupiditate qui aliquid iusto culpa, quod consequatur architecto voluptas ipsa eveniet quaerat.",
+                "product_quantity": 52,
+                "product_price": 23.8
+            },
+            {
+                "product_name": "Product-esse-molestias",
+                "product_description": "Quis voluptate tempora error animi odit harum porro, alias unde at molestias cupiditate reprehenderit, nobis consectetur aperiam officiis sapiente distinctio ipsum eius illum?",
+                "product_quantity": 34,
+                "product_price": 6.56
+            }
+        ]
+    }
+}

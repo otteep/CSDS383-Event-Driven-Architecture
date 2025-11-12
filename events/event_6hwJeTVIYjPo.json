@@ -1,0 +1,32 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-sAVeihJr",
+        "supplier_contact": "suppliersAVeihJr@example.com",
+        "products": [
+            {
+                "product_name": "Product-enim-esse",
+                "product_description": "Error beatae assumenda non aliquid facere quasi amet repellat, nam vero assumenda iure, saepe debitis incidunt consequatur nam, temporibus accusamus deleniti iusto placeat mollitia quisquam eveniet?",
+                "product_quantity": 29,
+                "product_price": 55.27
+            },
+            {
+                "product_name": "Product-aliquid-exercitationem",
+                "product_description": "Accusantium ipsa suscipit ipsam provident in facere, harum porro earum aliquid accusamus explicabo atque alias molestias, aut cumque ad quidem placeat, velit aliquam nobis quos eos minus?",
+                "product_quantity": 88,
+                "product_price": 11.36
+            },
+            {
+                "product_name": "Product-veritatis-esse",
+                "product_description": "Incidunt nostrum obcaecati adipisci quia, beatae esse accusamus similique ea quis, exercitationem facere dicta et officia vitae nisi.",
+                "product_quantity": 53,
+                "product_price": 91.34
+            },
+            {
+                "product_name": "Product-placeat-harum",
+                "product_description": "Eligendi quo dolorum et vero sunt, incidunt velit ab architecto soluta ad aperiam, quis rem voluptatum dicta alias praesentium quidem.",
+                "product_quantity": 57,
+                "product_price": 97.9
+            }
+        ]
+    }
+}

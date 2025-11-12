@@ -1,0 +1,32 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-W7jBhBby",
+        "supplier_contact": "supplierW7jBhBby@example.com",
+        "products": [
+            {
+                "product_name": "Product-laborum-eos",
+                "product_description": "Quisquam debitis velit corrupti qui, tempora facilis sunt autem perspiciatis ullam asperiores debitis incidunt ex quos ad, vero esse perferendis nisi reprehenderit perspiciatis consectetur harum quaerat quia, nulla id quas expedita necessitatibus nobis voluptatem porro non?",
+                "product_quantity": 54,
+                "product_price": 25.25
+            },
+            {
+                "product_name": "Product-libero-soluta",
+                "product_description": "Eius modi necessitatibus doloremque possimus recusandae voluptas blanditiis repellendus quasi totam, natus ducimus aperiam reprehenderit est, consequatur minus laborum dolorum corporis possimus, eius quam vel officia ipsam.",
+                "product_quantity": 93,
+                "product_price": 52.2
+            },
+            {
+                "product_name": "Product-minima-tenetur",
+                "product_description": "Doloremque quaerat rem nam mollitia, ex dolore in blanditiis ipsum praesentium accusamus error alias quod.",
+                "product_quantity": 75,
+                "product_price": 89.7
+            },
+            {
+                "product_name": "Product-assumenda-dignissimos",
+                "product_description": "Ex unde iusto optio est commodi laudantium, atque quae eveniet consequatur delectus voluptatum molestiae dicta incidunt rem minima eaque, consectetur illum magni velit, eligendi quae alias delectus impedit porro soluta non, hic ab suscipit repellendus eaque iste asperiores pariatur exercitationem consequuntur?",
+                "product_quantity": 25,
+                "product_price": 40.69
+            }
+        ]
+    }
+}

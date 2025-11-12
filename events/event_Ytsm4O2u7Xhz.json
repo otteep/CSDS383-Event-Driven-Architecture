@@ -1,0 +1,20 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-30DzoShq",
+        "supplier_contact": "supplier30DzoShq@example.com",
+        "products": [
+            {
+                "product_name": "Product-officia-corrupti",
+                "product_description": "Accusamus blanditiis aut vero natus fugiat impedit esse neque cum omnis eos, ut libero temporibus a?",
+                "product_quantity": 56,
+                "product_price": 34.67
+            },
+            {
+                "product_name": "Product-soluta-earum",
+                "product_description": "Placeat ipsum saepe dolorem, explicabo consequatur eos numquam voluptatibus qui dolor vero optio saepe voluptates nulla?",
+                "product_quantity": 83,
+                "product_price": 99.01
+            }
+        ]
+    }
+}

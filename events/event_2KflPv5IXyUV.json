@@ -1,0 +1,38 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-Qn7qhoBM",
+        "supplier_contact": "supplierQn7qhoBM@example.com",
+        "products": [
+            {
+                "product_name": "Product-commodi-enim",
+                "product_description": "Voluptate vitae maxime eligendi doloremque, distinctio dolores modi rem voluptates totam laboriosam harum voluptatem reiciendis consectetur.",
+                "product_quantity": 33,
+                "product_price": 50.09
+            },
+            {
+                "product_name": "Product-veritatis-cupiditate",
+                "product_description": "Ad exercitationem consequuntur est dicta nam maxime, qui magnam voluptatem animi nesciunt impedit aut ratione alias quis?",
+                "product_quantity": 88,
+                "product_price": 87.49
+            },
+            {
+                "product_name": "Product-voluptates-voluptas",
+                "product_description": "Nesciunt ea recusandae nulla natus exercitationem voluptatibus magni, cupiditate doloremque unde maiores odio nobis quo sunt natus reiciendis, maxime cum odio, quos odio dolore magnam perspiciatis non expedita?",
+                "product_quantity": 90,
+                "product_price": 65.35
+            },
+            {
+                "product_name": "Product-temporibus-explicabo",
+                "product_description": "Perspiciatis placeat libero velit eius distinctio molestias veniam maxime, veniam nostrum iste facere suscipit mollitia nesciunt eligendi quibusdam omnis accusamus.",
+                "product_quantity": 45,
+                "product_price": 31.44
+            },
+            {
+                "product_name": "Product-fugit-debitis",
+                "product_description": "Quis repellendus culpa neque sint esse enim ea beatae quam molestiae non, nostrum itaque amet dolor placeat corrupti blanditiis fugit quia quam ducimus quo, maiores inventore temporibus voluptatum placeat adipisci reprehenderit at eius eos eaque, et dolor nulla dolorum aut reiciendis porro nostrum consequatur ratione totam voluptatem.",
+                "product_quantity": 57,
+                "product_price": 42.32
+            }
+        ]
+    }
+}

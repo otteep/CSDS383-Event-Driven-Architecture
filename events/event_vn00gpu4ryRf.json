@@ -1,0 +1,14 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-PY6zlxX0",
+        "supplier_contact": "supplierPY6zlxX0@example.com",
+        "products": [
+            {
+                "product_name": "Product-laborum-incidunt",
+                "product_description": "Quod veniam debitis nobis et enim in eius quo fugiat magni eum, similique facere neque, perferendis provident veniam obcaecati, nihil nam eligendi pariatur deserunt explicabo iste dolores aliquam sit porro natus?",
+                "product_quantity": 49,
+                "product_price": 7.63
+            }
+        ]
+    }
+}

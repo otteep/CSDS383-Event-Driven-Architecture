@@ -1,0 +1,37 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-j3eBsiUS",
+        "supplier_contact": "supplierj3eBsiUS@example.com",
+        "products": [
+            {
+                "product_name": "Product-architecto-delectus",
+                "product_description": "Enim culpa maxime aperiam, asperiores molestias labore deleniti reiciendis quis possimus fugiat ullam animi at, vel porro neque doloribus nisi architecto?",
+                "product_quantity": 63,
+                "product_price": 34.17
+            },
+            {
+                "product_name": "Product-consequuntur-eius",
+                "product_description": "Id vitae nisi, beatae quod corrupti est quidem?",
+                "product_quantity": 62,
+                "product_price": 21.04
+            },
+            {
+                "product_name": "Product-neque-pariatur",
+                "product_quantity": 86,
+                "product_price": 15.56
+            },
+            {
+                "product_name": "Product-sed-sint",
+                "product_description": "Tenetur incidunt nostrum harum provident voluptatibus minus eligendi, molestiae placeat perspiciatis impedit ipsum doloremque asperiores a sit quas, expedita labore vero iure ad sequi suscipit neque, et libero deserunt sequi?",
+                "product_quantity": 56,
+                "product_price": 81.4
+            },
+            {
+                "product_name": "Product-aspernatur-quibusdam",
+                "product_description": "Deserunt et praesentium accusamus fugit asperiores cumque dignissimos officia, deleniti at voluptatem deserunt necessitatibus aut, fugiat accusantium autem, et dolore delectus quos non enim aliquid vero voluptatibus nisi laborum.",
+                "product_quantity": 23,
+                "product_price": 58.63
+            }
+        ]
+    }
+}

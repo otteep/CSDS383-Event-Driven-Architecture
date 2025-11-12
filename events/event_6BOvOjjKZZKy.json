@@ -1,0 +1,32 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-mZB7E3UI",
+        "supplier_contact": "suppliermZB7E3UI@example.com",
+        "products": [
+            {
+                "product_name": "Product-mollitia-corrupti",
+                "product_description": "A optio recusandae nobis, quasi quisquam illo labore aperiam, minima at assumenda alias obcaecati, corporis fugiat dolorum officia nostrum dolores alias optio.",
+                "product_quantity": 20,
+                "product_price": 91.84
+            },
+            {
+                "product_name": "Product-harum-iste",
+                "product_description": "Dicta animi quia expedita odit consectetur suscipit natus ullam ipsum eveniet, repudiandae maiores minus magnam necessitatibus?",
+                "product_quantity": 1,
+                "product_price": 34.36
+            },
+            {
+                "product_name": "Product-iste-qui",
+                "product_description": "Quidem porro sed quis fugit similique aperiam, quisquam dolorem doloremque quos libero incidunt inventore rem, provident praesentium voluptas natus vero similique ratione.",
+                "product_quantity": 100,
+                "product_price": 80.22
+            },
+            {
+                "product_name": "Product-ad-neque",
+                "product_description": "Corporis adipisci magnam, accusamus repellat ab explicabo illo iure est sunt fuga consectetur, facere praesentium deserunt possimus mollitia optio vel, illo nulla sunt temporibus tenetur est dolore, laboriosam quo non modi beatae laborum.",
+                "product_quantity": 75,
+                "product_price": 38.02
+            }
+        ]
+    }
+}

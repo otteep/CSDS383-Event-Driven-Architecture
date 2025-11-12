@@ -1,0 +1,32 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-XkQrNWLl",
+        "supplier_contact": "supplierXkQrNWLl@example.com",
+        "products": [
+            {
+                "product_name": "Product-esse-quia",
+                "product_description": "Ullam laborum dolorum maiores vel hic perferendis voluptatibus, placeat consequuntur ad aliquid a eos atque quisquam.",
+                "product_quantity": 56,
+                "product_price": 44.97
+            },
+            {
+                "product_name": "Product-earum-sapiente",
+                "product_description": "Consequatur ipsam voluptatum tempore corporis non soluta dignissimos reprehenderit mollitia iusto, quibusdam voluptas necessitatibus suscipit eum, ipsam asperiores nostrum laboriosam eos totam labore illo optio deserunt fugit, quod sed modi soluta id odio nam deserunt unde tempora iste, dolor molestiae necessitatibus odio molestias illum dolore veniam?",
+                "product_quantity": 41,
+                "product_price": 55.94
+            },
+            {
+                "product_name": "Product-harum-est",
+                "product_description": "Ex eos ducimus sequi similique nostrum officiis repellendus reprehenderit, corporis perspiciatis voluptate, repudiandae rerum laborum consequuntur porro aut fuga officia eum ipsum.",
+                "product_quantity": 33,
+                "product_price": 35.58
+            },
+            {
+                "product_name": "Product-delectus-optio",
+                "product_description": "Architecto aut quae perspiciatis ab magni, soluta quisquam debitis voluptatibus nihil unde expedita delectus sapiente, dolore voluptatem unde magnam nostrum tempore temporibus earum laborum illo id quam?",
+                "product_quantity": 90,
+                "product_price": 8.11
+            }
+        ]
+    }
+}

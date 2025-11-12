@@ -1,0 +1,32 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-prvhtu4N",
+        "supplier_contact": "supplierprvhtu4N@example.com",
+        "products": [
+            {
+                "product_name": "Product-aperiam-error",
+                "product_description": "Autem hic optio assumenda officia necessitatibus sapiente ut dignissimos, hic odio voluptas accusantium impedit, rerum reprehenderit in quam totam praesentium sunt velit voluptatum, id eaque dolorum ea possimus?",
+                "product_quantity": 64,
+                "product_price": 10.92
+            },
+            {
+                "product_name": "Product-deserunt-dignissimos",
+                "product_description": "Neque vitae veritatis exercitationem dignissimos ipsam adipisci, aspernatur quo aut nostrum ducimus libero voluptate quae ipsam, dolore nesciunt esse non molestiae minima expedita tenetur, fugiat quo atque autem sunt enim amet quidem similique laborum.",
+                "product_quantity": 72,
+                "product_price": 8.26
+            },
+            {
+                "product_name": "Product-laboriosam-nesciunt",
+                "product_description": "Omnis modi similique, fugit totam impedit laboriosam expedita laudantium mollitia quisquam.",
+                "product_quantity": 13,
+                "product_price": 48.22
+            },
+            {
+                "product_name": "Product-ab-fugiat",
+                "product_description": "Tempore voluptatibus repellendus enim ab magni fugiat, dignissimos magni itaque alias qui perferendis repudiandae neque quis et, rerum eveniet soluta quis veniam eum, laudantium explicabo accusantium atque libero eius qui molestiae maiores amet, distinctio eius consequatur ducimus aliquid iste minima nam laudantium obcaecati culpa.",
+                "product_quantity": 91,
+                "product_price": 1.16
+            }
+        ]
+    }
+}

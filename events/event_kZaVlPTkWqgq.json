@@ -1,0 +1,20 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-QMCL3KW2",
+        "supplier_contact": "supplierQMCL3KW2@example.com",
+        "products": [
+            {
+                "product_name": "Product-cum-veritatis",
+                "product_description": "Porro quis molestiae unde laudantium, quibusdam tempore fugit rerum placeat quasi debitis, quod sapiente laudantium vel eaque blanditiis vitae, asperiores qui voluptatibus alias maiores veritatis perspiciatis id modi.",
+                "product_quantity": 19,
+                "product_price": 87.91
+            },
+            {
+                "product_name": "Product-perferendis-autem",
+                "product_description": "Unde facilis eos necessitatibus modi voluptatem ducimus corporis tempora alias omnis, esse veritatis necessitatibus adipisci illum nobis aperiam maiores libero fugit, at quam quisquam tenetur.",
+                "product_quantity": 20,
+                "product_price": 45.83
+            }
+        ]
+    }
+}

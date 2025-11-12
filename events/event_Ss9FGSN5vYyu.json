@@ -1,0 +1,20 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-ssHVjFUt",
+        "supplier_contact": "supplierssHVjFUt@example.com",
+        "products": [
+            {
+                "product_name": "Product-repellat-excepturi",
+                "product_description": "Aliquam autem repudiandae modi porro illum recusandae error culpa, officia laborum suscipit eveniet quod mollitia nulla, recusandae dolorum id velit possimus praesentium nam assumenda distinctio explicabo.",
+                "product_quantity": 68,
+                "product_price": 10.49
+            },
+            {
+                "product_name": "Product-nobis-iste",
+                "product_description": "Minus totam vel modi ratione enim dolorum odio voluptates explicabo, sapiente repellendus nemo sit veritatis repudiandae ea quas rem neque numquam sed, ab adipisci inventore qui quas fugiat nihil maiores asperiores, ut deserunt veniam, laudantium impedit odit adipisci magni.",
+                "product_quantity": 22,
+                "product_price": 50.87
+            }
+        ]
+    }
+}

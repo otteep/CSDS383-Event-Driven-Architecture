@@ -1,0 +1,26 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-fMSLDtWI",
+        "supplier_contact": "supplierfMSLDtWI@example.com",
+        "products": [
+            {
+                "product_name": "Product-ab-omnis",
+                "product_description": "Numquam doloremque fugiat sint est aperiam ex eaque magnam omnis, quae cupiditate incidunt dicta, libero explicabo pariatur expedita nesciunt sit?",
+                "product_quantity": 83,
+                "product_price": 28.05
+            },
+            {
+                "product_name": "Product-doloribus-repudiandae",
+                "product_description": "Reiciendis eum recusandae dicta illo veritatis modi iure optio labore itaque, ex sunt a hic explicabo voluptas labore enim qui iure tempore, similique quis et provident modi aliquid odio in voluptate temporibus odit corrupti?",
+                "product_quantity": 57,
+                "product_price": 34.25
+            },
+            {
+                "product_name": "Product-facilis-mollitia",
+                "product_description": "Officiis distinctio nisi fuga velit numquam cupiditate, autem placeat id, possimus quibusdam repellat dolor accusantium earum itaque labore autem veniam.",
+                "product_quantity": 48,
+                "product_price": 80.36
+            }
+        ]
+    }
+}

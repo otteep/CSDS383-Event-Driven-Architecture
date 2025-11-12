@@ -1,0 +1,32 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-3bTQbJah",
+        "supplier_contact": "supplier3bTQbJah@example.com",
+        "products": [
+            {
+                "product_name": "Product-adipisci-odio",
+                "product_description": "Debitis beatae in repellendus quas hic, nisi molestias ex deserunt pariatur totam fugit asperiores dolorum cum, quae nulla possimus beatae deleniti consequuntur totam ipsam nesciunt iure architecto?",
+                "product_quantity": 37,
+                "product_price": 9.62
+            },
+            {
+                "product_name": "Product-culpa-pariatur",
+                "product_description": "Commodi laboriosam magnam sit dolor quibusdam nisi quis quos illo, aliquid nostrum perspiciatis modi perferendis culpa minus asperiores nam doloremque sunt cum, non sed labore excepturi quae architecto pariatur ad vel iste?",
+                "product_quantity": 87,
+                "product_price": 37.0
+            },
+            {
+                "product_name": "Product-sequi-rem",
+                "product_description": "Veniam minima molestiae quod voluptate minus, excepturi quo ducimus quidem ullam recusandae cupiditate tempore architecto cum et qui, dolorem a totam consectetur labore voluptates commodi eaque?",
+                "product_quantity": 37,
+                "product_price": 19.35
+            },
+            {
+                "product_name": "Product-repellendus-eaque",
+                "product_description": "Repellendus blanditiis rem corrupti officiis at alias necessitatibus ipsum quod reprehenderit, necessitatibus sapiente sit accusamus repellat ut, libero sunt cum, ipsa nihil dolore dicta eveniet expedita unde aperiam neque ad, optio ullam consectetur quaerat blanditiis dolores perspiciatis dolore fugiat laudantium sit illum?",
+                "product_quantity": 8,
+                "product_price": 40.26
+            }
+        ]
+    }
+}

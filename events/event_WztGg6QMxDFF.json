@@ -1,0 +1,32 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-CbUnRFuR",
+        "supplier_contact": "supplierCbUnRFuR@example.com",
+        "products": [
+            {
+                "product_name": "Product-assumenda-ducimus",
+                "product_description": "Voluptas eum cupiditate tenetur at nisi quam, quaerat iure alias, alias quibusdam ad sed animi quo obcaecati quam officiis corrupti rem, alias dolorem adipisci perspiciatis molestias id.",
+                "product_quantity": 12,
+                "product_price": 40.69
+            },
+            {
+                "product_name": "Product-obcaecati-aspernatur",
+                "product_description": "Molestiae tempore vel minus quae, possimus culpa itaque reprehenderit vitae earum?",
+                "product_quantity": 21,
+                "product_price": 88.25
+            },
+            {
+                "product_name": "Product-quidem-tempora",
+                "product_description": "In labore id quia nihil tempora illo perspiciatis maxime mollitia, aliquam adipisci velit repellendus odit nostrum maxime asperiores, adipisci mollitia commodi veniam suscipit.",
+                "product_quantity": 75,
+                "product_price": 93.01
+            },
+            {
+                "product_name": "Product-odio-nam",
+                "product_description": "Distinctio enim autem quia nobis dolores magni, at ut eveniet eligendi omnis alias.",
+                "product_quantity": 9,
+                "product_price": 78.05
+            }
+        ]
+    }
+}

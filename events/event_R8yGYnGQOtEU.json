@@ -1,0 +1,19 @@
+{
+    "supplier": {
+        "supplier_contact": "supplierPPEJGnA8@example.com",
+        "products": [
+            {
+                "product_name": "Product-eaque-quia",
+                "product_description": "Cum veritatis excepturi, nulla deleniti similique sed atque commodi nihil quibusdam.",
+                "product_quantity": 58,
+                "product_price": 33.64
+            },
+            {
+                "product_name": "Product-minus-quibusdam",
+                "product_description": "Perspiciatis modi delectus est, minus eaque libero deserunt cumque quisquam suscipit maxime at.",
+                "product_quantity": 88,
+                "product_price": 2.89
+            }
+        ]
+    }
+}

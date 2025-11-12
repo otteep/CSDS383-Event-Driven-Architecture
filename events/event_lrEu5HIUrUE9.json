@@ -1,0 +1,32 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-EGrZBAgd",
+        "supplier_contact": "supplierEGrZBAgd@example.com",
+        "products": [
+            {
+                "product_name": "Product-quas-minima",
+                "product_description": "Excepturi maiores cum obcaecati alias dicta quaerat ducimus non, corrupti officia perferendis eos nobis.",
+                "product_quantity": 85,
+                "product_price": 7.15
+            },
+            {
+                "product_name": "Product-eos-cupiditate",
+                "product_description": "Rem rerum quis animi, quod sit fugiat praesentium repudiandae, aut quaerat beatae placeat earum officia cum vitae explicabo nisi at, sapiente dolores modi aperiam quisquam accusantium eligendi consectetur dolorem commodi quidem sequi.",
+                "product_quantity": 53,
+                "product_price": 9.27
+            },
+            {
+                "product_name": "Product-nobis-magni",
+                "product_description": "Nemo ipsa ab nam, laboriosam quis omnis, mollitia labore quos, odit eaque delectus?",
+                "product_quantity": 33,
+                "product_price": 39.67
+            },
+            {
+                "product_name": "Product-inventore-deserunt",
+                "product_description": "Quos doloribus odit molestias officia placeat iste voluptatibus ea, corporis totam perferendis et delectus repellat beatae ipsum, voluptate rem debitis cum earum doloribus non, obcaecati debitis eum qui sit consequatur asperiores similique?",
+                "product_quantity": 92,
+                "product_price": 94.38
+            }
+        ]
+    }
+}

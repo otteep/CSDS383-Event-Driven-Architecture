@@ -1,0 +1,14 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-5edAW9mS",
+        "supplier_contact": "supplier5edAW9mS@example.com",
+        "products": [
+            {
+                "product_name": "Product-qui-repudiandae",
+                "product_description": "Sunt odio consequatur sint quasi animi rem est, nesciunt id delectus?",
+                "product_quantity": 13,
+                "product_price": 26.0
+            }
+        ]
+    }
+}

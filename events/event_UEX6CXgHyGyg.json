@@ -1,0 +1,26 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-rJKMHZec",
+        "supplier_contact": "supplierrJKMHZec@example.com",
+        "products": [
+            {
+                "product_name": "Product-vitae-consequatur",
+                "product_description": "Repellendus voluptatibus sapiente aut commodi quisquam ab recusandae incidunt similique, beatae nam voluptate quod obcaecati quo excepturi doloribus?",
+                "product_quantity": 35,
+                "product_price": 37.78
+            },
+            {
+                "product_name": "Product-ducimus-eius",
+                "product_description": "Incidunt iusto esse ab, laudantium cumque quo odio quam quae suscipit consequuntur ratione, sunt magnam cum, delectus odit vero reiciendis esse molestias?",
+                "product_quantity": 12,
+                "product_price": 55.25
+            },
+            {
+                "product_name": "Product-incidunt-corporis",
+                "product_description": "Doloribus neque aliquid ab cupiditate error dolorem nostrum officia qui corrupti reprehenderit, nobis sint obcaecati dicta soluta temporibus eligendi architecto nemo quae pariatur labore?",
+                "product_quantity": 56,
+                "product_price": 11.87
+            }
+        ]
+    }
+}

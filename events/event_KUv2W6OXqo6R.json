@@ -1,0 +1,20 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-YzrYEgLO",
+        "supplier_contact": "supplierYzrYEgLO@example.com",
+        "products": [
+            {
+                "product_name": "Product-saepe-aspernatur",
+                "product_description": "Minus dicta asperiores iste natus blanditiis, ipsa ratione saepe quaerat non debitis aliquid?",
+                "product_quantity": 23,
+                "product_price": 22.55
+            },
+            {
+                "product_name": "Product-accusantium-repellat",
+                "product_description": "Magnam aliquid porro tenetur est alias ducimus veniam, molestias nesciunt quisquam accusantium possimus autem ratione iure nobis, quisquam atque ullam officia doloremque.",
+                "product_quantity": 38,
+                "product_price": 51.84
+            }
+        ]
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-xjea0PCK",
+        "supplier_contact": "supplierxjea0PCK@example.com",
+        "products": [
+            {
+                "product_name": "Product-laboriosam-nisi",
+                "product_description": "Amet debitis voluptatibus voluptate libero obcaecati cum perferendis deserunt in, quasi repudiandae nesciunt qui ut dolorum, reprehenderit ratione ad sapiente eaque vel obcaecati, possimus natus dolor cum ratione porro deleniti eius dolores commodi reprehenderit?",
+                "product_quantity": 1,
+                "product_price": 52.78
+            },
+            {
+                "product_name": "Product-rerum-voluptate",
+                "product_description": "Natus ut id nesciunt culpa nobis, autem suscipit quisquam id doloribus, molestias fugit sit repellat aliquam corporis quidem recusandae sint vero, cupiditate iusto autem aliquid facilis, in exercitationem commodi soluta minus perferendis id culpa ad laudantium debitis odit.",
+                "product_quantity": 14,
+                "product_price": 87.33
+            },
+            {
+                "product_name": "Product-atque-deleniti",
+                "product_description": "A dolor id magni, ipsa consequatur eaque?",
+                "product_quantity": 91,
+                "product_price": 4.71
+            }
+        ]
+    }
+}

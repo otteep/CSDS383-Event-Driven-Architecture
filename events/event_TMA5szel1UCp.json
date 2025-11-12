@@ -1,0 +1,32 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-T97izOOk",
+        "supplier_contact": "supplierT97izOOk@example.com",
+        "products": [
+            {
+                "product_name": "Product-porro-cupiditate",
+                "product_description": "Ex officia earum numquam eius, nisi error consequuntur voluptates odio blanditiis ratione nostrum alias sequi sapiente quaerat, repellendus enim temporibus?",
+                "product_quantity": 1,
+                "product_price": 84.68
+            },
+            {
+                "product_name": "Product-amet-deserunt",
+                "product_description": "Repudiandae eum vel, fugiat odit sint ducimus dolor enim cupiditate amet temporibus, enim eum nulla voluptates quibusdam magnam illo quia commodi aliquam odit laborum, dolorum officia maiores molestias cum sit.",
+                "product_quantity": 19,
+                "product_price": 32.52
+            },
+            {
+                "product_name": "Product-possimus-quisquam",
+                "product_description": "Officia minus cum repudiandae delectus sunt nam consequatur, illo repellendus nostrum quibusdam recusandae laborum veniam nemo omnis tempore vero, quia officia illum iste aliquid architecto beatae necessitatibus distinctio dolorem doloribus nostrum.",
+                "product_quantity": 91,
+                "product_price": 25.08
+            },
+            {
+                "product_name": "Product-odit-ex",
+                "product_description": "Dicta saepe accusantium id magni sunt laboriosam ipsum dolores a perferendis, dolores consequatur voluptates modi quod perferendis possimus nesciunt?",
+                "product_quantity": 6,
+                "product_price": 71.99
+            }
+        ]
+    }
+}

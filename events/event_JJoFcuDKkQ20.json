@@ -1,0 +1,32 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-BNuCJvvQ",
+        "supplier_contact": "supplierBNuCJvvQ@example.com",
+        "products": [
+            {
+                "product_name": "Product-aut-magnam",
+                "product_description": "Dolorem nobis ut perspiciatis iure rerum aliquam rem, hic non officiis, ut enim earum minima eveniet.",
+                "product_quantity": 59,
+                "product_price": 49.46
+            },
+            {
+                "product_name": "Product-illo-dolore",
+                "product_description": "Ex sit est quas, quaerat error explicabo harum, vitae id nam consequuntur labore alias, voluptatibus commodi facilis aliquam porro fugit, dolores ipsum repellendus in cum aut optio aliquam quas corporis harum?",
+                "product_quantity": 55,
+                "product_price": 54.83
+            },
+            {
+                "product_name": "Product-nam-necessitatibus",
+                "product_description": "Autem earum alias ut velit, eveniet dicta ducimus quidem voluptate veritatis et ex reprehenderit officia laudantium architecto, hic commodi officia asperiores.",
+                "product_quantity": 3,
+                "product_price": 34.3
+            },
+            {
+                "product_name": "Product-quis-eveniet",
+                "product_description": "Id consequuntur ex itaque quod corporis nobis aperiam est ea libero aliquam, magni vero veritatis aspernatur minima?",
+                "product_quantity": 1,
+                "product_price": 62.97
+            }
+        ]
+    }
+}

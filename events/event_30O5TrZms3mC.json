@@ -1,0 +1,26 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-3pF17ilt",
+        "supplier_contact": "supplier3pF17ilt@example.com",
+        "products": [
+            {
+                "product_name": "Product-odio-laborum",
+                "product_description": "Optio dolores at laudantium repudiandae magni suscipit consectetur fugit perferendis possimus, ratione laudantium consectetur harum quibusdam dolorum nisi obcaecati ducimus, quisquam voluptates modi nostrum, illum voluptatum doloribus ex voluptatibus sint, quasi excepturi facere laudantium neque ad molestiae amet optio in?",
+                "product_quantity": 30,
+                "product_price": 75.1
+            },
+            {
+                "product_name": "Product-culpa-ipsum",
+                "product_description": "Repellendus nihil quidem beatae sapiente delectus suscipit nesciunt reiciendis labore doloribus, amet unde voluptate accusantium at totam cupiditate, temporibus saepe excepturi esse repellat quas, neque mollitia odit quam quidem inventore vero, magni placeat ullam illo veniam perspiciatis rem dicta laboriosam?",
+                "product_quantity": 47,
+                "product_price": 48.01
+            },
+            {
+                "product_name": "Product-quasi-ea",
+                "product_description": "Laudantium unde quas nobis, fugiat sit praesentium recusandae?",
+                "product_quantity": 9,
+                "product_price": 30.34
+            }
+        ]
+    }
+}

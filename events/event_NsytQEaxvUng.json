@@ -1,0 +1,14 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-dsW6KIs4",
+        "supplier_contact": "supplierdsW6KIs4@example.com",
+        "products": [
+            {
+                "product_name": "Product-molestias-iste",
+                "product_description": "Nam facere optio explicabo mollitia laboriosam eveniet hic quibusdam, natus perspiciatis labore quas amet excepturi placeat ab consequatur perferendis quae aspernatur?",
+                "product_quantity": 84,
+                "product_price": 40.69
+            }
+        ]
+    }
+}

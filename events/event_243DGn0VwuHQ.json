@@ -1,0 +1,24 @@
+{
+    "supplier": {
+        "supplier_contact": "suppliernaD71S4e@example.com",
+        "products": [
+            {
+                "product_name": "Product-totam-quas",
+                "product_description": "Tempore provident tenetur necessitatibus nulla hic quae sequi facilis nisi illum quasi, sapiente officia dicta quo aut enim optio veritatis expedita neque excepturi accusantium, aliquid id sunt ipsam vero eligendi itaque quae est?",
+                "product_quantity": 12
+            },
+            {
+                "product_name": "Product-ratione-vel",
+                "product_description": "Exercitationem placeat in iure rerum asperiores unde dignissimos delectus hic, voluptate exercitationem quam facilis neque enim quidem esse inventore magnam iusto?",
+                "product_quantity": 47,
+                "product_price": 98.44
+            },
+            {
+                "product_name": "Product-laborum-repellat",
+                "product_description": "Illo impedit magni minima repudiandae sit beatae placeat amet ut similique fuga, delectus error vel quos ea consequatur atque voluptatum quasi eveniet, corporis hic dolor.",
+                "product_quantity": 90,
+                "product_price": 50.64
+            }
+        ]
+    }
+}

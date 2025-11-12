@@ -1,0 +1,26 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-0clWCKDF",
+        "supplier_contact": "supplier0clWCKDF@example.com",
+        "products": [
+            {
+                "product_name": "Product-doloremque-itaque",
+                "product_description": "Quis itaque deleniti nisi ut magnam dolor, dolorem quidem maiores suscipit quas odit tenetur corrupti minima non aliquid?",
+                "product_quantity": 20,
+                "product_price": 37.69
+            },
+            {
+                "product_name": "Product-magnam-earum",
+                "product_description": "Voluptates vel necessitatibus laborum ad et iusto obcaecati eius itaque reiciendis aliquid, voluptas soluta possimus vel, doloribus possimus maxime cupiditate facilis consectetur sunt necessitatibus reprehenderit enim.",
+                "product_quantity": 92,
+                "product_price": 28.11
+            },
+            {
+                "product_name": "Product-quo-optio",
+                "product_description": "Obcaecati illum numquam eius consequuntur dolorum sed, distinctio eius id harum repellendus, cum rem reiciendis libero ut maiores pariatur excepturi assumenda a distinctio veritatis.",
+                "product_quantity": 83,
+                "product_price": 22.05
+            }
+        ]
+    }
+}

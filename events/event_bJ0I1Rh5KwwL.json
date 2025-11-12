@@ -1,0 +1,14 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-bj5enVyn",
+        "supplier_contact": "supplierbj5enVyn@example.com",
+        "products": [
+            {
+                "product_name": "Product-odit-iste",
+                "product_description": "Mollitia beatae architecto magnam tempora eum nobis, similique aperiam voluptatum eligendi, eligendi sit accusantium soluta quae repellat aspernatur, fugit quasi soluta recusandae nostrum tempore quaerat.",
+                "product_quantity": 33,
+                "product_price": 19.73
+            }
+        ]
+    }
+}

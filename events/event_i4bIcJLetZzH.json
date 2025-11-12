@@ -1,0 +1,37 @@
+{
+    "supplier": {
+        "supplier_contact": "suppliervlWBqV3l@example.com",
+        "products": [
+            {
+                "product_name": "Product-quas-illum",
+                "product_description": "Harum laboriosam a ex nesciunt omnis eligendi, dolore doloremque perferendis eaque?",
+                "product_quantity": 12,
+                "product_price": 30.08
+            },
+            {
+                "product_name": "Product-praesentium-a",
+                "product_description": "Dolor minus et optio harum adipisci laborum omnis explicabo consequuntur perferendis, sit saepe dicta, a expedita eos repellat quasi tenetur odit, mollitia voluptatum ratione pariatur ex possimus, dolore nihil impedit laborum earum beatae id et molestiae aspernatur quae?",
+                "product_quantity": 57,
+                "product_price": 49.4
+            },
+            {
+                "product_name": "Product-quam-unde",
+                "product_description": "Illum cupiditate animi ad expedita at tenetur qui commodi eveniet maiores, sed quo quis nostrum optio impedit ab, magnam soluta aliquam harum.",
+                "product_quantity": 47,
+                "product_price": 33.11
+            },
+            {
+                "product_name": "Product-commodi-fuga",
+                "product_description": "Quisquam amet est asperiores, vel nihil culpa quas voluptates enim vero?",
+                "product_quantity": 24,
+                "product_price": 47.55
+            },
+            {
+                "product_name": "Product-accusantium-similique",
+                "product_description": "Necessitatibus mollitia tempora reprehenderit asperiores, asperiores delectus recusandae magni ipsum soluta tenetur quaerat.",
+                "product_quantity": 43,
+                "product_price": 69.65
+            }
+        ]
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-2GwdaZky",
+        "supplier_contact": "supplier2GwdaZky@example.com",
+        "products": [
+            {
+                "product_name": "Product-fuga-neque",
+                "product_description": "Doloremque qui odio adipisci impedit facilis, magnam nesciunt adipisci rerum ad voluptas repellendus nemo voluptates vitae tempora, unde delectus at iusto sapiente ipsum cupiditate dolorum facere recusandae officiis magni, alias pariatur nemo facilis molestias magnam sequi ea dolore recusandae quae, nesciunt commodi aspernatur quos suscipit modi molestiae dicta dolorem corporis quae praesentium?",
+                "product_quantity": 85,
+                "product_price": 30.45
+            },
+            {
+                "product_name": "Product-voluptatum-perferendis",
+                "product_description": "Molestiae itaque praesentium, voluptatibus maxime perferendis libero?",
+                "product_quantity": 89,
+                "product_price": 32.69
+            },
+            {
+                "product_name": "Product-nesciunt-aperiam",
+                "product_description": "Magni dolorum nisi quia doloribus possimus excepturi a eligendi, repellendus recusandae eius consequatur quos, rerum aliquam autem reiciendis consequuntur.",
+                "product_quantity": 60,
+                "product_price": 26.05
+            }
+        ]
+    }
+}

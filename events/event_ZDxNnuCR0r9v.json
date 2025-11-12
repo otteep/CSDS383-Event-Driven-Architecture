@@ -1,0 +1,32 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-McDVtgk2",
+        "supplier_contact": "supplierMcDVtgk2@example.com",
+        "products": [
+            {
+                "product_name": "Product-voluptates-dolores",
+                "product_description": "Placeat quam itaque assumenda magnam, laborum sint pariatur optio recusandae quisquam?",
+                "product_quantity": 70,
+                "product_price": 26.49
+            },
+            {
+                "product_name": "Product-animi-corporis",
+                "product_description": "Quam culpa autem maxime aperiam ipsum inventore, est sunt reprehenderit adipisci quasi, iusto ipsa ad at facere, porro totam id hic praesentium numquam distinctio voluptatibus, voluptatum optio sapiente illum expedita atque debitis iure a nemo?",
+                "product_quantity": 74,
+                "product_price": 19.15
+            },
+            {
+                "product_name": "Product-veritatis-nostrum",
+                "product_description": "Numquam illo dolore exercitationem inventore error cupiditate expedita sit ratione animi, perferendis eligendi commodi?",
+                "product_quantity": 24,
+                "product_price": 32.35
+            },
+            {
+                "product_name": "Product-quis-illo",
+                "product_description": "Error perferendis velit quo cumque, repellat quasi molestias voluptatem possimus aliquid distinctio nemo totam, animi dicta debitis sed laborum illum.",
+                "product_quantity": 90,
+                "product_price": 14.98
+            }
+        ]
+    }
+}

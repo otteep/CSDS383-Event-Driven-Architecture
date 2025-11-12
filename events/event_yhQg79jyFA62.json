@@ -1,0 +1,38 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-hMEt4Yq8",
+        "supplier_contact": "supplierhMEt4Yq8@example.com",
+        "products": [
+            {
+                "product_name": "Product-dicta-veritatis",
+                "product_description": "Quia repellendus molestias inventore eaque deserunt delectus sint itaque voluptas expedita vel, commodi consequuntur ex rerum totam obcaecati voluptas asperiores fugit?",
+                "product_quantity": 1,
+                "product_price": 21.79
+            },
+            {
+                "product_name": "Product-ex-tempore",
+                "product_description": "Praesentium et quibusdam odit recusandae nobis nihil voluptatibus harum, quasi veniam magnam sed totam reiciendis architecto voluptate saepe, aspernatur voluptate laudantium officiis aliquam doloremque nobis eum?",
+                "product_quantity": 41,
+                "product_price": 64.98
+            },
+            {
+                "product_name": "Product-nostrum-eaque",
+                "product_description": "Pariatur qui exercitationem corporis quasi saepe nesciunt consectetur sit minus tempore, eum ut quasi ratione soluta id autem consequatur ex modi, aperiam et nulla id possimus eum sapiente a quis doloribus vero porro, ratione magni voluptate harum enim, explicabo est hic facilis quia.",
+                "product_quantity": 25,
+                "product_price": 63.8
+            },
+            {
+                "product_name": "Product-nisi-aperiam",
+                "product_description": "Beatae at provident enim, ad facilis vero quos beatae eveniet excepturi cumque tempore doloribus maiores aliquid, vero fugiat nam corrupti enim?",
+                "product_quantity": 88,
+                "product_price": 10.83
+            },
+            {
+                "product_name": "Product-suscipit-numquam",
+                "product_description": "Aspernatur praesentium laboriosam ad debitis expedita doloremque quibusdam nulla ducimus, corporis veritatis necessitatibus atque tempora quo enim, molestiae hic eveniet ipsam ad, ratione dolorum ullam, adipisci saepe nisi dolores unde reiciendis at earum voluptatum animi totam qui?",
+                "product_quantity": 1,
+                "product_price": 73.09
+            }
+        ]
+    }
+}

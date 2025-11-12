@@ -1,0 +1,31 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-lAwnrMyf",
+        "supplier_contact": "supplierlAwnrMyf@example.com",
+        "products": [
+            {
+                "product_name": "Product-doloremque-doloribus",
+                "product_description": "Exercitationem illo autem eius distinctio voluptatibus impedit quidem, sapiente suscipit fuga reprehenderit eum praesentium modi nam maiores repellendus, accusamus aliquid quibusdam facilis, aliquam distinctio ducimus iure, minus repellat velit dolore reprehenderit soluta sequi ducimus beatae dignissimos inventore.",
+                "product_quantity": 66,
+                "product_price": 21.21
+            },
+            {
+                "product_name": "Product-mollitia-voluptatem",
+                "product_description": "Sapiente consequatur est voluptatibus placeat magni iure, repellendus optio minus animi, est sit consequatur quo tenetur esse ad qui, illum tenetur reiciendis, officiis nisi saepe sit excepturi eligendi pariatur error illum ducimus.",
+                "product_quantity": 83
+            },
+            {
+                "product_name": "Product-fugit-veniam",
+                "product_description": "Facilis aut possimus perferendis magnam aspernatur excepturi optio, minus modi eius magnam aperiam aliquam alias repudiandae obcaecati neque esse, alias debitis odio, sapiente quas nesciunt ipsa nisi quos vel numquam eligendi necessitatibus, nam perferendis rerum repudiandae dolorum consequatur consequuntur doloribus fugit.",
+                "product_quantity": 24,
+                "product_price": 30.82
+            },
+            {
+                "product_name": "Product-culpa-optio",
+                "product_description": "Ducimus corrupti repellat saepe culpa totam quidem ullam at commodi assumenda, animi laudantium accusantium recusandae reprehenderit cum pariatur?",
+                "product_quantity": 80,
+                "product_price": 22.4
+            }
+        ]
+    }
+}

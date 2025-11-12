@@ -1,0 +1,26 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-gf3kCJNd",
+        "supplier_contact": "suppliergf3kCJNd@example.com",
+        "products": [
+            {
+                "product_name": "Product-minima-nulla",
+                "product_description": "Labore expedita dolor beatae error magnam nostrum corrupti necessitatibus, dignissimos quaerat beatae fuga officia maiores ipsum aliquam iure autem?",
+                "product_quantity": 9,
+                "product_price": 38.51
+            },
+            {
+                "product_name": "Product-id-unde",
+                "product_description": "Eaque non a voluptates laudantium saepe eum, error unde consequatur doloribus harum, repellat cumque necessitatibus suscipit adipisci incidunt odio laborum alias, eaque autem ea tenetur fugit voluptates aspernatur necessitatibus soluta, porro facilis facere.",
+                "product_quantity": 68,
+                "product_price": 42.0
+            },
+            {
+                "product_name": "Product-quisquam-labore",
+                "product_description": "Adipisci quas iusto deleniti labore mollitia consectetur, id fugit rem non reprehenderit fuga, dolorem deserunt accusantium impedit a officiis quam ipsa sed totam nulla quisquam?",
+                "product_quantity": 14,
+                "product_price": 42.24
+            }
+        ]
+    }
+}

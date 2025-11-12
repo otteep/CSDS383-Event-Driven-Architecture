@@ -1,0 +1,14 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-yYEIDoVp",
+        "supplier_contact": "supplieryYEIDoVp@example.com",
+        "products": [
+            {
+                "product_name": "Product-quas-ea",
+                "product_description": "Enim maxime praesentium a velit earum perspiciatis at, ipsam repudiandae quod debitis corrupti laudantium facilis eveniet laboriosam explicabo dolore, perspiciatis repudiandae cum dolores odit amet ad, ab facere ut rerum animi id non.",
+                "product_quantity": 64,
+                "product_price": 47.63
+            }
+        ]
+    }
+}

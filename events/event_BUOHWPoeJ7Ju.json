@@ -1,0 +1,20 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-dHDo7RBw",
+        "supplier_contact": "supplierdHDo7RBw@example.com",
+        "products": [
+            {
+                "product_name": "Product-eveniet-modi",
+                "product_description": "Ducimus optio in perferendis tenetur dolorem esse voluptate earum totam tempora, asperiores maxime quia, veniam minima molestiae sequi laborum magnam vitae est mollitia architecto fuga incidunt, facere laboriosam qui nihil corporis nisi dolore.",
+                "product_quantity": 53,
+                "product_price": 14.54
+            },
+            {
+                "product_name": "Product-aperiam-molestiae",
+                "product_description": "Doloribus cupiditate voluptatum ipsa porro nulla cum, minus incidunt ipsa ipsam nihil eum laborum necessitatibus magnam non eos?",
+                "product_quantity": 98,
+                "product_price": 37.11
+            }
+        ]
+    }
+}

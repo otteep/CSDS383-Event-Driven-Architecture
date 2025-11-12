@@ -1,0 +1,38 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-PMjpiWgV",
+        "supplier_contact": "supplierPMjpiWgV@example.com",
+        "products": [
+            {
+                "product_name": "Product-impedit-distinctio",
+                "product_description": "Rerum molestiae autem unde qui a, consequatur quibusdam rerum ex minus repellat fugiat.",
+                "product_quantity": 42,
+                "product_price": 89.37
+            },
+            {
+                "product_name": "Product-quam-nisi",
+                "product_description": "Perspiciatis beatae corrupti, quia ratione laudantium vero provident, a molestiae voluptatibus expedita dignissimos, odit neque repudiandae ad tempora, consequatur qui nostrum labore rem.",
+                "product_quantity": 16,
+                "product_price": 17.39
+            },
+            {
+                "product_name": "Product-quis-architecto",
+                "product_description": "Blanditiis adipisci unde voluptates sunt veritatis nulla vel enim cumque commodi, quo natus magnam consequuntur reprehenderit iste aliquam facilis atque, aliquid dolores unde dolorum est aspernatur accusamus nisi cupiditate iusto, quae obcaecati ipsa?",
+                "product_quantity": 92,
+                "product_price": 35.65
+            },
+            {
+                "product_name": "Product-reiciendis-perspiciatis",
+                "product_description": "Quos voluptatem autem debitis fuga, laudantium cum ratione, fugit est maiores.",
+                "product_quantity": 70,
+                "product_price": 69.56
+            },
+            {
+                "product_name": "Product-reiciendis-maiores",
+                "product_description": "Quas sit eveniet excepturi veniam numquam cupiditate voluptate quidem ut hic, perferendis dolor eum veritatis similique repudiandae recusandae qui, quia ad adipisci aut, rerum eligendi nesciunt ipsum iusto ipsam repellendus quae ex.",
+                "product_quantity": 43,
+                "product_price": 21.02
+            }
+        ]
+    }
+}

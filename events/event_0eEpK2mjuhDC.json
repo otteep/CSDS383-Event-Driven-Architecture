@@ -1,0 +1,25 @@
+{
+    "supplier": {
+        "supplier_contact": "supplierSuMUSHs7@example.com",
+        "products": [
+            {
+                "product_name": "Product-deleniti-incidunt",
+                "product_description": "Aspernatur doloremque atque aliquid repellat id reprehenderit, voluptatibus vel aspernatur in alias, deleniti ducimus a autem magnam nisi laudantium amet dolor, iure cupiditate dolor error quae vero repudiandae quidem magni incidunt at?",
+                "product_quantity": 80,
+                "product_price": 25.63
+            },
+            {
+                "product_name": "Product-at-repellat",
+                "product_description": "Fugit quasi assumenda eveniet at, deserunt voluptatem temporibus deleniti officiis ad vero dolor nobis, numquam qui nulla repudiandae libero fugiat, reprehenderit similique asperiores ducimus dolor, amet vel corrupti modi maxime nulla possimus praesentium ipsa rerum reprehenderit est?",
+                "product_quantity": 6,
+                "product_price": 42.57
+            },
+            {
+                "product_name": "Product-totam-nisi",
+                "product_description": "Modi eius porro, deserunt corrupti numquam fuga quam veritatis nostrum eius tempore, voluptates sint laboriosam adipisci esse eveniet ad mollitia eos consectetur modi, aperiam sapiente asperiores consectetur recusandae eaque quisquam quibusdam ipsa.",
+                "product_quantity": 46,
+                "product_price": 71.87
+            }
+        ]
+    }
+}

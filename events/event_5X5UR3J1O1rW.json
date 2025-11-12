@@ -1,0 +1,31 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-ANwKvdyx",
+        "supplier_contact": "supplierANwKvdyx@example.com",
+        "products": [
+            {
+                "product_description": "Quasi tempore facere dicta praesentium minima libero, natus architecto repellat quis pariatur doloremque laboriosam alias voluptate provident dicta, ratione in debitis atque?",
+                "product_quantity": 9,
+                "product_price": 20.09
+            },
+            {
+                "product_name": "Product-pariatur-commodi",
+                "product_description": "Veniam iste officia dolore fugiat, odit alias reprehenderit, dignissimos dolor dolorum voluptate debitis voluptates ipsum vel fugit, quam eligendi voluptate ipsum ducimus vero mollitia ullam commodi voluptatem atque laboriosam, debitis saepe ipsam placeat inventore impedit omnis temporibus error iusto optio ex?",
+                "product_quantity": 7,
+                "product_price": 18.86
+            },
+            {
+                "product_name": "Product-inventore-reiciendis",
+                "product_description": "Iste laboriosam aliquam deleniti dolorum quia minima nesciunt, tenetur odio eligendi eius corrupti natus sit tempore sequi hic fuga molestiae, ipsum ad saepe dicta iusto nisi facere dolorem aspernatur aliquam cum reprehenderit, autem officiis magnam cumque excepturi praesentium obcaecati quos accusantium dolores, quaerat facilis commodi.",
+                "product_quantity": 33,
+                "product_price": 45.76
+            },
+            {
+                "product_name": "Product-reprehenderit-veniam",
+                "product_description": "Repudiandae nisi quod nesciunt eaque labore voluptatibus placeat praesentium maiores, architecto laborum omnis aliquid molestiae voluptate inventore, officia tenetur suscipit dolores adipisci, quia explicabo odio ratione, nam tempora temporibus assumenda impedit vero repudiandae consequuntur libero consequatur?",
+                "product_quantity": 76,
+                "product_price": 73.64
+            }
+        ]
+    }
+}

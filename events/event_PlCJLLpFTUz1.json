@@ -1,0 +1,20 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-Cn0K8ThM",
+        "supplier_contact": "supplierCn0K8ThM@example.com",
+        "products": [
+            {
+                "product_name": "Product-consectetur-vitae",
+                "product_description": "In voluptates enim debitis, ipsa similique inventore ad harum quasi maiores eveniet magni voluptatum, perferendis mollitia expedita ullam velit, aperiam quibusdam laborum sint officiis debitis.",
+                "product_quantity": 88,
+                "product_price": 78.29
+            },
+            {
+                "product_name": "Product-totam-doloribus",
+                "product_description": "Optio laborum placeat cumque temporibus nemo saepe distinctio qui quis praesentium, mollitia accusantium nisi dolorum animi dignissimos qui.",
+                "product_quantity": 39,
+                "product_price": 29.86
+            }
+        ]
+    }
+}

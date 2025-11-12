@@ -1,0 +1,26 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-IwXJnLSS",
+        "supplier_contact": "supplierIwXJnLSS@example.com",
+        "products": [
+            {
+                "product_name": "Product-ipsum-quasi",
+                "product_description": "Vel similique sunt quia repudiandae deserunt dicta veniam amet corrupti id delectus, itaque voluptatibus at rem corrupti dolores tempore vero nihil, perferendis natus deleniti amet possimus distinctio suscipit dolorum magni ducimus ratione, impedit reprehenderit optio harum eum, accusamus modi eius laboriosam itaque.",
+                "product_quantity": 65,
+                "product_price": 43.37
+            },
+            {
+                "product_name": "Product-libero-labore",
+                "product_description": "Omnis expedita enim consequatur culpa sunt molestias pariatur dicta, quos sapiente quae asperiores nemo velit laudantium beatae culpa ipsa delectus, vel enim et ipsam adipisci mollitia ex cum iusto reiciendis, aspernatur sit consectetur.",
+                "product_quantity": 76,
+                "product_price": 87.62
+            },
+            {
+                "product_name": "Product-debitis-quidem",
+                "product_description": "Quis delectus vel culpa numquam excepturi iste atque eum maiores doloribus voluptatibus, eveniet nisi earum laboriosam reiciendis omnis illum deleniti praesentium sunt, repellat esse quasi ullam, non quis id cum quaerat assumenda accusantium quod tempora ratione dolorem ducimus, itaque odio praesentium magni ea eligendi recusandae quas est.",
+                "product_quantity": 18,
+                "product_price": 50.29
+            }
+        ]
+    }
+}

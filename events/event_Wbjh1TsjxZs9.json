@@ -1,0 +1,14 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-BMR9yQyY",
+        "supplier_contact": "supplierBMR9yQyY@example.com",
+        "products": [
+            {
+                "product_name": "Product-dolorum-recusandae",
+                "product_description": "Illum maiores quas nemo perspiciatis qui ut eaque ullam deserunt, a consequatur natus numquam dicta architecto, aliquid at incidunt cupiditate repellendus alias?",
+                "product_quantity": 33,
+                "product_price": 57.92
+            }
+        ]
+    }
+}

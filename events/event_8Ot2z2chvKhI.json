@@ -1,0 +1,14 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-D1E8fipY",
+        "supplier_contact": "supplierD1E8fipY@example.com",
+        "products": [
+            {
+                "product_name": "Product-consequuntur-sit",
+                "product_description": "Necessitatibus quasi vero vitae voluptates praesentium laboriosam odit, ea similique atque explicabo est unde suscipit.",
+                "product_quantity": 73,
+                "product_price": 95.46
+            }
+        ]
+    }
+}

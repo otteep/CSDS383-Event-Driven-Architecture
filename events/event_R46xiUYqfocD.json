@@ -1,0 +1,38 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-prTCMjOe",
+        "supplier_contact": "supplierprTCMjOe@example.com",
+        "products": [
+            {
+                "product_name": "Product-unde-asperiores",
+                "product_description": "Consequatur cum nam dolore laboriosam minus eaque, perspiciatis earum odit nobis magnam cupiditate deserunt atque autem impedit, sapiente at dolores maiores dolor, adipisci nobis minima a culpa, delectus laboriosam facilis eaque architecto quod eveniet quo voluptas?",
+                "product_quantity": 13,
+                "product_price": 11.74
+            },
+            {
+                "product_name": "Product-ullam-ratione",
+                "product_description": "Facilis in consectetur soluta ad ab dolorem obcaecati, deleniti vero voluptate eius saepe quas hic illo natus laudantium maiores fugit?",
+                "product_quantity": 97,
+                "product_price": 95.34
+            },
+            {
+                "product_name": "Product-ducimus-facere",
+                "product_description": "Dolores velit molestias autem ipsam porro corrupti commodi beatae distinctio, vero incidunt ipsam dolor rem aliquid excepturi ab molestias?",
+                "product_quantity": 97,
+                "product_price": 63.04
+            },
+            {
+                "product_name": "Product-illo-quos",
+                "product_description": "Inventore magni odio neque, blanditiis tempore repudiandae officia facere minima consequatur nobis ad, minima minus quibusdam recusandae illo iusto corrupti eius accusantium dicta, ipsa cupiditate odio consequuntur libero explicabo est aliquid, minima atque ex in quasi unde accusantium pariatur amet.",
+                "product_quantity": 82,
+                "product_price": 39.81
+            },
+            {
+                "product_name": "Product-rem-exercitationem",
+                "product_description": "Autem ea omnis doloribus, earum labore magnam aut exercitationem laboriosam.",
+                "product_quantity": 13,
+                "product_price": 15.06
+            }
+        ]
+    }
+}

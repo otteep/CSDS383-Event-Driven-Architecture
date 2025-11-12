@@ -1,0 +1,14 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-F8PCfXrB",
+        "supplier_contact": "supplierF8PCfXrB@example.com",
+        "products": [
+            {
+                "product_name": "Product-quam-obcaecati",
+                "product_description": "Officiis culpa eligendi quo fugiat maiores soluta perferendis, pariatur iure maiores quod eligendi tempore dicta voluptatum, quasi illum quo dolores?",
+                "product_quantity": 28,
+                "product_price": 7.48
+            }
+        ]
+    }
+}

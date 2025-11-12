@@ -1,0 +1,13 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-oKXx8VhO",
+        "supplier_contact": "supplieroKXx8VhO@example.com",
+        "products": [
+            {
+                "product_description": "Unde beatae ex sint iure quisquam ipsam eaque laborum ipsa corporis, enim repudiandae magnam error blanditiis ut et culpa placeat, aliquam sequi maiores veniam consectetur, culpa explicabo quidem?",
+                "product_quantity": 37,
+                "product_price": 89.06
+            }
+        ]
+    }
+}

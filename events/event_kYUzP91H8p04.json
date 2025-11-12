@@ -1,0 +1,20 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-y5T2vG44",
+        "supplier_contact": "suppliery5T2vG44@example.com",
+        "products": [
+            {
+                "product_name": "Product-perferendis-ut",
+                "product_description": "Rem earum laborum dolore sequi fugiat aperiam, excepturi ipsum totam ad nobis in illo recusandae vel ratione perspiciatis quia?",
+                "product_quantity": 57,
+                "product_price": 33.59
+            },
+            {
+                "product_name": "Product-possimus-sed",
+                "product_description": "Facilis cum dignissimos qui, magnam repellat quo dolorum tempore delectus assumenda optio, porro necessitatibus dolores ut magnam facere excepturi dolorum, quo ea aliquid, deleniti voluptate error?",
+                "product_quantity": 35,
+                "product_price": 56.37
+            }
+        ]
+    }
+}

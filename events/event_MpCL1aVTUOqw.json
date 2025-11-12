@@ -1,0 +1,37 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-G1cdHPNM",
+        "supplier_contact": "supplierG1cdHPNM@example.com",
+        "products": [
+            {
+                "product_name": "Product-dolore-deleniti",
+                "product_description": "Dolores consequuntur veritatis sunt expedita ea cum harum tempora rem, officia accusamus hic blanditiis cum neque modi aspernatur repudiandae dolorum illum sunt, ad sequi quod dignissimos pariatur cum quas repellat inventore, illum molestiae ipsa in perferendis ullam accusantium.",
+                "product_quantity": 89,
+                "product_price": 6.86
+            },
+            {
+                "product_name": "Product-qui-officia",
+                "product_description": "Deserunt fugiat placeat minus nesciunt eos itaque eum animi est veritatis, illo dolore corporis voluptatem non, veniam vitae sit necessitatibus?",
+                "product_quantity": 83,
+                "product_price": 47.61
+            },
+            {
+                "product_name": "Product-mollitia-eius",
+                "product_description": "Omnis autem aliquam totam sequi quod quae dolores, distinctio voluptatum cupiditate alias nisi earum dolore velit.",
+                "product_quantity": 20
+            },
+            {
+                "product_name": "Product-deserunt-ad",
+                "product_description": "Nostrum at dolorem quam placeat voluptatum, ab placeat ducimus officia ipsam accusamus voluptate fugiat dolorem adipisci at, iste dolor corporis natus iure magni quaerat illo error minus maiores.",
+                "product_quantity": 24,
+                "product_price": 52.78
+            },
+            {
+                "product_name": "Product-sequi-quos",
+                "product_description": "Nihil rerum esse mollitia dolores natus magnam assumenda voluptatibus iure qui veniam, totam voluptas ex animi velit quis cum accusamus deserunt eum perferendis, odio asperiores labore recusandae rem reprehenderit numquam nobis doloribus.",
+                "product_quantity": 74,
+                "product_price": 29.61
+            }
+        ]
+    }
+}

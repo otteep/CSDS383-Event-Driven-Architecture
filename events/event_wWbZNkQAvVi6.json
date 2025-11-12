@@ -1,0 +1,37 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-Dyo1Kr5F",
+        "supplier_contact": "supplierDyo1Kr5F@example.com",
+        "products": [
+            {
+                "product_name": "Product-dolore-alias",
+                "product_description": "Ad exercitationem corporis earum temporibus unde, facilis obcaecati adipisci dolorem animi nobis odit expedita error rerum ex, delectus iusto incidunt blanditiis facilis necessitatibus veniam cum sint nam fuga, numquam at similique facere expedita.",
+                "product_quantity": 64,
+                "product_price": 67.48
+            },
+            {
+                "product_name": "Product-tempore-eos",
+                "product_quantity": 25,
+                "product_price": 15.32
+            },
+            {
+                "product_name": "Product-reiciendis-commodi",
+                "product_description": "Assumenda deserunt magni enim consequuntur incidunt et aliquam laudantium, cumque explicabo consequatur repellendus dicta atque modi.",
+                "product_quantity": 74,
+                "product_price": 23.73
+            },
+            {
+                "product_name": "Product-quos-odio",
+                "product_description": "Omnis recusandae accusamus nostrum et maxime amet temporibus nihil, quas unde explicabo.",
+                "product_quantity": 53,
+                "product_price": 65.52
+            },
+            {
+                "product_name": "Product-temporibus-esse",
+                "product_description": "Nam nobis laboriosam illo, quia omnis qui dolorem fuga sit voluptate itaque fugiat ab, recusandae ratione iusto, aperiam recusandae maxime nemo, pariatur magni doloremque quae suscipit numquam qui nam?",
+                "product_quantity": 7,
+                "product_price": 65.45
+            }
+        ]
+    }
+}

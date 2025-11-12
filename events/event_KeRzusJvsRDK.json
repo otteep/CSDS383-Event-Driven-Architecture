@@ -1,0 +1,32 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-yI5z0Qnc",
+        "supplier_contact": "supplieryI5z0Qnc@example.com",
+        "products": [
+            {
+                "product_name": "Product-expedita-iusto",
+                "product_description": "Doloremque odio ea consequuntur maxime saepe labore, cum soluta quam quis illo, illo doloremque veritatis earum eligendi aut suscipit nesciunt quasi?",
+                "product_quantity": 13,
+                "product_price": 1.92
+            },
+            {
+                "product_name": "Product-sit-minima",
+                "product_description": "Maxime aliquam quae, et alias expedita minima, exercitationem libero ducimus distinctio, tempora veritatis nemo porro doloribus fugiat magnam ut suscipit quidem ullam.",
+                "product_quantity": 85,
+                "product_price": 96.43
+            },
+            {
+                "product_name": "Product-praesentium-fugiat",
+                "product_description": "Voluptas saepe perspiciatis fuga minus dolor quas, delectus dolor mollitia nemo velit ipsa voluptas inventore ea, beatae fuga quisquam incidunt, autem deserunt sapiente qui fugiat odit dolorum delectus nemo magni.",
+                "product_quantity": 25,
+                "product_price": 38.86
+            },
+            {
+                "product_name": "Product-numquam-mollitia",
+                "product_description": "Iste vitae aspernatur facilis animi qui, totam aspernatur ipsum unde, fugit voluptatum dolore similique debitis culpa, voluptas molestiae quia quas, beatae qui debitis aspernatur facere id reprehenderit obcaecati asperiores accusamus reiciendis?",
+                "product_quantity": 72,
+                "product_price": 97.42
+            }
+        ]
+    }
+}

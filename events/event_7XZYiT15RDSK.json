@@ -1,0 +1,38 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-DzwIIQuD",
+        "supplier_contact": "supplierDzwIIQuD@example.com",
+        "products": [
+            {
+                "product_name": "Product-harum-animi",
+                "product_description": "Laborum sunt itaque veritatis nisi laboriosam voluptatem quisquam quaerat, quae odit veritatis animi debitis at iusto iure.",
+                "product_quantity": 88,
+                "product_price": 18.06
+            },
+            {
+                "product_name": "Product-suscipit-optio",
+                "product_description": "Dignissimos maxime nobis nihil aspernatur vero tenetur, soluta veritatis adipisci reiciendis impedit ducimus laudantium, sed reprehenderit hic, assumenda quos amet placeat veritatis numquam, delectus consequatur et velit at repellendus aperiam iste iure omnis.",
+                "product_quantity": 43,
+                "product_price": 23.99
+            },
+            {
+                "product_name": "Product-cupiditate-tempora",
+                "product_description": "Saepe esse laborum nisi doloremque sint deserunt natus voluptatem consequuntur cum, pariatur et quisquam natus exercitationem accusamus recusandae.",
+                "product_quantity": 67,
+                "product_price": 52.42
+            },
+            {
+                "product_name": "Product-perferendis-tempora",
+                "product_description": "Laboriosam porro aliquam eveniet fuga repellat voluptatibus nulla, pariatur deserunt dignissimos minima nisi voluptatum.",
+                "product_quantity": 46,
+                "product_price": 57.71
+            },
+            {
+                "product_name": "Product-blanditiis-nam",
+                "product_description": "Cumque soluta doloremque quae ratione nemo, libero velit corrupti quas tempora impedit doloremque quam soluta perspiciatis quisquam amet, vel dignissimos laudantium harum molestiae placeat facere, officia sapiente ipsam soluta nam libero cum eos.",
+                "product_quantity": 61,
+                "product_price": 17.01
+            }
+        ]
+    }
+}

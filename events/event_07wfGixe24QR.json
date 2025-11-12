@@ -1,0 +1,26 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-6yitpAYr",
+        "supplier_contact": "supplier6yitpAYr@example.com",
+        "products": [
+            {
+                "product_name": "Product-excepturi-amet",
+                "product_description": "Natus fuga quos quis iste sapiente deleniti enim quibusdam corporis debitis maxime, doloremque inventore voluptas, saepe omnis perspiciatis obcaecati aliquid distinctio dolorum officia debitis, accusantium unde animi nihil blanditiis id eveniet rerum voluptatum, quos voluptatem aperiam nulla magni.",
+                "product_quantity": 52,
+                "product_price": 16.67
+            },
+            {
+                "product_name": "Product-consequuntur-magnam",
+                "product_description": "Nulla porro enim fugit, impedit soluta nesciunt, possimus ab nostrum nihil maxime enim veniam et incidunt doloribus nisi provident?",
+                "product_quantity": 56,
+                "product_price": 70.27
+            },
+            {
+                "product_name": "Product-voluptatem-voluptatum",
+                "product_description": "Non nisi voluptas at quia repellat, eligendi impedit doloribus iusto ex non officiis omnis quod accusamus, consequuntur incidunt ipsam vitae at excepturi, voluptatem corporis dicta in et accusamus quasi unde molestiae minus?",
+                "product_quantity": 55,
+                "product_price": 25.45
+            }
+        ]
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-r5RcUDKL",
+        "supplier_contact": "supplierr5RcUDKL@example.com",
+        "products": [
+            {
+                "product_name": "Product-reprehenderit-repudiandae",
+                "product_description": "Aliquid quos culpa similique nulla nemo doloribus officiis molestias cumque, omnis qui itaque, quis quia rerum molestias eum at architecto quisquam exercitationem blanditiis, eum veniam ea fugit aut quibusdam voluptas harum nam a, cum ab nisi officiis itaque?",
+                "product_quantity": 99,
+                "product_price": 11.72
+            },
+            {
+                "product_description": "Vitae illo amet alias ex, ducimus laborum vel nemo molestiae fuga.",
+                "product_quantity": 90,
+                "product_price": 66.78
+            }
+        ]
+    }
+}

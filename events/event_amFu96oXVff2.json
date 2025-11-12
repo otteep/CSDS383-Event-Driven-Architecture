@@ -1,0 +1,20 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-qZoJP6da",
+        "supplier_contact": "supplierqZoJP6da@example.com",
+        "products": [
+            {
+                "product_name": "Product-facere-commodi",
+                "product_description": "Quidem molestiae quis dignissimos minus, quidem illo sequi maxime temporibus veritatis sit, ex eaque numquam velit fugit nam sit quis blanditiis similique iste vero?",
+                "product_quantity": 42,
+                "product_price": 95.24
+            },
+            {
+                "product_name": "Product-ea-quisquam",
+                "product_description": "Cum sapiente repellat alias in, ea ratione quasi voluptates ut repudiandae dolore.",
+                "product_quantity": 32,
+                "product_price": 78.43
+            }
+        ]
+    }
+}

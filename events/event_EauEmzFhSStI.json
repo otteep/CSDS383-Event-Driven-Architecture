@@ -1,0 +1,20 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-aI9wURz6",
+        "supplier_contact": "supplieraI9wURz6@example.com",
+        "products": [
+            {
+                "product_name": "Product-aliquid-ex",
+                "product_description": "Libero nam sapiente, voluptatibus exercitationem ducimus, voluptas labore non at deserunt totam pariatur, commodi quod quia dolores pariatur eius assumenda voluptas nulla, ea nam atque velit?",
+                "product_quantity": 2,
+                "product_price": 23.07
+            },
+            {
+                "product_name": "Product-molestias-incidunt",
+                "product_description": "Omnis corrupti nobis ipsum vitae deleniti distinctio, totam atque asperiores magnam dolorum tempore omnis magni ratione pariatur dolore at, dolores natus porro debitis dicta unde cumque, in corrupti incidunt suscipit esse neque, assumenda in laboriosam temporibus ipsum harum?",
+                "product_quantity": 41,
+                "product_price": 66.68
+            }
+        ]
+    }
+}

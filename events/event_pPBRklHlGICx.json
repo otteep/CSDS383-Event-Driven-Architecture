@@ -1,0 +1,14 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-hOQ0JqrN",
+        "supplier_contact": "supplierhOQ0JqrN@example.com",
+        "products": [
+            {
+                "product_name": "Product-ad-eligendi",
+                "product_description": "Odit magnam voluptas cum quidem eius eveniet fugiat enim minima, sunt pariatur assumenda numquam cupiditate nesciunt fugit possimus.",
+                "product_quantity": 71,
+                "product_price": 34.25
+            }
+        ]
+    }
+}

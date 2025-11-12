@@ -1,0 +1,14 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-pgPxj7TL",
+        "supplier_contact": "supplierpgPxj7TL@example.com",
+        "products": [
+            {
+                "product_name": "Product-mollitia-nesciunt",
+                "product_description": "Quibusdam quos illum nisi hic tenetur perferendis, id praesentium repellendus facere sint consequatur perferendis, repellat reiciendis in veniam rem consequatur corrupti tempora molestiae.",
+                "product_quantity": 35,
+                "product_price": 54.69
+            }
+        ]
+    }
+}

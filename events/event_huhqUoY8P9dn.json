@@ -1,0 +1,38 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-s6Nc9kPE",
+        "supplier_contact": "suppliers6Nc9kPE@example.com",
+        "products": [
+            {
+                "product_name": "Product-dolor-ullam",
+                "product_description": "Deleniti assumenda similique quae voluptates ipsa qui ea odit aliquid provident, aliquam quibusdam cupiditate, molestias maiores doloremque reiciendis odit facilis at assumenda, laudantium repellat doloremque?",
+                "product_quantity": 90,
+                "product_price": 91.7
+            },
+            {
+                "product_name": "Product-aut-tempore",
+                "product_description": "Dolorum harum eaque earum, aspernatur quidem dolor itaque nam?",
+                "product_quantity": 50,
+                "product_price": 75.74
+            },
+            {
+                "product_name": "Product-minus-magni",
+                "product_description": "Dicta ducimus excepturi doloremque vero natus enim eos architecto, animi veniam aliquid minus commodi id vel dolor veritatis eius perspiciatis, fugiat est a quasi magnam laborum debitis aliquid doloribus qui vitae, maiores cum nemo tempora inventore.",
+                "product_quantity": 53,
+                "product_price": 62.02
+            },
+            {
+                "product_name": "Product-recusandae-beatae",
+                "product_description": "Deleniti nostrum dolorum consectetur at deserunt laudantium illum, voluptas libero at exercitationem sit dicta repellat corrupti, maxime cumque quod voluptatum omnis minima eius suscipit?",
+                "product_quantity": 70,
+                "product_price": 59.39
+            },
+            {
+                "product_name": "Product-minima-cumque",
+                "product_description": "Aspernatur beatae amet debitis pariatur laboriosam ab tenetur perferendis alias laborum, fugit eaque totam ex, asperiores beatae nisi velit vel perferendis doloribus nesciunt cupiditate, fugit odit eaque eius repellendus ullam ipsa aspernatur perspiciatis adipisci mollitia nostrum, ex officiis dignissimos quae quam ea laudantium aliquid omnis illum voluptas adipisci?",
+                "product_quantity": 93,
+                "product_price": 85.33
+            }
+        ]
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-YVcDpUCX",
+        "supplier_contact": "supplierYVcDpUCX@example.com",
+        "products": [
+            {
+                "product_name": "Product-deleniti-quia",
+                "product_description": "At officia id iste harum veritatis ad atque quas, iure distinctio nihil repellat, quod et suscipit dolore quibusdam mollitia incidunt itaque similique, recusandae nobis deserunt architecto voluptatibus labore ad provident?",
+                "product_quantity": 99,
+                "product_price": 40.15
+            },
+            {
+                "product_name": "Product-tempora-excepturi",
+                "product_description": "Quidem dolores unde ullam reprehenderit quis tenetur minima excepturi maxime hic odio, voluptatibus iste sequi iusto optio culpa earum numquam maxime, impedit a saepe facilis provident atque, eos perspiciatis impedit quas quos necessitatibus illo deserunt nobis nesciunt aut sed.",
+                "product_quantity": 22,
+                "product_price": 5.58
+            },
+            {
+                "product_name": "Product-esse-temporibus",
+                "product_description": "Ipsum harum quisquam eum quaerat dolorum voluptates sit natus officia, tempora ut iusto molestiae quidem quia aperiam et deserunt, explicabo inventore nostrum harum ipsum animi illum sint officia libero obcaecati ipsam?",
+                "product_quantity": 30,
+                "product_price": 49.4
+            },
+            {
+                "product_name": "Product-blanditiis-nemo",
+                "product_description": "Culpa ab ea neque maxime, molestiae error nulla culpa doloribus omnis labore, nostrum quasi nam dolore enim, architecto ad minima nemo asperiores?",
+                "product_quantity": 51,
+                "product_price": 46.22
+            }
+        ]
+    }
+}

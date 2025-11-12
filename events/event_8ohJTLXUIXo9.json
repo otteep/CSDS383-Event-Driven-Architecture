@@ -1,0 +1,20 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-TONXbTYd",
+        "supplier_contact": "supplierTONXbTYd@example.com",
+        "products": [
+            {
+                "product_name": "Product-aliquid-quibusdam",
+                "product_description": "Illo earum vel, odit quod tenetur vel maiores dicta eius quae voluptatem omnis magni, excepturi saepe omnis vitae hic quos debitis eos totam.",
+                "product_quantity": 83,
+                "product_price": 36.03
+            },
+            {
+                "product_name": "Product-tempore-ducimus",
+                "product_description": "Beatae non praesentium doloribus vitae, error reprehenderit perspiciatis iste debitis dolor illum.",
+                "product_quantity": 26,
+                "product_price": 51.08
+            }
+        ]
+    }
+}

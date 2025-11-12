@@ -1,0 +1,14 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-qGwvXM4K",
+        "supplier_contact": "supplierqGwvXM4K@example.com",
+        "products": [
+            {
+                "product_name": "Product-temporibus-iure",
+                "product_description": "Earum quam non adipisci ex, aliquid perferendis nesciunt harum iste totam aliquam?",
+                "product_quantity": 99,
+                "product_price": 81.43
+            }
+        ]
+    }
+}

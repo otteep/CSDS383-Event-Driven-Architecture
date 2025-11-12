@@ -1,0 +1,38 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-9TiewBwT",
+        "supplier_contact": "supplier9TiewBwT@example.com",
+        "products": [
+            {
+                "product_name": "Product-praesentium-dolorem",
+                "product_description": "Perferendis dignissimos dolores hic nam quaerat, itaque quos facere atque a at aut ipsam omnis totam nostrum, fugit nobis nostrum non ullam aliquam saepe necessitatibus ab nemo quibusdam, eius officia impedit ex omnis accusamus minima, ut at saepe voluptates ipsam labore in consequuntur est?",
+                "product_quantity": 78,
+                "product_price": 57.5
+            },
+            {
+                "product_name": "Product-quae-maxime",
+                "product_description": "Saepe numquam vel similique iusto accusamus natus repellendus quisquam earum, magnam beatae aspernatur nisi quae eveniet, eum quod blanditiis omnis similique ipsa.",
+                "product_quantity": 6,
+                "product_price": 22.0
+            },
+            {
+                "product_name": "Product-possimus-maxime",
+                "product_description": "Rem id excepturi laudantium, ipsum corrupti aspernatur nemo iure maiores magni, minus quaerat consectetur illo ex laudantium, nemo dolorem placeat dolorum fuga eius aliquid dolor illum?",
+                "product_quantity": 16,
+                "product_price": 83.15
+            },
+            {
+                "product_name": "Product-eveniet-maxime",
+                "product_description": "Ipsam temporibus accusamus odit repellendus aperiam error perspiciatis reprehenderit ullam, commodi repellat quam illo ratione quaerat minus recusandae ipsam, explicabo officiis deserunt earum suscipit numquam fuga.",
+                "product_quantity": 74,
+                "product_price": 31.25
+            },
+            {
+                "product_name": "Product-libero-totam",
+                "product_description": "Vitae eius iste dignissimos ullam laboriosam consequuntur nemo, ratione at qui est inventore fugit possimus animi repellat odio nemo quidem, autem suscipit dolor fugiat ducimus sit in aliquam, sapiente accusantium excepturi reiciendis, voluptatibus at doloremque itaque accusantium quae aliquam eos placeat eligendi iusto?",
+                "product_quantity": 6,
+                "product_price": 62.35
+            }
+        ]
+    }
+}

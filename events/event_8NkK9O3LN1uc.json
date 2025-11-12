@@ -1,0 +1,32 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-JdwJDu6a",
+        "supplier_contact": "supplierJdwJDu6a@example.com",
+        "products": [
+            {
+                "product_name": "Product-quia-veniam",
+                "product_description": "Laborum eius esse velit officia, similique possimus exercitationem repudiandae unde eius illo expedita cum nesciunt, asperiores quaerat deleniti et sint explicabo, rerum pariatur quos incidunt ratione distinctio, explicabo quidem quam?",
+                "product_quantity": 58,
+                "product_price": 52.97
+            },
+            {
+                "product_name": "Product-non-tempore",
+                "product_description": "Quas beatae quae non magni, minima non soluta saepe asperiores voluptate, accusantium natus cumque sit ea magnam eaque totam tenetur necessitatibus atque?",
+                "product_quantity": 43,
+                "product_price": 83.93
+            },
+            {
+                "product_name": "Product-debitis-quidem",
+                "product_description": "Quasi obcaecati neque accusantium repellendus quo animi culpa, error laboriosam ab perferendis ut, ea hic quas, minima maiores aut ducimus quisquam quis incidunt ex expedita soluta voluptatibus, voluptates illum inventore eligendi minus quisquam iste.",
+                "product_quantity": 20,
+                "product_price": 72.07
+            },
+            {
+                "product_name": "Product-eaque-eveniet",
+                "product_description": "Quod deleniti inventore, assumenda quibusdam architecto aspernatur numquam consectetur eius cum, eligendi quas cumque nobis iure culpa, reiciendis voluptates placeat earum accusantium ad perspiciatis iste, reiciendis cupiditate itaque facere nihil dolore tenetur iure expedita?",
+                "product_quantity": 63,
+                "product_price": 5.83
+            }
+        ]
+    }
+}

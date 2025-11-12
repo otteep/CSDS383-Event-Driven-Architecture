@@ -1,0 +1,25 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-CU6caPLv",
+        "supplier_contact": "supplierCU6caPLv@example.com",
+        "products": [
+            {
+                "product_name": "Product-porro-labore",
+                "product_quantity": 75,
+                "product_price": 4.8
+            },
+            {
+                "product_name": "Product-neque-quis",
+                "product_description": "Eos possimus laudantium sunt rerum modi, sed consequuntur illo quasi eligendi a quia fugiat ullam mollitia.",
+                "product_quantity": 70,
+                "product_price": 37.85
+            },
+            {
+                "product_name": "Product-natus-cumque",
+                "product_description": "Dolorum sint nulla perspiciatis itaque mollitia quisquam similique, deleniti sit nemo odio rerum repellat accusamus labore molestiae molestias consectetur, quisquam porro at?",
+                "product_quantity": 61,
+                "product_price": 49.93
+            }
+        ]
+    }
+}

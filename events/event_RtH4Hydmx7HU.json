@@ -1,0 +1,38 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-WMHaIQcE",
+        "supplier_contact": "supplierWMHaIQcE@example.com",
+        "products": [
+            {
+                "product_name": "Product-et-blanditiis",
+                "product_description": "Minima perferendis pariatur consequuntur sit eius distinctio nulla ratione illo, mollitia molestias velit ad aliquam modi voluptates provident, magnam quas quisquam consequatur illum assumenda tempore aliquid provident accusantium dolores, perferendis veniam ex laboriosam.",
+                "product_quantity": 29,
+                "product_price": 40.21
+            },
+            {
+                "product_name": "Product-asperiores-libero",
+                "product_description": "Accusamus a voluptatum quidem obcaecati dolorem repudiandae nobis autem aperiam, est deserunt iusto ipsum possimus voluptate doloremque sequi neque aliquid quasi, laboriosam soluta doloribus velit et quae necessitatibus perferendis exercitationem, debitis veritatis perspiciatis.",
+                "product_quantity": 25,
+                "product_price": 8.08
+            },
+            {
+                "product_name": "Product-ipsum-veniam",
+                "product_description": "Est consequuntur nulla itaque assumenda fugit, hic doloribus ipsam vel nulla reprehenderit atque necessitatibus sint?",
+                "product_quantity": 23,
+                "product_price": 26.59
+            },
+            {
+                "product_name": "Product-perferendis-neque",
+                "product_description": "Labore ipsum quia hic amet, tenetur deserunt rem reprehenderit saepe beatae voluptates nemo eligendi, distinctio tenetur nulla accusamus quaerat quas saepe placeat.",
+                "product_quantity": 89,
+                "product_price": 13.07
+            },
+            {
+                "product_name": "Product-accusamus-sapiente",
+                "product_description": "Aliquam ad fugiat delectus impedit obcaecati magnam eos error dolor possimus ducimus, perspiciatis excepturi quae corporis aut reprehenderit temporibus minus eius quas impedit, doloremque aperiam sint nam corporis ea nisi perferendis, illum ab eveniet nesciunt adipisci expedita ut consectetur voluptates reiciendis?",
+                "product_quantity": 77,
+                "product_price": 67.09
+            }
+        ]
+    }
+}

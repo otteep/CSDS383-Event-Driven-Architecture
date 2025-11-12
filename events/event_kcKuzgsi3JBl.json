@@ -1,0 +1,38 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-GCbyinJh",
+        "supplier_contact": "supplierGCbyinJh@example.com",
+        "products": [
+            {
+                "product_name": "Product-temporibus-aliquam",
+                "product_description": "Repudiandae corrupti excepturi maxime sequi ab adipisci perspiciatis, fugiat minus ducimus officiis vel id perspiciatis illo, necessitatibus quas in nisi earum animi nemo iste laudantium incidunt modi iure, quos fugit beatae eligendi delectus nihil animi repellendus perferendis ipsam similique?",
+                "product_quantity": 28,
+                "product_price": 66.13
+            },
+            {
+                "product_name": "Product-ea-ab",
+                "product_description": "Labore repellendus molestias voluptatem doloribus totam, dolorem nemo laboriosam molestiae vitae officiis, nihil reprehenderit amet ipsa, modi ex illo impedit ipsum minus neque molestiae aliquid?",
+                "product_quantity": 40,
+                "product_price": 67.07
+            },
+            {
+                "product_name": "Product-optio-quos",
+                "product_description": "Sunt necessitatibus impedit delectus placeat sit explicabo, distinctio iste assumenda repudiandae est, sunt dignissimos optio ullam delectus autem odio, minus non eligendi provident odit consequuntur esse ullam, unde veritatis similique temporibus excepturi quo nulla.",
+                "product_quantity": 86,
+                "product_price": 55.36
+            },
+            {
+                "product_name": "Product-modi-debitis",
+                "product_description": "Debitis sed error in, in molestias nisi alias.",
+                "product_quantity": 9,
+                "product_price": 60.17
+            },
+            {
+                "product_name": "Product-maxime-temporibus",
+                "product_description": "Dolorem quidem eius fugit ipsa optio repellendus vitae ullam fuga tempora, nobis nulla fugit ratione, nemo dolorum distinctio illo voluptates eum repellendus cupiditate?",
+                "product_quantity": 92,
+                "product_price": 42.02
+            }
+        ]
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-n893rwWm",
+        "supplier_contact": "suppliern893rwWm@example.com",
+        "products": [
+            {
+                "product_name": "Product-esse-officiis",
+                "product_description": "Dolores non repellendus ipsum doloribus quis molestias ullam mollitia, quam quos ullam velit, dolor facere similique ab, voluptatem corporis quo quasi laboriosam voluptatibus praesentium adipisci, nobis totam autem quo nulla accusamus soluta minima repellendus.",
+                "product_quantity": 62,
+                "product_price": 17.45
+            },
+            {
+                "product_name": "Product-doloremque-laboriosam",
+                "product_description": "In reprehenderit quia mollitia corporis nobis numquam maxime corrupti, pariatur voluptatem facere culpa asperiores minus, aliquam ullam illo facilis, vel necessitatibus a odit esse corrupti eligendi officia assumenda ipsum aut commodi?",
+                "product_quantity": 54,
+                "product_price": 22.76
+            },
+            {
+                "product_name": "Product-itaque-eaque",
+                "product_description": "Repellat culpa nisi blanditiis perferendis sint eveniet, ut odit nulla obcaecati iure deleniti necessitatibus ullam suscipit, non aliquid aperiam autem voluptatum tenetur saepe reiciendis, eum unde mollitia non.",
+                "product_quantity": 65,
+                "product_price": 69.79
+            }
+        ]
+    }
+}

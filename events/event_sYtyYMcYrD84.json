@@ -1,0 +1,38 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-ynY9dtHY",
+        "supplier_contact": "supplierynY9dtHY@example.com",
+        "products": [
+            {
+                "product_name": "Product-fugiat-optio",
+                "product_description": "Accusamus repudiandae sit esse nihil perferendis temporibus, in totam accusantium eos est praesentium eligendi autem veritatis dolorum, deleniti aperiam assumenda dolores nostrum quidem nulla praesentium quia provident quo, vel repudiandae necessitatibus id culpa accusantium sunt deserunt, sit earum repellat sed suscipit illo sint provident iste quis.",
+                "product_quantity": 18,
+                "product_price": 46.11
+            },
+            {
+                "product_name": "Product-repellendus-commodi",
+                "product_description": "Laborum illum dolorem quae voluptas temporibus, ut nesciunt odit quod hic aperiam ratione, explicabo exercitationem ipsa praesentium delectus eveniet ea impedit ducimus laboriosam vel quis?",
+                "product_quantity": 19,
+                "product_price": 43.61
+            },
+            {
+                "product_name": "Product-aut-vero",
+                "product_description": "Praesentium reprehenderit asperiores corporis nam dolorum omnis animi facilis perferendis veritatis eius, ducimus obcaecati exercitationem quidem delectus nihil provident repudiandae quisquam accusamus.",
+                "product_quantity": 100,
+                "product_price": 52.53
+            },
+            {
+                "product_name": "Product-consequatur-tempora",
+                "product_description": "Corrupti reiciendis illo ducimus officia laudantium nobis nemo, aspernatur cupiditate commodi blanditiis explicabo consectetur aperiam sequi accusantium, delectus quam eos, corporis minus dolorum eveniet iste iusto.",
+                "product_quantity": 19,
+                "product_price": 79.49
+            },
+            {
+                "product_name": "Product-accusantium-tenetur",
+                "product_description": "Eligendi sed asperiores quibusdam quos recusandae debitis possimus, quis repellat sit voluptas non quae culpa reiciendis, ea error perspiciatis doloremque velit maiores?",
+                "product_quantity": 19,
+                "product_price": 49.13
+            }
+        ]
+    }
+}

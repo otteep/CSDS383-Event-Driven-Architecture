@@ -1,0 +1,20 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-ZtyGFRDR",
+        "supplier_contact": "supplierZtyGFRDR@example.com",
+        "products": [
+            {
+                "product_name": "Product-nemo-adipisci",
+                "product_description": "At vero corrupti eligendi labore, earum iusto ex ab quidem odio.",
+                "product_quantity": 58,
+                "product_price": 35.39
+            },
+            {
+                "product_name": "Product-soluta-at",
+                "product_description": "Earum harum tenetur fuga maiores labore a modi eius ducimus excepturi molestias, nemo nobis placeat quia in, pariatur at eligendi laboriosam itaque sunt reiciendis obcaecati reprehenderit similique in eveniet, maiores nemo quas natus neque sit voluptates, ab doloribus earum magni eum quia.",
+                "product_quantity": 52,
+                "product_price": 51.64
+            }
+        ]
+    }
+}

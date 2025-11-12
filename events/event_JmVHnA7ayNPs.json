@@ -1,0 +1,26 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-YlxEKtZd",
+        "supplier_contact": "supplierYlxEKtZd@example.com",
+        "products": [
+            {
+                "product_name": "Product-quod-maiores",
+                "product_description": "Voluptatum repellat consectetur quasi rem unde saepe excepturi, suscipit laudantium nostrum maxime necessitatibus unde sit eos reprehenderit cupiditate, cupiditate unde quae assumenda ab autem nulla non?",
+                "product_quantity": 10,
+                "product_price": 91.7
+            },
+            {
+                "product_name": "Product-labore-voluptate",
+                "product_description": "Animi tenetur esse libero molestias odio ea at quis officiis debitis rem, enim nam quidem vel, enim porro recusandae quos veniam incidunt accusamus, est molestiae dicta?",
+                "product_quantity": 38,
+                "product_price": 2.88
+            },
+            {
+                "product_name": "Product-eius-quidem",
+                "product_description": "Provident aliquam neque sapiente quae adipisci recusandae ratione, vero cupiditate labore facilis beatae, dolorem porro eius in corporis.",
+                "product_quantity": 17,
+                "product_price": 29.32
+            }
+        ]
+    }
+}

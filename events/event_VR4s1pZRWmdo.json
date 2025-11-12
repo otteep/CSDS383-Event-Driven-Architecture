@@ -1,0 +1,20 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-tOEWLOue",
+        "supplier_contact": "suppliertOEWLOue@example.com",
+        "products": [
+            {
+                "product_name": "Product-suscipit-voluptate",
+                "product_description": "Impedit mollitia dicta optio eaque excepturi praesentium error culpa tempora natus odit, voluptatum similique doloribus vel voluptates accusamus recusandae impedit aperiam voluptas dicta obcaecati?",
+                "product_quantity": 92,
+                "product_price": 25.19
+            },
+            {
+                "product_name": "Product-quos-cumque",
+                "product_description": "Rem magnam doloremque reiciendis nostrum eos amet nulla enim, soluta eveniet numquam consequuntur nihil voluptate fugiat enim aliquid incidunt error.",
+                "product_quantity": 56,
+                "product_price": 69.6
+            }
+        ]
+    }
+}

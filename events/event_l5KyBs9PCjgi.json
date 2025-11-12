@@ -1,0 +1,20 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-jTBXTYrG",
+        "supplier_contact": "supplierjTBXTYrG@example.com",
+        "products": [
+            {
+                "product_name": "Product-quae-incidunt",
+                "product_description": "Fuga quisquam sint officiis blanditiis itaque amet corporis quis, reiciendis debitis quod quo quaerat totam ut necessitatibus culpa eum provident, perferendis eum cupiditate nisi accusamus ipsam possimus ratione, sequi repellendus quia quae?",
+                "product_quantity": 71,
+                "product_price": 44.38
+            },
+            {
+                "product_name": "Product-illum-esse",
+                "product_description": "In aut facere reprehenderit iure, porro nesciunt provident cupiditate atque sed et corrupti perferendis.",
+                "product_quantity": 5,
+                "product_price": 38.73
+            }
+        ]
+    }
+}

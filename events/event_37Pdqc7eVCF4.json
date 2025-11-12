@@ -1,0 +1,20 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-3CkuzL1M",
+        "supplier_contact": "supplier3CkuzL1M@example.com",
+        "products": [
+            {
+                "product_name": "Product-amet-asperiores",
+                "product_description": "Quos ducimus necessitatibus maiores impedit cupiditate aliquid veniam sapiente, consectetur tempore animi distinctio deleniti doloremque?",
+                "product_quantity": 15,
+                "product_price": 71.59
+            },
+            {
+                "product_name": "Product-eum-voluptatem",
+                "product_description": "Optio rem unde incidunt praesentium qui rerum quis illum iure eos iusto, adipisci temporibus quaerat incidunt sed magni iusto id repellendus expedita, inventore voluptatum nesciunt sequi voluptate exercitationem in quidem reiciendis.",
+                "product_quantity": 32,
+                "product_price": 74.44
+            }
+        ]
+    }
+}

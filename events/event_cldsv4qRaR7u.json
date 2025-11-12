@@ -1,0 +1,31 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-cphZzetP",
+        "supplier_contact": "suppliercphZzetP@example.com",
+        "products": [
+            {
+                "product_name": "Product-eum-amet",
+                "product_description": "Quia voluptatem ratione eveniet provident laborum quis exercitationem, nihil harum doloribus quam soluta, quod esse aliquid, suscipit totam numquam commodi voluptates, nostrum nesciunt delectus laboriosam odit voluptate et quis debitis pariatur.",
+                "product_price": 5.35
+            },
+            {
+                "product_name": "Product-cum-blanditiis",
+                "product_description": "Obcaecati odit vero expedita, ducimus quis eveniet id sed corporis neque cupiditate magni inventore autem, similique enim ullam.",
+                "product_quantity": 88,
+                "product_price": 52.04
+            },
+            {
+                "product_name": "Product-vero-accusamus",
+                "product_description": "At atque consequatur optio, sapiente officiis repellat ea quas quos inventore facilis similique voluptatum repudiandae, suscipit non saepe optio quo architecto maiores tempore quasi, nesciunt sed aperiam quas vel iure voluptatem libero quis molestias distinctio ut, rem dignissimos dolorum necessitatibus?",
+                "product_quantity": 29,
+                "product_price": 20.29
+            },
+            {
+                "product_name": "Product-id-eos",
+                "product_description": "Debitis commodi tempora quas molestiae molestias, quibusdam explicabo iusto tempore suscipit soluta dolorem ex placeat voluptates animi voluptatum, officia fuga consectetur eveniet unde repudiandae, sequi dolore nam delectus deserunt debitis impedit minima ducimus rerum?",
+                "product_quantity": 84,
+                "product_price": 82.65
+            }
+        ]
+    }
+}

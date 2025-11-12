@@ -1,0 +1,32 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-QlYJ6XOh",
+        "supplier_contact": "supplierQlYJ6XOh@example.com",
+        "products": [
+            {
+                "product_name": "Product-nam-quas",
+                "product_description": "Laboriosam impedit molestias veritatis repellendus laborum sapiente, tenetur laudantium facilis perferendis iste impedit, non sapiente tempora nemo incidunt assumenda fugit, corporis nulla quia iusto optio non repellat inventore iste ratione quasi voluptatum.",
+                "product_quantity": 40,
+                "product_price": 72.4
+            },
+            {
+                "product_name": "Product-aliquam-blanditiis",
+                "product_description": "Explicabo alias temporibus minus animi vero voluptate consequuntur mollitia, dolores amet qui dolorem, dolorum deserunt ut architecto expedita ad quas.",
+                "product_quantity": 80,
+                "product_price": 80.36
+            },
+            {
+                "product_name": "Product-similique-corporis",
+                "product_description": "Architecto quia sapiente blanditiis possimus dicta commodi fugit numquam dolore, praesentium facere voluptatum labore assumenda perspiciatis, sit atque ex pariatur consequatur incidunt sequi.",
+                "product_quantity": 79,
+                "product_price": 68.65
+            },
+            {
+                "product_name": "Product-dolore-sed",
+                "product_description": "Perferendis atque corrupti harum excepturi nostrum ab ut quam mollitia illo, nostrum ad tenetur ab.",
+                "product_quantity": 3,
+                "product_price": 94.07
+            }
+        ]
+    }
+}

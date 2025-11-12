@@ -1,0 +1,14 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-PLmsfrpN",
+        "supplier_contact": "supplierPLmsfrpN@example.com",
+        "products": [
+            {
+                "product_name": "Product-eius-deleniti",
+                "product_description": "Debitis totam vitae eaque consequuntur eum, repellat sit tempora dicta quibusdam nihil beatae, quae assumenda impedit, totam voluptate ipsam accusamus ab cumque animi ad?",
+                "product_quantity": 51,
+                "product_price": 48.24
+            }
+        ]
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-buKz1iNU",
+        "supplier_contact": "supplierbuKz1iNU@example.com",
+        "products": [
+            {
+                "product_name": "Product-quidem-quaerat",
+                "product_description": "Beatae voluptatibus ratione in animi maxime obcaecati magnam pariatur, vero necessitatibus reprehenderit repellendus iusto, quidem omnis dolor voluptates, animi mollitia iusto odit, architecto alias nulla inventore dolor illum?",
+                "product_quantity": 43,
+                "product_price": 4.55
+            },
+            {
+                "product_name": "Product-consectetur-sapiente",
+                "product_description": "Velit nobis tempore eum, autem officia veritatis.",
+                "product_quantity": 60,
+                "product_price": 52.56
+            },
+            {
+                "product_name": "Product-deserunt-exercitationem",
+                "product_description": "Consequuntur magni repellat eius cumque nostrum natus corrupti reprehenderit iusto, possimus dolore consequuntur sit tempora consectetur neque ducimus temporibus ullam corporis.",
+                "product_quantity": 59,
+                "product_price": 38.9
+            },
+            {
+                "product_name": "Product-quia-non",
+                "product_description": "Eaque ea explicabo exercitationem dolores molestiae, veniam placeat voluptas debitis omnis ipsum molestias ab blanditiis reiciendis sequi, iure praesentium ipsum illum quia ad veniam non sequi impedit necessitatibus, nihil omnis eius, odio velit dolore maxime similique nisi voluptatibus molestias tempore ut voluptate quas.",
+                "product_quantity": 63,
+                "product_price": 28.06
+            },
+            {
+                "product_name": "Product-eum-numquam",
+                "product_description": "Dolorem dolorum officia dolores temporibus fuga facere ex eaque ut, exercitationem asperiores rem accusantium deleniti natus provident odio quas, doloribus mollitia accusamus eius illo delectus?",
+                "product_quantity": 67,
+                "product_price": 60.7
+            }
+        ]
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-MY99ccKy",
+        "supplier_contact": "supplierMY99ccKy@example.com",
+        "products": [
+            {
+                "product_name": "Product-ratione-dignissimos",
+                "product_description": "Saepe consequuntur ipsum dolor repudiandae aliquam laborum asperiores explicabo quo voluptas, vitae odit minima.",
+                "product_quantity": 24,
+                "product_price": 83.22
+            },
+            {
+                "product_name": "Product-provident-deserunt",
+                "product_description": "Architecto amet cum blanditiis perspiciatis aut beatae soluta, corporis corrupti suscipit illum nesciunt non deleniti perferendis amet laborum voluptatibus.",
+                "product_quantity": 16,
+                "product_price": 31.56
+            }
+        ]
+    }
+}

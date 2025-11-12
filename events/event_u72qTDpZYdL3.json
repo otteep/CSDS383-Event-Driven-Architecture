@@ -1,0 +1,19 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-v8HBU31G",
+        "supplier_contact": "supplierv8HBU31G@example.com",
+        "products": [
+            {
+                "product_name": "Product-distinctio-nostrum",
+                "product_quantity": 60,
+                "product_price": 62.92
+            },
+            {
+                "product_name": "Product-necessitatibus-rerum",
+                "product_description": "Voluptate illum quas a nesciunt excepturi repellendus corporis ut repudiandae adipisci atque, perferendis incidunt sed rerum sapiente facilis hic dolore dolores nisi consequatur quis, laudantium animi mollitia odit placeat magni praesentium cupiditate impedit nesciunt excepturi, rem repellat ex repellendus incidunt esse animi sed reprehenderit ab?",
+                "product_quantity": 64,
+                "product_price": 97.96
+            }
+        ]
+    }
+}

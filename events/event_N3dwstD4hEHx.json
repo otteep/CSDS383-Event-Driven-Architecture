@@ -1,0 +1,20 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-Vkj6xYha",
+        "supplier_contact": "supplierVkj6xYha@example.com",
+        "products": [
+            {
+                "product_name": "Product-quos-nobis",
+                "product_description": "Voluptatibus dolor error delectus iure voluptates excepturi, optio amet rem aliquam voluptatum eligendi incidunt unde at dolore perferendis consequuntur, repudiandae ab repellat ratione aliquid, amet obcaecati sed delectus voluptates quasi earum atque, atque nobis asperiores consequuntur temporibus eligendi?",
+                "product_quantity": 46,
+                "product_price": 13.77
+            },
+            {
+                "product_name": "Product-error-recusandae",
+                "product_description": "Inventore neque omnis eveniet sint delectus ipsum incidunt quidem saepe quia dignissimos, cumque magni sint quos rem repellat, molestias laborum ad provident voluptatibus corrupti, praesentium placeat quidem dolorum dolores quos iste quibusdam deleniti illo maiores.",
+                "product_quantity": 3,
+                "product_price": 58.59
+            }
+        ]
+    }
+}

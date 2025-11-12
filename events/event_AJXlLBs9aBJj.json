@@ -1,0 +1,20 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-q3TaomuQ",
+        "supplier_contact": "supplierq3TaomuQ@example.com",
+        "products": [
+            {
+                "product_name": "Product-iste-deserunt",
+                "product_description": "Ipsam et ea unde incidunt commodi, cum iusto officiis molestias, animi voluptas alias neque quasi quos veritatis accusamus saepe modi vero corporis, nisi dolore incidunt dolores neque nam deserunt, temporibus facilis consequuntur animi harum maxime dolorum ullam voluptatem id?",
+                "product_quantity": 92,
+                "product_price": 29.86
+            },
+            {
+                "product_name": "Product-corrupti-iste",
+                "product_description": "Laboriosam debitis eaque quaerat beatae, odit optio quasi id maxime aut voluptate nemo?",
+                "product_quantity": 87,
+                "product_price": 52.74
+            }
+        ]
+    }
+}

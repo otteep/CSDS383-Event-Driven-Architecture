@@ -1,0 +1,31 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-QlZta3HC",
+        "supplier_contact": "supplierQlZta3HC@example.com",
+        "products": [
+            {
+                "product_name": "Product-distinctio-facilis",
+                "product_description": "Officia molestias voluptate at corrupti aut possimus nostrum qui nobis ea, tempora velit beatae aspernatur fuga nesciunt asperiores distinctio pariatur quisquam, veniam ducimus ratione reiciendis, in ea saepe dolore odit natus maxime veniam magni ullam, at commodi enim veniam assumenda.",
+                "product_quantity": 36,
+                "product_price": 45.66
+            },
+            {
+                "product_name": "Product-culpa-fugiat",
+                "product_description": "Exercitationem maiores eum nam rem asperiores, impedit aperiam numquam asperiores nulla tempore adipisci aut accusantium recusandae in.",
+                "product_quantity": 88,
+                "product_price": 6.72
+            },
+            {
+                "product_name": "Product-maxime-deleniti",
+                "product_description": "Quidem provident amet, placeat esse animi, magni quisquam est ratione laboriosam quasi ullam rerum ipsum officia accusantium temporibus, laboriosam officia sint voluptate enim quaerat odit voluptates quisquam quos incidunt reiciendis, officia assumenda tempora eligendi voluptate distinctio in nihil architecto reprehenderit cupiditate?",
+                "product_price": 4.55
+            },
+            {
+                "product_name": "Product-hic-possimus",
+                "product_description": "Sint id quis quos doloribus ipsum iste fugit laboriosam nisi accusamus, nemo maxime ipsam ea vero reiciendis ad earum corrupti a possimus, nobis alias ut possimus ipsa dicta vitae.",
+                "product_quantity": 9,
+                "product_price": 95.03
+            }
+        ]
+    }
+}

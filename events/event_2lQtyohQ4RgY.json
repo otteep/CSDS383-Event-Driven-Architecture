@@ -1,0 +1,26 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-JTEGmgHU",
+        "supplier_contact": "supplierJTEGmgHU@example.com",
+        "products": [
+            {
+                "product_name": "Product-porro-modi",
+                "product_description": "Asperiores id similique incidunt provident quos voluptatum facilis non cum, cumque sunt laboriosam voluptas et repudiandae quam culpa architecto, dolorum quaerat harum, modi necessitatibus inventore aperiam minima?",
+                "product_quantity": 50,
+                "product_price": 88.74
+            },
+            {
+                "product_name": "Product-impedit-dicta",
+                "product_description": "Dicta reprehenderit repudiandae veritatis, quidem nihil corporis nobis neque rem ipsa itaque, voluptatibus deserunt fuga quia asperiores eveniet debitis iusto exercitationem nesciunt praesentium, vel soluta ex unde sint totam ab.",
+                "product_quantity": 10,
+                "product_price": 37.96
+            },
+            {
+                "product_name": "Product-aperiam-vel",
+                "product_description": "Perferendis vero iusto enim quibusdam nesciunt quasi accusamus itaque, provident doloribus ad laudantium, unde impedit iste explicabo iure distinctio ullam aspernatur ipsa, non veritatis sed possimus fugit eum suscipit quas?",
+                "product_quantity": 44,
+                "product_price": 96.01
+            }
+        ]
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-CGgqYXa4",
+        "supplier_contact": "supplierCGgqYXa4@example.com",
+        "products": [
+            {
+                "product_name": "Product-reiciendis-obcaecati",
+                "product_description": "Quo voluptatem quaerat, tempora rerum eligendi, hic modi accusamus repudiandae assumenda distinctio dolorem ex animi iusto deleniti, numquam qui et libero impedit quia mollitia rem, dicta dolorum magni amet odio obcaecati cumque tenetur corporis.",
+                "product_quantity": 9,
+                "product_price": 84.82
+            },
+            {
+                "product_name": "Product-tempora-eveniet",
+                "product_description": "Ad corrupti perspiciatis sapiente praesentium voluptates nihil ipsam, aperiam dolor voluptates unde eligendi tempora accusantium modi minima perferendis.",
+                "product_quantity": 47,
+                "product_price": 42.02
+            }
+        ]
+    }
+}

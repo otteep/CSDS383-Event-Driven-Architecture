@@ -1,0 +1,38 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-DMVZYlBc",
+        "supplier_contact": "supplierDMVZYlBc@example.com",
+        "products": [
+            {
+                "product_name": "Product-vitae-id",
+                "product_description": "Quis quas voluptatem tempora beatae sequi facilis amet explicabo fugit, dicta non sequi earum recusandae alias rerum quaerat, modi quas sunt beatae consectetur facilis nemo, reiciendis praesentium vitae facere quo porro repudiandae tempora veritatis esse, eaque in hic inventore qui ex unde a reiciendis.",
+                "product_quantity": 52,
+                "product_price": 74.41
+            },
+            {
+                "product_name": "Product-debitis-dolores",
+                "product_description": "Ducimus est architecto labore optio dicta rem illum distinctio fugit asperiores ipsum, hic vero dolorem odio asperiores nihil aspernatur voluptatum sapiente blanditiis, quis quasi cupiditate aut, quibusdam vel distinctio possimus ut consequuntur ipsum eveniet quas eos quo, commodi rerum asperiores quo.",
+                "product_quantity": 51,
+                "product_price": 65.85
+            },
+            {
+                "product_name": "Product-ducimus-ab",
+                "product_description": "Atque iusto nisi reprehenderit quo tempore beatae ratione assumenda temporibus, sit necessitatibus consectetur optio molestiae, rem sapiente provident corporis similique.",
+                "product_quantity": 5,
+                "product_price": 47.11
+            },
+            {
+                "product_name": "Product-iusto-fugit",
+                "product_description": "Dolorem aliquam impedit autem aut molestias adipisci cumque aspernatur veniam ipsum pariatur, reiciendis enim minus corrupti iusto incidunt neque voluptatem, harum nemo vel reprehenderit, dignissimos atque dolor doloremque, distinctio officia atque omnis laboriosam id.",
+                "product_quantity": 15,
+                "product_price": 34.98
+            },
+            {
+                "product_name": "Product-nam-voluptatibus",
+                "product_description": "Suscipit iste necessitatibus, perspiciatis iure delectus labore dignissimos aperiam eveniet, reprehenderit libero dolor animi velit fugit excepturi reiciendis, doloremque omnis cumque itaque quasi non qui voluptatem quod molestiae inventore sint, non cupiditate sunt quas.",
+                "product_quantity": 18,
+                "product_price": 43.22
+            }
+        ]
+    }
+}

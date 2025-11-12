@@ -1,0 +1,38 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-t6LRdMoi",
+        "supplier_contact": "suppliert6LRdMoi@example.com",
+        "products": [
+            {
+                "product_name": "Product-expedita-impedit",
+                "product_description": "Maxime accusantium ipsa impedit beatae cumque sapiente dolorum pariatur totam optio repellendus, ipsum voluptas maxime eaque animi eos quidem, totam iure vitae quae nesciunt maxime rerum sed impedit, officiis repellat vero neque asperiores voluptatem provident esse quas dicta?",
+                "product_quantity": 64,
+                "product_price": 33.62
+            },
+            {
+                "product_name": "Product-aliquam-alias",
+                "product_description": "Officiis enim iure harum explicabo, ut blanditiis amet cum alias laudantium eum consectetur nam sapiente cumque, beatae delectus at modi maiores accusamus quos totam facilis error enim sapiente, tempora libero atque, excepturi consequuntur similique est.",
+                "product_quantity": 1,
+                "product_price": 77.19
+            },
+            {
+                "product_name": "Product-illum-voluptatibus",
+                "product_description": "Similique ducimus sunt ab provident obcaecati consequatur quas, quae possimus numquam nisi beatae autem aspernatur eum.",
+                "product_quantity": 15,
+                "product_price": 75.7
+            },
+            {
+                "product_name": "Product-quibusdam-unde",
+                "product_description": "Quisquam ducimus vel aliquam, ipsam provident molestiae tenetur dolorem tempore deleniti facere quod sint, neque aliquam perferendis tempora eos cum sapiente quia nam iste delectus deserunt, est illo modi mollitia, ab tempora voluptatibus corrupti laudantium officiis aliquid similique.",
+                "product_quantity": 38,
+                "product_price": 25.14
+            },
+            {
+                "product_name": "Product-ipsum-sequi",
+                "product_description": "Incidunt expedita aut quisquam tenetur ducimus, vitae repudiandae ut nihil commodi omnis sit magnam quisquam asperiores quasi?",
+                "product_quantity": 30,
+                "product_price": 16.26
+            }
+        ]
+    }
+}

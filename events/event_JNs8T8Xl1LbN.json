@@ -1,0 +1,32 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-gsW22FKt",
+        "supplier_contact": "suppliergsW22FKt@example.com",
+        "products": [
+            {
+                "product_name": "Product-sed-unde",
+                "product_description": "At a repellendus omnis repudiandae consequuntur minima, quis minus a culpa soluta, aliquam corrupti asperiores, veniam ullam voluptatum ipsum aperiam.",
+                "product_quantity": 98,
+                "product_price": 12.67
+            },
+            {
+                "product_name": "Product-excepturi-deserunt",
+                "product_description": "Qui ducimus iure quis voluptas reiciendis non officiis odio sequi tenetur, tenetur voluptas fuga, in ipsa consectetur provident delectus unde dicta ullam error commodi nam eaque, nihil sapiente quam hic blanditiis facilis sequi accusamus?",
+                "product_quantity": 6,
+                "product_price": 1.39
+            },
+            {
+                "product_name": "Product-fugit-architecto",
+                "product_description": "Blanditiis illum facere doloremque, similique voluptas fuga obcaecati fugit, vel excepturi nulla corrupti vitae nostrum aut.",
+                "product_quantity": 84,
+                "product_price": 35.18
+            },
+            {
+                "product_name": "Product-id-dolore",
+                "product_description": "Harum numquam amet a blanditiis, soluta laborum doloremque similique velit amet distinctio molestiae.",
+                "product_quantity": 17,
+                "product_price": 64.37
+            }
+        ]
+    }
+}

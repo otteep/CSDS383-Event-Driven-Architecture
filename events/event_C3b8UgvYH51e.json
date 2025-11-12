@@ -1,0 +1,26 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-9x8IO1FO",
+        "supplier_contact": "supplier9x8IO1FO@example.com",
+        "products": [
+            {
+                "product_name": "Product-rem-minima",
+                "product_description": "Dolore earum molestias exercitationem quas quos ipsum culpa ullam odio voluptate, beatae dignissimos quis dolorem consequatur in dolorum inventore, sed a placeat tempore cupiditate pariatur soluta provident maiores nihil maxime, pariatur quisquam recusandae placeat magni quod necessitatibus fuga, maxime natus fuga voluptas id expedita voluptatibus cupiditate repudiandae quaerat doloremque magni.",
+                "product_quantity": 100,
+                "product_price": 52.82
+            },
+            {
+                "product_name": "Product-quidem-dolores",
+                "product_description": "Molestiae tenetur saepe dignissimos rem, quis optio enim commodi earum beatae, repellendus ratione assumenda provident iusto nulla beatae, cupiditate sequi mollitia consectetur architecto repudiandae vel totam hic voluptatem minima maiores, incidunt debitis accusamus odit enim aliquid facere adipisci sunt maiores?",
+                "product_quantity": 57,
+                "product_price": 1.81
+            },
+            {
+                "product_name": "Product-nisi-beatae",
+                "product_description": "Earum ipsam nihil doloribus aliquid ducimus harum aliquam ipsum, dolorem ipsa natus eaque magnam earum, necessitatibus quas eius eaque praesentium animi.",
+                "product_quantity": 92,
+                "product_price": 87.89
+            }
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-6DcceDuY",
+        "supplier_contact": "supplier6DcceDuY@example.com",
+        "products": [
+            {
+                "product_name": "Product-ipsa-similique",
+                "product_description": "Eaque voluptate doloribus amet sapiente quae omnis nisi accusamus nulla, id saepe molestiae hic perspiciatis atque velit ex in veniam, numquam quis voluptas alias blanditiis voluptatum, adipisci quasi autem ad impedit commodi recusandae quidem ipsam provident.",
+                "product_quantity": 73,
+                "product_price": 3.12
+            }
+        ]
+    }
+}

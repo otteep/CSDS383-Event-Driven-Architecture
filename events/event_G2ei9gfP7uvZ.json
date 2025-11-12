@@ -1,0 +1,14 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-sKhqXrhr",
+        "supplier_contact": "suppliersKhqXrhr@example.com",
+        "products": [
+            {
+                "product_name": "Product-perspiciatis-facere",
+                "product_description": "Qui quod totam, totam harum fuga magnam officia nulla numquam reprehenderit doloremque architecto vero laborum, voluptate porro eos iure necessitatibus repellat quaerat possimus.",
+                "product_quantity": 71,
+                "product_price": 55.96
+            }
+        ]
+    }
+}

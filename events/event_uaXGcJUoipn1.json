@@ -1,0 +1,20 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-qCIKb3zT",
+        "supplier_contact": "supplierqCIKb3zT@example.com",
+        "products": [
+            {
+                "product_name": "Product-labore-adipisci",
+                "product_description": "Quos omnis saepe cum eius sed nemo, cum error minima ad quae, perspiciatis laboriosam saepe, corrupti rem ut nam consequuntur nostrum consectetur maiores unde dignissimos ipsum odit, dolorum asperiores sit.",
+                "product_quantity": 31,
+                "product_price": 27.82
+            },
+            {
+                "product_name": "Product-officiis-suscipit",
+                "product_description": "Excepturi nam repellendus quaerat vel expedita quibusdam voluptatem reprehenderit, voluptatum amet facilis corrupti, laborum dicta quo iusto illo rem impedit libero repudiandae eum vero, ut sit accusantium ipsa eveniet similique numquam aliquam, esse repudiandae quam nesciunt accusamus possimus?",
+                "product_quantity": 66,
+                "product_price": 35.06
+            }
+        ]
+    }
+}

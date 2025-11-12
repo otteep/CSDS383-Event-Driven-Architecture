@@ -1,0 +1,26 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-VpTxhwaD",
+        "supplier_contact": "supplierVpTxhwaD@example.com",
+        "products": [
+            {
+                "product_name": "Product-sed-numquam",
+                "product_description": "Eos vel nostrum quibusdam ex, hic porro recusandae asperiores aliquam tempore enim ex commodi, at impedit rerum harum velit laborum ipsam aut suscipit similique, ullam id delectus iste sunt debitis dolore nemo itaque.",
+                "product_quantity": 75,
+                "product_price": 22.9
+            },
+            {
+                "product_name": "Product-deleniti-facilis",
+                "product_description": "Ducimus voluptatum rem magnam quam, quo facilis mollitia natus porro ullam iure ipsum cum excepturi, ut maxime quam maiores, nihil suscipit voluptates laudantium aliquam voluptatibus aut nostrum voluptatem soluta voluptate, quidem sint consequatur repudiandae vitae quam nisi impedit nihil cum eaque.",
+                "product_quantity": 97,
+                "product_price": 63.22
+            },
+            {
+                "product_name": "Product-ex-hic",
+                "product_description": "Cupiditate quo maxime ab quam et reprehenderit repellat tempore dolores, dignissimos ea et esse totam nam similique consequuntur impedit assumenda quam, debitis suscipit veniam, culpa pariatur hic vel praesentium quidem autem itaque esse, qui eveniet at tenetur deleniti commodi iusto magnam eum enim dolore necessitatibus.",
+                "product_quantity": 85,
+                "product_price": 68.51
+            }
+        ]
+    }
+}

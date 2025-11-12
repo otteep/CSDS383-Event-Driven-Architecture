@@ -1,0 +1,26 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-ZROOJOPb",
+        "supplier_contact": "supplierZROOJOPb@example.com",
+        "products": [
+            {
+                "product_name": "Product-maxime-sed",
+                "product_description": "Exercitationem porro facere hic temporibus ex maiores incidunt, reiciendis facere inventore impedit nostrum mollitia nam exercitationem vero?",
+                "product_quantity": 17,
+                "product_price": 73.13
+            },
+            {
+                "product_name": "Product-tempora-iusto",
+                "product_description": "Incidunt nam sint asperiores repellat aliquid laboriosam officia id officiis voluptatibus quam, enim debitis inventore blanditiis facere perferendis magnam et quasi nam laudantium, delectus sint laboriosam assumenda dicta distinctio quo consectetur aliquam sunt obcaecati.",
+                "product_quantity": 37,
+                "product_price": 56.54
+            },
+            {
+                "product_name": "Product-voluptate-non",
+                "product_description": "Enim ratione dolorem in tempora nobis provident laboriosam corporis velit illum, facere totam incidunt odio illum quam nisi molestiae quos, nobis labore culpa fugit modi nisi voluptates?",
+                "product_quantity": 22,
+                "product_price": 45.91
+            }
+        ]
+    }
+}

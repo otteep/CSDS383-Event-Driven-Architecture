@@ -1,0 +1,26 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-Qe6pJuxd",
+        "supplier_contact": "supplierQe6pJuxd@example.com",
+        "products": [
+            {
+                "product_name": "Product-modi-accusantium",
+                "product_description": "Maiores dolores nostrum autem, incidunt assumenda repellendus, nisi temporibus eaque quae nulla soluta, mollitia nobis ex libero quod, laboriosam repellat impedit distinctio quibusdam minima accusantium consequuntur.",
+                "product_quantity": 19,
+                "product_price": 70.41
+            },
+            {
+                "product_name": "Product-repellendus-tempore",
+                "product_description": "Expedita hic maxime assumenda totam dicta eveniet, neque quidem quis assumenda eligendi officia fugiat, ipsam illum laudantium magni debitis reprehenderit cumque facilis id, cumque voluptatem nulla facilis qui sapiente necessitatibus consectetur?",
+                "product_quantity": 81,
+                "product_price": 58.51
+            },
+            {
+                "product_name": "Product-accusamus-enim",
+                "product_description": "Reiciendis sunt quam necessitatibus voluptatum, vel eveniet fuga, at totam inventore deserunt minus?",
+                "product_quantity": 97,
+                "product_price": 38.4
+            }
+        ]
+    }
+}

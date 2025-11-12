@@ -1,0 +1,20 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-NmtP6IpN",
+        "supplier_contact": "supplierNmtP6IpN@example.com",
+        "products": [
+            {
+                "product_name": "Product-accusantium-maiores",
+                "product_description": "Magnam labore sapiente laborum porro eum officiis unde, corrupti pariatur dicta culpa ipsa, repellendus vel eaque doloribus?",
+                "product_quantity": 66,
+                "product_price": 66.32
+            },
+            {
+                "product_name": "Product-eos-dolore",
+                "product_description": "Voluptates blanditiis excepturi corrupti vero eum eligendi maxime magni ab dolorem, nemo rerum veniam, voluptate in rem fuga inventore tenetur vitae unde itaque porro praesentium cupiditate, sit beatae numquam in sunt velit inventore delectus ex quam autem, sed dicta itaque aliquam quibusdam possimus nam dolorem eveniet quis facilis similique?",
+                "product_quantity": 35,
+                "product_price": 7.31
+            }
+        ]
+    }
+}

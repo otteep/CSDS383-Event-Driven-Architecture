@@ -1,0 +1,20 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-2mxjZ8hJ",
+        "supplier_contact": "supplier2mxjZ8hJ@example.com",
+        "products": [
+            {
+                "product_name": "Product-iure-totam",
+                "product_description": "Corrupti impedit non cum expedita tempora iste recusandae molestiae adipisci ratione qui, atque quidem obcaecati veritatis voluptate quae, iusto voluptas iste veniam nostrum quo accusamus numquam incidunt temporibus.",
+                "product_quantity": 10,
+                "product_price": 29.0
+            },
+            {
+                "product_name": "Product-error-consequatur",
+                "product_description": "Illum voluptas veniam suscipit placeat, impedit nostrum numquam quo cupiditate earum aut aliquid corporis tempore, magni sunt ut dolores numquam, repudiandae voluptate cumque dolor vero incidunt dolores blanditiis accusamus?",
+                "product_quantity": 17,
+                "product_price": 82.42
+            }
+        ]
+    }
+}

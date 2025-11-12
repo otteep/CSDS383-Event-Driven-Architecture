@@ -1,0 +1,14 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-OuoaE3h7",
+        "supplier_contact": "supplierOuoaE3h7@example.com",
+        "products": [
+            {
+                "product_name": "Product-atque-quia",
+                "product_description": "Libero vero soluta earum ullam eligendi cupiditate natus, sit recusandae iste consequatur error molestias corrupti minima ducimus, nisi assumenda possimus laboriosam laborum eveniet commodi rerum dolor, numquam eos cum odio, reiciendis explicabo iste dolores incidunt voluptate?",
+                "product_quantity": 57,
+                "product_price": 91.64
+            }
+        ]
+    }
+}

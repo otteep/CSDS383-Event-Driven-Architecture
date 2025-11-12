@@ -1,0 +1,25 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-E2sMmIxo",
+        "supplier_contact": "supplierE2sMmIxo@example.com",
+        "products": [
+            {
+                "product_name": "Product-numquam-nesciunt",
+                "product_description": "Accusantium tempore temporibus ratione est, tenetur autem veritatis deleniti quas blanditiis voluptatem saepe expedita fugit asperiores, doloremque alias debitis obcaecati reprehenderit enim in porro dolore id recusandae, atque recusandae dolorum necessitatibus saepe consequuntur nemo vero fugit minima et praesentium, molestias dignissimos accusantium possimus atque natus voluptatibus aliquid harum?",
+                "product_quantity": 44,
+                "product_price": 60.81
+            },
+            {
+                "product_name": "Product-sed-animi",
+                "product_description": "Vel earum illo error velit exercitationem perspiciatis maxime totam, ipsam deleniti incidunt nemo porro itaque aliquam praesentium voluptate libero quia?",
+                "product_quantity": 50,
+                "product_price": 69.53
+            },
+            {
+                "product_name": "Product-quis-rerum",
+                "product_description": "Rerum modi esse reprehenderit beatae facilis eligendi quisquam, quam natus optio voluptate perspiciatis ipsa animi esse sit, impedit ea vitae, impedit consectetur natus deserunt ipsum magni quia placeat officia?",
+                "product_price": 99.18
+            }
+        ]
+    }
+}

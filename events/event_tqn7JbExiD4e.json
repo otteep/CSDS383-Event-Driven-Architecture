@@ -1,0 +1,26 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-9R7Yv3KT",
+        "supplier_contact": "supplier9R7Yv3KT@example.com",
+        "products": [
+            {
+                "product_name": "Product-excepturi-similique",
+                "product_description": "Atque porro laudantium, dicta distinctio quibusdam commodi dignissimos perferendis eligendi repellat vitae facere laudantium perspiciatis, molestias pariatur neque modi fuga incidunt atque ipsam illo laborum aspernatur illum.",
+                "product_quantity": 52,
+                "product_price": 93.25
+            },
+            {
+                "product_name": "Product-repudiandae-delectus",
+                "product_description": "Repellendus tempore aut omnis qui quaerat aliquam ut, unde aut minima beatae voluptates ipsum vero magni natus repellat quasi iusto?",
+                "product_quantity": 63,
+                "product_price": 32.91
+            },
+            {
+                "product_name": "Product-iure-architecto",
+                "product_description": "Et aliquam odio quis id minus dolores harum inventore atque, itaque molestias rem error velit sapiente ducimus eveniet, eaque laboriosam praesentium quasi id assumenda debitis vel ipsum, debitis illo repudiandae similique accusantium adipisci at eos aperiam magni.",
+                "product_quantity": 88,
+                "product_price": 31.5
+            }
+        ]
+    }
+}

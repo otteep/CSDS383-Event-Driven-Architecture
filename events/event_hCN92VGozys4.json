@@ -1,0 +1,14 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-SSLf2UEO",
+        "supplier_contact": "supplierSSLf2UEO@example.com",
+        "products": [
+            {
+                "product_name": "Product-tenetur-unde",
+                "product_description": "Suscipit pariatur aut deleniti neque tempore cupiditate id, dolor suscipit numquam omnis laudantium obcaecati, error eveniet eum autem temporibus aspernatur, enim quidem ullam labore voluptatem sunt illo cum commodi, tempore alias reiciendis magnam officiis praesentium nisi sapiente voluptates?",
+                "product_quantity": 57,
+                "product_price": 82.4
+            }
+        ]
+    }
+}

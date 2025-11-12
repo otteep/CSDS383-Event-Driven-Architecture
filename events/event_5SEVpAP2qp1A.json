@@ -1,0 +1,20 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-VVlLWj6u",
+        "supplier_contact": "supplierVVlLWj6u@example.com",
+        "products": [
+            {
+                "product_name": "Product-libero-modi",
+                "product_description": "Molestiae quas consectetur, laudantium similique deserunt illum?",
+                "product_quantity": 52,
+                "product_price": 35.94
+            },
+            {
+                "product_name": "Product-deleniti-accusamus",
+                "product_description": "Doloremque earum asperiores eos unde eaque ratione architecto placeat necessitatibus non, natus voluptates qui minima quos voluptate laborum dolorem quia animi dolores, voluptatibus in nesciunt, vero quia blanditiis distinctio itaque suscipit?",
+                "product_quantity": 23,
+                "product_price": 39.57
+            }
+        ]
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-8DLdTu4t",
+        "supplier_contact": "supplier8DLdTu4t@example.com",
+        "products": [
+            {
+                "product_name": "Product-accusamus-est",
+                "product_description": "Exercitationem esse aut, molestias sed aliquam error iusto saepe neque ut.",
+                "product_quantity": 85,
+                "product_price": 14.44
+            },
+            {
+                "product_name": "Product-rem-officiis",
+                "product_description": "Amet voluptate repellat praesentium a enim, aliquam magnam dolores assumenda voluptatem necessitatibus voluptates error beatae architecto a, maxime maiores molestiae, voluptate optio quam quas nesciunt.",
+                "product_quantity": 41,
+                "product_price": 76.11
+            }
+        ]
+    }
+}

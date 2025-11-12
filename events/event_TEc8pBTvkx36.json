@@ -1,0 +1,26 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-rA1GPC7k",
+        "supplier_contact": "supplierrA1GPC7k@example.com",
+        "products": [
+            {
+                "product_name": "Product-alias-quos",
+                "product_description": "Et sapiente animi facere, et earum aut obcaecati rerum odio neque quisquam quas voluptatem nisi fugiat, numquam ad sit ipsam fugit tenetur aliquid alias vel, vero minima voluptatem eligendi itaque reiciendis rerum officia quas veritatis pariatur?",
+                "product_quantity": 11,
+                "product_price": 79.77
+            },
+            {
+                "product_name": "Product-deleniti-rem",
+                "product_description": "Incidunt adipisci deserunt eligendi ea doloribus reiciendis labore laboriosam maxime voluptates, repudiandae voluptate excepturi asperiores debitis, reiciendis iure veritatis minima tempore similique sit aperiam?",
+                "product_quantity": 78,
+                "product_price": 54.53
+            },
+            {
+                "product_name": "Product-amet-laborum",
+                "product_description": "Assumenda consequuntur vel quos, officia aliquid assumenda repudiandae asperiores adipisci eveniet incidunt, vel cum quas eveniet earum voluptate explicabo tempore expedita, adipisci ipsam aperiam nobis distinctio doloribus atque excepturi?",
+                "product_quantity": 45,
+                "product_price": 82.41
+            }
+        ]
+    }
+}

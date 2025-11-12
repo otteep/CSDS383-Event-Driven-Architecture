@@ -1,0 +1,26 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-T3ZFseNE",
+        "supplier_contact": "supplierT3ZFseNE@example.com",
+        "products": [
+            {
+                "product_name": "Product-non-tenetur",
+                "product_description": "Nobis odit optio nam explicabo nesciunt, corporis veniam quibusdam optio hic sed dolorum minima aliquam, incidunt mollitia reprehenderit, esse suscipit est eligendi rerum aliquam quisquam eius earum, architecto recusandae iste nihil?",
+                "product_quantity": 90,
+                "product_price": 35.24
+            },
+            {
+                "product_name": "Product-excepturi-voluptas",
+                "product_description": "Enim voluptatibus modi quas sed nostrum, consectetur illo fugiat porro eveniet quaerat odit velit at, quibusdam numquam sit ab, saepe quaerat laboriosam suscipit consequuntur odio dolorum, molestias id provident quod in nisi inventore asperiores alias?",
+                "product_quantity": 32,
+                "product_price": 84.54
+            },
+            {
+                "product_name": "Product-alias-eum",
+                "product_description": "Nam laboriosam cum totam, ab corrupti iusto debitis delectus voluptatum ut sequi dolorum odio nam, nemo ea aut cupiditate eaque in minima hic necessitatibus non, omnis aut modi tempora aspernatur asperiores suscipit.",
+                "product_quantity": 59,
+                "product_price": 37.65
+            }
+        ]
+    }
+}

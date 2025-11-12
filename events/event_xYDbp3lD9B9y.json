@@ -1,0 +1,20 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-6XVH8XpG",
+        "supplier_contact": "supplier6XVH8XpG@example.com",
+        "products": [
+            {
+                "product_name": "Product-nihil-similique",
+                "product_description": "Vel fugit et nulla corrupti sunt praesentium, suscipit libero dolor eius explicabo officia deleniti porro blanditiis dolorem, nisi libero soluta illo obcaecati dicta impedit sapiente nemo inventore, repellendus nihil eligendi ea reiciendis similique porro quam, accusantium eius sed commodi vero blanditiis veritatis quas adipisci ipsa repellendus facere.",
+                "product_quantity": 99,
+                "product_price": 70.81
+            },
+            {
+                "product_name": "Product-aliquam-provident",
+                "product_description": "Nemo voluptatem deleniti aliquid nisi quas necessitatibus accusantium, suscipit vitae minus earum debitis, reiciendis neque molestiae natus illo eligendi magnam totam praesentium ab, modi minus consectetur quo perspiciatis numquam voluptates consequuntur?",
+                "product_quantity": 61,
+                "product_price": 83.52
+            }
+        ]
+    }
+}

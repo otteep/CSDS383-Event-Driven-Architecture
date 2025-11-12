@@ -1,0 +1,13 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-rvZSpeh3",
+        "supplier_contact": "supplierrvZSpeh3@example.com",
+        "products": [
+            {
+                "product_name": "Product-iste-rerum",
+                "product_description": "Delectus inventore temporibus corporis iusto, sunt consequatur voluptatum, est molestiae maiores eaque minus delectus corrupti cum assumenda nemo incidunt.",
+                "product_quantity": 3
+            }
+        ]
+    }
+}

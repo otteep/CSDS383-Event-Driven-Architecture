@@ -1,0 +1,26 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-3SRYklsq",
+        "supplier_contact": "supplier3SRYklsq@example.com",
+        "products": [
+            {
+                "product_name": "Product-error-tempore",
+                "product_description": "Facere soluta explicabo quasi numquam consequuntur suscipit quidem quaerat accusantium, aspernatur molestias velit tempore nam in voluptas, eum porro doloremque atque aliquid nemo ipsum iure, facere autem laudantium harum debitis illum quia asperiores saepe molestiae, laboriosam aliquam totam eveniet a facere ex quisquam?",
+                "product_quantity": 80,
+                "product_price": 90.17
+            },
+            {
+                "product_name": "Product-maxime-repudiandae",
+                "product_description": "Dignissimos numquam distinctio cupiditate doloremque quia, dolores nisi excepturi labore earum doloribus molestiae tempore in unde dicta ea, nostrum tenetur eum sequi dicta ullam sapiente nisi quasi, dolorum saepe omnis maxime, nihil unde officiis atque?",
+                "product_quantity": 51,
+                "product_price": 93.56
+            },
+            {
+                "product_name": "Product-quis-voluptatem",
+                "product_description": "Perspiciatis recusandae exercitationem earum est, repudiandae unde incidunt provident temporibus distinctio, corrupti iste porro ad eum?",
+                "product_quantity": 25,
+                "product_price": 37.97
+            }
+        ]
+    }
+}

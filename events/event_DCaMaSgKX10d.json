@@ -1,0 +1,14 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-kPh9ktN3",
+        "supplier_contact": "supplierkPh9ktN3@example.com",
+        "products": [
+            {
+                "product_name": "Product-magnam-debitis",
+                "product_description": "Incidunt omnis exercitationem quasi repellat quod nemo tempore libero illum, sed nobis quasi ipsum magnam quis, alias corporis quidem dicta blanditiis ipsam reiciendis deserunt praesentium, sit labore ducimus dolorum nobis iusto fuga officia molestias velit atque, maiores culpa ut rem totam.",
+                "product_quantity": 88,
+                "product_price": 84.65
+            }
+        ]
+    }
+}

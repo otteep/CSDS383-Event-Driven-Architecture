@@ -1,0 +1,38 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-n3aEjtC7",
+        "supplier_contact": "suppliern3aEjtC7@example.com",
+        "products": [
+            {
+                "product_name": "Product-dignissimos-voluptatibus",
+                "product_description": "Sunt odit voluptatibus praesentium cupiditate aliquid quisquam, nam quia doloribus incidunt voluptas omnis laboriosam, illo iste velit, ut assumenda autem hic nobis architecto enim voluptatibus est sint?",
+                "product_quantity": 24,
+                "product_price": 14.98
+            },
+            {
+                "product_name": "Product-dolor-aperiam",
+                "product_description": "Blanditiis perspiciatis est voluptatum numquam non qui, dolorem rerum minus voluptatem, ab veniam soluta autem assumenda repudiandae eius asperiores consequatur exercitationem placeat.",
+                "product_quantity": 28,
+                "product_price": 10.36
+            },
+            {
+                "product_name": "Product-iusto-doloremque",
+                "product_description": "Incidunt pariatur placeat ipsum ipsam quo autem, veritatis velit enim dolorum voluptatibus vero, alias aut est, sint reprehenderit dolor aliquam pariatur fuga soluta, minima iure cupiditate quod ipsam soluta quas deserunt non?",
+                "product_quantity": 87,
+                "product_price": 56.52
+            },
+            {
+                "product_name": "Product-praesentium-quidem",
+                "product_description": "Id quas rerum reiciendis dolor minima quisquam nesciunt recusandae quaerat quam, perferendis consequuntur exercitationem ex tempora natus a, magni voluptatum quaerat vero similique voluptas impedit et rerum mollitia ab vitae.",
+                "product_quantity": 89,
+                "product_price": 2.18
+            },
+            {
+                "product_name": "Product-dolores-excepturi",
+                "product_description": "Dolor delectus fugiat aperiam aspernatur tempora, reprehenderit suscipit quos vel excepturi fugiat eum perferendis facere necessitatibus veniam, excepturi quasi repellat quis consequuntur necessitatibus veniam suscipit dolores, necessitatibus doloribus impedit, nobis eius optio cumque.",
+                "product_quantity": 4,
+                "product_price": 66.27
+            }
+        ]
+    }
+}

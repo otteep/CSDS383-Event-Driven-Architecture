@@ -1,0 +1,26 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-j4dXBE0d",
+        "supplier_contact": "supplierj4dXBE0d@example.com",
+        "products": [
+            {
+                "product_name": "Product-quisquam-voluptatum",
+                "product_description": "Deserunt iusto maiores cum, odit dignissimos doloribus ipsam nam soluta voluptates, quibusdam iure excepturi maxime aspernatur possimus eius ducimus dicta alias, possimus minus ratione alias nemo illo repudiandae aliquam quae repellat autem?",
+                "product_quantity": 12,
+                "product_price": 39.71
+            },
+            {
+                "product_name": "Product-nam-expedita",
+                "product_description": "Corporis ratione quibusdam amet quia nulla quisquam, nam repudiandae labore accusamus officiis hic aperiam, autem pariatur praesentium aperiam maxime minima ratione?",
+                "product_quantity": 50,
+                "product_price": 60.19
+            },
+            {
+                "product_name": "Product-possimus-unde",
+                "product_description": "Cupiditate qui error incidunt eaque fuga voluptates ipsam cumque corrupti, cumque omnis blanditiis a praesentium, aliquam reiciendis et natus commodi id neque vero maxime veniam libero rem, molestias commodi iusto nostrum ab inventore, a ut autem voluptates molestiae?",
+                "product_quantity": 24,
+                "product_price": 37.22
+            }
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-cxHf30Sa",
+        "supplier_contact": "suppliercxHf30Sa@example.com",
+        "products": [
+            {
+                "product_name": "Product-nemo-reprehenderit",
+                "product_description": "Accusamus impedit modi at illum velit quisquam reiciendis iste dolorem doloremque explicabo, maiores quia nobis doloremque vero vitae sit?",
+                "product_quantity": 99,
+                "product_price": 35.27
+            }
+        ]
+    }
+}

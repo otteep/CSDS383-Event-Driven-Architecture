@@ -1,0 +1,32 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-O0iFHc1J",
+        "supplier_contact": "supplierO0iFHc1J@example.com",
+        "products": [
+            {
+                "product_name": "Product-facere-autem",
+                "product_description": "Soluta sit quidem ex odio qui necessitatibus laborum fugit facilis rem consequuntur, est nostrum tempora dolores eligendi rem, aliquid enim beatae ipsa.",
+                "product_quantity": 20,
+                "product_price": 77.49
+            },
+            {
+                "product_name": "Product-fugiat-eligendi",
+                "product_description": "Blanditiis temporibus cupiditate molestiae soluta velit necessitatibus veritatis praesentium laudantium excepturi, expedita eum eaque excepturi officiis ipsam ipsa, quisquam dignissimos voluptate sunt asperiores rerum, quidem expedita iusto debitis, cupiditate eveniet quod aliquam fuga beatae quaerat.",
+                "product_quantity": 20,
+                "product_price": 51.16
+            },
+            {
+                "product_name": "Product-dolor-maxime",
+                "product_description": "Sed necessitatibus perferendis recusandae doloribus incidunt alias, deserunt eveniet officiis non tempore quisquam doloribus incidunt nam debitis, voluptatem velit facere deleniti perferendis doloremque laborum beatae aliquam, fuga eos dolor cum?",
+                "product_quantity": 18,
+                "product_price": 19.79
+            },
+            {
+                "product_name": "Product-eius-alias",
+                "product_description": "Odio incidunt assumenda, aspernatur sapiente qui debitis nam, nam aliquam ad id soluta nostrum qui hic dolor recusandae, nisi dolorum mollitia nihil minus?",
+                "product_quantity": 84,
+                "product_price": 48.14
+            }
+        ]
+    }
+}

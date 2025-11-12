@@ -1,0 +1,14 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-NTruCEKl",
+        "supplier_contact": "supplierNTruCEKl@example.com",
+        "products": [
+            {
+                "product_name": "Product-assumenda-hic",
+                "product_description": "Sit sapiente aperiam magnam ad vel voluptates mollitia beatae ullam nobis, assumenda quae voluptates consequuntur nisi ex officiis debitis, quae praesentium hic, natus corporis deserunt ad unde totam obcaecati aperiam quasi ducimus.",
+                "product_quantity": 100,
+                "product_price": 8.33
+            }
+        ]
+    }
+}

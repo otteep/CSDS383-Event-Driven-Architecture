@@ -1,0 +1,32 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-w2GWA8QT",
+        "supplier_contact": "supplierw2GWA8QT@example.com",
+        "products": [
+            {
+                "product_name": "Product-alias-maiores",
+                "product_description": "Distinctio voluptas tempora voluptate eum nostrum molestias a, facilis ipsa deserunt qui repellat, officiis non cupiditate ea accusantium exercitationem?",
+                "product_quantity": 75,
+                "product_price": 60.17
+            },
+            {
+                "product_name": "Product-corrupti-ipsam",
+                "product_description": "Iusto laborum exercitationem, eaque perspiciatis incidunt laudantium iure cupiditate et ut harum?",
+                "product_quantity": 25,
+                "product_price": 59.31
+            },
+            {
+                "product_name": "Product-tempora-ullam",
+                "product_description": "Pariatur dolor nobis quia eaque, nemo nesciunt dolorum quia.",
+                "product_quantity": 100,
+                "product_price": 50.01
+            },
+            {
+                "product_name": "Product-ab-cum",
+                "product_description": "Ad placeat minima assumenda modi laboriosam quod adipisci molestiae quae, nobis temporibus ut beatae, odit quidem saepe asperiores magni.",
+                "product_quantity": 15,
+                "product_price": 66.57
+            }
+        ]
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-oEstWIaI",
+        "supplier_contact": "supplieroEstWIaI@example.com",
+        "products": [
+            {
+                "product_name": "Product-similique-incidunt",
+                "product_description": "A at beatae magnam voluptatibus, voluptate nulla tempore porro quasi libero dignissimos quas veniam quis ratione sed?",
+                "product_quantity": 81,
+                "product_price": 41.32
+            },
+            {
+                "product_name": "Product-suscipit-repellat",
+                "product_description": "Assumenda inventore possimus, itaque numquam eveniet maxime officia consequuntur corrupti?",
+                "product_quantity": 59,
+                "product_price": 3.17
+            }
+        ]
+    }
+}

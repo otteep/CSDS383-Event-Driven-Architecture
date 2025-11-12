@@ -1,0 +1,14 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-dSriRWZR",
+        "supplier_contact": "supplierdSriRWZR@example.com",
+        "products": [
+            {
+                "product_name": "Product-nihil-nesciunt",
+                "product_description": "Quibusdam nemo odio atque neque, quos placeat soluta omnis nisi dolore eius veritatis at minima dolorum, libero totam odit voluptates omnis commodi deleniti quidem numquam.",
+                "product_quantity": 85,
+                "product_price": 94.74
+            }
+        ]
+    }
+}

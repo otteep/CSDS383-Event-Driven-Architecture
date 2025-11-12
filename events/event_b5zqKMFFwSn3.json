@@ -1,0 +1,14 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-joqTXX9P",
+        "supplier_contact": "supplierjoqTXX9P@example.com",
+        "products": [
+            {
+                "product_name": "Product-at-mollitia",
+                "product_description": "Molestias iusto dolore reprehenderit, asperiores ad porro magni quae aspernatur mollitia suscipit ipsam officiis id architecto.",
+                "product_quantity": 24,
+                "product_price": 11.18
+            }
+        ]
+    }
+}

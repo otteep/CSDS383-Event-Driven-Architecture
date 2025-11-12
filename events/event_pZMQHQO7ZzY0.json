@@ -1,0 +1,20 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-ceez6i4W",
+        "supplier_contact": "supplierceez6i4W@example.com",
+        "products": [
+            {
+                "product_name": "Product-perspiciatis-deserunt",
+                "product_description": "Nulla minima exercitationem ipsum natus voluptate a delectus cumque maxime fugiat iusto, adipisci blanditiis deleniti?",
+                "product_quantity": 23,
+                "product_price": 34.51
+            },
+            {
+                "product_name": "Product-illo-dolore",
+                "product_description": "Veniam commodi saepe eveniet quam fugiat eum doloremque nesciunt iste perspiciatis autem, nobis excepturi voluptate commodi?",
+                "product_quantity": 54,
+                "product_price": 90.46
+            }
+        ]
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-5i9LF5Rx",
+        "supplier_contact": "supplier5i9LF5Rx@example.com",
+        "products": [
+            {
+                "product_name": "Product-esse-ipsum",
+                "product_description": "Repudiandae ut ducimus error suscipit atque eaque nesciunt reprehenderit, voluptatem expedita suscipit repellendus, quos error aliquam aperiam consequatur eius magni, consectetur culpa fugiat impedit excepturi dolorem eveniet incidunt nesciunt mollitia?",
+                "product_quantity": 49,
+                "product_price": 90.0
+            },
+            {
+                "product_name": "Product-non-nulla",
+                "product_description": "Consequuntur deserunt eaque voluptas dolore laborum debitis non neque autem, ea commodi dolorum consectetur, enim cupiditate consequuntur alias esse voluptas.",
+                "product_quantity": 69,
+                "product_price": 59.12
+            },
+            {
+                "product_name": "Product-molestiae-asperiores",
+                "product_description": "Assumenda debitis officiis repudiandae aliquam sit est velit neque aut fugiat, minima veritatis fugiat quis delectus amet nihil, laboriosam quis accusantium minus, consequuntur velit ipsam itaque odio sunt voluptate maiores nostrum vitae iusto necessitatibus.",
+                "product_quantity": 49,
+                "product_price": 2.98
+            },
+            {
+                "product_name": "Product-nihil-eveniet",
+                "product_description": "Fugit fuga officia facere porro, dolor iusto quos dolorem tempora laudantium sunt, quisquam unde sequi sunt quis tenetur cumque nobis rem officiis nam deserunt.",
+                "product_quantity": 92,
+                "product_price": 1.5
+            }
+        ]
+    }
+}

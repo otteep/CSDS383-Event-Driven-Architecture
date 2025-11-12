@@ -1,0 +1,38 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-SVFAHQEh",
+        "supplier_contact": "supplierSVFAHQEh@example.com",
+        "products": [
+            {
+                "product_name": "Product-fugiat-officia",
+                "product_description": "Possimus sapiente illo deserunt maiores quam expedita architecto assumenda, sapiente ad esse, quisquam voluptatum vel quae perspiciatis mollitia maiores, reiciendis molestiae quisquam quae commodi dolorem.",
+                "product_quantity": 48,
+                "product_price": 81.41
+            },
+            {
+                "product_name": "Product-doloremque-iure",
+                "product_description": "Illo facere consectetur velit ex, voluptate culpa perspiciatis minima eius, voluptas doloribus magni expedita odit, veniam laboriosam saepe quisquam minima quasi repudiandae quas nobis.",
+                "product_quantity": 23,
+                "product_price": 51.93
+            },
+            {
+                "product_name": "Product-velit-eius",
+                "product_description": "Quidem recusandae accusantium architecto, ullam debitis ratione praesentium animi unde, minima harum quae aliquid illo vero debitis neque tenetur suscipit vel autem.",
+                "product_quantity": 68,
+                "product_price": 71.01
+            },
+            {
+                "product_name": "Product-aperiam-hic",
+                "product_description": "Neque quos iusto perspiciatis suscipit culpa delectus, doloribus magnam sunt reprehenderit voluptatem ut, tempora quam nobis suscipit reiciendis totam.",
+                "product_quantity": 90,
+                "product_price": 44.63
+            },
+            {
+                "product_name": "Product-laboriosam-ullam",
+                "product_description": "Asperiores fuga temporibus aliquid mollitia assumenda ducimus magnam odio aliquam molestiae dolore, ab sunt officiis soluta ducimus nemo temporibus explicabo mollitia excepturi possimus inventore, unde eligendi perspiciatis vitae ratione doloremque neque eius ipsum illum quod aperiam, qui necessitatibus tempora nam error provident perspiciatis nihil libero saepe, aut nihil doloribus obcaecati.",
+                "product_quantity": 47,
+                "product_price": 99.95
+            }
+        ]
+    }
+}

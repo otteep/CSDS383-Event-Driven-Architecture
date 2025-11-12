@@ -1,0 +1,20 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-k8IWvH0R",
+        "supplier_contact": "supplierk8IWvH0R@example.com",
+        "products": [
+            {
+                "product_name": "Product-aperiam-perferendis",
+                "product_description": "Qui aspernatur adipisci quidem eaque culpa, totam at nemo aut, placeat inventore praesentium dolores esse minus quis explicabo labore doloremque, officia numquam cum quaerat reprehenderit quidem facilis repellat.",
+                "product_quantity": 49,
+                "product_price": 43.5
+            },
+            {
+                "product_name": "Product-perspiciatis-eius",
+                "product_description": "Quia provident dolor earum saepe, nesciunt temporibus enim?",
+                "product_quantity": 26,
+                "product_price": 86.23
+            }
+        ]
+    }
+}

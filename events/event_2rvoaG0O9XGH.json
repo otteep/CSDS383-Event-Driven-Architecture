@@ -1,0 +1,38 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-tX1RXSWx",
+        "supplier_contact": "suppliertX1RXSWx@example.com",
+        "products": [
+            {
+                "product_name": "Product-rerum-quis",
+                "product_description": "Vero sequi repellat excepturi aspernatur consequuntur commodi aperiam rerum dicta quasi, quibusdam hic suscipit vitae sapiente fugiat ipsam sint molestiae.",
+                "product_quantity": 52,
+                "product_price": 47.47
+            },
+            {
+                "product_name": "Product-et-tempore",
+                "product_description": "Reiciendis pariatur a eveniet harum sequi distinctio fuga, itaque dolorem officia incidunt fugit tenetur quas iste, rem vitae voluptate blanditiis.",
+                "product_quantity": 95,
+                "product_price": 84.18
+            },
+            {
+                "product_name": "Product-nihil-fugit",
+                "product_description": "Doloribus recusandae minima ea eos, illum ab molestiae fugiat voluptatem.",
+                "product_quantity": 98,
+                "product_price": 22.05
+            },
+            {
+                "product_name": "Product-ea-dolore",
+                "product_description": "Exercitationem tenetur sapiente iure commodi quos laboriosam consectetur vero, quasi assumenda neque laborum nisi corporis ab?",
+                "product_quantity": 93,
+                "product_price": 67.23
+            },
+            {
+                "product_name": "Product-dolor-natus",
+                "product_description": "Minus aliquam commodi porro animi officiis nam cumque reprehenderit, ullam incidunt illum a sapiente est ad dolorum tenetur voluptates tempora aliquam, ad minus impedit eos nam sunt incidunt blanditiis omnis, quos dolore aut nesciunt, voluptates nulla eos dolore quo dolorum voluptatem?",
+                "product_quantity": 79,
+                "product_price": 39.08
+            }
+        ]
+    }
+}

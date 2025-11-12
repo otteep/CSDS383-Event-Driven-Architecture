@@ -1,0 +1,31 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-jnaorNCW",
+        "products": [
+            {
+                "product_name": "Product-voluptate-exercitationem",
+                "product_description": "Quidem fugit quam quaerat modi molestias iure odio fugiat, reprehenderit iure voluptatem assumenda fuga minima totam unde libero hic possimus, facere soluta numquam eaque error fuga fugit officia dicta amet nulla?",
+                "product_quantity": 78,
+                "product_price": 4.74
+            },
+            {
+                "product_name": "Product-obcaecati-harum",
+                "product_description": "Illum corrupti aut ea minima dolores veritatis nisi minus nam laudantium facilis, aut reprehenderit repellat nulla dolore voluptates modi praesentium doloribus, architecto doloribus veritatis iste reprehenderit dolorum similique nostrum eos, quod porro magnam alias asperiores laboriosam sapiente quos earum, atque cum sunt culpa obcaecati laborum unde natus ullam recusandae consequuntur.",
+                "product_quantity": 55,
+                "product_price": 48.35
+            },
+            {
+                "product_name": "Product-libero-in",
+                "product_description": "Harum et illum accusamus, eius soluta voluptates iste dicta consequatur atque autem dolore nam, maxime incidunt tenetur, repellat harum unde a minima numquam iusto quas molestiae tenetur debitis ad, voluptate quos veniam et laborum possimus?",
+                "product_quantity": 41,
+                "product_price": 19.05
+            },
+            {
+                "product_name": "Product-in-minima",
+                "product_description": "Suscipit incidunt rem numquam temporibus exercitationem fuga, at sed ipsa facere consectetur nobis necessitatibus officiis repudiandae?",
+                "product_quantity": 44,
+                "product_price": 67.48
+            }
+        ]
+    }
+}

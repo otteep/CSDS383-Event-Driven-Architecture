@@ -1,0 +1,37 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-gbBpwY3a",
+        "supplier_contact": "suppliergbBpwY3a@example.com",
+        "products": [
+            {
+                "product_name": "Product-odit-iste",
+                "product_description": "Magni dignissimos iste eum distinctio quas molestiae eius cumque totam facere aperiam, tempore incidunt quam, minima id accusamus sapiente alias obcaecati nobis odit molestias nisi est qui.",
+                "product_quantity": 93,
+                "product_price": 1.25
+            },
+            {
+                "product_name": "Product-libero-illum",
+                "product_description": "Officiis aperiam illo quo quisquam, temporibus quod dolores cupiditate velit exercitationem harum eligendi, doloribus corporis labore doloremque voluptatum inventore eaque, excepturi exercitationem laborum tempore?",
+                "product_quantity": 65,
+                "product_price": 79.92
+            },
+            {
+                "product_name": "Product-ratione-similique",
+                "product_description": "Eaque natus necessitatibus assumenda possimus, fuga dolorum officia autem vitae itaque maxime dolores, minima eveniet veniam totam nemo incidunt dignissimos sit molestias nihil aliquid officiis, excepturi delectus enim non?",
+                "product_quantity": 74,
+                "product_price": 26.83
+            },
+            {
+                "product_name": "Product-fugit-minus",
+                "product_description": "Dolorum et itaque non perspiciatis voluptates, blanditiis nisi obcaecati enim voluptates provident eum incidunt corporis deleniti nostrum, aspernatur quae nam adipisci est necessitatibus magni vitae, perferendis quis nam veritatis commodi, minima necessitatibus perferendis enim?",
+                "product_quantity": 45,
+                "product_price": 81.91
+            },
+            {
+                "product_name": "Product-obcaecati-error",
+                "product_quantity": 69,
+                "product_price": 36.72
+            }
+        ]
+    }
+}

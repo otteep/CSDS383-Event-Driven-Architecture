@@ -1,0 +1,37 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-3yOUeymi",
+        "supplier_contact": "supplier3yOUeymi@example.com",
+        "products": [
+            {
+                "product_description": "Sapiente officiis excepturi porro omnis mollitia dolore rerum quae praesentium, eos a cum fugiat quidem in deleniti cumque nihil molestias consectetur laudantium, blanditiis repellendus possimus eveniet cum quisquam culpa omnis perspiciatis, eligendi aliquam nemo iure saepe asperiores voluptate recusandae esse nulla dolor.",
+                "product_quantity": 53,
+                "product_price": 70.97
+            },
+            {
+                "product_name": "Product-similique-totam",
+                "product_description": "Consequatur at vero deleniti, officiis impedit nesciunt.",
+                "product_quantity": 28,
+                "product_price": 61.76
+            },
+            {
+                "product_name": "Product-possimus-alias",
+                "product_description": "Fuga voluptates vel sint quod laudantium minima laborum obcaecati odio cumque aliquam, minus repellat ratione voluptatem eos dolores laboriosam quis hic facere, rerum voluptate quibusdam dolores commodi impedit temporibus sed, placeat est aut delectus corrupti nostrum id hic distinctio?",
+                "product_quantity": 19,
+                "product_price": 58.17
+            },
+            {
+                "product_name": "Product-officia-at",
+                "product_description": "Iusto enim eveniet suscipit sit nostrum animi explicabo, sequi aliquam aspernatur, aperiam animi perferendis.",
+                "product_quantity": 31,
+                "product_price": 58.07
+            },
+            {
+                "product_name": "Product-eum-deleniti",
+                "product_description": "Tenetur cupiditate quos eaque accusamus, voluptatum culpa tempora quae labore saepe officiis ipsam exercitationem quidem laudantium expedita.",
+                "product_quantity": 66,
+                "product_price": 4.32
+            }
+        ]
+    }
+}

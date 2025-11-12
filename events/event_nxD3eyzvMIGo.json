@@ -1,0 +1,38 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-66X6FWPQ",
+        "supplier_contact": "supplier66X6FWPQ@example.com",
+        "products": [
+            {
+                "product_name": "Product-reprehenderit-repellat",
+                "product_description": "Tempore id corrupti itaque error voluptatem provident et nemo aut, dolores asperiores officiis deserunt culpa dolorum enim velit repudiandae, corrupti ullam iure deleniti dolore veniam tempora itaque molestias iusto fuga facere, aperiam consequuntur doloribus sunt dignissimos aliquam quia molestiae nobis amet, ipsum quia deserunt delectus eius ipsam.",
+                "product_quantity": 84,
+                "product_price": 85.96
+            },
+            {
+                "product_name": "Product-officiis-voluptates",
+                "product_description": "Eligendi sed sit aut nostrum aspernatur laborum deserunt sequi voluptatum maxime reprehenderit, at reiciendis non, doloribus nihil nostrum saepe aliquid sequi illo ipsam ex laudantium asperiores.",
+                "product_quantity": 28,
+                "product_price": 17.49
+            },
+            {
+                "product_name": "Product-obcaecati-quis",
+                "product_description": "Ea quidem natus blanditiis unde non debitis, libero iusto ratione officia quidem, eveniet ducimus asperiores odio dolorem, voluptas saepe voluptatem ab molestiae quisquam facilis nobis excepturi expedita illo, in earum minus culpa?",
+                "product_quantity": 8,
+                "product_price": 50.76
+            },
+            {
+                "product_name": "Product-debitis-non",
+                "product_description": "Vitae rerum aliquid quod, eligendi voluptates voluptatem vel magni minus perspiciatis laudantium tempora nobis ad, dolore nulla maxime temporibus tempore error ut, iste quae dignissimos itaque, autem quis nostrum temporibus repudiandae.",
+                "product_quantity": 72,
+                "product_price": 90.82
+            },
+            {
+                "product_name": "Product-deleniti-amet",
+                "product_description": "Esse sed ipsa placeat neque commodi ipsum recusandae itaque inventore, aut cum dolores accusamus doloremque inventore sed, distinctio sint nesciunt culpa odit dolorum ipsam, ex minus eum unde aliquid?",
+                "product_quantity": 83,
+                "product_price": 10.95
+            }
+        ]
+    }
+}

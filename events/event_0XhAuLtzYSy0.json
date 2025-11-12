@@ -1,0 +1,37 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-eWbu7M8o",
+        "supplier_contact": "suppliereWbu7M8o@example.com",
+        "products": [
+            {
+                "product_name": "Product-enim-sint",
+                "product_description": "Ut perferendis nam atque, facere est totam et eligendi, ipsum dolore dignissimos reiciendis officiis quisquam sequi dolorem quas, dolor corporis perspiciatis fuga odio eveniet soluta quia nesciunt?",
+                "product_quantity": 82,
+                "product_price": 21.28
+            },
+            {
+                "product_name": "Product-harum-suscipit",
+                "product_description": "Distinctio dolore corporis quos et, eum quis neque quos praesentium quisquam, sunt voluptatibus ducimus vitae, laudantium itaque sequi consequuntur aperiam non sapiente amet dignissimos perspiciatis.",
+                "product_quantity": 79,
+                "product_price": 90.94
+            },
+            {
+                "product_name": "Product-rerum-illum",
+                "product_description": "Dolore quis nesciunt adipisci sunt eveniet, magnam temporibus et eius voluptate quia aliquam alias, ipsum eveniet nam, tempore omnis in exercitationem, atque minus officiis dolor doloribus ut alias iure excepturi?",
+                "product_quantity": 81
+            },
+            {
+                "product_name": "Product-perferendis-doloribus",
+                "product_description": "Explicabo cumque a perspiciatis ad ex deserunt adipisci maiores asperiores laborum, magnam quaerat est quam sit corrupti voluptate tempora, corrupti labore dolor, quidem debitis natus ab?",
+                "product_quantity": 20,
+                "product_price": 51.32
+            },
+            {
+                "product_name": "Product-eum-sunt",
+                "product_description": "Cupiditate consequatur accusantium minus eveniet cumque eos officia, voluptate cumque repudiandae veritatis voluptatem nisi voluptates natus consequatur architecto tempora repellat.",
+                "product_quantity": 5,
+                "product_price": 35.8
+            }
+        ]
+    }
+}

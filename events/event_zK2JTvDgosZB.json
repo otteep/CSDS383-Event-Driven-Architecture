@@ -1,0 +1,38 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-gtdO4oyW",
+        "supplier_contact": "suppliergtdO4oyW@example.com",
+        "products": [
+            {
+                "product_name": "Product-molestias-soluta",
+                "product_description": "Quidem doloremque cumque quis atque nobis saepe blanditiis soluta, maiores reiciendis ipsum cupiditate repellendus atque iste odio dolore quo, provident omnis commodi esse sit cumque quam quae alias nesciunt voluptates iure, sed rerum blanditiis dolorum repellendus ipsum odio quis facere laboriosam harum nihil.",
+                "product_quantity": 73,
+                "product_price": 95.0
+            },
+            {
+                "product_name": "Product-fuga-non",
+                "product_description": "Alias mollitia eum enim possimus necessitatibus blanditiis, velit sapiente animi enim doloribus amet reiciendis quae repellendus, dolorem corrupti sequi voluptate sed, sequi commodi iste praesentium optio neque cupiditate accusamus debitis nam iusto eligendi?",
+                "product_quantity": 99,
+                "product_price": 56.62
+            },
+            {
+                "product_name": "Product-praesentium-maiores",
+                "product_description": "Similique ullam ducimus ut assumenda veniam mollitia, facere ullam commodi illum, quos placeat dolores vel beatae ut quod debitis?",
+                "product_quantity": 70,
+                "product_price": 44.65
+            },
+            {
+                "product_name": "Product-neque-doloribus",
+                "product_description": "Officiis harum magnam magni labore quis hic quibusdam iusto doloribus quas repellat, repellendus totam libero architecto aspernatur explicabo temporibus sequi odit, quidem nulla deleniti harum.",
+                "product_quantity": 4,
+                "product_price": 57.5
+            },
+            {
+                "product_name": "Product-in-illum",
+                "product_description": "Sequi ad natus commodi quibusdam, labore fugit veniam aperiam rem voluptas sed, perferendis aspernatur sapiente, velit distinctio nemo iusto veniam quis doloribus eveniet fugiat aperiam, soluta rem hic quod.",
+                "product_quantity": 64,
+                "product_price": 3.34
+            }
+        ]
+    }
+}

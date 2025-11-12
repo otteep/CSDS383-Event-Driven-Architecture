@@ -1,0 +1,32 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-aCqCS9TQ",
+        "supplier_contact": "supplieraCqCS9TQ@example.com",
+        "products": [
+            {
+                "product_name": "Product-vitae-tempore",
+                "product_description": "Tenetur harum aut deleniti quasi nihil at temporibus id sint minima, iusto possimus rerum fugiat dolorum a, reprehenderit totam accusantium doloremque perferendis soluta, mollitia nam illo nisi voluptas labore fugit inventore dolores tenetur perferendis?",
+                "product_quantity": 95,
+                "product_price": 93.56
+            },
+            {
+                "product_name": "Product-sint-nihil",
+                "product_description": "Cumque voluptatibus quod vitae neque, at dolore sunt officiis adipisci beatae?",
+                "product_quantity": 7,
+                "product_price": 74.37
+            },
+            {
+                "product_name": "Product-quos-nemo",
+                "product_description": "Quaerat nihil quam nisi reprehenderit et facere maiores sapiente cupiditate consequuntur a, sapiente obcaecati ex, perferendis nesciunt consectetur, nam eos illo voluptates recusandae.",
+                "product_quantity": 74,
+                "product_price": 7.53
+            },
+            {
+                "product_name": "Product-eaque-tempora",
+                "product_description": "Numquam veritatis laboriosam commodi inventore cupiditate, debitis ipsam eos possimus perspiciatis ab, amet nam in ab molestias quas maiores accusantium adipisci, laudantium deleniti veniam atque dicta.",
+                "product_quantity": 10,
+                "product_price": 53.86
+            }
+        ]
+    }
+}

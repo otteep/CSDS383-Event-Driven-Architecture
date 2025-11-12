@@ -1,0 +1,26 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-d0V55LUQ",
+        "supplier_contact": "supplierd0V55LUQ@example.com",
+        "products": [
+            {
+                "product_name": "Product-nesciunt-autem",
+                "product_description": "Assumenda distinctio temporibus ratione, fuga aut reiciendis dignissimos eaque, cupiditate nihil consectetur ex numquam qui ratione iusto labore at voluptate hic, facere vel est tempore cumque corporis similique quas odit voluptas, cum omnis molestias?",
+                "product_quantity": 98,
+                "product_price": 96.77
+            },
+            {
+                "product_name": "Product-vitae-ex",
+                "product_description": "Ducimus corrupti perferendis quisquam id temporibus cupiditate esse impedit pariatur, laudantium consequatur culpa velit exercitationem doloribus esse, officia cumque soluta ratione dolorem veritatis, mollitia rerum eveniet provident aut in?",
+                "product_quantity": 56,
+                "product_price": 72.31
+            },
+            {
+                "product_name": "Product-sit-molestiae",
+                "product_description": "Deleniti tenetur odio enim eligendi fuga ipsa aliquid dolores exercitationem obcaecati quam, natus officia sit quos rem adipisci, ut error maxime vel repudiandae ipsum quidem esse quam, vitae aperiam earum quam.",
+                "product_quantity": 54,
+                "product_price": 40.02
+            }
+        ]
+    }
+}

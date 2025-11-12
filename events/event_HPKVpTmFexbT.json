@@ -1,0 +1,38 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-fGQy8Aum",
+        "supplier_contact": "supplierfGQy8Aum@example.com",
+        "products": [
+            {
+                "product_name": "Product-recusandae-suscipit",
+                "product_description": "Earum dolorem consequatur quod dolore, suscipit atque assumenda sit beatae quam aliquid consequatur delectus sequi facilis deserunt, voluptate dicta ipsam cum expedita.",
+                "product_quantity": 20,
+                "product_price": 84.57
+            },
+            {
+                "product_name": "Product-ducimus-sunt",
+                "product_description": "Dolorem nostrum commodi, quisquam est modi neque ea, soluta repellat illum quod delectus voluptates voluptatem laudantium beatae, enim eligendi tempore molestiae nobis quae odio maxime mollitia sint sequi, corporis qui quidem nam.",
+                "product_quantity": 2,
+                "product_price": 4.28
+            },
+            {
+                "product_name": "Product-at-ipsum",
+                "product_description": "Deserunt minima earum quo voluptates obcaecati, officiis tenetur temporibus neque vero in at corporis ab facere?",
+                "product_quantity": 32,
+                "product_price": 18.96
+            },
+            {
+                "product_name": "Product-placeat-quod",
+                "product_description": "Aliquam sunt libero saepe ipsum nobis vel, error architecto itaque fugiat praesentium accusantium, veritatis corporis nulla sequi ipsa consectetur deleniti veniam quaerat doloremque incidunt, quod maiores quo dignissimos dolor a vitae odit dolorum ipsum, in rerum autem voluptatum iste porro commodi tempore tenetur pariatur labore distinctio.",
+                "product_quantity": 54,
+                "product_price": 97.57
+            },
+            {
+                "product_name": "Product-et-excepturi",
+                "product_description": "Quasi magni non accusamus quos, modi optio quae suscipit laboriosam.",
+                "product_quantity": 76,
+                "product_price": 3.11
+            }
+        ]
+    }
+}

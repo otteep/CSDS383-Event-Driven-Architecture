@@ -1,0 +1,14 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-jAoSWKvl",
+        "supplier_contact": "supplierjAoSWKvl@example.com",
+        "products": [
+            {
+                "product_name": "Product-exercitationem-accusantium",
+                "product_description": "Nulla id quis saepe eum, accusamus natus quasi animi cum ipsam voluptatibus, ipsam odio optio vero delectus vel nihil cupiditate velit voluptate, exercitationem numquam soluta assumenda ullam hic officiis tempore dolorum recusandae sed, dicta ad modi nostrum fuga possimus enim minus laborum doloremque saepe?",
+                "product_quantity": 36,
+                "product_price": 38.59
+            }
+        ]
+    }
+}

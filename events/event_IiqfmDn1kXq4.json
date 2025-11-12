@@ -1,0 +1,19 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-59tQWBEn",
+        "products": [
+            {
+                "product_name": "Product-consequuntur-numquam",
+                "product_description": "Tenetur quo saepe aliquam reprehenderit inventore deleniti quasi odio eius tempora dolorem, optio assumenda accusamus sequi eveniet architecto quia aliquid est blanditiis explicabo rem, dolor animi voluptas beatae accusamus.",
+                "product_quantity": 1,
+                "product_price": 96.93
+            },
+            {
+                "product_name": "Product-excepturi-ipsam",
+                "product_description": "Delectus accusantium earum optio dolores tenetur reprehenderit fugit soluta sed temporibus dolorum, eos inventore et incidunt voluptates eius, labore tempore iure fuga, error eveniet iusto necessitatibus ratione commodi laudantium fuga pariatur dolore atque, sit magnam consequuntur inventore adipisci soluta maxime reiciendis esse.",
+                "product_quantity": 9,
+                "product_price": 90.31
+            }
+        ]
+    }
+}

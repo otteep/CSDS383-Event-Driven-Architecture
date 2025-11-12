@@ -1,0 +1,26 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-VtH6xjfx",
+        "supplier_contact": "supplierVtH6xjfx@example.com",
+        "products": [
+            {
+                "product_name": "Product-aperiam-enim",
+                "product_description": "Quaerat quasi deserunt quas quibusdam veniam error reiciendis est dolores eligendi totam, maxime natus quod magni autem dolorum voluptates, suscipit voluptatibus minima a natus soluta est sunt maiores ab consectetur, suscipit distinctio quod aut harum adipisci, harum minus nobis magni necessitatibus exercitationem pariatur ex eos officiis?",
+                "product_quantity": 30,
+                "product_price": 26.15
+            },
+            {
+                "product_name": "Product-accusamus-aperiam",
+                "product_description": "Dolores nesciunt blanditiis doloribus quod, ea sit similique sint temporibus voluptatum, nobis veritatis accusamus beatae sequi quasi quisquam amet nihil ipsam omnis modi?",
+                "product_quantity": 15,
+                "product_price": 60.51
+            },
+            {
+                "product_name": "Product-dolorum-illum",
+                "product_description": "Quas nostrum fugiat cum possimus assumenda dolorum voluptatum amet, est dignissimos autem voluptas iusto a nisi, ullam sapiente illum eum enim quam dolor labore modi placeat doloremque odio.",
+                "product_quantity": 53,
+                "product_price": 20.42
+            }
+        ]
+    }
+}

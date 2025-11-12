@@ -1,0 +1,20 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-eUPetDWG",
+        "supplier_contact": "suppliereUPetDWG@example.com",
+        "products": [
+            {
+                "product_name": "Product-quasi-voluptate",
+                "product_description": "Sapiente in excepturi, quasi vero obcaecati maiores fuga adipisci aliquam tempore quaerat amet accusantium, id cumque commodi sed porro est repellendus optio voluptatem vel in, deleniti cum ratione, ut accusantium incidunt consequuntur omnis.",
+                "product_quantity": 37,
+                "product_price": 71.13
+            },
+            {
+                "product_name": "Product-consequatur-cupiditate",
+                "product_description": "Alias quaerat sit dolores doloremque fuga, dolorum adipisci eius, saepe quis fugit voluptatibus optio doloribus a dolores ex incidunt, commodi quae earum debitis quis autem, fugiat quas doloribus praesentium?",
+                "product_quantity": 36,
+                "product_price": 61.43
+            }
+        ]
+    }
+}

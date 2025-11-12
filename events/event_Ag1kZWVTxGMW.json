@@ -1,0 +1,32 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-Km4DvS3J",
+        "supplier_contact": "supplierKm4DvS3J@example.com",
+        "products": [
+            {
+                "product_name": "Product-eveniet-aliquam",
+                "product_description": "Iure odio velit fugit, accusantium vero accusamus maiores quam quibusdam numquam laborum adipisci maxime?",
+                "product_quantity": 21,
+                "product_price": 74.94
+            },
+            {
+                "product_name": "Product-asperiores-amet",
+                "product_description": "Repellendus natus eveniet sunt aliquid dolore vero, qui veniam autem asperiores et facere deleniti fuga commodi aut quidem quibusdam, atque inventore veniam amet doloribus voluptatum unde maiores magnam aspernatur, reprehenderit libero animi quos consectetur vel nesciunt quibusdam amet enim quis, error alias deleniti dignissimos cum odio iste repudiandae eum perferendis laboriosam.",
+                "product_quantity": 23,
+                "product_price": 74.71
+            },
+            {
+                "product_name": "Product-eligendi-suscipit",
+                "product_description": "Voluptatum optio dicta, fugiat similique neque animi, dolore temporibus quae porro libero at necessitatibus id illum unde voluptatibus, explicabo quidem nulla quaerat facilis quasi?",
+                "product_quantity": 97,
+                "product_price": 76.68
+            },
+            {
+                "product_name": "Product-blanditiis-non",
+                "product_description": "Cumque aut soluta minus aperiam, nostrum consectetur beatae consequuntur aperiam facere doloribus ab repudiandae rerum cum?",
+                "product_quantity": 91,
+                "product_price": 20.59
+            }
+        ]
+    }
+}

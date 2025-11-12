@@ -1,0 +1,26 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-Fgd4fYvT",
+        "supplier_contact": "supplierFgd4fYvT@example.com",
+        "products": [
+            {
+                "product_name": "Product-totam-non",
+                "product_description": "Neque hic iure consequuntur nam omnis, ipsa voluptatum ad dolores magnam commodi quam a inventore illo expedita, cum fugiat ea, numquam similique officiis suscipit ipsa et minus consequuntur consequatur labore error.",
+                "product_quantity": 80,
+                "product_price": 37.57
+            },
+            {
+                "product_name": "Product-commodi-numquam",
+                "product_description": "Dolor iusto assumenda quis harum repellat cumque, aspernatur hic incidunt assumenda reiciendis animi, necessitatibus quas magnam earum odit molestiae repellendus nesciunt dolore animi aut illo, reprehenderit alias non totam dignissimos dolor.",
+                "product_quantity": 78,
+                "product_price": 91.19
+            },
+            {
+                "product_name": "Product-perferendis-magni",
+                "product_description": "Magnam odio libero commodi earum animi magni accusantium ducimus, numquam sint rem eaque reiciendis labore obcaecati, provident recusandae odio laborum error placeat iure exercitationem minus, quisquam voluptate enim, ut sit vel tempore cumque facilis labore quisquam?",
+                "product_quantity": 65,
+                "product_price": 76.94
+            }
+        ]
+    }
+}

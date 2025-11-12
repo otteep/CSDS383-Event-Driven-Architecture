@@ -1,0 +1,20 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-gdxjUX7N",
+        "supplier_contact": "suppliergdxjUX7N@example.com",
+        "products": [
+            {
+                "product_name": "Product-pariatur-voluptate",
+                "product_description": "Dignissimos libero pariatur expedita ab labore, eveniet nam nihil nostrum tempora ipsum libero officiis, sit vero facere delectus eos repellat, eos dolor mollitia quisquam cumque?",
+                "product_quantity": 41,
+                "product_price": 92.36
+            },
+            {
+                "product_name": "Product-a-consectetur",
+                "product_description": "Consequuntur suscipit quas totam, earum maxime cupiditate optio sunt dolorem accusantium veniam, quaerat amet ratione sint sapiente officia eum fugit quasi eligendi quis, error ipsum dolorem aliquam consectetur quis enim doloribus porro nostrum libero, nulla veniam in laborum quibusdam.",
+                "product_quantity": 47,
+                "product_price": 51.78
+            }
+        ]
+    }
+}

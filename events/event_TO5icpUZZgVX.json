@@ -1,0 +1,26 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-jBBBXKos",
+        "supplier_contact": "supplierjBBBXKos@example.com",
+        "products": [
+            {
+                "product_name": "Product-vitae-consequatur",
+                "product_description": "Laudantium iste rem optio ratione doloribus, atque explicabo quaerat soluta possimus praesentium natus?",
+                "product_quantity": 98,
+                "product_price": 20.32
+            },
+            {
+                "product_name": "Product-tenetur-debitis",
+                "product_description": "Molestias labore dolorum numquam minus inventore ducimus dolore officiis, officiis iusto iure provident, repellendus quaerat hic molestias est dicta ipsam nihil dolor voluptatibus.",
+                "product_quantity": 73,
+                "product_price": 55.7
+            },
+            {
+                "product_name": "Product-architecto-ab",
+                "product_description": "Debitis earum quia quibusdam saepe suscipit necessitatibus sequi natus, iste quaerat praesentium nobis, unde laborum tempore necessitatibus explicabo suscipit cumque repudiandae itaque pariatur laboriosam natus, nam labore rem laborum aliquid praesentium beatae molestias, fugit quos neque architecto sed et quisquam asperiores a qui?",
+                "product_quantity": 82,
+                "product_price": 98.05
+            }
+        ]
+    }
+}

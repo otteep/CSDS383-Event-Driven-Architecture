@@ -1,0 +1,38 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-NbrjomIk",
+        "supplier_contact": "supplierNbrjomIk@example.com",
+        "products": [
+            {
+                "product_name": "Product-sapiente-dignissimos",
+                "product_description": "Recusandae nesciunt excepturi at omnis est eum, maiores porro dolores aliquam hic, ab itaque nemo esse ipsam tenetur, reprehenderit quisquam aliquid perspiciatis autem id, beatae reprehenderit optio tenetur laborum voluptas aperiam ipsum nam?",
+                "product_quantity": 89,
+                "product_price": 90.02
+            },
+            {
+                "product_name": "Product-aliquam-totam",
+                "product_description": "Voluptatem voluptate accusamus illum quaerat, accusamus fugit adipisci, quo praesentium molestias cum atque iste deserunt voluptatem voluptatum?",
+                "product_quantity": 29,
+                "product_price": 90.76
+            },
+            {
+                "product_name": "Product-dicta-veritatis",
+                "product_description": "Necessitatibus corrupti optio aperiam labore minima hic accusantium eligendi, ipsam cumque quod voluptates iusto corporis perspiciatis, rerum alias dolorum error, mollitia repudiandae esse magnam corrupti nisi veniam optio?",
+                "product_quantity": 11,
+                "product_price": 77.58
+            },
+            {
+                "product_name": "Product-odit-exercitationem",
+                "product_description": "Iusto repellat quod quae dicta distinctio, error non vero autem blanditiis, at molestiae nisi quasi provident consequatur, quae consectetur officia ipsa corrupti, minima tempore ex iusto officiis incidunt atque excepturi optio saepe obcaecati.",
+                "product_quantity": 74,
+                "product_price": 15.35
+            },
+            {
+                "product_name": "Product-iusto-recusandae",
+                "product_description": "Quam molestias soluta quas voluptatibus doloribus, asperiores voluptatum repellendus at quidem dolor laudantium odio ipsa corrupti cupiditate?",
+                "product_quantity": 53,
+                "product_price": 86.1
+            }
+        ]
+    }
+}

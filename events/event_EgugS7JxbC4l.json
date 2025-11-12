@@ -1,0 +1,26 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-6RqqlFV9",
+        "supplier_contact": "supplier6RqqlFV9@example.com",
+        "products": [
+            {
+                "product_name": "Product-iste-eaque",
+                "product_description": "Nisi placeat accusamus eius tenetur perspiciatis laudantium magnam aperiam, eaque consequatur maxime officiis debitis odit repellat quam minus?",
+                "product_quantity": 98,
+                "product_price": 98.73
+            },
+            {
+                "product_name": "Product-obcaecati-magnam",
+                "product_description": "Veniam vitae temporibus quia hic aspernatur atque possimus voluptatibus ex deserunt, doloremque harum quisquam, quam ad omnis saepe ipsa consequatur eveniet voluptate, odit molestias corrupti eveniet?",
+                "product_quantity": 39,
+                "product_price": 21.89
+            },
+            {
+                "product_name": "Product-facilis-veniam",
+                "product_description": "Ipsum magnam voluptatem numquam itaque harum eos culpa, sequi blanditiis suscipit inventore molestias dicta corporis perferendis doloribus, quos recusandae officia, magni ipsum adipisci, doloremque vel iusto deleniti sapiente odio optio.",
+                "product_quantity": 70,
+                "product_price": 40.86
+            }
+        ]
+    }
+}

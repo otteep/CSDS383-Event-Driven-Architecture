@@ -1,0 +1,20 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-l1TZKXgA",
+        "supplier_contact": "supplierl1TZKXgA@example.com",
+        "products": [
+            {
+                "product_name": "Product-exercitationem-error",
+                "product_description": "Consectetur aperiam rerum optio provident distinctio id quam ex nostrum architecto veritatis, cumque blanditiis quo, porro maiores provident maxime, repudiandae quasi eaque molestiae labore, dolor repudiandae iste.",
+                "product_quantity": 51,
+                "product_price": 67.62
+            },
+            {
+                "product_name": "Product-magnam-aspernatur",
+                "product_description": "Perspiciatis optio perferendis voluptate similique illum quo quod ipsum eveniet cumque, quas vitae beatae quisquam totam alias quibusdam ipsa veniam hic officiis nesciunt, minus aliquid commodi dolorem deleniti in quaerat ipsum fuga iste dignissimos iusto.",
+                "product_quantity": 60,
+                "product_price": 75.51
+            }
+        ]
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-bPDlT91D",
+        "supplier_contact": "supplierbPDlT91D@example.com",
+        "products": [
+            {
+                "product_name": "Product-optio-libero",
+                "product_description": "Porro molestiae rerum consequatur libero doloribus impedit iure laudantium aliquam nobis, quisquam neque natus in odit fugiat, eaque dolor quisquam incidunt corporis illum vitae reiciendis autem illo fugiat.",
+                "product_quantity": 30,
+                "product_price": 62.27
+            },
+            {
+                "product_name": "Product-quae-possimus",
+                "product_description": "Accusamus quasi aliquam sint at modi ipsam dolorem, porro quis quibusdam architecto enim aliquid, rem provident minima qui sequi corporis dolorum et soluta, facilis provident nesciunt earum impedit est rerum consequuntur eligendi itaque ullam?",
+                "product_quantity": 13,
+                "product_price": 75.0
+            },
+            {
+                "product_name": "Product-suscipit-nisi",
+                "product_description": "Tenetur alias veniam temporibus aperiam accusantium, quia impedit id rerum?",
+                "product_quantity": 40,
+                "product_price": 42.95
+            }
+        ]
+    }
+}

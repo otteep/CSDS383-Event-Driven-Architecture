@@ -1,0 +1,38 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-tU9UNQfu",
+        "supplier_contact": "suppliertU9UNQfu@example.com",
+        "products": [
+            {
+                "product_name": "Product-commodi-delectus",
+                "product_description": "Saepe minus assumenda molestiae, voluptatem omnis architecto fugit eum veniam.",
+                "product_quantity": 93,
+                "product_price": 33.63
+            },
+            {
+                "product_name": "Product-distinctio-non",
+                "product_description": "Laudantium quam ratione minus nobis, magnam quasi officia consectetur, culpa architecto consequuntur?",
+                "product_quantity": 46,
+                "product_price": 35.07
+            },
+            {
+                "product_name": "Product-non-ut",
+                "product_description": "Ducimus laboriosam atque laudantium facilis animi corporis rem expedita cum perferendis, quibusdam quis excepturi eius deleniti eos vel rem neque iusto?",
+                "product_quantity": 42,
+                "product_price": 15.22
+            },
+            {
+                "product_name": "Product-labore-non",
+                "product_description": "Ad quam enim est quas hic veniam quod in assumenda saepe, amet suscipit vitae expedita quia laudantium cum aperiam porro veniam, quia hic perspiciatis excepturi, quasi aperiam sapiente maiores numquam odio similique delectus molestiae officia fugit.",
+                "product_quantity": 85,
+                "product_price": 72.34
+            },
+            {
+                "product_name": "Product-minus-quae",
+                "product_description": "Deleniti sed modi tempore a veniam possimus odit, error atque incidunt totam sint perferendis, asperiores suscipit praesentium eum exercitationem, debitis itaque modi odio ab earum quaerat porro excepturi nesciunt nulla nostrum?",
+                "product_quantity": 62,
+                "product_price": 54.05
+            }
+        ]
+    }
+}

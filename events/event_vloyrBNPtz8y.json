@@ -1,0 +1,32 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-JNFq4ZS2",
+        "supplier_contact": "supplierJNFq4ZS2@example.com",
+        "products": [
+            {
+                "product_name": "Product-quod-omnis",
+                "product_description": "Impedit hic totam quibusdam cupiditate vero neque modi incidunt in, omnis numquam dolorum aliquid excepturi assumenda similique tempora ex, commodi natus cum repudiandae aliquam quae sint officiis, atque sunt cum dicta alias assumenda non dolorem architecto aspernatur placeat debitis.",
+                "product_quantity": 6,
+                "product_price": 52.26
+            },
+            {
+                "product_name": "Product-natus-velit",
+                "product_description": "Nobis exercitationem culpa quod fugit nostrum sequi, sed tempore assumenda vero molestias veritatis accusantium harum repudiandae voluptatem omnis atque?",
+                "product_quantity": 35,
+                "product_price": 81.26
+            },
+            {
+                "product_name": "Product-impedit-nesciunt",
+                "product_description": "Nisi quibusdam quidem veritatis aperiam, qui repudiandae maxime ad accusamus quam aliquid alias corporis excepturi voluptates, cum tempora mollitia iusto perferendis minus ad?",
+                "product_quantity": 15,
+                "product_price": 61.08
+            },
+            {
+                "product_name": "Product-vel-cumque",
+                "product_description": "Nam asperiores deleniti quas nisi ducimus voluptatem, praesentium pariatur a ab, distinctio blanditiis velit aperiam fuga, eveniet ex magni est inventore ut nihil quia illum repellat maxime quisquam.",
+                "product_quantity": 26,
+                "product_price": 14.8
+            }
+        ]
+    }
+}

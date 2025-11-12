@@ -1,0 +1,26 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-ViaDzrbs",
+        "supplier_contact": "supplierViaDzrbs@example.com",
+        "products": [
+            {
+                "product_name": "Product-corporis-tempora",
+                "product_description": "Voluptates quaerat expedita amet totam, dolorum enim consequuntur et repudiandae ducimus velit facere omnis ullam asperiores dignissimos, maiores at architecto necessitatibus aliquam nobis, esse beatae accusantium laboriosam nemo perspiciatis aliquid reprehenderit vitae ducimus.",
+                "product_quantity": 18,
+                "product_price": 65.29
+            },
+            {
+                "product_name": "Product-sapiente-officia",
+                "product_description": "Modi laudantium necessitatibus nesciunt sequi libero magni optio, explicabo atque sint eius eveniet, ipsam provident sunt inventore amet enim consequuntur?",
+                "product_quantity": 34,
+                "product_price": 14.98
+            },
+            {
+                "product_name": "Product-quos-laborum",
+                "product_description": "Error perferendis suscipit in nisi reiciendis, officiis harum vitae itaque repudiandae.",
+                "product_quantity": 7,
+                "product_price": 3.4
+            }
+        ]
+    }
+}

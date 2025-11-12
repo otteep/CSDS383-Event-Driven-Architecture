@@ -1,0 +1,14 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-vZ0rmy6b",
+        "supplier_contact": "suppliervZ0rmy6b@example.com",
+        "products": [
+            {
+                "product_name": "Product-ad-consequatur",
+                "product_description": "Perspiciatis laborum amet tempore possimus in, consequatur dolore aut unde totam blanditiis quaerat aliquam odit aspernatur, dolor optio cumque velit voluptatum adipisci molestiae culpa eius dignissimos, similique adipisci esse quo dolore nisi amet iusto quae minima laborum?",
+                "product_quantity": 55,
+                "product_price": 63.71
+            }
+        ]
+    }
+}

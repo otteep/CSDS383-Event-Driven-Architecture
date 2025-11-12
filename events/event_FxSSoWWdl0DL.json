@@ -1,0 +1,26 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-bycaovsH",
+        "supplier_contact": "supplierbycaovsH@example.com",
+        "products": [
+            {
+                "product_name": "Product-aut-eius",
+                "product_description": "Ad animi eius aperiam odit unde numquam nisi ut, doloremque aliquam rem incidunt mollitia at aliquid expedita sequi repellat maiores, aut placeat aliquid labore eaque quidem nemo, mollitia ea nobis aliquam officia ex aspernatur aperiam illo rem nemo quam?",
+                "product_quantity": 84,
+                "product_price": 85.99
+            },
+            {
+                "product_name": "Product-esse-odit",
+                "product_description": "Minima quasi non natus aliquam, illum velit expedita minus voluptatibus unde, ad ipsum minima libero illo voluptatum, distinctio quaerat magni enim delectus molestiae rem?",
+                "product_quantity": 25,
+                "product_price": 17.97
+            },
+            {
+                "product_name": "Product-amet-illo",
+                "product_description": "Minus voluptates sunt repudiandae in sit fugiat, voluptatem pariatur eum distinctio explicabo.",
+                "product_quantity": 62,
+                "product_price": 8.9
+            }
+        ]
+    }
+}

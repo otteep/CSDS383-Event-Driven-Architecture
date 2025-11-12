@@ -1,0 +1,14 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-gHcH7JoX",
+        "supplier_contact": "suppliergHcH7JoX@example.com",
+        "products": [
+            {
+                "product_name": "Product-distinctio-commodi",
+                "product_description": "Et iste omnis nulla nemo, molestias eveniet esse et dignissimos explicabo, dolores unde distinctio quo quod fugit reprehenderit molestiae asperiores, tenetur incidunt eaque impedit magnam fuga itaque delectus obcaecati, magnam repellat nesciunt hic neque ducimus quod explicabo quasi veniam autem.",
+                "product_quantity": 28,
+                "product_price": 37.61
+            }
+        ]
+    }
+}

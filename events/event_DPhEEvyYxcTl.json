@@ -1,0 +1,38 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-EqdtvY0t",
+        "supplier_contact": "supplierEqdtvY0t@example.com",
+        "products": [
+            {
+                "product_name": "Product-quae-sit",
+                "product_description": "Odio delectus corporis obcaecati aut voluptatibus voluptate molestiae laudantium illo, eaque laudantium odio nesciunt nam quibusdam exercitationem expedita veniam sit, veniam commodi asperiores voluptate incidunt vitae consequatur quam dolorem ipsum explicabo, ipsum in accusantium officiis molestias tempore, alias mollitia maxime libero ullam delectus?",
+                "product_quantity": 50,
+                "product_price": 61.03
+            },
+            {
+                "product_name": "Product-labore-tempora",
+                "product_description": "Adipisci voluptas quibusdam expedita dignissimos eaque quisquam quidem nemo voluptatem neque nobis, iste alias quae ut ipsam soluta illum expedita repellat magni aliquam, similique error voluptatibus delectus quisquam fugiat.",
+                "product_quantity": 20,
+                "product_price": 98.0
+            },
+            {
+                "product_name": "Product-officia-at",
+                "product_description": "Iusto nisi delectus saepe aliquid placeat molestias distinctio accusantium officia perspiciatis illo, sequi aliquam deleniti dolores perferendis?",
+                "product_quantity": 78,
+                "product_price": 98.73
+            },
+            {
+                "product_name": "Product-quo-consequatur",
+                "product_description": "Quod iste veritatis facere nam a magni rem, atque voluptatibus consequatur facilis illo veniam facere, quasi quod laboriosam officia asperiores rerum.",
+                "product_quantity": 3,
+                "product_price": 11.83
+            },
+            {
+                "product_name": "Product-harum-quas",
+                "product_description": "Numquam nulla est facere eius at ullam, sunt iste dolores odit at distinctio labore quibusdam nisi cum veniam enim, aliquid sed accusantium possimus, fugit iusto nostrum minima voluptas quod excepturi.",
+                "product_quantity": 13,
+                "product_price": 87.17
+            }
+        ]
+    }
+}

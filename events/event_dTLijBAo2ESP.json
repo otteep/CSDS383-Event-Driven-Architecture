@@ -1,0 +1,37 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-7OFNahVw",
+        "supplier_contact": "supplier7OFNahVw@example.com",
+        "products": [
+            {
+                "product_name": "Product-assumenda-adipisci",
+                "product_description": "Dignissimos dolore quod dolor quasi, minima sequi hic necessitatibus nesciunt molestias provident sed deserunt expedita, reprehenderit necessitatibus tempore non aut mollitia quae numquam quo dicta, doloremque quasi quisquam numquam, distinctio quia esse nam tempore dolor consectetur odit dicta.",
+                "product_quantity": 75,
+                "product_price": 13.39
+            },
+            {
+                "product_name": "Product-rem-fugit",
+                "product_description": "Ipsum fugit non totam voluptas doloremque laudantium dicta unde assumenda iusto nesciunt, laboriosam vel quo qui atque veniam commodi maxime esse?",
+                "product_quantity": 6,
+                "product_price": 91.16
+            },
+            {
+                "product_name": "Product-delectus-velit",
+                "product_description": "Quae perspiciatis nihil doloremque unde, beatae laudantium aut.",
+                "product_quantity": 95,
+                "product_price": 42.0
+            },
+            {
+                "product_name": "Product-quia-illum",
+                "product_quantity": 2,
+                "product_price": 31.53
+            },
+            {
+                "product_name": "Product-iste-distinctio",
+                "product_description": "Nemo quia sed alias hic blanditiis veniam, eum eligendi excepturi a odio obcaecati id, illum recusandae hic perspiciatis exercitationem ducimus, perferendis nisi vitae eum?",
+                "product_quantity": 83,
+                "product_price": 84.85
+            }
+        ]
+    }
+}

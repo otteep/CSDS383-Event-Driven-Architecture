@@ -1,0 +1,32 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-CSieODIp",
+        "supplier_contact": "supplierCSieODIp@example.com",
+        "products": [
+            {
+                "product_name": "Product-vero-tenetur",
+                "product_description": "Harum numquam sequi, repudiandae voluptate minus possimus earum odio quae, alias dolorem maiores iure unde nihil voluptas voluptates atque sed quia, qui sapiente similique libero ut, nesciunt sint laborum enim rerum at voluptate est a?",
+                "product_quantity": 13,
+                "product_price": 40.18
+            },
+            {
+                "product_name": "Product-expedita-quia",
+                "product_description": "Eius tempora nihil labore nemo porro fugit minima, labore quae harum id tenetur facere eum doloremque repellat reiciendis ipsam, consequatur aperiam qui, tempore error soluta iusto dignissimos.",
+                "product_quantity": 40,
+                "product_price": 54.52
+            },
+            {
+                "product_name": "Product-reiciendis-ea",
+                "product_description": "Odio iusto saepe, at qui libero laudantium consequatur quae reiciendis vitae ullam quod ad, maiores ad reiciendis repudiandae quibusdam aperiam cupiditate ducimus, quibusdam asperiores nam ipsum voluptatum libero quos et voluptates, assumenda iure eius cum odit exercitationem necessitatibus voluptatum magni dolores aut?",
+                "product_quantity": 11,
+                "product_price": 82.13
+            },
+            {
+                "product_name": "Product-suscipit-architecto",
+                "product_description": "Assumenda placeat cupiditate saepe non, dignissimos possimus eveniet voluptatum non, fugiat ex dicta modi ab iusto delectus culpa cum obcaecati praesentium, saepe necessitatibus veritatis harum nemo, quas minima quis reprehenderit suscipit.",
+                "product_quantity": 48,
+                "product_price": 15.03
+            }
+        ]
+    }
+}

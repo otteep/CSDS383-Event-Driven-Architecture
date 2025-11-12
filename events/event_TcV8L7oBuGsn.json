@@ -1,0 +1,20 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-n2Q8Ah2z",
+        "supplier_contact": "suppliern2Q8Ah2z@example.com",
+        "products": [
+            {
+                "product_name": "Product-in-necessitatibus",
+                "product_description": "Velit at similique harum, commodi ad molestias totam modi est ab in natus?",
+                "product_quantity": 98,
+                "product_price": 89.67
+            },
+            {
+                "product_name": "Product-deserunt-laudantium",
+                "product_description": "Possimus quae provident fugit atque ea ab quam voluptatibus, molestiae culpa voluptatem totam quia ad doloremque?",
+                "product_quantity": 82,
+                "product_price": 3.48
+            }
+        ]
+    }
+}

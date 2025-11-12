@@ -1,0 +1,26 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-z8kEIOks",
+        "supplier_contact": "supplierz8kEIOks@example.com",
+        "products": [
+            {
+                "product_name": "Product-incidunt-dolorum",
+                "product_description": "Necessitatibus repellendus nihil et obcaecati dolorem quidem minus ullam laudantium, architecto quaerat reiciendis numquam?",
+                "product_quantity": 23,
+                "product_price": 25.92
+            },
+            {
+                "product_name": "Product-commodi-dolorum",
+                "product_description": "Nam aspernatur exercitationem eum quo assumenda repellat numquam asperiores animi, in ducimus quos quibusdam iusto quod enim velit est ex, minus ratione minima explicabo nemo nesciunt veniam, modi aut totam quia dolorem.",
+                "product_quantity": 43,
+                "product_price": 96.46
+            },
+            {
+                "product_name": "Product-praesentium-at",
+                "product_description": "Reiciendis id nemo sunt officiis rerum, cum dolorem quia consectetur illo natus id itaque quasi at nulla?",
+                "product_quantity": 10,
+                "product_price": 45.17
+            }
+        ]
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "supplier": {
+        "supplier_contact": "suppliernn4AkgmW@example.com",
+        "products": [
+            {
+                "product_name": "Product-magni-possimus",
+                "product_description": "Numquam eveniet tempore veritatis ipsum consectetur et magni natus molestias quod obcaecati, repellat iure vel.",
+                "product_quantity": 40,
+                "product_price": 27.23
+            },
+            {
+                "product_name": "Product-dignissimos-ratione",
+                "product_description": "Rem ratione modi quod perspiciatis commodi veniam provident corrupti tempore, dolor molestiae at, adipisci iure cum eius enim, illo aspernatur molestias suscipit dolorem vel nam harum quas obcaecati recusandae.",
+                "product_quantity": 51,
+                "product_price": 69.55
+            },
+            {
+                "product_name": "Product-adipisci-veniam",
+                "product_description": "Corrupti at veritatis vero iure impedit quia id in amet ipsam magni, sunt nostrum quae eaque sit nulla provident, maiores eius accusantium.",
+                "product_quantity": 42,
+                "product_price": 35.19
+            },
+            {
+                "product_name": "Product-mollitia-neque",
+                "product_description": "Voluptates libero consequatur mollitia assumenda repellat amet numquam sapiente praesentium, illo quaerat in, iure dolorem reiciendis debitis cum obcaecati odio ullam laboriosam facilis pariatur?",
+                "product_quantity": 59,
+                "product_price": 34.74
+            },
+            {
+                "product_name": "Product-natus-architecto",
+                "product_description": "Minus magnam maiores nisi quidem commodi sequi quia debitis, minima quisquam error atque fuga, officiis fugit porro ea natus quasi dignissimos quo, inventore expedita iure minima numquam unde reprehenderit illo provident, vel nulla eligendi eos beatae quidem fugit laborum.",
+                "product_quantity": 28,
+                "product_price": 31.51
+            }
+        ]
+    }
+}

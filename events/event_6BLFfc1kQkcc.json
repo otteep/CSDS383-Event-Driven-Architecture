@@ -1,0 +1,20 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-0sPiFVVN",
+        "supplier_contact": "supplier0sPiFVVN@example.com",
+        "products": [
+            {
+                "product_name": "Product-fuga-eveniet",
+                "product_description": "Nostrum debitis tempore corporis omnis cumque neque natus culpa fugiat fugit, vero quos aliquid, in sequi dicta possimus necessitatibus dolore natus soluta eligendi deserunt, asperiores quae officiis quis necessitatibus ipsum aspernatur commodi sequi optio, in consequuntur unde minima?",
+                "product_quantity": 14,
+                "product_price": 44.1
+            },
+            {
+                "product_name": "Product-dicta-aspernatur",
+                "product_description": "Maiores voluptatibus ipsum vitae magni sequi assumenda, maiores minus inventore voluptate quam est pariatur cupiditate veritatis eos.",
+                "product_quantity": 68,
+                "product_price": 38.32
+            }
+        ]
+    }
+}

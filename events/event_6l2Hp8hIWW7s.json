@@ -1,0 +1,31 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-8O7g5JrP",
+        "supplier_contact": "supplier8O7g5JrP@example.com",
+        "products": [
+            {
+                "product_name": "Product-sint-tempore",
+                "product_description": "Impedit nulla dolore animi, enim adipisci commodi saepe veniam quo ducimus molestiae eos, harum eius officiis laboriosam nobis ipsum omnis nemo delectus veritatis minus ipsa, impedit eveniet quis placeat, harum hic sint itaque doloremque.",
+                "product_quantity": 26,
+                "product_price": 53.55
+            },
+            {
+                "product_name": "Product-sunt-voluptas",
+                "product_description": "Eum odit ipsa laudantium magni voluptatibus eligendi exercitationem assumenda voluptate, error similique quis provident eaque et a quas asperiores eius voluptate animi, iste commodi necessitatibus, aperiam tempore explicabo, ea accusamus ratione saepe aut voluptate nemo veritatis omnis culpa eum.",
+                "product_quantity": 26,
+                "product_price": 63.27
+            },
+            {
+                "product_name": "Product-maiores-non",
+                "product_quantity": 64,
+                "product_price": 4.65
+            },
+            {
+                "product_name": "Product-corrupti-omnis",
+                "product_description": "Dicta optio maiores adipisci officia mollitia quam voluptatibus recusandae eum, numquam aliquam voluptates vel ea impedit harum, sunt ipsum impedit nisi dicta eaque explicabo quo nobis voluptatem.",
+                "product_quantity": 56,
+                "product_price": 21.84
+            }
+        ]
+    }
+}

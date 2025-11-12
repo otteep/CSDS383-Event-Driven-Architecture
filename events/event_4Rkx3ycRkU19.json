@@ -1,0 +1,14 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-HpCXrp6S",
+        "supplier_contact": "supplierHpCXrp6S@example.com",
+        "products": [
+            {
+                "product_name": "Product-dolor-deleniti",
+                "product_description": "Consectetur doloremque rem quas, consequatur debitis consequuntur blanditiis dolorum provident error, numquam dolorem iure ut mollitia alias nesciunt labore accusamus fugiat non?",
+                "product_quantity": 99,
+                "product_price": 27.33
+            }
+        ]
+    }
+}

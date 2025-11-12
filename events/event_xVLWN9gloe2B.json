@@ -1,0 +1,14 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-bFQGMHsu",
+        "supplier_contact": "supplierbFQGMHsu@example.com",
+        "products": [
+            {
+                "product_name": "Product-praesentium-quos",
+                "product_description": "Labore quas voluptates odit soluta earum iste ipsum velit facere vel reprehenderit, ipsa sed optio, explicabo repellendus amet odio qui quos?",
+                "product_quantity": 16,
+                "product_price": 97.45
+            }
+        ]
+    }
+}

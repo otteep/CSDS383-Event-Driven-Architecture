@@ -1,0 +1,38 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-iEG471wa",
+        "supplier_contact": "supplieriEG471wa@example.com",
+        "products": [
+            {
+                "product_name": "Product-voluptatem-dicta",
+                "product_description": "Perferendis at nesciunt quis placeat, minima voluptatum voluptate autem commodi aspernatur incidunt, beatae est voluptas dolorem hic incidunt eius earum delectus, tempore culpa quod quos obcaecati veritatis voluptatem delectus ea, odit dolorem corrupti eos natus repudiandae tempora molestias?",
+                "product_quantity": 90,
+                "product_price": 73.91
+            },
+            {
+                "product_name": "Product-nobis-fugiat",
+                "product_description": "Commodi laboriosam ad, sint ab asperiores voluptas aut officiis eum, nemo sunt reprehenderit quis nesciunt illum veritatis modi voluptate ex ullam molestiae, eligendi eveniet deserunt sunt consequatur corrupti quis rerum dolor recusandae est provident.",
+                "product_quantity": 90,
+                "product_price": 87.25
+            },
+            {
+                "product_name": "Product-voluptate-culpa",
+                "product_description": "Repudiandae autem nemo soluta provident dignissimos odio id sequi dolorum quos, eaque mollitia quia illo non?",
+                "product_quantity": 49,
+                "product_price": 23.36
+            },
+            {
+                "product_name": "Product-obcaecati-delectus",
+                "product_description": "Natus ad dolorum, aut provident quibusdam reprehenderit eaque ab corrupti vitae esse a?",
+                "product_quantity": 73,
+                "product_price": 88.82
+            },
+            {
+                "product_name": "Product-vitae-necessitatibus",
+                "product_description": "Voluptatum optio laudantium illum excepturi nemo magni ullam, rerum nesciunt eveniet itaque quo fugit repudiandae molestiae qui repellendus, necessitatibus praesentium ipsum ea unde?",
+                "product_quantity": 89,
+                "product_price": 20.86
+            }
+        ]
+    }
+}

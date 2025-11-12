@@ -1,0 +1,25 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-YUNhBpJ6",
+        "supplier_contact": "supplierYUNhBpJ6@example.com",
+        "products": [
+            {
+                "product_name": "Product-ex-aut",
+                "product_description": "Eligendi velit quaerat vel ad neque delectus praesentium culpa hic, amet reprehenderit voluptate quo veritatis eius, molestias dolores eaque aspernatur ipsum nam veritatis maxime, fugit reiciendis consectetur quaerat porro perspiciatis at corporis doloremque earum consequatur soluta.",
+                "product_price": 48.72
+            },
+            {
+                "product_name": "Product-neque-officia",
+                "product_description": "Expedita rerum dolores magnam at porro tenetur cum voluptates voluptatum et, delectus reiciendis magni deserunt culpa, ipsum natus repudiandae quaerat perspiciatis ea minus beatae iure dolor quis.",
+                "product_quantity": 10,
+                "product_price": 41.83
+            },
+            {
+                "product_name": "Product-officiis-autem",
+                "product_description": "Quibusdam impedit debitis quaerat nam natus sed non voluptatibus rem, deleniti sapiente repellendus possimus odit, dolore facilis ducimus, eveniet optio sed iure illum non doloribus est, ea adipisci et voluptatum dolor ducimus at reiciendis.",
+                "product_quantity": 5,
+                "product_price": 76.9
+            }
+        ]
+    }
+}

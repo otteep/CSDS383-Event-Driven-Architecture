@@ -1,0 +1,38 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-tOx3fYkm",
+        "supplier_contact": "suppliertOx3fYkm@example.com",
+        "products": [
+            {
+                "product_name": "Product-tempora-optio",
+                "product_description": "Recusandae enim officia ducimus sint reiciendis nisi asperiores repudiandae, tempore consequuntur totam sed nostrum ipsam possimus nesciunt exercitationem error ut, voluptate in eaque numquam sit voluptates, porro pariatur officiis dignissimos exercitationem ad totam illo eveniet aspernatur, quisquam veritatis eos quae est doloribus quam consectetur ratione error doloremque voluptatem?",
+                "product_quantity": 49,
+                "product_price": 46.64
+            },
+            {
+                "product_name": "Product-nisi-inventore",
+                "product_description": "Animi fugit veniam veritatis incidunt mollitia ut dolorem, fuga ab nam officia labore laboriosam architecto porro consectetur voluptatum enim, facere quam dignissimos iste eligendi culpa praesentium nobis architecto exercitationem debitis porro, harum impedit cupiditate in temporibus quos esse sit distinctio similique saepe, distinctio quod fugiat ratione corporis dolore magni excepturi dolorem?",
+                "product_quantity": 45,
+                "product_price": 69.68
+            },
+            {
+                "product_name": "Product-consequatur-accusamus",
+                "product_description": "Voluptate non iusto illo sapiente, cupiditate id neque veniam soluta sed officia, esse nihil perspiciatis, est voluptatem sunt, asperiores quasi quis facere officiis minima voluptas ut.",
+                "product_quantity": 37,
+                "product_price": 70.9
+            },
+            {
+                "product_name": "Product-similique-molestias",
+                "product_description": "Laudantium reiciendis vero ea ab rem id architecto, magnam at omnis, ex inventore delectus minus repudiandae molestias voluptates quia laborum accusantium, dolore ut voluptatum aliquid consequatur deserunt eligendi omnis animi?",
+                "product_quantity": 38,
+                "product_price": 33.97
+            },
+            {
+                "product_name": "Product-dolore-explicabo",
+                "product_description": "Quaerat pariatur a ad ullam blanditiis natus beatae soluta odio sed doloremque, officiis non vel magnam soluta nobis, accusamus voluptate magni et, ipsa dicta perferendis, eum ducimus molestias eligendi vero?",
+                "product_quantity": 18,
+                "product_price": 12.31
+            }
+        ]
+    }
+}

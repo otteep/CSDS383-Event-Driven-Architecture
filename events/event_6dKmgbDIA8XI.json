@@ -1,0 +1,31 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-INOzM9DA",
+        "supplier_contact": "supplierINOzM9DA@example.com",
+        "products": [
+            {
+                "product_name": "Product-quod-mollitia",
+                "product_description": "Numquam repudiandae at repellendus reprehenderit pariatur iusto vel a impedit quae, adipisci deserunt et cum quaerat perferendis architecto necessitatibus, pariatur incidunt ipsam hic quaerat.",
+                "product_price": 16.19
+            },
+            {
+                "product_name": "Product-quae-magnam",
+                "product_description": "Libero sapiente distinctio nobis quos debitis hic rerum aspernatur eius voluptatibus, deleniti cupiditate magnam non fuga exercitationem sint, autem dolores ipsam dolorem.",
+                "product_quantity": 21,
+                "product_price": 72.88
+            },
+            {
+                "product_name": "Product-corrupti-aspernatur",
+                "product_description": "Voluptas deserunt perspiciatis adipisci minima cupiditate incidunt ipsam, officia necessitatibus earum excepturi vero amet vitae, praesentium aperiam eius ad explicabo dicta itaque?",
+                "product_quantity": 16,
+                "product_price": 43.36
+            },
+            {
+                "product_name": "Product-quae-fugit",
+                "product_description": "Eum fugiat iste ipsum vel explicabo laborum sunt, minus debitis aspernatur id, omnis aliquam odio saepe optio nostrum autem, cum mollitia ullam, similique ut omnis explicabo.",
+                "product_quantity": 23,
+                "product_price": 25.48
+            }
+        ]
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "supplier": {
+        "supplier_contact": "supplierl3Tx6g7m@example.com",
+        "products": [
+            {
+                "product_name": "Product-debitis-assumenda",
+                "product_description": "Voluptas ratione distinctio magni sit aliquam omnis sequi soluta id, quia ratione aut repudiandae minus est recusandae error distinctio soluta, magnam ratione nesciunt tempora, ad expedita laboriosam soluta suscipit qui fuga placeat?",
+                "product_quantity": 92,
+                "product_price": 46.66
+            },
+            {
+                "product_name": "Product-consectetur-et",
+                "product_description": "Deserunt sint nesciunt magni officiis perspiciatis rerum eos dolore ratione, numquam inventore ipsa, aliquid reiciendis iste, omnis nemo inventore?",
+                "product_quantity": 74,
+                "product_price": 35.09
+            },
+            {
+                "product_name": "Product-dolorum-provident",
+                "product_description": "Velit atque illum deleniti officiis amet rem aperiam itaque, incidunt ipsam voluptate ex sit inventore delectus repellat placeat molestias, porro voluptatem expedita tenetur eveniet autem ut iste quis et libero, consequatur quasi tempora ad eligendi deserunt in veniam ipsum aspernatur velit, temporibus sed amet alias?",
+                "product_quantity": 36,
+                "product_price": 92.24
+            },
+            {
+                "product_name": "Product-ullam-ex",
+                "product_description": "Voluptatum itaque sapiente similique assumenda dolorem quibusdam minima facilis, sequi ut expedita ullam cum vero asperiores, atque quae modi nostrum sapiente.",
+                "product_quantity": 71,
+                "product_price": 80.27
+            }
+        ]
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-l2wPViOg",
+        "supplier_contact": "supplierl2wPViOg@example.com",
+        "products": [
+            {
+                "product_name": "Product-facere-labore",
+                "product_description": "Excepturi dolor beatae illo voluptatum, obcaecati illum magni animi officia ea beatae?",
+                "product_quantity": 50
+            },
+            {
+                "product_name": "Product-ad-magnam",
+                "product_description": "Nihil fugiat debitis praesentium harum ad, fugiat nostrum sed tempora natus magnam nisi doloribus quo necessitatibus odit, sint enim delectus?",
+                "product_quantity": 78,
+                "product_price": 33.71
+            }
+        ]
+    }
+}

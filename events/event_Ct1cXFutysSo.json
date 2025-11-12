@@ -1,0 +1,26 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-XxREgyvw",
+        "supplier_contact": "supplierXxREgyvw@example.com",
+        "products": [
+            {
+                "product_name": "Product-est-laborum",
+                "product_description": "Enim magnam numquam labore magni nulla quam, a nobis inventore nemo quibusdam ratione?",
+                "product_quantity": 32,
+                "product_price": 58.05
+            },
+            {
+                "product_name": "Product-blanditiis-repellendus",
+                "product_description": "Voluptatum quas placeat consequatur exercitationem, excepturi mollitia eum architecto aperiam nobis distinctio dolores similique aspernatur error?",
+                "product_quantity": 43,
+                "product_price": 70.99
+            },
+            {
+                "product_name": "Product-sint-quae",
+                "product_description": "Dolorem culpa odio natus nisi unde nulla, illo itaque velit rem a minus sapiente dicta dolores voluptatibus, aut adipisci debitis quae quasi voluptatum corporis sapiente, facere sapiente velit voluptates voluptatibus quod ullam officiis facilis cum, eveniet error et?",
+                "product_quantity": 3,
+                "product_price": 34.92
+            }
+        ]
+    }
+}

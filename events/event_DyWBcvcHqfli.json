@@ -1,0 +1,38 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-UIGaVOTy",
+        "supplier_contact": "supplierUIGaVOTy@example.com",
+        "products": [
+            {
+                "product_name": "Product-enim-ea",
+                "product_description": "Dolore minima sed fugiat, fugit officiis quas rerum, eum aspernatur nesciunt amet tenetur dolor adipisci, expedita repudiandae non vero dolorum at doloremque delectus?",
+                "product_quantity": 3,
+                "product_price": 26.43
+            },
+            {
+                "product_name": "Product-non-voluptate",
+                "product_description": "Consequatur aliquid corrupti fuga ullam unde libero totam accusamus alias, aspernatur autem quos soluta ratione fugit labore aperiam quas saepe, animi molestias deleniti iste dolore doloribus, veritatis possimus quis ipsam atque maxime distinctio laudantium ea vel voluptatibus.",
+                "product_quantity": 93,
+                "product_price": 6.87
+            },
+            {
+                "product_name": "Product-eveniet-nihil",
+                "product_description": "Ipsam asperiores iusto sapiente labore quia debitis deserunt tempora ratione fugiat, magnam odio autem cum cupiditate iusto animi deleniti dolore, culpa nam iure earum excepturi hic odit molestias, laudantium possimus ducimus?",
+                "product_quantity": 15,
+                "product_price": 13.32
+            },
+            {
+                "product_name": "Product-impedit-cupiditate",
+                "product_description": "Assumenda sunt voluptas at quas deserunt illum quisquam magni nisi, magnam sit soluta itaque enim eligendi, ullam minima natus unde error iusto fuga nam ducimus facilis ipsa reprehenderit?",
+                "product_quantity": 96,
+                "product_price": 46.98
+            },
+            {
+                "product_name": "Product-dolor-ipsam",
+                "product_description": "Quibusdam debitis aut dignissimos ab veniam, corporis nemo quo veritatis eius dolor accusantium, nihil ducimus corporis, quos quas ea consequatur odit nihil libero iure?",
+                "product_quantity": 22,
+                "product_price": 65.72
+            }
+        ]
+    }
+}

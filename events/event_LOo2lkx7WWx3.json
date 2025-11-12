@@ -1,0 +1,14 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-2D8cweVd",
+        "supplier_contact": "supplier2D8cweVd@example.com",
+        "products": [
+            {
+                "product_name": "Product-qui-voluptatibus",
+                "product_description": "Eum soluta doloremque ab illum, nostrum nihil exercitationem fuga non, ex exercitationem tempore, officiis fugiat voluptate aut placeat, blanditiis provident aperiam soluta neque architecto alias fugiat consequatur quas?",
+                "product_quantity": 10,
+                "product_price": 16.57
+            }
+        ]
+    }
+}

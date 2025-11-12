@@ -1,0 +1,26 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-EZT0Bw9l",
+        "supplier_contact": "supplierEZT0Bw9l@example.com",
+        "products": [
+            {
+                "product_name": "Product-nesciunt-harum",
+                "product_description": "Est inventore laudantium doloribus facilis obcaecati saepe et provident, deleniti commodi facilis.",
+                "product_quantity": 42,
+                "product_price": 8.7
+            },
+            {
+                "product_name": "Product-eius-esse",
+                "product_description": "Rerum cum ullam labore voluptatibus, aspernatur voluptatem quia corporis.",
+                "product_quantity": 44,
+                "product_price": 76.82
+            },
+            {
+                "product_name": "Product-dolores-cupiditate",
+                "product_description": "Ex accusantium sequi optio quos expedita, at itaque ex error tenetur laboriosam.",
+                "product_quantity": 25,
+                "product_price": 44.85
+            }
+        ]
+    }
+}

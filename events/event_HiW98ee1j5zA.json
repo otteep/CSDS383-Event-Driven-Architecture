@@ -1,0 +1,32 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-Ekluut9o",
+        "supplier_contact": "supplierEkluut9o@example.com",
+        "products": [
+            {
+                "product_name": "Product-quasi-fugit",
+                "product_description": "Accusamus a deleniti tenetur pariatur, unde iusto facere deserunt, debitis accusantium nisi distinctio iusto doloribus?",
+                "product_quantity": 99,
+                "product_price": 57.16
+            },
+            {
+                "product_name": "Product-impedit-officia",
+                "product_description": "Consectetur incidunt vitae corrupti deleniti, veritatis doloribus amet consequatur?",
+                "product_quantity": 9,
+                "product_price": 20.1
+            },
+            {
+                "product_name": "Product-enim-neque",
+                "product_description": "Nemo dolorum nam quasi distinctio ipsa sit aspernatur impedit quam, aliquam ducimus debitis culpa quas iure repellendus quo in totam error tenetur, ullam labore explicabo iste asperiores delectus voluptatibus saepe quisquam culpa odit excepturi, numquam tempora esse repellendus asperiores corrupti?",
+                "product_quantity": 89,
+                "product_price": 37.91
+            },
+            {
+                "product_name": "Product-voluptate-obcaecati",
+                "product_description": "Temporibus totam illo perferendis, quisquam cum quibusdam saepe distinctio commodi vel repudiandae cumque recusandae dolorem, recusandae perspiciatis neque voluptate modi et nulla nobis, magni debitis tempora eius fuga consequatur magnam rerum cum earum ducimus, quos commodi reiciendis voluptas voluptatibus magnam voluptatem sapiente quibusdam magni possimus?",
+                "product_quantity": 81,
+                "product_price": 72.19
+            }
+        ]
+    }
+}

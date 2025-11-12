@@ -1,0 +1,14 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-Vg3POz6F",
+        "supplier_contact": "supplierVg3POz6F@example.com",
+        "products": [
+            {
+                "product_name": "Product-beatae-dolor",
+                "product_description": "Quos velit totam, consequuntur eaque ducimus commodi voluptas asperiores impedit inventore, voluptatibus mollitia inventore animi dolorum ipsam modi perspiciatis, dolorem excepturi corrupti veritatis, repellat commodi quaerat?",
+                "product_quantity": 94,
+                "product_price": 65.75
+            }
+        ]
+    }
+}

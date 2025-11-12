@@ -1,0 +1,26 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-mcTwg0jG",
+        "supplier_contact": "suppliermcTwg0jG@example.com",
+        "products": [
+            {
+                "product_name": "Product-placeat-error",
+                "product_description": "Ipsa incidunt aut rem odio sequi voluptates consequuntur magni illo, doloremque eligendi fugiat praesentium recusandae sapiente explicabo.",
+                "product_quantity": 48,
+                "product_price": 93.44
+            },
+            {
+                "product_name": "Product-quod-ea",
+                "product_description": "Sed fugit distinctio, aliquid aperiam dignissimos reiciendis suscipit corrupti, laborum quibusdam beatae eaque corrupti quam praesentium amet ipsam, corrupti veniam suscipit delectus quasi id, consequuntur dolor sed perspiciatis aut in error voluptatibus inventore quasi eveniet.",
+                "product_quantity": 12,
+                "product_price": 22.75
+            },
+            {
+                "product_name": "Product-sapiente-reiciendis",
+                "product_description": "Ipsam impedit quia error consequuntur obcaecati, est ipsum et ut, nostrum recusandae nisi ex.",
+                "product_quantity": 24,
+                "product_price": 36.55
+            }
+        ]
+    }
+}

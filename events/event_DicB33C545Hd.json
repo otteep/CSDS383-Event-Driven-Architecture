@@ -1,0 +1,20 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-5vNqgJYg",
+        "supplier_contact": "supplier5vNqgJYg@example.com",
+        "products": [
+            {
+                "product_name": "Product-hic-voluptatem",
+                "product_description": "Ratione doloremque asperiores ut maxime corrupti, numquam ullam natus exercitationem eveniet eaque ducimus vel, nihil libero consequatur eaque a praesentium ab earum esse animi blanditiis?",
+                "product_quantity": 63,
+                "product_price": 96.37
+            },
+            {
+                "product_name": "Product-enim-distinctio",
+                "product_description": "Voluptatibus alias porro cumque sed, dolores nemo labore a excepturi perferendis optio, rerum praesentium sed adipisci laborum doloribus eveniet deleniti atque, molestiae vel asperiores ullam dolor itaque alias explicabo?",
+                "product_quantity": 46,
+                "product_price": 28.88
+            }
+        ]
+    }
+}

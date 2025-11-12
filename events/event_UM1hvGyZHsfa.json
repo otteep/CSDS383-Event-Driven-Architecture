@@ -1,0 +1,20 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-yi5roJPn",
+        "supplier_contact": "supplieryi5roJPn@example.com",
+        "products": [
+            {
+                "product_name": "Product-ipsum-aliquid",
+                "product_description": "Illo ab ipsam voluptatem odio porro assumenda maiores rem, animi deleniti vero at repellendus obcaecati amet iste reiciendis dolorem quasi, tenetur sit corporis mollitia error ipsam suscipit atque aliquid dicta, fuga quisquam sunt labore qui eveniet aspernatur quia quaerat, neque cupiditate adipisci.",
+                "product_quantity": 2,
+                "product_price": 81.35
+            },
+            {
+                "product_name": "Product-maiores-eligendi",
+                "product_description": "Officiis tenetur repellat mollitia alias quod explicabo sed tempore, nihil ex dicta odio impedit sint beatae quos, a non quaerat ipsum alias dolore obcaecati quisquam.",
+                "product_quantity": 87,
+                "product_price": 16.37
+            }
+        ]
+    }
+}

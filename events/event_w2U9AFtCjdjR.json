@@ -1,0 +1,26 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-esG0ijfa",
+        "supplier_contact": "supplieresG0ijfa@example.com",
+        "products": [
+            {
+                "product_name": "Product-unde-adipisci",
+                "product_description": "Soluta tempora deleniti est neque adipisci, eaque deleniti iste similique aliquid sunt harum quidem qui officiis quos, suscipit fugit ea assumenda perferendis ipsum, vitae dicta dolor ab illo ratione nemo eligendi, nostrum ab quo?",
+                "product_quantity": 9,
+                "product_price": 73.74
+            },
+            {
+                "product_name": "Product-nostrum-aut",
+                "product_description": "Modi quam perferendis dolorem accusantium exercitationem ex quisquam, asperiores id alias inventore aperiam necessitatibus nisi velit odit eos, laboriosam nihil adipisci, vel non rem nulla iure, sint similique hic cum in deleniti veritatis aliquam officia quod?",
+                "product_quantity": 44,
+                "product_price": 28.36
+            },
+            {
+                "product_name": "Product-voluptatum-provident",
+                "product_description": "Ipsam eos sint doloremque id sit, est nulla earum facere vel.",
+                "product_quantity": 25,
+                "product_price": 54.08
+            }
+        ]
+    }
+}

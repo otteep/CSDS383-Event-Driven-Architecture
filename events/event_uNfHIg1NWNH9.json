@@ -1,0 +1,37 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-z3gjCjVG",
+        "supplier_contact": "supplierz3gjCjVG@example.com",
+        "products": [
+            {
+                "product_name": "Product-aliquid-assumenda",
+                "product_description": "Sapiente veritatis mollitia voluptatibus impedit blanditiis natus inventore vel distinctio delectus, reiciendis quidem voluptatum vel cum dicta facere doloribus, enim molestiae tenetur libero odit molestias saepe deleniti qui cum rerum, odio quam praesentium sint rerum perferendis pariatur mollitia earum quaerat amet, ea consectetur laborum repellendus?",
+                "product_quantity": 69,
+                "product_price": 87.55
+            },
+            {
+                "product_name": "Product-et-voluptates",
+                "product_description": "In officia a blanditiis quisquam at, pariatur natus nostrum expedita maiores amet officiis hic, velit ipsum corporis, hic explicabo distinctio totam sint provident veniam dicta voluptatem, fugit tempora dolorem veritatis dolor sapiente.",
+                "product_quantity": 55,
+                "product_price": 24.37
+            },
+            {
+                "product_description": "Delectus dolor illum omnis, dolore laborum magni sed a modi aliquid, cum distinctio fugiat sapiente inventore quis ea, iusto impedit quia voluptates quae, omnis possimus nostrum ullam sit laborum iusto id vitae delectus itaque?",
+                "product_quantity": 62,
+                "product_price": 77.4
+            },
+            {
+                "product_name": "Product-eligendi-dolor",
+                "product_description": "Ut assumenda nulla repellat accusamus fuga nemo, recusandae libero laborum saepe illo placeat sint soluta dicta accusamus cupiditate nobis, voluptate voluptates itaque corrupti iste incidunt laboriosam necessitatibus molestias ipsa nisi vero, illo error alias, atque eius deleniti fuga corrupti perspiciatis ipsum esse vel in?",
+                "product_quantity": 48,
+                "product_price": 69.52
+            },
+            {
+                "product_name": "Product-eveniet-neque",
+                "product_description": "Aperiam laudantium quibusdam molestiae adipisci maxime repudiandae perspiciatis, ipsum placeat deleniti adipisci exercitationem impedit dolorum itaque fuga voluptatem quod maxime, quibusdam laudantium tempore?",
+                "product_quantity": 11,
+                "product_price": 53.17
+            }
+        ]
+    }
+}

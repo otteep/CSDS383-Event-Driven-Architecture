@@ -1,0 +1,30 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-ThJPdz10",
+        "supplier_contact": "supplierThJPdz10@example.com",
+        "products": [
+            {
+                "product_name": "Product-aperiam-magni",
+                "product_quantity": 97,
+                "product_price": 87.7
+            },
+            {
+                "product_name": "Product-quis-nobis",
+                "product_description": "Tempora doloribus tempore quis eveniet asperiores veritatis officiis accusantium enim itaque, porro doloremque voluptatibus unde beatae illum vitae aperiam delectus deserunt, velit ducimus quod quaerat, animi sit aperiam, quidem delectus quia autem non laborum beatae magnam aliquam alias?",
+                "product_quantity": 64
+            },
+            {
+                "product_name": "Product-quasi-ea",
+                "product_description": "Laboriosam hic aliquam dolores architecto quibusdam animi recusandae doloremque, pariatur iusto ullam ipsa sapiente fugit at ex quisquam cumque, rem voluptate dolorum sapiente asperiores debitis itaque reprehenderit dicta dolores, iure animi labore iste accusantium incidunt omnis ratione.",
+                "product_quantity": 37,
+                "product_price": 4.98
+            },
+            {
+                "product_name": "Product-totam-odio",
+                "product_description": "Perspiciatis laboriosam magnam dolorum cupiditate est corporis quae, ducimus cumque velit voluptate vero assumenda expedita, neque libero illum ab vero quidem iste sunt necessitatibus voluptas excepturi maxime, eaque error laboriosam dolores accusantium eveniet animi pariatur quis repudiandae facere impedit?",
+                "product_quantity": 72,
+                "product_price": 26.24
+            }
+        ]
+    }
+}

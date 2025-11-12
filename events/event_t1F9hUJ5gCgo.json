@@ -1,0 +1,32 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-kuoeuEhK",
+        "supplier_contact": "supplierkuoeuEhK@example.com",
+        "products": [
+            {
+                "product_name": "Product-perferendis-tenetur",
+                "product_description": "Maiores ratione quae laboriosam labore rem nihil quis ipsam mollitia nisi, nostrum laboriosam est voluptates eligendi provident sequi?",
+                "product_quantity": 72,
+                "product_price": 62.36
+            },
+            {
+                "product_name": "Product-at-laboriosam",
+                "product_description": "Inventore molestias aut earum reprehenderit modi, odio quidem at ducimus eveniet omnis totam dolor perferendis itaque, atque fugit provident maxime.",
+                "product_quantity": 46,
+                "product_price": 41.24
+            },
+            {
+                "product_name": "Product-sit-quaerat",
+                "product_description": "Delectus iusto quisquam excepturi tempore quo, laborum tenetur eaque corporis error, at fugit aliquam, beatae ex ducimus, voluptates accusantium provident commodi sed ex optio culpa et maxime recusandae.",
+                "product_quantity": 49,
+                "product_price": 28.14
+            },
+            {
+                "product_name": "Product-magni-error",
+                "product_description": "Saepe placeat cum hic soluta ipsam delectus eveniet id, obcaecati illum iste quibusdam officiis saepe modi enim recusandae quasi asperiores praesentium, natus maiores perferendis aut dolorum odio ipsa harum, reprehenderit numquam quam consequuntur reiciendis, tempore quaerat iure quasi aspernatur possimus.",
+                "product_quantity": 74,
+                "product_price": 32.04
+            }
+        ]
+    }
+}

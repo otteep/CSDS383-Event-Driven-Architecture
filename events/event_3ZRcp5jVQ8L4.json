@@ -1,0 +1,32 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-AEd7cEmg",
+        "supplier_contact": "supplierAEd7cEmg@example.com",
+        "products": [
+            {
+                "product_name": "Product-maxime-unde",
+                "product_description": "Blanditiis earum dicta perferendis magnam soluta aliquam molestias odio, nemo repellendus voluptatum deserunt expedita omnis laudantium iure, earum doloribus cumque eligendi pariatur tempore eius ad illo consectetur consequatur.",
+                "product_quantity": 58,
+                "product_price": 39.8
+            },
+            {
+                "product_name": "Product-voluptatem-sapiente",
+                "product_description": "Commodi vero ipsa eveniet ratione quae sint quos, aut assumenda inventore, eligendi quod labore iusto ipsum laboriosam eum vitae.",
+                "product_quantity": 77,
+                "product_price": 53.96
+            },
+            {
+                "product_name": "Product-amet-voluptatibus",
+                "product_description": "Placeat quaerat doloribus illo, sit doloribus cumque similique praesentium laboriosam rerum quis facilis, perferendis explicabo quo et animi placeat.",
+                "product_quantity": 99,
+                "product_price": 48.07
+            },
+            {
+                "product_name": "Product-a-accusamus",
+                "product_description": "Facilis animi itaque, perspiciatis itaque corrupti.",
+                "product_quantity": 15,
+                "product_price": 14.15
+            }
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-Dpt7kXBG",
+        "supplier_contact": "supplierDpt7kXBG@example.com",
+        "products": [
+            {
+                "product_name": "Product-fugiat-nulla",
+                "product_description": "Doloremque molestiae dolorem itaque saepe quidem nemo, debitis est harum quae voluptas nulla mollitia similique, labore assumenda quas quaerat iure consequuntur ex accusantium eveniet aliquam?",
+                "product_quantity": 97,
+                "product_price": 71.09
+            }
+        ]
+    }
+}

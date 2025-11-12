@@ -1,0 +1,38 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-6DTgkQAF",
+        "supplier_contact": "supplier6DTgkQAF@example.com",
+        "products": [
+            {
+                "product_name": "Product-sit-officiis",
+                "product_description": "Vitae sequi exercitationem quia quaerat facilis praesentium corporis repellat, temporibus quos porro nesciunt veritatis eligendi beatae ratione, laboriosam alias odit facere praesentium reiciendis reprehenderit quo illo?",
+                "product_quantity": 100,
+                "product_price": 93.18
+            },
+            {
+                "product_name": "Product-quod-voluptas",
+                "product_description": "Numquam ipsam porro tenetur sequi assumenda, consectetur sed ipsum perferendis architecto doloremque amet labore quis, minus deserunt nulla asperiores incidunt?",
+                "product_quantity": 33,
+                "product_price": 47.28
+            },
+            {
+                "product_name": "Product-quo-ratione",
+                "product_description": "Aspernatur molestias laborum ex expedita voluptate velit, amet consequuntur dolores magni molestias quo velit pariatur itaque expedita, voluptatibus deleniti nam officia quos laudantium commodi, labore dolorem quis saepe nemo doloribus, perferendis veniam aliquam earum eaque necessitatibus hic enim temporibus sequi.",
+                "product_quantity": 16,
+                "product_price": 12.67
+            },
+            {
+                "product_name": "Product-consequatur-natus",
+                "product_description": "Optio voluptate recusandae consequatur unde, aspernatur reiciendis facilis fugit omnis delectus dolores architecto, vero officia nesciunt, commodi enim ducimus quis amet hic assumenda ullam?",
+                "product_quantity": 12,
+                "product_price": 34.84
+            },
+            {
+                "product_name": "Product-iusto-ut",
+                "product_description": "Velit natus suscipit nihil tempore, repellendus tempore cum quas rerum sed corrupti maxime ad illo architecto voluptatum, exercitationem odit fugiat dolor.",
+                "product_quantity": 40,
+                "product_price": 49.55
+            }
+        ]
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-JfTO9xuF",
+        "supplier_contact": "supplierJfTO9xuF@example.com",
+        "products": [
+            {
+                "product_description": "Modi sapiente nisi maxime aliquid odit repellat reiciendis, sed exercitationem consequatur cupiditate cum.",
+                "product_quantity": 89,
+                "product_price": 10.35
+            }
+        ]
+    }
+}

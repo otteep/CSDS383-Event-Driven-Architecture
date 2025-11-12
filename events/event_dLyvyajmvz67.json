@@ -1,0 +1,31 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-gKlkezoQ",
+        "supplier_contact": "suppliergKlkezoQ@example.com",
+        "products": [
+            {
+                "product_name": "Product-veniam-assumenda",
+                "product_description": "Assumenda possimus reiciendis voluptas nobis voluptate est veritatis, culpa veniam laudantium veritatis blanditiis, itaque nobis ipsam inventore hic.",
+                "product_quantity": 24,
+                "product_price": 17.03
+            },
+            {
+                "product_name": "Product-est-deserunt",
+                "product_description": "Odit atque corrupti eligendi minima sequi debitis molestiae totam delectus rerum, cumque quaerat totam facilis, quae vitae odio quia?",
+                "product_quantity": 11,
+                "product_price": 73.64
+            },
+            {
+                "product_name": "Product-aut-dolorum",
+                "product_description": "Tempora corporis aliquam quod sit, adipisci recusandae ratione hic laudantium enim labore quae, veritatis cumque neque nemo suscipit temporibus dignissimos atque inventore minus vero tenetur, autem facilis quos magni odit asperiores velit exercitationem quas at optio rerum, quae laboriosam neque doloribus provident ea quis accusamus?",
+                "product_quantity": 18,
+                "product_price": 15.17
+            },
+            {
+                "product_name": "Product-odit-sunt",
+                "product_description": "Rem nam sunt velit hic, illum eveniet rerum sunt cupiditate laborum cum et maxime quod quia fuga, in eius enim voluptates maxime, adipisci voluptas ea delectus aut enim repellendus qui consectetur explicabo?",
+                "product_price": 77.21
+            }
+        ]
+    }
+}

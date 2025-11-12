@@ -1,0 +1,14 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-uJof1ldg",
+        "supplier_contact": "supplieruJof1ldg@example.com",
+        "products": [
+            {
+                "product_name": "Product-consequatur-ab",
+                "product_description": "Voluptas ducimus labore exercitationem excepturi debitis fugiat quod sit, aut atque officiis, fuga natus dolorum aperiam ipsa labore possimus deserunt.",
+                "product_quantity": 27,
+                "product_price": 60.8
+            }
+        ]
+    }
+}

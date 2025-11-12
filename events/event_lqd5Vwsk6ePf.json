@@ -1,0 +1,14 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-5Iz00jdd",
+        "supplier_contact": "supplier5Iz00jdd@example.com",
+        "products": [
+            {
+                "product_name": "Product-unde-quod",
+                "product_description": "Recusandae cum nemo placeat, facilis quam sint non.",
+                "product_quantity": 96,
+                "product_price": 47.45
+            }
+        ]
+    }
+}

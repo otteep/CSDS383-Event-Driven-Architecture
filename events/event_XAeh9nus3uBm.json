@@ -1,0 +1,14 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-8SPKgdgm",
+        "supplier_contact": "supplier8SPKgdgm@example.com",
+        "products": [
+            {
+                "product_name": "Product-possimus-et",
+                "product_description": "Dolorum debitis aspernatur consequuntur, id exercitationem illo earum dignissimos pariatur veniam nemo velit autem quae tenetur, quod facilis non ad veniam, fugiat iure cum eaque reiciendis enim consequatur, ipsam ipsa eveniet vero aut?",
+                "product_quantity": 26,
+                "product_price": 34.71
+            }
+        ]
+    }
+}

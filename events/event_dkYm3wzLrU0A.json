@@ -1,0 +1,38 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-jlCfzHKz",
+        "supplier_contact": "supplierjlCfzHKz@example.com",
+        "products": [
+            {
+                "product_name": "Product-debitis-iusto",
+                "product_description": "Officia ab itaque suscipit accusamus possimus animi dolore dolor unde, eveniet voluptatibus possimus debitis aliquam est enim id qui tenetur eos quia?",
+                "product_quantity": 46,
+                "product_price": 6.67
+            },
+            {
+                "product_name": "Product-inventore-exercitationem",
+                "product_description": "Voluptates nulla animi laboriosam dolor, recusandae quisquam quibusdam minus ab beatae placeat, eaque pariatur rerum distinctio laborum.",
+                "product_quantity": 93,
+                "product_price": 46.42
+            },
+            {
+                "product_name": "Product-fugit-ut",
+                "product_description": "Vel sapiente perferendis sunt quos voluptates placeat optio rerum maxime, porro maiores illo culpa minima nemo consectetur animi illum facere deserunt, sapiente officiis beatae excepturi similique doloribus eos expedita repellat incidunt suscipit?",
+                "product_quantity": 100,
+                "product_price": 73.41
+            },
+            {
+                "product_name": "Product-ratione-consequatur",
+                "product_description": "Dolorem dignissimos culpa consectetur ipsa voluptates beatae quis laboriosam aut, quo cum quos.",
+                "product_quantity": 62,
+                "product_price": 72.28
+            },
+            {
+                "product_name": "Product-incidunt-asperiores",
+                "product_description": "Possimus culpa vitae officia soluta corporis id exercitationem eum sequi maxime quam, illo dolores et minima similique iusto voluptate ut modi aliquam eveniet, modi officia hic non magnam eligendi, modi molestias optio reiciendis qui ex nulla cumque perferendis fugit.",
+                "product_quantity": 97,
+                "product_price": 50.94
+            }
+        ]
+    }
+}

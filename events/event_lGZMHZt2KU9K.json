@@ -1,0 +1,32 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-hMnWEZgP",
+        "supplier_contact": "supplierhMnWEZgP@example.com",
+        "products": [
+            {
+                "product_name": "Product-dolores-reprehenderit",
+                "product_description": "Fugit dolorem aspernatur eveniet, delectus libero exercitationem optio distinctio cum repudiandae at, impedit sit similique vitae in quia illum dolores tenetur architecto temporibus soluta.",
+                "product_quantity": 51,
+                "product_price": 71.1
+            },
+            {
+                "product_name": "Product-est-fuga",
+                "product_description": "Provident hic cum ea adipisci tempora laborum autem vel soluta perspiciatis, aperiam ex earum laudantium obcaecati doloremque, aliquam debitis error laudantium ratione libero fugiat velit est totam autem deserunt.",
+                "product_quantity": 12,
+                "product_price": 60.64
+            },
+            {
+                "product_name": "Product-tempora-laboriosam",
+                "product_description": "Quibusdam voluptas doloribus ipsa saepe eveniet doloremque dolorem excepturi amet, quidem voluptate fugit facere ex delectus, ducimus fuga eveniet veniam commodi pariatur laudantium consectetur, illum impedit sint quisquam architecto unde laboriosam consectetur officiis exercitationem?",
+                "product_quantity": 27,
+                "product_price": 58.38
+            },
+            {
+                "product_name": "Product-ratione-sed",
+                "product_description": "Delectus dolores itaque totam quisquam a quidem adipisci, nihil exercitationem eveniet, corporis quod ex doloribus quo ipsa sequi quidem sint temporibus, tempore magni debitis quia ipsa ipsum accusantium tenetur culpa, voluptatum fugiat laborum ea inventore id quam odit quasi nisi.",
+                "product_quantity": 59,
+                "product_price": 47.5
+            }
+        ]
+    }
+}

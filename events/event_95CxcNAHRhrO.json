@@ -1,0 +1,14 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-SMnFi4N0",
+        "supplier_contact": "supplierSMnFi4N0@example.com",
+        "products": [
+            {
+                "product_name": "Product-vero-odio",
+                "product_description": "Provident sit deleniti nemo harum reprehenderit, magnam natus a dolorum consectetur provident neque laborum.",
+                "product_quantity": 30,
+                "product_price": 83.24
+            }
+        ]
+    }
+}

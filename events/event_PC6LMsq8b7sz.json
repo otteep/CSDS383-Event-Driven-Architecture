@@ -1,0 +1,26 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-vcQVWKoU",
+        "supplier_contact": "suppliervcQVWKoU@example.com",
+        "products": [
+            {
+                "product_name": "Product-quos-excepturi",
+                "product_description": "Voluptas amet dolorem sapiente ducimus quae similique aut, fuga nisi dolorem architecto eius quisquam sit numquam perspiciatis aspernatur hic.",
+                "product_quantity": 4,
+                "product_price": 88.67
+            },
+            {
+                "product_name": "Product-laboriosam-saepe",
+                "product_description": "Ducimus totam distinctio neque eveniet non sed impedit iusto exercitationem temporibus, repudiandae a commodi accusamus voluptas recusandae itaque placeat laboriosam unde, nesciunt vel odio quo labore nostrum dolore?",
+                "product_quantity": 54,
+                "product_price": 3.06
+            },
+            {
+                "product_name": "Product-nisi-corrupti",
+                "product_description": "Dolorum illum minus recusandae accusamus libero amet blanditiis, qui voluptatibus quasi nobis dolor autem impedit culpa, perferendis mollitia earum deserunt fugit.",
+                "product_quantity": 2,
+                "product_price": 55.7
+            }
+        ]
+    }
+}

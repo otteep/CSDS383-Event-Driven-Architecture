@@ -1,0 +1,31 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-3JZyaSFE",
+        "supplier_contact": "supplier3JZyaSFE@example.com",
+        "products": [
+            {
+                "product_name": "Product-corporis-minus",
+                "product_description": "Quibusdam nam non iste dignissimos rem voluptatum veritatis necessitatibus saepe, accusantium odit natus atque, nulla delectus officia nihil est nisi suscipit et molestias, voluptatum cumque ullam animi commodi illo dolores magni temporibus ex minima, quidem at inventore.",
+                "product_quantity": 81,
+                "product_price": 96.01
+            },
+            {
+                "product_name": "Product-tempore-dicta",
+                "product_description": "Maxime adipisci veniam odit, aut quisquam quae eveniet reprehenderit modi temporibus accusamus beatae sapiente, porro iure iusto fugiat odit impedit aut debitis accusantium, nemo earum fugiat quas enim illum tempore?",
+                "product_quantity": 34
+            },
+            {
+                "product_name": "Product-sunt-ea",
+                "product_description": "Provident accusantium praesentium necessitatibus aspernatur, voluptas soluta totam incidunt officiis nihil harum sunt adipisci.",
+                "product_quantity": 88,
+                "product_price": 43.78
+            },
+            {
+                "product_name": "Product-dignissimos-minus",
+                "product_description": "Accusamus id nisi consequatur quidem dolor iusto iure a, itaque fugiat exercitationem voluptates nesciunt ex nulla quod assumenda repudiandae corrupti ipsa, similique non voluptas quia repellat nisi, mollitia excepturi voluptatibus officia adipisci debitis recusandae pariatur, nulla alias quaerat?",
+                "product_quantity": 74,
+                "product_price": 77.29
+            }
+        ]
+    }
+}

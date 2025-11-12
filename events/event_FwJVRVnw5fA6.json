@@ -1,0 +1,20 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-u5ecNjmj",
+        "supplier_contact": "supplieru5ecNjmj@example.com",
+        "products": [
+            {
+                "product_name": "Product-illum-sed",
+                "product_description": "Doloremque similique ducimus nemo nihil error officiis molestias itaque omnis eaque nostrum, molestias maxime aut sequi iure accusantium aliquid dolor repellendus pariatur nemo praesentium, est eveniet iure aliquam veniam.",
+                "product_quantity": 76,
+                "product_price": 36.0
+            },
+            {
+                "product_name": "Product-aut-voluptatibus",
+                "product_description": "Aut incidunt quam voluptatem sed quos architecto optio repellat alias expedita at, ab nam atque sit expedita aut vero odit nisi sed quibusdam?",
+                "product_quantity": 15,
+                "product_price": 48.7
+            }
+        ]
+    }
+}

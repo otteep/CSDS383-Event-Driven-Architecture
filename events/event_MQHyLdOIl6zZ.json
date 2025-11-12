@@ -1,0 +1,32 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-OyY4oxAq",
+        "supplier_contact": "supplierOyY4oxAq@example.com",
+        "products": [
+            {
+                "product_name": "Product-itaque-iusto",
+                "product_description": "Reiciendis possimus perferendis accusantium aliquid dicta tempore impedit asperiores, nesciunt ipsa aut aperiam nihil minus nemo commodi?",
+                "product_quantity": 94,
+                "product_price": 47.31
+            },
+            {
+                "product_name": "Product-amet-fugit",
+                "product_description": "Corrupti dolore labore illo quidem provident, aut vero temporibus, minima vel labore iure alias non, alias dicta impedit assumenda nesciunt accusantium quam maiores ducimus esse hic.",
+                "product_quantity": 88,
+                "product_price": 70.85
+            },
+            {
+                "product_name": "Product-voluptatibus-iste",
+                "product_description": "Eligendi iste ad, molestiae dolor explicabo rem nisi quasi tenetur impedit libero voluptatem, unde rerum possimus?",
+                "product_quantity": 47,
+                "product_price": 32.3
+            },
+            {
+                "product_name": "Product-quos-libero",
+                "product_description": "Facere asperiores quo aspernatur est velit repellendus voluptatem quam, accusamus numquam perspiciatis nisi dignissimos esse repellat temporibus eum quam vel facere?",
+                "product_quantity": 63,
+                "product_price": 88.27
+            }
+        ]
+    }
+}

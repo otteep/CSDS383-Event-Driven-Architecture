@@ -1,0 +1,31 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-LFA9AsJW",
+        "supplier_contact": "supplierLFA9AsJW@example.com",
+        "products": [
+            {
+                "product_name": "Product-libero-cumque",
+                "product_description": "Eum exercitationem tempore voluptates labore tenetur officia quam ad at facere mollitia, cupiditate ipsam numquam perferendis repellat nihil enim corporis fugiat nam, facilis quia nulla dolorum magnam quos.",
+                "product_quantity": 21,
+                "product_price": 73.79
+            },
+            {
+                "product_name": "Product-perspiciatis-maxime",
+                "product_description": "Excepturi nulla placeat maiores quam earum sit modi officiis, vitae asperiores dolore a quam totam soluta dignissimos, fuga velit commodi blanditiis dolor doloremque rerum animi ut.",
+                "product_price": 18.19
+            },
+            {
+                "product_name": "Product-soluta-incidunt",
+                "product_description": "Eaque soluta inventore non quam nobis voluptatibus unde esse, culpa quidem exercitationem impedit beatae nulla necessitatibus voluptas labore minima atque, nihil adipisci placeat maxime?",
+                "product_quantity": 31,
+                "product_price": 69.2
+            },
+            {
+                "product_name": "Product-iusto-suscipit",
+                "product_description": "Autem quo alias cupiditate vitae, enim eius saepe iure libero, cum iusto molestiae alias illo harum eum repellendus voluptate perferendis qui, ipsam temporibus asperiores impedit minus vitae obcaecati voluptatem.",
+                "product_quantity": 15,
+                "product_price": 37.92
+            }
+        ]
+    }
+}

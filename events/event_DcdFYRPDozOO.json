@@ -1,0 +1,19 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-qHACDre6",
+        "products": [
+            {
+                "product_name": "Product-quasi-laudantium",
+                "product_description": "Ea modi velit veniam inventore quos quo voluptatum amet corrupti iste ex, voluptatem a nihil odit eius natus praesentium officia labore dignissimos, omnis rem aliquid porro iure id dolore autem neque error ea.",
+                "product_quantity": 91,
+                "product_price": 54.36
+            },
+            {
+                "product_name": "Product-accusantium-totam",
+                "product_description": "Labore fugit optio numquam odit, impedit natus deleniti consectetur quo repudiandae quam, repellat fuga maxime autem delectus sunt excepturi quidem qui soluta nihil.",
+                "product_quantity": 96,
+                "product_price": 15.01
+            }
+        ]
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-sNRsQQnA",
+        "supplier_contact": "suppliersNRsQQnA@example.com",
+        "products": [
+            {
+                "product_name": "Product-ducimus-ad",
+                "product_description": "Odio omnis animi magnam accusantium ab quos rem soluta, numquam velit sunt vel neque, tenetur autem quasi at deserunt a, quae praesentium quo placeat laborum tempore rem corrupti itaque.",
+                "product_quantity": 64,
+                "product_price": 83.61
+            },
+            {
+                "product_name": "Product-molestiae-animi",
+                "product_description": "Ut ab nisi minus itaque quasi quibusdam esse eius vel laboriosam, architecto assumenda maxime quisquam tempora illum amet atque laboriosam, veniam deserunt illum vitae consequatur?",
+                "product_quantity": 18,
+                "product_price": 95.06
+            },
+            {
+                "product_name": "Product-sequi-ducimus",
+                "product_description": "Exercitationem cupiditate et esse veritatis ipsa excepturi fuga cumque, tempora ipsum aliquid, asperiores dolorum facilis, pariatur saepe at ut in architecto?",
+                "product_quantity": 88,
+                "product_price": 3.74
+            },
+            {
+                "product_name": "Product-natus-itaque",
+                "product_description": "Illum quis quasi quibusdam sint in aut provident, quas corporis accusamus necessitatibus earum dolorem eveniet, similique animi officia architecto porro.",
+                "product_quantity": 88,
+                "product_price": 18.29
+            }
+        ]
+    }
+}

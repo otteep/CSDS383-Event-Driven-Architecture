@@ -1,0 +1,32 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-X9FwVhwN",
+        "supplier_contact": "supplierX9FwVhwN@example.com",
+        "products": [
+            {
+                "product_name": "Product-excepturi-voluptas",
+                "product_description": "Maiores fugit dicta, dolor nulla architecto blanditiis inventore dolore quod, ipsa impedit est sit, sint soluta ipsam nihil.",
+                "product_quantity": 18,
+                "product_price": 41.31
+            },
+            {
+                "product_name": "Product-error-voluptatum",
+                "product_description": "Non eaque esse deleniti similique voluptas alias enim, ullam dicta magnam, minus quae voluptatem vel.",
+                "product_quantity": 62,
+                "product_price": 89.05
+            },
+            {
+                "product_name": "Product-tenetur-maiores",
+                "product_description": "Voluptatum rerum maiores deleniti velit eum aliquid officia sapiente beatae ratione, atque illum numquam nulla fugit, non fugiat doloribus officia reprehenderit odit, cum perspiciatis itaque vero minima aperiam facilis beatae error.",
+                "product_quantity": 32,
+                "product_price": 64.44
+            },
+            {
+                "product_name": "Product-dicta-optio",
+                "product_description": "Provident eaque nulla velit explicabo fugiat, fugiat eligendi iste repellendus laborum, sint corrupti laudantium in tempore accusantium unde eveniet eius vel consectetur.",
+                "product_quantity": 84,
+                "product_price": 10.77
+            }
+        ]
+    }
+}

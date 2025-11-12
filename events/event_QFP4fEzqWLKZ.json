@@ -1,0 +1,20 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-DDMWtgmN",
+        "supplier_contact": "supplierDDMWtgmN@example.com",
+        "products": [
+            {
+                "product_name": "Product-eum-odit",
+                "product_description": "Omnis sint deserunt sapiente, cupiditate facilis ab placeat provident eaque voluptates impedit temporibus praesentium fugit deserunt, ipsum facilis aut minus ad itaque at vero laborum nesciunt.",
+                "product_quantity": 79,
+                "product_price": 68.82
+            },
+            {
+                "product_name": "Product-laborum-consequatur",
+                "product_description": "Accusantium asperiores similique doloribus ipsum quibusdam laborum, quod eum provident, ducimus voluptatem aliquid quo aspernatur nesciunt quam laudantium adipisci ex, accusantium eos dolorum incidunt atque doloribus commodi praesentium minus vel, laudantium perferendis sunt cupiditate tempore dolores ullam maiores incidunt alias magni sed?",
+                "product_quantity": 29,
+                "product_price": 49.44
+            }
+        ]
+    }
+}

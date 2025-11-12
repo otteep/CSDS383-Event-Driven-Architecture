@@ -1,0 +1,38 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-ifZi2mNb",
+        "supplier_contact": "supplierifZi2mNb@example.com",
+        "products": [
+            {
+                "product_name": "Product-officiis-error",
+                "product_description": "Accusantium hic tempora eum a error vero dolores officiis tempore non, harum voluptatem accusamus officia inventore provident facilis assumenda alias, sit odio obcaecati ab dolor accusamus?",
+                "product_quantity": 94,
+                "product_price": 68.16
+            },
+            {
+                "product_name": "Product-ipsum-praesentium",
+                "product_description": "Ratione nemo assumenda minus, quos corporis perspiciatis ducimus eius, quam eligendi ratione cumque aspernatur dolore voluptas quas sunt?",
+                "product_quantity": 94,
+                "product_price": 24.48
+            },
+            {
+                "product_name": "Product-at-iure",
+                "product_description": "Cumque deserunt facilis quaerat ad odio aliquam, sint itaque officiis illum amet atque suscipit consectetur nisi quae, magni sapiente officiis at ipsa quod corporis architecto?",
+                "product_quantity": 40,
+                "product_price": 64.55
+            },
+            {
+                "product_name": "Product-voluptatem-corrupti",
+                "product_description": "Adipisci nulla id corporis atque iusto eligendi fuga doloremque dicta provident, laborum saepe asperiores assumenda pariatur dolores animi fugit aspernatur rem quod?",
+                "product_quantity": 58,
+                "product_price": 42.07
+            },
+            {
+                "product_name": "Product-id-debitis",
+                "product_description": "Beatae officiis alias molestiae, ex repellat explicabo dicta facilis tempore laudantium, numquam provident nihil odit ad rerum in, esse eius consequatur earum nesciunt necessitatibus, natus quasi veritatis et cum quas reprehenderit exercitationem?",
+                "product_quantity": 1,
+                "product_price": 59.39
+            }
+        ]
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-6tbTNZmi",
+        "supplier_contact": "supplier6tbTNZmi@example.com",
+        "products": [
+            {
+                "product_name": "Product-mollitia-ducimus",
+                "product_description": "Voluptate voluptatem eligendi accusamus vitae minima perspiciatis dignissimos, ipsa maiores ducimus voluptas sapiente reiciendis animi quo quasi molestiae repudiandae, minima modi esse neque similique beatae est possimus ipsam aperiam?",
+                "product_quantity": 8,
+                "product_price": 29.02
+            },
+            {
+                "product_name": "Product-quam-numquam",
+                "product_description": "Totam excepturi quisquam officia iure necessitatibus quam atque, earum voluptate sit temporibus saepe ad similique et, quaerat quae animi beatae quos, eum aliquid qui a unde officiis vitae quibusdam odit?",
+                "product_quantity": 45,
+                "product_price": 14.97
+            },
+            {
+                "product_name": "Product-explicabo-dolorum",
+                "product_description": "Eum ea natus distinctio architecto nemo laudantium, placeat dignissimos officiis animi eos voluptatibus excepturi nam repellendus provident magnam aperiam, veniam alias optio ex inventore accusamus, sint at ipsum quas laboriosam, harum doloribus nulla repellendus?",
+                "product_quantity": 14,
+                "product_price": 55.6
+            },
+            {
+                "product_name": "Product-consequatur-nesciunt",
+                "product_description": "Tempora alias reprehenderit molestias expedita, eveniet consequuntur ratione eius aspernatur, eveniet debitis sit nam obcaecati doloremque voluptates?",
+                "product_quantity": 53,
+                "product_price": 3.55
+            }
+        ]
+    }
+}

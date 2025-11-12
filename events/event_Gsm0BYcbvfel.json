@@ -1,0 +1,38 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-N5ymwe90",
+        "supplier_contact": "supplierN5ymwe90@example.com",
+        "products": [
+            {
+                "product_name": "Product-totam-non",
+                "product_description": "Velit mollitia autem ipsum culpa ratione praesentium, nostrum soluta harum asperiores adipisci qui voluptas possimus non reiciendis minima, maiores iure commodi porro quia odit eius voluptas repellendus laudantium, amet possimus error, adipisci blanditiis optio dicta magni illo ad provident ea?",
+                "product_quantity": 17,
+                "product_price": 90.05
+            },
+            {
+                "product_name": "Product-laudantium-illum",
+                "product_description": "Sit id magnam ad nihil sequi, asperiores ad adipisci reprehenderit laudantium id maiores omnis dolore cumque, debitis sunt nesciunt aspernatur ea quia autem nihil voluptate magnam.",
+                "product_quantity": 84,
+                "product_price": 49.21
+            },
+            {
+                "product_name": "Product-nostrum-aperiam",
+                "product_description": "Totam dolore ea facilis asperiores fugiat autem voluptate vel accusantium aliquid quia, obcaecati eius odit aliquid?",
+                "product_quantity": 80,
+                "product_price": 44.88
+            },
+            {
+                "product_name": "Product-debitis-quam",
+                "product_description": "Quos nobis corporis fugiat optio, adipisci a autem omnis minus?",
+                "product_quantity": 24,
+                "product_price": 39.1
+            },
+            {
+                "product_name": "Product-perferendis-et",
+                "product_description": "Voluptates corporis incidunt, cupiditate minima illo rerum perferendis accusantium molestiae labore inventore porro animi, ullam explicabo ex nobis et eligendi aliquam veniam numquam dolor, sapiente ea omnis amet beatae labore unde quibusdam voluptate impedit.",
+                "product_quantity": 4,
+                "product_price": 64.92
+            }
+        ]
+    }
+}

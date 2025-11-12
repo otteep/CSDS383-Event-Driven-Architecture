@@ -1,0 +1,20 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-C7ZHs4vk",
+        "supplier_contact": "supplierC7ZHs4vk@example.com",
+        "products": [
+            {
+                "product_name": "Product-laboriosam-nam",
+                "product_description": "Officia neque at assumenda deserunt, commodi modi repudiandae explicabo doloremque asperiores quis doloribus molestiae corporis, iure repudiandae saepe quas asperiores blanditiis ratione, asperiores sint officia veritatis quia et praesentium dolorum illo, expedita animi nobis laudantium nisi eum?",
+                "product_quantity": 48,
+                "product_price": 83.09
+            },
+            {
+                "product_name": "Product-voluptatibus-accusantium",
+                "product_description": "Deleniti magni hic, rerum voluptatem modi dolores ut facilis animi cupiditate consequuntur similique nobis, dolor sequi velit eum ratione alias commodi vel voluptatum, ipsa obcaecati possimus fugit tempora, necessitatibus deleniti dolor sunt iste quibusdam esse optio voluptate accusantium nam incidunt?",
+                "product_quantity": 53,
+                "product_price": 83.02
+            }
+        ]
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "supplier": {
+        "supplier_contact": "supplier37x185MH@example.com",
+        "products": [
+            {
+                "product_name": "Product-corrupti-nihil",
+                "product_description": "Eligendi debitis voluptatem sed rem reiciendis maiores corrupti fuga quibusdam distinctio, nihil quasi aperiam laborum nostrum aut, necessitatibus aperiam odio nisi amet labore atque eos vel.",
+                "product_quantity": 2,
+                "product_price": 57.95
+            },
+            {
+                "product_name": "Product-corporis-consectetur",
+                "product_description": "Atque deserunt debitis, cupiditate veritatis iusto veniam suscipit quibusdam iste, minus laudantium quia eius dignissimos fugit tempore molestias reprehenderit tenetur, repellendus placeat optio vero ea.",
+                "product_quantity": 82,
+                "product_price": 51.18
+            },
+            {
+                "product_name": "Product-voluptatem-deleniti",
+                "product_description": "Odit voluptatem cupiditate labore eaque magni quidem perferendis accusamus fugiat placeat, cum molestiae in, maiores aliquam cupiditate aperiam earum excepturi non inventore ad debitis velit, inventore quo cumque totam cum, obcaecati repudiandae natus consectetur inventore itaque rem.",
+                "product_quantity": 19,
+                "product_price": 94.56
+            },
+            {
+                "product_name": "Product-quidem-nobis",
+                "product_description": "Soluta optio veritatis culpa reiciendis aperiam ullam tempora facere delectus earum, consectetur dignissimos eius illo nulla debitis impedit nobis optio numquam atque recusandae, inventore blanditiis odio porro culpa reprehenderit facere veritatis similique, quidem similique eius deleniti ut voluptatum explicabo magni excepturi rem.",
+                "product_quantity": 37,
+                "product_price": 75.25
+            }
+        ]
+    }
+}

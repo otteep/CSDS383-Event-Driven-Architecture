@@ -1,0 +1,38 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-AD9DCI0B",
+        "supplier_contact": "supplierAD9DCI0B@example.com",
+        "products": [
+            {
+                "product_name": "Product-ex-aut",
+                "product_description": "Architecto aliquid omnis quibusdam tempora consequatur quia saepe alias obcaecati, doloremque quae reiciendis culpa incidunt velit fugiat, aliquam officiis modi doloribus quo, tenetur voluptates veritatis a, deleniti quisquam aut.",
+                "product_quantity": 22,
+                "product_price": 41.47
+            },
+            {
+                "product_name": "Product-at-quasi",
+                "product_description": "Quo vel eveniet adipisci dicta optio assumenda nam aliquid, quaerat tempora dolorem repellendus ex rem soluta, neque at necessitatibus cumque alias voluptas repellendus ducimus consectetur perferendis, quaerat unde eaque voluptatum.",
+                "product_quantity": 46,
+                "product_price": 14.15
+            },
+            {
+                "product_name": "Product-obcaecati-necessitatibus",
+                "product_description": "Officiis animi atque illo totam nulla nostrum ullam incidunt qui voluptatum culpa, ducimus amet dignissimos provident dolores vitae alias in, assumenda quia et cum, maxime recusandae provident?",
+                "product_quantity": 56,
+                "product_price": 35.45
+            },
+            {
+                "product_name": "Product-aperiam-amet",
+                "product_description": "Ratione voluptatibus dolorem inventore enim consequatur illum ut, vero hic tempore voluptatum at laudantium asperiores deleniti, est odit accusantium modi laudantium placeat?",
+                "product_quantity": 46,
+                "product_price": 93.42
+            },
+            {
+                "product_name": "Product-sapiente-molestiae",
+                "product_description": "Sint dolor nesciunt perspiciatis fugiat dicta, quaerat voluptas molestiae architecto sapiente enim, quidem quos dolores ipsum.",
+                "product_quantity": 90,
+                "product_price": 57.96
+            }
+        ]
+    }
+}

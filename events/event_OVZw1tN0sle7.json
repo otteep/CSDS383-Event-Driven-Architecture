@@ -1,0 +1,37 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-JOjxhoHY",
+        "supplier_contact": "supplierJOjxhoHY@example.com",
+        "products": [
+            {
+                "product_name": "Product-voluptas-vel",
+                "product_description": "Quo magni eum dolores iste debitis deserunt libero quaerat, a sunt ullam.",
+                "product_quantity": 58,
+                "product_price": 58.01
+            },
+            {
+                "product_name": "Product-obcaecati-eligendi",
+                "product_description": "Laudantium excepturi eligendi facilis minima ipsa quis quaerat aliquam, laudantium obcaecati labore officia tempore autem quia iusto possimus, repudiandae at ea nam voluptatum dolore nulla temporibus optio, rerum recusandae consequuntur asperiores quae nisi ipsa?",
+                "product_quantity": 27,
+                "product_price": 69.96
+            },
+            {
+                "product_name": "Product-mollitia-qui",
+                "product_description": "Laborum sit eaque nihil facere, tempore ducimus autem harum consectetur assumenda iste voluptates sapiente eveniet, similique aliquid sunt, laboriosam voluptatibus dicta facere deleniti expedita quas commodi recusandae odio?",
+                "product_quantity": 49,
+                "product_price": 76.74
+            },
+            {
+                "product_name": "Product-molestiae-similique",
+                "product_description": "Optio ab porro aut saepe praesentium illum eveniet amet nihil, laborum repudiandae ipsa quia obcaecati ut.",
+                "product_quantity": 27,
+                "product_price": 46.29
+            },
+            {
+                "product_name": "Product-error-libero",
+                "product_description": "Sapiente unde modi assumenda consequatur fugiat labore quia odit molestiae cupiditate, natus nesciunt esse perspiciatis nobis, est quidem hic dolorum eaque assumenda cumque, deleniti adipisci quibusdam sed?",
+                "product_price": 63.88
+            }
+        ]
+    }
+}

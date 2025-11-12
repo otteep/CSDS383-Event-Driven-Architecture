@@ -1,0 +1,14 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-zKUvsdXs",
+        "supplier_contact": "supplierzKUvsdXs@example.com",
+        "products": [
+            {
+                "product_name": "Product-cum-aperiam",
+                "product_description": "Ad facilis nobis eum suscipit tempora expedita magnam modi aliquid alias, ut necessitatibus dolorem laborum neque amet mollitia, illo expedita fugit laboriosam modi eius, sit commodi facere pariatur.",
+                "product_quantity": 89,
+                "product_price": 77.95
+            }
+        ]
+    }
+}

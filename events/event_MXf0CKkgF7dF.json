@@ -1,0 +1,14 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-IhHEaKwK",
+        "supplier_contact": "supplierIhHEaKwK@example.com",
+        "products": [
+            {
+                "product_name": "Product-voluptate-cum",
+                "product_description": "Culpa hic aperiam, perferendis temporibus repellat fugit modi iure nostrum mollitia possimus deleniti molestias aspernatur, consectetur veritatis mollitia?",
+                "product_quantity": 39,
+                "product_price": 9.67
+            }
+        ]
+    }
+}

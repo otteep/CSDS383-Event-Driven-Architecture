@@ -1,0 +1,14 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-XLhBdLUB",
+        "supplier_contact": "supplierXLhBdLUB@example.com",
+        "products": [
+            {
+                "product_name": "Product-molestiae-minus",
+                "product_description": "Veritatis et laborum vel tempore culpa, dolores repudiandae totam, corporis ad magnam eos beatae nemo.",
+                "product_quantity": 73,
+                "product_price": 60.21
+            }
+        ]
+    }
+}

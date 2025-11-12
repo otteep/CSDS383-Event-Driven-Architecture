@@ -1,0 +1,37 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-pKT7zpvQ",
+        "supplier_contact": "supplierpKT7zpvQ@example.com",
+        "products": [
+            {
+                "product_name": "Product-inventore-alias",
+                "product_description": "Magni doloribus eveniet in labore officia obcaecati quae est, aliquam dolore eligendi blanditiis, impedit repellendus eum qui totam numquam veritatis ipsam quis, repudiandae enim quaerat recusandae excepturi minus eius.",
+                "product_quantity": 39,
+                "product_price": 61.02
+            },
+            {
+                "product_name": "Product-voluptate-nam",
+                "product_quantity": 91,
+                "product_price": 83.85
+            },
+            {
+                "product_name": "Product-voluptatum-explicabo",
+                "product_description": "Quae nulla perspiciatis ex aut quia natus harum deserunt, pariatur iste facere, esse quasi accusamus, nulla inventore magnam.",
+                "product_quantity": 11,
+                "product_price": 11.25
+            },
+            {
+                "product_name": "Product-corporis-nobis",
+                "product_description": "Blanditiis ratione voluptas ipsum fuga sunt iusto sequi consequuntur, eos harum sed commodi a, incidunt alias necessitatibus omnis neque minima quae odit, fuga deleniti qui.",
+                "product_quantity": 35,
+                "product_price": 69.35
+            },
+            {
+                "product_name": "Product-cumque-nesciunt",
+                "product_description": "Quos ipsum saepe culpa exercitationem voluptas esse nulla vero doloribus repellat, blanditiis deleniti vel autem voluptatem nihil dolore, numquam beatae cum deserunt tempore perferendis cupiditate rem, quas non modi, repellendus tempore distinctio reiciendis.",
+                "product_quantity": 14,
+                "product_price": 87.18
+            }
+        ]
+    }
+}

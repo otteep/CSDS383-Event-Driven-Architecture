@@ -1,0 +1,14 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-SJxURbDa",
+        "supplier_contact": "supplierSJxURbDa@example.com",
+        "products": [
+            {
+                "product_name": "Product-officiis-sapiente",
+                "product_description": "Eum consequuntur consectetur, enim error sunt nemo reprehenderit praesentium, pariatur obcaecati eos suscipit consectetur esse at voluptatem tempora et accusantium, tenetur esse animi laudantium dolorem accusamus?",
+                "product_quantity": 3,
+                "product_price": 89.16
+            }
+        ]
+    }
+}

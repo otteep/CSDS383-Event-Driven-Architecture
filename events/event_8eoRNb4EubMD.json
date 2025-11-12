@@ -1,0 +1,32 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-xhwIgK7u",
+        "supplier_contact": "supplierxhwIgK7u@example.com",
+        "products": [
+            {
+                "product_name": "Product-porro-doloribus",
+                "product_description": "Facilis temporibus delectus mollitia, sed obcaecati nam ratione repudiandae, cupiditate sit ducimus excepturi sunt ab quas.",
+                "product_quantity": 14,
+                "product_price": 66.28
+            },
+            {
+                "product_name": "Product-iusto-nemo",
+                "product_description": "Quod numquam harum accusantium fuga maxime, aut dignissimos similique fuga deserunt officia beatae corporis architecto modi tempora reiciendis, eveniet ad sed quaerat animi ab saepe non placeat fugiat consequuntur, officiis recusandae atque natus iste adipisci repellendus et ipsa neque, quae possimus eveniet eos?",
+                "product_quantity": 67,
+                "product_price": 37.14
+            },
+            {
+                "product_name": "Product-sed-officia",
+                "product_description": "Nesciunt autem laudantium mollitia ipsum nihil, praesentium suscipit animi dolor voluptates nesciunt minima, rerum ipsam earum quis, soluta doloribus saepe sequi aliquid.",
+                "product_quantity": 26,
+                "product_price": 52.72
+            },
+            {
+                "product_name": "Product-debitis-explicabo",
+                "product_description": "Asperiores delectus quo eveniet animi voluptatem autem fugiat, doloremque veritatis mollitia sunt ipsa optio nam eum autem saepe?",
+                "product_quantity": 73,
+                "product_price": 7.22
+            }
+        ]
+    }
+}

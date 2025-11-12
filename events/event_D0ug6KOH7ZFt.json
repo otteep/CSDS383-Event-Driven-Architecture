@@ -1,0 +1,32 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-iWs5RS4D",
+        "supplier_contact": "supplieriWs5RS4D@example.com",
+        "products": [
+            {
+                "product_name": "Product-eius-fugiat",
+                "product_description": "Labore quis at ut molestias cum doloribus maxime adipisci voluptatem provident ab, eaque veritatis recusandae et ipsam dolorem fugiat nisi deserunt suscipit modi sunt, sed porro ipsa, necessitatibus quod optio cum tempore iure nesciunt?",
+                "product_quantity": 72,
+                "product_price": 26.73
+            },
+            {
+                "product_name": "Product-molestias-nesciunt",
+                "product_description": "Commodi in eligendi quia ad beatae totam iste enim, unde magni dolorum velit minus rerum?",
+                "product_quantity": 78,
+                "product_price": 32.61
+            },
+            {
+                "product_name": "Product-ipsa-laudantium",
+                "product_description": "Eius dolorem quis omnis placeat architecto nisi exercitationem quia a, molestias fugiat iure autem ad, asperiores quas consectetur amet.",
+                "product_quantity": 60,
+                "product_price": 8.75
+            },
+            {
+                "product_name": "Product-quaerat-vitae",
+                "product_description": "Perspiciatis ratione non laudantium quo itaque velit, corrupti beatae mollitia sit a deserunt explicabo commodi, voluptatem quisquam cupiditate quidem itaque cumque neque beatae recusandae dignissimos maiores facere, dolor totam eum dolorem quas temporibus quibusdam consectetur quod voluptates est quam?",
+                "product_quantity": 23,
+                "product_price": 47.85
+            }
+        ]
+    }
+}

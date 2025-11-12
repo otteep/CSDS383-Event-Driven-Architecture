@@ -1,0 +1,32 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-BoQhnpV2",
+        "supplier_contact": "supplierBoQhnpV2@example.com",
+        "products": [
+            {
+                "product_name": "Product-debitis-odio",
+                "product_description": "Modi vel ducimus voluptates perferendis rem tempore necessitatibus nobis facere dolorem amet, quisquam harum quaerat cumque hic ex quo praesentium inventore culpa facilis, nulla dolor molestiae eveniet atque.",
+                "product_quantity": 98,
+                "product_price": 54.07
+            },
+            {
+                "product_name": "Product-molestias-in",
+                "product_description": "Doloremque deserunt assumenda delectus ratione voluptas distinctio ea quidem magni, distinctio libero exercitationem odio qui blanditiis ea numquam quae labore consequatur.",
+                "product_quantity": 6,
+                "product_price": 61.2
+            },
+            {
+                "product_name": "Product-quis-consectetur",
+                "product_description": "Odit ab vero alias excepturi ex fugiat quis, officia quam minus nihil, unde qui esse necessitatibus.",
+                "product_quantity": 51,
+                "product_price": 85.87
+            },
+            {
+                "product_name": "Product-quisquam-perspiciatis",
+                "product_description": "Nihil ipsum alias pariatur quo nam amet possimus quae, quia perferendis temporibus distinctio, impedit velit delectus illo earum ipsam labore fuga inventore rerum at ipsum, porro numquam nihil impedit veritatis omnis quis est ab?",
+                "product_quantity": 24,
+                "product_price": 76.1
+            }
+        ]
+    }
+}

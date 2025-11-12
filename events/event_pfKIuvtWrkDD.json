@@ -1,0 +1,20 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-BkjHxuQu",
+        "supplier_contact": "supplierBkjHxuQu@example.com",
+        "products": [
+            {
+                "product_name": "Product-excepturi-quam",
+                "product_description": "Doloremque quis vel earum sint quae totam consectetur explicabo, nihil porro itaque accusamus laboriosam unde atque?",
+                "product_quantity": 60,
+                "product_price": 49.3
+            },
+            {
+                "product_name": "Product-officiis-itaque",
+                "product_description": "Quas officia magnam ratione libero laborum adipisci sunt ullam aspernatur, necessitatibus incidunt ut rerum sunt nulla quaerat blanditiis?",
+                "product_quantity": 81,
+                "product_price": 75.7
+            }
+        ]
+    }
+}

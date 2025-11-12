@@ -1,0 +1,14 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-49hFOIHB",
+        "supplier_contact": "supplier49hFOIHB@example.com",
+        "products": [
+            {
+                "product_name": "Product-nesciunt-placeat",
+                "product_description": "Magni ad vero consequuntur odio nesciunt sunt tempora magnam id, assumenda eius delectus labore sint, sequi eos nulla maiores vitae, rerum reprehenderit facilis ex cumque quia exercitationem.",
+                "product_quantity": 8,
+                "product_price": 74.62
+            }
+        ]
+    }
+}

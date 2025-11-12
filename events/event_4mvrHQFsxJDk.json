@@ -1,0 +1,26 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-KEnP5q8S",
+        "supplier_contact": "supplierKEnP5q8S@example.com",
+        "products": [
+            {
+                "product_name": "Product-adipisci-autem",
+                "product_description": "Enim sequi accusantium dicta cumque tempora recusandae, labore numquam ratione asperiores dicta, consequuntur necessitatibus ab libero dolores reprehenderit esse, dolores rem fugit accusantium iste recusandae excepturi ipsam, tenetur accusamus consequuntur eum dicta impedit earum voluptatum reiciendis assumenda.",
+                "product_quantity": 60,
+                "product_price": 66.26
+            },
+            {
+                "product_name": "Product-provident-libero",
+                "product_description": "Nesciunt blanditiis modi aperiam, asperiores quasi repellendus, a inventore fuga voluptatem incidunt odio reiciendis odit quibusdam?",
+                "product_quantity": 93,
+                "product_price": 66.21
+            },
+            {
+                "product_name": "Product-tempora-adipisci",
+                "product_description": "Atque repellendus ut quis, blanditiis velit sit, veniam temporibus atque pariatur consequuntur eligendi praesentium, dolore architecto amet corporis omnis accusamus aliquam voluptas ducimus explicabo maxime similique, impedit magni distinctio modi cumque nesciunt ipsum quis.",
+                "product_quantity": 36,
+                "product_price": 4.31
+            }
+        ]
+    }
+}

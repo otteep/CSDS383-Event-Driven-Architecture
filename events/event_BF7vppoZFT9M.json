@@ -1,0 +1,14 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-hcu5JbP9",
+        "supplier_contact": "supplierhcu5JbP9@example.com",
+        "products": [
+            {
+                "product_name": "Product-similique-deserunt",
+                "product_description": "Repudiandae voluptatum consequuntur quam inventore exercitationem beatae, numquam laudantium vel itaque.",
+                "product_quantity": 91,
+                "product_price": 49.5
+            }
+        ]
+    }
+}

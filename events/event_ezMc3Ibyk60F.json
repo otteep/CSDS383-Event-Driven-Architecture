@@ -1,0 +1,38 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-xB4kvwcr",
+        "supplier_contact": "supplierxB4kvwcr@example.com",
+        "products": [
+            {
+                "product_name": "Product-architecto-dolore",
+                "product_description": "Ad numquam tempora nostrum sed saepe ipsum nihil sequi iusto, dignissimos aliquid officiis voluptatem adipisci tempore.",
+                "product_quantity": 80,
+                "product_price": 7.07
+            },
+            {
+                "product_name": "Product-similique-quod",
+                "product_description": "Placeat quidem eum harum minima sed accusantium blanditiis tempore tempora inventore, obcaecati fugit magni quo, repudiandae recusandae iusto quisquam, molestias aspernatur voluptatibus delectus expedita fuga quae.",
+                "product_quantity": 64,
+                "product_price": 39.98
+            },
+            {
+                "product_name": "Product-culpa-libero",
+                "product_description": "Cupiditate laudantium pariatur officia molestias autem cum, sunt architecto maxime necessitatibus excepturi, earum laudantium mollitia.",
+                "product_quantity": 86,
+                "product_price": 76.18
+            },
+            {
+                "product_name": "Product-quas-odit",
+                "product_description": "Voluptates nam debitis reprehenderit perspiciatis quos voluptatem deleniti, laborum vitae iste rem laboriosam fugiat tempora explicabo molestiae ipsum temporibus, quos tempora tenetur dolorem dolorum distinctio culpa quasi eligendi ipsam, ad quasi voluptatum quia obcaecati odit officiis libero aliquam aperiam, dolores ea distinctio fugiat eaque earum aspernatur.",
+                "product_quantity": 100,
+                "product_price": 60.17
+            },
+            {
+                "product_name": "Product-molestiae-aut",
+                "product_description": "Sunt ullam unde accusantium delectus sapiente excepturi aperiam neque sequi, commodi architecto sed dolores deleniti molestiae corporis soluta fugiat, quod explicabo quia nisi maiores minus sint provident repellat, aspernatur mollitia dolore fugit dolorum deserunt sint, commodi possimus aliquam magni impedit odit minima maxime aut?",
+                "product_quantity": 91,
+                "product_price": 70.71
+            }
+        ]
+    }
+}

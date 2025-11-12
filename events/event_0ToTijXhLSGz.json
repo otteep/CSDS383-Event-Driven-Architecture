@@ -1,0 +1,37 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-JkKn1AVX",
+        "supplier_contact": "supplierJkKn1AVX@example.com",
+        "products": [
+            {
+                "product_name": "Product-eligendi-consequatur",
+                "product_description": "Corporis dignissimos iure laborum quis reprehenderit eveniet sequi ratione, iste officia hic incidunt non, totam ad maiores iusto mollitia nam fugiat excepturi qui, sunt velit quos architecto quae optio.",
+                "product_quantity": 33
+            },
+            {
+                "product_name": "Product-incidunt-blanditiis",
+                "product_description": "Et quibusdam est error provident voluptates possimus magnam culpa nostrum magni ipsa, praesentium eveniet architecto quam saepe beatae possimus iusto cupiditate dolorem similique est, inventore reprehenderit quo architecto eveniet quia voluptatum ut officiis ullam repudiandae, dolores accusantium quos distinctio nulla iste enim impedit molestiae ut nesciunt necessitatibus.",
+                "product_quantity": 28,
+                "product_price": 93.86
+            },
+            {
+                "product_name": "Product-quaerat-ipsum",
+                "product_description": "Dignissimos autem optio eaque deleniti rem ratione officia consequuntur dolor, necessitatibus fuga nisi dolor placeat numquam.",
+                "product_quantity": 97,
+                "product_price": 23.08
+            },
+            {
+                "product_name": "Product-assumenda-vitae",
+                "product_description": "Doloribus consequatur nesciunt sapiente, non rerum aperiam praesentium nulla, inventore ipsum labore similique necessitatibus id officiis libero, amet doloribus officia architecto ratione dolorem veniam.",
+                "product_quantity": 18,
+                "product_price": 10.28
+            },
+            {
+                "product_name": "Product-vel-adipisci",
+                "product_description": "Id asperiores maiores minima eius libero praesentium numquam sapiente, atque molestias ad dignissimos deleniti sit nihil tempore at debitis, non facilis reiciendis aliquid.",
+                "product_quantity": 96,
+                "product_price": 29.34
+            }
+        ]
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-ZaUDlp08",
+        "supplier_contact": "supplierZaUDlp08@example.com",
+        "products": [
+            {
+                "product_name": "Product-labore-et",
+                "product_description": "Quaerat cum voluptatem aspernatur odit sed sint, recusandae esse cupiditate atque necessitatibus asperiores similique quod quae?",
+                "product_quantity": 73,
+                "product_price": 3.44
+            },
+            {
+                "product_name": "Product-recusandae-nam",
+                "product_description": "Modi vitae corporis officia illum eius doloremque, a suscipit recusandae officiis ipsa facilis inventore consequatur est doloribus, commodi reprehenderit fugiat placeat dolore explicabo quis sequi cum, voluptatibus error enim reprehenderit tempora asperiores dolor earum iure ducimus?",
+                "product_quantity": 65,
+                "product_price": 22.21
+            },
+            {
+                "product_name": "Product-temporibus-sequi",
+                "product_description": "Reiciendis commodi nulla accusamus illum maxime rerum molestiae architecto deserunt, corporis explicabo officiis animi aspernatur, repellendus facilis voluptatem quas dicta incidunt voluptas minima molestiae in, aliquid ad porro distinctio enim tempora illum voluptates nostrum dignissimos obcaecati, vitae nihil consequatur.",
+                "product_quantity": 19,
+                "product_price": 40.53
+            },
+            {
+                "product_name": "Product-facere-tempore",
+                "product_description": "Placeat sapiente quidem, necessitatibus ex explicabo repellendus est sint dolor modi consequatur odio dolorem, possimus vero sit consequuntur aliquam et aliquid sint quae vitae blanditiis.",
+                "product_quantity": 46,
+                "product_price": 57.45
+            }
+        ]
+    }
+}

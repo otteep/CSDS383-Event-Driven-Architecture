@@ -1,0 +1,14 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-RubLHuap",
+        "supplier_contact": "supplierRubLHuap@example.com",
+        "products": [
+            {
+                "product_name": "Product-doloribus-eligendi",
+                "product_description": "Repellendus exercitationem quos alias ducimus, incidunt accusantium quis autem hic eaque officia magnam, reprehenderit corrupti quaerat voluptates eveniet explicabo velit facilis sapiente labore, velit magni itaque omnis sequi officiis molestiae est optio quam a?",
+                "product_quantity": 98,
+                "product_price": 50.28
+            }
+        ]
+    }
+}

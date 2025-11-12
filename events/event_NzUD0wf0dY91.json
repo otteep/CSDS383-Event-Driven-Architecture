@@ -1,0 +1,19 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-kuecYtpM",
+        "supplier_contact": "supplierkuecYtpM@example.com",
+        "products": [
+            {
+                "product_name": "Product-consequuntur-quasi",
+                "product_description": "Labore reiciendis esse, error quibusdam culpa eius, itaque accusamus quisquam possimus excepturi?",
+                "product_quantity": 39
+            },
+            {
+                "product_name": "Product-quis-ullam",
+                "product_description": "Enim eligendi odio nesciunt cupiditate itaque deserunt modi, modi assumenda eum repudiandae, placeat inventore suscipit et doloribus assumenda id cumque vel deserunt ad quasi, magnam fuga laboriosam ad dolorem at pariatur, error eos necessitatibus inventore unde ex deleniti adipisci.",
+                "product_quantity": 45,
+                "product_price": 49.17
+            }
+        ]
+    }
+}

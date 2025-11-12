@@ -1,0 +1,20 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-x3NHtUQ1",
+        "supplier_contact": "supplierx3NHtUQ1@example.com",
+        "products": [
+            {
+                "product_name": "Product-ut-nobis",
+                "product_description": "Eaque nam qui fugiat aperiam nihil itaque quae temporibus rerum facere omnis, quia numquam iste nemo non, laudantium odit eligendi.",
+                "product_quantity": 39,
+                "product_price": 68.63
+            },
+            {
+                "product_name": "Product-ducimus-quae",
+                "product_description": "Iusto quam obcaecati aliquid nihil sapiente dolorum molestiae, nobis corporis facilis eveniet incidunt odio ex voluptatibus repellendus quos maxime?",
+                "product_quantity": 84,
+                "product_price": 75.21
+            }
+        ]
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-tO34WmFL",
+        "supplier_contact": "suppliertO34WmFL@example.com",
+        "products": [
+            {
+                "product_name": "Product-tempora-numquam",
+                "product_description": "Illum aliquid necessitatibus cupiditate, nostrum facere unde aliquam asperiores ducimus vero vel iure error, inventore eveniet placeat distinctio repudiandae harum consectetur fuga, nam repellat repellendus illum qui quia dicta laborum cumque recusandae, recusandae molestiae adipisci.",
+                "product_quantity": 52,
+                "product_price": 39.65
+            },
+            {
+                "product_name": "Product-inventore-voluptatum",
+                "product_description": "Autem animi perspiciatis nam molestias quas sunt consectetur, soluta asperiores sit eveniet aperiam totam unde nesciunt illum laboriosam, qui autem rerum delectus repellat quaerat sunt exercitationem voluptatibus, ratione impedit accusantium quod omnis voluptate, dicta cupiditate aspernatur repudiandae voluptas quae rerum repellendus minus architecto totam?",
+                "product_quantity": 42,
+                "product_price": 89.52
+            },
+            {
+                "product_name": "Product-cupiditate-expedita",
+                "product_description": "Consequatur veniam facilis doloremque architecto enim beatae, modi suscipit adipisci blanditiis, quaerat doloribus repellendus sint reiciendis ipsa earum neque?",
+                "product_quantity": 17,
+                "product_price": 30.35
+            }
+        ]
+    }
+}

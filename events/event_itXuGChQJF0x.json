@@ -1,0 +1,25 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-BPrgS5Rl",
+        "supplier_contact": "supplierBPrgS5Rl@example.com",
+        "products": [
+            {
+                "product_description": "Assumenda cupiditate reiciendis rem distinctio, reiciendis tenetur placeat ducimus aperiam, doloremque aliquid est debitis eum impedit temporibus assumenda odit quasi mollitia, qui ipsum provident suscipit rerum quia tempore esse debitis iusto delectus, ipsa delectus in non fugiat culpa vero.",
+                "product_quantity": 94,
+                "product_price": 24.78
+            },
+            {
+                "product_name": "Product-iste-optio",
+                "product_description": "Veniam aperiam maxime vero adipisci, in vitae maiores architecto enim doloribus modi illo eaque, eaque suscipit laborum minus quod voluptatem odio cum magnam quibusdam iste laudantium, corporis facere dolor sapiente voluptatem pariatur nulla ullam accusantium ipsum culpa, sequi voluptatem sapiente sint quos nemo.",
+                "product_quantity": 42,
+                "product_price": 82.55
+            },
+            {
+                "product_name": "Product-quis-minus",
+                "product_description": "Laboriosam ratione obcaecati, consequatur fuga nihil nulla doloremque aperiam eius cupiditate esse ab minus magni, mollitia in unde corporis numquam, laudantium mollitia rem hic.",
+                "product_quantity": 31,
+                "product_price": 81.81
+            }
+        ]
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-sqQ6g1Qz",
+        "supplier_contact": "suppliersqQ6g1Qz@example.com",
+        "products": [
+            {
+                "product_name": "Product-consectetur-quae",
+                "product_description": "Velit debitis aperiam, aliquam inventore veritatis dolorum repellat deserunt voluptatem aut reprehenderit, nihil veritatis est, ex ipsa commodi necessitatibus quidem provident ipsum a.",
+                "product_quantity": 36,
+                "product_price": 81.06
+            },
+            {
+                "product_name": "Product-ullam-illum",
+                "product_description": "Tempora odio praesentium voluptas odit qui, molestiae porro architecto eum deserunt.",
+                "product_quantity": 83,
+                "product_price": 16.31
+            },
+            {
+                "product_name": "Product-commodi-consequuntur",
+                "product_description": "Possimus vel id sit a veniam facere architecto quam voluptates alias error, ex ratione voluptate possimus atque ipsa, odio voluptatibus debitis est hic error minima qui possimus harum.",
+                "product_quantity": 27,
+                "product_price": 60.44
+            },
+            {
+                "product_name": "Product-quia-veniam",
+                "product_description": "Molestias officiis explicabo alias in velit, eos numquam voluptatem atque nam pariatur ipsum quidem id nihil error expedita, quasi atque laborum temporibus nulla magnam provident alias.",
+                "product_quantity": 1,
+                "product_price": 88.9
+            }
+        ]
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-YBROrzjQ",
+        "supplier_contact": "supplierYBROrzjQ@example.com",
+        "products": [
+            {
+                "product_name": "Product-eius-ea",
+                "product_description": "Impedit vitae maxime voluptas nisi sit repudiandae et, libero hic consectetur?",
+                "product_quantity": 21,
+                "product_price": 57.91
+            },
+            {
+                "product_name": "Product-nam-perferendis",
+                "product_description": "Cum itaque tempore doloremque exercitationem odit, labore neque rerum id voluptatibus error, cum veniam quo totam incidunt consectetur, nulla tempora velit odio animi accusamus sed mollitia iusto.",
+                "product_quantity": 44,
+                "product_price": 22.44
+            },
+            {
+                "product_name": "Product-error-aliquid",
+                "product_description": "Voluptas pariatur quasi, modi ipsa minima eum tempore non et, exercitationem magni architecto hic expedita odit, officiis rerum autem blanditiis delectus.",
+                "product_quantity": 70,
+                "product_price": 66.12
+            },
+            {
+                "product_name": "Product-animi-laudantium",
+                "product_description": "Laborum dolor fuga numquam a omnis consectetur nisi soluta cum maiores quod, esse dicta nesciunt atque, exercitationem eaque magni, at debitis rerum itaque necessitatibus pariatur magni laudantium alias?",
+                "product_quantity": 34,
+                "product_price": 6.12
+            },
+            {
+                "product_name": "Product-velit-quis",
+                "product_description": "Aliquam sit quae magni nam non distinctio ab soluta rerum suscipit, fugit quasi nesciunt, officia voluptatem quae?",
+                "product_quantity": 47,
+                "product_price": 43.33
+            }
+        ]
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-MMaqO9Mg",
+        "supplier_contact": "supplierMMaqO9Mg@example.com",
+        "products": [
+            {
+                "product_name": "Product-sit-mollitia",
+                "product_description": "Fugit vero nihil, quam expedita nemo enim nobis cumque facere rerum saepe deleniti quasi aspernatur, fugiat itaque deserunt recusandae sed deleniti iure iste quidem nesciunt, veniam rerum consequuntur laborum vel enim voluptatum voluptates aspernatur accusamus, aperiam perferendis facere officiis dolore quia consequuntur quos alias iste magnam corporis?",
+                "product_quantity": 78,
+                "product_price": 3.95
+            },
+            {
+                "product_name": "Product-error-et",
+                "product_description": "Aliquam veniam in ipsa obcaecati quibusdam id reiciendis, nihil deserunt aliquam, unde minima exercitationem nam iure repudiandae, esse enim modi illum non.",
+                "product_quantity": 21,
+                "product_price": 40.58
+            },
+            {
+                "product_name": "Product-earum-ipsum",
+                "product_description": "Laborum commodi aspernatur obcaecati deserunt, beatae veniam ipsum possimus aperiam laborum ducimus perferendis, totam quaerat quisquam odit illum accusantium tenetur quo excepturi ut veritatis aliquam.",
+                "product_quantity": 66,
+                "product_price": 89.0
+            },
+            {
+                "product_name": "Product-voluptate-nobis",
+                "product_description": "Ducimus hic reiciendis voluptate debitis blanditiis nesciunt impedit quaerat, soluta facilis natus, temporibus perferendis dolorem illo autem perspiciatis delectus, eius ut suscipit alias quidem impedit tempora quae dolor?",
+                "product_quantity": 60,
+                "product_price": 33.6
+            },
+            {
+                "product_name": "Product-dicta-tempore",
+                "product_description": "Consequatur libero minus necessitatibus adipisci impedit maiores eligendi aut suscipit, consectetur cupiditate quis sunt debitis at error culpa magnam eaque explicabo incidunt, dicta ut numquam assumenda distinctio alias praesentium ullam, reprehenderit impedit at optio?",
+                "product_quantity": 78,
+                "product_price": 95.79
+            }
+        ]
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-ORKbzfeQ",
+        "supplier_contact": "supplierORKbzfeQ@example.com",
+        "products": [
+            {
+                "product_name": "Product-laboriosam-minima",
+                "product_description": "Porro praesentium doloribus ea error harum maxime, illo ducimus commodi, eveniet architecto esse incidunt temporibus asperiores officia nulla, hic sequi quisquam dolor eveniet alias fugiat quod odit perspiciatis reprehenderit.",
+                "product_quantity": 38,
+                "product_price": 98.39
+            },
+            {
+                "product_name": "Product-nesciunt-repellendus",
+                "product_description": "Consequuntur laboriosam voluptates harum neque adipisci dolore quam non minima eius, amet placeat possimus dolore aperiam labore quos ad ut, rerum beatae magni ipsam suscipit dignissimos doloribus hic eum asperiores.",
+                "product_quantity": 16,
+                "product_price": 89.29
+            },
+            {
+                "product_name": "Product-esse-labore",
+                "product_description": "Porro necessitatibus ab dolorem, voluptates corporis repellendus voluptate velit autem magnam culpa sunt ad iusto, adipisci dignissimos repellendus fugit vel, quos iusto sapiente facilis.",
+                "product_quantity": 61,
+                "product_price": 53.51
+            },
+            {
+                "product_name": "Product-voluptatem-culpa",
+                "product_description": "Quos aut animi accusantium deleniti natus ipsum atque saepe soluta ipsam facilis, harum reprehenderit voluptas quasi vero, debitis placeat laborum nostrum maiores ipsam et velit.",
+                "product_quantity": 82,
+                "product_price": 82.03
+            },
+            {
+                "product_name": "Product-architecto-amet",
+                "product_description": "Reprehenderit excepturi harum debitis est qui quod obcaecati inventore molestias, officia fugit suscipit ut culpa illum consequuntur aperiam labore tempora aspernatur, nostrum deserunt eligendi laudantium eaque earum, doloremque aspernatur obcaecati quos, magnam numquam optio eum distinctio quo fugit odit nihil iusto provident autem.",
+                "product_quantity": 85,
+                "product_price": 83.61
+            }
+        ]
+    }
+}

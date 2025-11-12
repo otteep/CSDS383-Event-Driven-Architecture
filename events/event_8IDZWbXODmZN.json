@@ -1,0 +1,14 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-2R0JVg3h",
+        "supplier_contact": "supplier2R0JVg3h@example.com",
+        "products": [
+            {
+                "product_name": "Product-laboriosam-aliquam",
+                "product_description": "Eaque illo autem atque, beatae sint error neque placeat quod itaque, porro ducimus ab doloremque eos delectus.",
+                "product_quantity": 15,
+                "product_price": 39.04
+            }
+        ]
+    }
+}

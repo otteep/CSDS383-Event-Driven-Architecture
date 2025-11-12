@@ -1,0 +1,32 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-tAA7Xsn0",
+        "supplier_contact": "suppliertAA7Xsn0@example.com",
+        "products": [
+            {
+                "product_name": "Product-totam-iste",
+                "product_description": "Eum in voluptate mollitia nihil alias vero, delectus est placeat quasi odit, porro illum praesentium ipsa vitae odio ea.",
+                "product_quantity": 2,
+                "product_price": 72.62
+            },
+            {
+                "product_name": "Product-inventore-velit",
+                "product_description": "Culpa enim esse nesciunt veniam omnis numquam perferendis doloremque obcaecati quo, maxime aspernatur ab exercitationem minima tempore unde, nam quam consequatur cumque eaque nulla odit consequuntur illo expedita, dolorem veniam doloribus veritatis sed fugit exercitationem sapiente non nostrum quae sequi, deserunt consequatur itaque ex neque numquam recusandae.",
+                "product_quantity": 94,
+                "product_price": 54.72
+            },
+            {
+                "product_name": "Product-soluta-quasi",
+                "product_description": "Omnis incidunt corporis, optio eos necessitatibus est eligendi suscipit libero aperiam enim, nulla non voluptatem omnis cum cumque nobis.",
+                "product_quantity": 62,
+                "product_price": 14.99
+            },
+            {
+                "product_name": "Product-adipisci-et",
+                "product_description": "Eaque possimus aliquid veniam, nam voluptas laboriosam debitis blanditiis perspiciatis illo libero nobis, facere voluptatem sunt labore voluptate perferendis ratione officiis, sapiente nisi maxime possimus dolor labore dolorem ducimus provident totam vero.",
+                "product_quantity": 15,
+                "product_price": 38.61
+            }
+        ]
+    }
+}

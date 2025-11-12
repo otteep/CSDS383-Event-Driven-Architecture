@@ -1,0 +1,26 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-2sVAWIO7",
+        "supplier_contact": "supplier2sVAWIO7@example.com",
+        "products": [
+            {
+                "product_name": "Product-eius-maiores",
+                "product_description": "Praesentium numquam nisi maxime, laboriosam necessitatibus voluptatibus quisquam, tempore tempora veritatis rerum quo odio quos aliquam, ipsa veritatis voluptatum itaque dolorem, voluptates quis porro ex maxime iste dolorum amet nulla voluptatem voluptas?",
+                "product_quantity": 55,
+                "product_price": 50.64
+            },
+            {
+                "product_name": "Product-itaque-provident",
+                "product_description": "Adipisci esse laboriosam placeat odit unde molestias quaerat numquam eligendi accusamus, modi sequi labore aut porro, repellendus alias numquam nobis tempora molestiae id laudantium repudiandae soluta animi, autem minima dolorem molestias, repellendus iste libero vero veritatis sint voluptatum odit nulla necessitatibus nobis doloribus?",
+                "product_quantity": 44,
+                "product_price": 31.79
+            },
+            {
+                "product_name": "Product-nam-ducimus",
+                "product_description": "Veniam officiis laudantium inventore debitis non quasi ipsum accusamus aliquam, earum reiciendis illum alias voluptatem expedita labore aperiam quam.",
+                "product_quantity": 67,
+                "product_price": 96.71
+            }
+        ]
+    }
+}

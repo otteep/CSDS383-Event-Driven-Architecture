@@ -1,0 +1,20 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-jN1kBk0r",
+        "supplier_contact": "supplierjN1kBk0r@example.com",
+        "products": [
+            {
+                "product_name": "Product-dignissimos-temporibus",
+                "product_description": "Ratione vel ipsa natus nobis voluptates ea quos iste hic quibusdam, cupiditate alias voluptate distinctio laboriosam nesciunt, aperiam tenetur cum optio similique, culpa maiores dignissimos beatae reprehenderit quas laboriosam, reprehenderit sequi distinctio quisquam labore ab totam quo?",
+                "product_quantity": 97,
+                "product_price": 22.12
+            },
+            {
+                "product_name": "Product-maxime-quibusdam",
+                "product_description": "Itaque ullam hic rem qui ab fugiat dolorem, praesentium corporis expedita quia impedit quae ut consectetur atque, quaerat commodi est fugit omnis ipsum consequatur.",
+                "product_quantity": 91,
+                "product_price": 92.82
+            }
+        ]
+    }
+}

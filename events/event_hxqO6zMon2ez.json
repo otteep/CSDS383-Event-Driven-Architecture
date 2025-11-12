@@ -1,0 +1,24 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-J2vd1v2i",
+        "products": [
+            {
+                "product_name": "Product-libero-voluptatem",
+                "product_description": "Voluptas fugit facere minima exercitationem aliquid deleniti magnam, ea vitae illo pariatur maxime, vero assumenda sit repellat odit quae earum eveniet repudiandae ullam alias.",
+                "product_quantity": 25,
+                "product_price": 53.3
+            },
+            {
+                "product_name": "Product-laborum-tenetur",
+                "product_description": "Et ducimus qui molestias quisquam tempore, consequuntur quidem sequi numquam in exercitationem rem autem, hic necessitatibus sunt, magnam exercitationem fugiat soluta iusto itaque distinctio voluptatibus in totam.",
+                "product_quantity": 14,
+                "product_price": 80.13
+            },
+            {
+                "product_name": "Product-itaque-sint",
+                "product_description": "Aspernatur non in tenetur vitae accusantium enim nostrum ab amet quo, temporibus nihil eaque perspiciatis amet voluptate, explicabo a maiores aliquid culpa veniam, facere suscipit hic et vero optio voluptates perspiciatis ad, cum dicta ipsum facilis tempore?",
+                "product_price": 70.34
+            }
+        ]
+    }
+}

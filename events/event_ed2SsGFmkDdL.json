@@ -1,0 +1,25 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-2UqKH8rH",
+        "supplier_contact": "supplier2UqKH8rH@example.com",
+        "products": [
+            {
+                "product_name": "Product-possimus-consequuntur",
+                "product_description": "Fugiat repudiandae aut, harum reiciendis ut dicta distinctio id numquam consequuntur expedita.",
+                "product_quantity": 77,
+                "product_price": 42.02
+            },
+            {
+                "product_name": "Product-quidem-repellendus",
+                "product_description": "Reiciendis quos iusto veritatis fugit, temporibus id reiciendis quod in eius quas, et reiciendis ipsa tempore explicabo?",
+                "product_quantity": 61,
+                "product_price": 60.8
+            },
+            {
+                "product_description": "Nobis sunt autem voluptatem ad distinctio accusamus molestias quasi iure, iusto ratione quae odit a in eaque laboriosam sint magnam illo, nemo natus quod illo repellendus dolorem?",
+                "product_quantity": 86,
+                "product_price": 52.54
+            }
+        ]
+    }
+}

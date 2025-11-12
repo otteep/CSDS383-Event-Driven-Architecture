@@ -1,0 +1,32 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-J6p39F0b",
+        "supplier_contact": "supplierJ6p39F0b@example.com",
+        "products": [
+            {
+                "product_name": "Product-similique-totam",
+                "product_description": "Eius labore quo obcaecati possimus, reprehenderit quod facilis earum eveniet soluta nobis officia rerum, totam voluptatum voluptas non, deleniti nemo illo quibusdam perferendis atque quos reiciendis recusandae, magnam impedit assumenda est consectetur atque voluptatum?",
+                "product_quantity": 89,
+                "product_price": 82.22
+            },
+            {
+                "product_name": "Product-laudantium-doloribus",
+                "product_description": "Earum rerum ratione eum veritatis sequi placeat illo commodi sapiente aperiam, libero vero saepe tenetur eum ullam doloremque odio, saepe similique commodi fugiat cumque perspiciatis sequi architecto molestias corporis, aspernatur ad consequatur, est eos exercitationem incidunt atque earum cupiditate deserunt quis non?",
+                "product_quantity": 90,
+                "product_price": 36.88
+            },
+            {
+                "product_name": "Product-inventore-magni",
+                "product_description": "Vitae iure dolorem alias unde eaque omnis sit illo qui, animi tempore eveniet recusandae autem pariatur non labore cupiditate.",
+                "product_quantity": 99,
+                "product_price": 98.21
+            },
+            {
+                "product_name": "Product-repudiandae-omnis",
+                "product_description": "Iusto commodi neque possimus eveniet provident, possimus quam non, ullam ratione officia nobis veritatis, quam nobis quasi iusto nihil facilis quidem veniam cumque adipisci modi odit, corrupti culpa obcaecati amet rem officiis ipsum fugit?",
+                "product_quantity": 68,
+                "product_price": 77.91
+            }
+        ]
+    }
+}

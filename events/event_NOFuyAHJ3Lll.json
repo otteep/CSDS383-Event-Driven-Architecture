@@ -1,0 +1,32 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-ConJGLgR",
+        "supplier_contact": "supplierConJGLgR@example.com",
+        "products": [
+            {
+                "product_name": "Product-aspernatur-quod",
+                "product_description": "Alias provident incidunt dolorum dolorem debitis perspiciatis minus eos soluta eaque, a id ex dolores praesentium fugiat totam, ipsam reiciendis commodi quas nemo.",
+                "product_quantity": 27,
+                "product_price": 59.58
+            },
+            {
+                "product_name": "Product-possimus-odit",
+                "product_description": "Ex nulla commodi iure vitae, dolor aliquid perferendis ducimus laboriosam.",
+                "product_quantity": 97,
+                "product_price": 50.65
+            },
+            {
+                "product_name": "Product-dolor-quod",
+                "product_description": "Voluptatem dolor animi quaerat repudiandae praesentium officia, officiis error quod repellendus eius tempora ipsum reprehenderit, eum voluptate veritatis quidem architecto perspiciatis ullam commodi id pariatur magnam cumque.",
+                "product_quantity": 58,
+                "product_price": 6.22
+            },
+            {
+                "product_name": "Product-perferendis-maiores",
+                "product_description": "Qui repellat beatae ratione temporibus quas vitae dolor, odio totam nihil ea aperiam ipsam ducimus neque possimus quaerat animi?",
+                "product_quantity": 66,
+                "product_price": 18.32
+            }
+        ]
+    }
+}

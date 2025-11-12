@@ -1,0 +1,20 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-Q62x4LOl",
+        "supplier_contact": "supplierQ62x4LOl@example.com",
+        "products": [
+            {
+                "product_name": "Product-aperiam-vitae",
+                "product_description": "Sit voluptas perspiciatis ipsum ex aspernatur quibusdam debitis vitae nostrum, possimus voluptatibus ducimus qui vero voluptatum earum, corrupti corporis iusto animi dicta?",
+                "product_quantity": 83,
+                "product_price": 5.23
+            },
+            {
+                "product_name": "Product-temporibus-quos",
+                "product_description": "Laborum similique doloribus natus dolore doloremque eligendi, est suscipit aut debitis?",
+                "product_quantity": 78,
+                "product_price": 93.15
+            }
+        ]
+    }
+}

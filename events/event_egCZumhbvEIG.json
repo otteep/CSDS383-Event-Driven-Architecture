@@ -1,0 +1,26 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-L0jDOgqx",
+        "supplier_contact": "supplierL0jDOgqx@example.com",
+        "products": [
+            {
+                "product_name": "Product-tempore-sit",
+                "product_description": "A quasi at vero eligendi molestias distinctio optio eius exercitationem, laudantium exercitationem fugiat iure mollitia perspiciatis corrupti quos repellat asperiores, alias pariatur ut illo laboriosam, rem fugit placeat ipsum ratione cum nesciunt fuga, reprehenderit magni natus totam.",
+                "product_quantity": 55,
+                "product_price": 59.7
+            },
+            {
+                "product_name": "Product-accusantium-mollitia",
+                "product_description": "Vitae tempora labore in possimus saepe eaque nihil provident, maiores totam deserunt eius dolor vel suscipit alias possimus similique rerum.",
+                "product_quantity": 98,
+                "product_price": 42.72
+            },
+            {
+                "product_name": "Product-itaque-aspernatur",
+                "product_description": "Tempore natus minus similique hic enim velit, sint necessitatibus nihil sed, et optio nostrum illo ipsa?",
+                "product_quantity": 72,
+                "product_price": 54.75
+            }
+        ]
+    }
+}

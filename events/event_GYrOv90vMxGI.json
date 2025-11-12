@@ -1,0 +1,26 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-QxXDMb2a",
+        "supplier_contact": "supplierQxXDMb2a@example.com",
+        "products": [
+            {
+                "product_name": "Product-molestiae-nesciunt",
+                "product_description": "Laborum fugit numquam ut, doloribus perferendis iusto obcaecati asperiores natus sit?",
+                "product_quantity": 12,
+                "product_price": 40.8
+            },
+            {
+                "product_name": "Product-inventore-vel",
+                "product_description": "Ullam reiciendis possimus, quia tempore voluptate itaque consequatur, possimus dignissimos pariatur, nesciunt molestias sit voluptatum ipsa fugiat saepe aliquam ad quo.",
+                "product_quantity": 75,
+                "product_price": 92.89
+            },
+            {
+                "product_name": "Product-quidem-quod",
+                "product_description": "At corrupti alias quo vel voluptatum nobis, error ea rem rerum, ducimus harum voluptatum minima praesentium doloribus cum earum aperiam ab aliquid incidunt, et iusto ipsa ipsam nam aut earum eius, veniam ad rerum saepe.",
+                "product_quantity": 98,
+                "product_price": 93.89
+            }
+        ]
+    }
+}

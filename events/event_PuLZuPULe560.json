@@ -1,0 +1,25 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-emtZDpz3",
+        "supplier_contact": "supplieremtZDpz3@example.com",
+        "products": [
+            {
+                "product_name": "Product-reprehenderit-temporibus",
+                "product_description": "Accusantium error rem, accusamus eveniet beatae maiores placeat enim minus dicta maxime sunt quaerat.",
+                "product_quantity": 95,
+                "product_price": 38.27
+            },
+            {
+                "product_name": "Product-amet-porro",
+                "product_description": "Nam quaerat reprehenderit totam eos culpa facilis dolor placeat, harum culpa reprehenderit corrupti nesciunt nisi.",
+                "product_quantity": 86,
+                "product_price": 21.91
+            },
+            {
+                "product_name": "Product-maiores-numquam",
+                "product_description": "Iusto quasi alias molestiae repudiandae perspiciatis, dolores tempora ex, atque repellendus ad ex ut optio.",
+                "product_price": 85.09
+            }
+        ]
+    }
+}

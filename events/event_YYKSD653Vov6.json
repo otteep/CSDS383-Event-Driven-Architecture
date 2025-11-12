@@ -1,0 +1,38 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-LUTehmIX",
+        "supplier_contact": "supplierLUTehmIX@example.com",
+        "products": [
+            {
+                "product_name": "Product-quo-itaque",
+                "product_description": "Laboriosam velit architecto dolor, dicta praesentium aliquid nemo quos quibusdam culpa delectus commodi asperiores sit, iure deleniti iusto eius temporibus vel tempora, consequuntur ab illo odio saepe, aliquid et ducimus quasi.",
+                "product_quantity": 42,
+                "product_price": 89.62
+            },
+            {
+                "product_name": "Product-tempore-reiciendis",
+                "product_description": "Aliquam atque et in laborum labore eligendi aliquid eum, dignissimos mollitia eum accusantium numquam ullam nulla quidem veniam ducimus, ab numquam non quos aliquid, nam voluptate impedit eligendi vel minima inventore asperiores?",
+                "product_quantity": 73,
+                "product_price": 25.06
+            },
+            {
+                "product_name": "Product-maxime-soluta",
+                "product_description": "Vel deserunt dolorum nulla iste neque consequuntur expedita odio ipsa, aliquid quidem alias itaque labore amet sint debitis corrupti iure, nihil aliquid repellat quas autem magnam officia deserunt, minus quam aliquam nihil atque dolore dignissimos sed esse, deserunt ipsa non quod?",
+                "product_quantity": 37,
+                "product_price": 5.43
+            },
+            {
+                "product_name": "Product-nemo-officiis",
+                "product_description": "Nihil voluptates aliquam voluptate, id dolor qui, dicta quod dolores dolorem necessitatibus nesciunt nulla accusantium corrupti?",
+                "product_quantity": 70,
+                "product_price": 15.94
+            },
+            {
+                "product_name": "Product-delectus-eius",
+                "product_description": "Repellendus quasi quas ex perspiciatis eveniet autem, ut natus mollitia fuga doloribus eaque ea beatae laudantium minima aspernatur repellendus.",
+                "product_quantity": 9,
+                "product_price": 92.29
+            }
+        ]
+    }
+}

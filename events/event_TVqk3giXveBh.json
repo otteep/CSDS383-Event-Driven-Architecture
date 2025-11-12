@@ -1,0 +1,31 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-EuMfemIV",
+        "supplier_contact": "supplierEuMfemIV@example.com",
+        "products": [
+            {
+                "product_name": "Product-ducimus-rerum",
+                "product_description": "Quaerat non nisi voluptatibus doloremque iusto odio ea error, sint tempore illo nulla perspiciatis ex commodi distinctio iure id, blanditiis quidem aliquid provident aperiam nesciunt voluptatibus ab aliquam facilis sunt officiis, ipsa eius vel placeat.",
+                "product_quantity": 11,
+                "product_price": 97.52
+            },
+            {
+                "product_name": "Product-nobis-et",
+                "product_description": "Labore minima temporibus tenetur, nisi distinctio assumenda optio laudantium recusandae nobis obcaecati ipsum itaque delectus cumque, sunt repellendus nobis, architecto rerum tempora labore repellat eos cupiditate debitis sapiente praesentium inventore?",
+                "product_quantity": 76,
+                "product_price": 96.42
+            },
+            {
+                "product_name": "Product-corporis-nulla",
+                "product_description": "Amet quae consequuntur porro, optio eligendi quis tempore asperiores, rerum repudiandae consequuntur omnis quia similique eius illum ullam.",
+                "product_quantity": 52,
+                "product_price": 21.85
+            },
+            {
+                "product_name": "Product-deleniti-ducimus",
+                "product_description": "Dolorem quia distinctio amet dolores placeat soluta sit repellendus praesentium recusandae nam, animi eos quasi impedit explicabo modi at unde repellendus vel sapiente totam, asperiores qui cupiditate molestias suscipit optio eaque aliquid nihil adipisci culpa nobis.",
+                "product_price": 20.76
+            }
+        ]
+    }
+}

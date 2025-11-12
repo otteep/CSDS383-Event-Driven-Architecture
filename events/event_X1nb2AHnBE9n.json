@@ -1,0 +1,20 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-Ur7EzEOq",
+        "supplier_contact": "supplierUr7EzEOq@example.com",
+        "products": [
+            {
+                "product_name": "Product-pariatur-voluptas",
+                "product_description": "Aperiam dolore in error labore soluta, non obcaecati eaque esse minima beatae nemo magni, autem officia quam enim beatae quae incidunt omnis laborum perspiciatis nesciunt id.",
+                "product_quantity": 17,
+                "product_price": 65.05
+            },
+            {
+                "product_name": "Product-delectus-hic",
+                "product_description": "Ad sunt corrupti quaerat earum, dignissimos doloribus alias non corrupti voluptatum omnis, fugiat rem unde, unde illo accusamus facere nobis cumque, exercitationem reiciendis aspernatur.",
+                "product_quantity": 31,
+                "product_price": 34.72
+            }
+        ]
+    }
+}

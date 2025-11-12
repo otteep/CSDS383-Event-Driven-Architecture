@@ -1,0 +1,38 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-9lSBS4ck",
+        "supplier_contact": "supplier9lSBS4ck@example.com",
+        "products": [
+            {
+                "product_name": "Product-tenetur-consequatur",
+                "product_description": "Rem nisi libero harum soluta laborum vitae quibusdam cumque, voluptas distinctio error quasi voluptates, sapiente culpa voluptate tenetur beatae laborum repudiandae?",
+                "product_quantity": 15,
+                "product_price": 83.63
+            },
+            {
+                "product_name": "Product-cumque-nam",
+                "product_description": "Repudiandae eos iste beatae recusandae quidem nobis in pariatur necessitatibus blanditiis sed, porro aperiam facere corrupti ipsa voluptate rem dolores illum ratione totam, similique quam id eveniet libero fugiat, vitae in nemo iusto quibusdam voluptatum velit distinctio enim.",
+                "product_quantity": 89,
+                "product_price": 58.09
+            },
+            {
+                "product_name": "Product-numquam-veniam",
+                "product_description": "In voluptatem fugit iure incidunt aperiam quas, in voluptate voluptas itaque illo sequi provident?",
+                "product_quantity": 24,
+                "product_price": 38.69
+            },
+            {
+                "product_name": "Product-voluptatibus-eligendi",
+                "product_description": "Fuga iste veniam nobis illum ab aliquam cumque aliquid, velit iusto voluptas quae error doloribus eius voluptates mollitia quas sit, corrupti ducimus quia ex inventore sint rerum, voluptate fuga ipsam nam architecto minima perspiciatis placeat dignissimos eum?",
+                "product_quantity": 88,
+                "product_price": 46.51
+            },
+            {
+                "product_name": "Product-praesentium-vitae",
+                "product_description": "Sapiente porro aliquam obcaecati nobis doloribus expedita, neque accusamus atque porro perspiciatis maiores doloribus consectetur voluptate error, inventore commodi consequatur at, neque possimus debitis minima consequatur nisi cum quas dolorum voluptatem non?",
+                "product_quantity": 38,
+                "product_price": 78.43
+            }
+        ]
+    }
+}

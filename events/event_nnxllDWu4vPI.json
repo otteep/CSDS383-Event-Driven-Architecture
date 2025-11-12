@@ -1,0 +1,26 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-lajxo79m",
+        "supplier_contact": "supplierlajxo79m@example.com",
+        "products": [
+            {
+                "product_name": "Product-animi-dolores",
+                "product_description": "Ducimus eos ipsum libero recusandae nam incidunt optio possimus tempora, obcaecati ratione dolore quidem molestias vero at quaerat, asperiores autem corporis distinctio molestiae inventore aperiam veniam dicta sapiente?",
+                "product_quantity": 35,
+                "product_price": 56.03
+            },
+            {
+                "product_name": "Product-aliquid-dolore",
+                "product_description": "Possimus cum impedit libero, deserunt ea incidunt temporibus atque voluptatem quod cumque, vero maiores nisi consequatur voluptatibus blanditiis magni atque mollitia quibusdam quos, perspiciatis illo officia aliquam eaque eius?",
+                "product_quantity": 96,
+                "product_price": 12.27
+            },
+            {
+                "product_name": "Product-quos-impedit",
+                "product_description": "Dignissimos laborum minima quas, odio aperiam aliquid inventore ipsam quia illum, natus excepturi quisquam aut nobis dolorum.",
+                "product_quantity": 44,
+                "product_price": 31.27
+            }
+        ]
+    }
+}

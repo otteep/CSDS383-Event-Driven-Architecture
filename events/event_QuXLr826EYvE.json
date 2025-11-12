@@ -1,0 +1,26 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-mVOXrL5j",
+        "supplier_contact": "suppliermVOXrL5j@example.com",
+        "products": [
+            {
+                "product_name": "Product-ipsum-incidunt",
+                "product_description": "Voluptas ad at assumenda saepe delectus, assumenda sit quo?",
+                "product_quantity": 35,
+                "product_price": 76.25
+            },
+            {
+                "product_name": "Product-numquam-molestiae",
+                "product_description": "Id fugit provident quis culpa aperiam obcaecati placeat deleniti vitae similique iusto, saepe sint explicabo pariatur tenetur natus?",
+                "product_quantity": 31,
+                "product_price": 57.4
+            },
+            {
+                "product_name": "Product-iure-deserunt",
+                "product_description": "Laborum natus ipsum eligendi vero odio magnam provident cupiditate, sequi cupiditate tempore, aliquam explicabo eveniet dicta nesciunt magnam, in et fugiat voluptate laudantium eaque doloribus pariatur voluptatum.",
+                "product_quantity": 29,
+                "product_price": 63.51
+            }
+        ]
+    }
+}

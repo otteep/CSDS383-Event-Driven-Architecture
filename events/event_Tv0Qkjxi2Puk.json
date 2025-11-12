@@ -1,0 +1,26 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-KyKt1tCW",
+        "supplier_contact": "supplierKyKt1tCW@example.com",
+        "products": [
+            {
+                "product_name": "Product-suscipit-laborum",
+                "product_description": "A ullam minus eum libero molestiae optio enim eos, corrupti cupiditate nobis tempora aut sed exercitationem ea temporibus, provident minus quia excepturi earum.",
+                "product_quantity": 52,
+                "product_price": 80.72
+            },
+            {
+                "product_name": "Product-hic-eos",
+                "product_description": "Iste aliquam eos quidem, eos nulla temporibus nemo possimus commodi natus sequi similique deserunt rem, ipsam aliquam quasi delectus porro a illum iste, assumenda beatae labore accusantium eos vel at suscipit quam voluptate?",
+                "product_quantity": 63,
+                "product_price": 80.8
+            },
+            {
+                "product_name": "Product-eaque-quae",
+                "product_description": "Aperiam illo ipsam consectetur nulla vel eum autem veritatis, reiciendis veniam voluptatum facere ipsum hic, iure pariatur quibusdam inventore eius facilis nesciunt obcaecati vero ipsam reiciendis illo, laborum quisquam obcaecati iure commodi provident?",
+                "product_quantity": 79,
+                "product_price": 20.14
+            }
+        ]
+    }
+}

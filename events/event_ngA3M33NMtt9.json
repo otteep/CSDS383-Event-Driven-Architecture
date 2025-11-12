@@ -1,0 +1,14 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-CMbgvdo6",
+        "supplier_contact": "supplierCMbgvdo6@example.com",
+        "products": [
+            {
+                "product_name": "Product-quia-laudantium",
+                "product_description": "Adipisci voluptatum itaque similique vel esse fugiat consectetur cum repellendus, doloremque facere veritatis eveniet?",
+                "product_quantity": 81,
+                "product_price": 13.9
+            }
+        ]
+    }
+}

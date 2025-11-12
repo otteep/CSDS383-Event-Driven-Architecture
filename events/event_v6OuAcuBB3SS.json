@@ -1,0 +1,14 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-xEMbA0D9",
+        "supplier_contact": "supplierxEMbA0D9@example.com",
+        "products": [
+            {
+                "product_name": "Product-tenetur-maxime",
+                "product_description": "Ea ipsam similique dolor natus maiores minus quae, neque corrupti sunt facilis fugiat magni magnam, alias iste odit cum mollitia quam ullam dolorum?",
+                "product_quantity": 52,
+                "product_price": 60.13
+            }
+        ]
+    }
+}

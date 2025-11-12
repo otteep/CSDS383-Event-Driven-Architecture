@@ -1,0 +1,20 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-o5N0nudN",
+        "supplier_contact": "suppliero5N0nudN@example.com",
+        "products": [
+            {
+                "product_name": "Product-repellendus-molestiae",
+                "product_description": "Cum provident illum voluptatibus eaque, repellendus officia consequatur vero veniam voluptates ipsa obcaecati aspernatur at reprehenderit, molestias sunt ullam inventore laudantium illum et qui doloribus, esse hic illo sunt delectus vero laborum temporibus libero.",
+                "product_quantity": 91,
+                "product_price": 32.72
+            },
+            {
+                "product_name": "Product-dolores-beatae",
+                "product_description": "Assumenda excepturi alias suscipit dolorum quae a beatae nam maxime ex, voluptatibus ullam fugit iste beatae iusto adipisci minima ratione, voluptatibus quam necessitatibus est, nam magnam cum veniam ex corrupti provident enim perferendis, assumenda eos officiis nesciunt commodi.",
+                "product_quantity": 48,
+                "product_price": 51.38
+            }
+        ]
+    }
+}

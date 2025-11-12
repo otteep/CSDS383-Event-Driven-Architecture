@@ -1,0 +1,32 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-4J1Vxfx5",
+        "supplier_contact": "supplier4J1Vxfx5@example.com",
+        "products": [
+            {
+                "product_name": "Product-amet-aliquam",
+                "product_description": "Dolore doloremque voluptatibus culpa, recusandae ipsum odio quis eos ad ullam ea doloribus quidem veritatis.",
+                "product_quantity": 7,
+                "product_price": 86.42
+            },
+            {
+                "product_name": "Product-sapiente-impedit",
+                "product_description": "Minus delectus ut maiores doloribus rem itaque optio ullam sapiente qui aliquam, optio ea vitae autem tempore laudantium incidunt, error minima nisi nobis rerum aut facere.",
+                "product_quantity": 87,
+                "product_price": 35.58
+            },
+            {
+                "product_name": "Product-fuga-incidunt",
+                "product_description": "Ullam nisi corrupti cupiditate obcaecati iusto facere soluta ipsa, enim molestiae reprehenderit amet repudiandae iusto dolores.",
+                "product_quantity": 100,
+                "product_price": 50.28
+            },
+            {
+                "product_name": "Product-unde-sit",
+                "product_description": "Qui velit illo molestias illum cupiditate doloribus similique, quod dolorum repudiandae accusantium et iste iusto quidem repellat ab, ex iure dolorum veritatis illum magni maxime, voluptatibus corrupti porro accusamus natus libero rem assumenda adipisci molestiae nisi?",
+                "product_quantity": 71,
+                "product_price": 30.42
+            }
+        ]
+    }
+}

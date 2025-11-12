@@ -1,0 +1,38 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-TZcu9L7D",
+        "supplier_contact": "supplierTZcu9L7D@example.com",
+        "products": [
+            {
+                "product_name": "Product-labore-corporis",
+                "product_description": "Blanditiis possimus iste sed porro assumenda dolorum illo debitis non minima maxime, animi ratione culpa distinctio deserunt optio corporis necessitatibus harum ut error laborum, adipisci a voluptas suscipit ducimus rem reiciendis voluptate, magni unde harum aut neque.",
+                "product_quantity": 73,
+                "product_price": 8.98
+            },
+            {
+                "product_name": "Product-odit-exercitationem",
+                "product_description": "Et veniam harum sunt beatae dolore doloremque reiciendis aliquam, assumenda ipsum earum nobis exercitationem totam neque possimus suscipit, laborum corrupti soluta dolor ratione tenetur vel dolorem vero nostrum voluptate similique.",
+                "product_quantity": 10,
+                "product_price": 85.14
+            },
+            {
+                "product_name": "Product-molestiae-iusto",
+                "product_description": "Labore dolorem omnis culpa aperiam aut molestias unde error vel, cumque sint adipisci deserunt quidem fugiat reiciendis tenetur neque, aspernatur facere iusto eveniet optio quis accusamus libero voluptatibus blanditiis, nostrum molestias rerum?",
+                "product_quantity": 34,
+                "product_price": 58.08
+            },
+            {
+                "product_name": "Product-odit-molestiae",
+                "product_description": "Labore in a perferendis impedit incidunt accusantium, ad delectus quisquam ipsa sed assumenda sapiente itaque quidem quasi?",
+                "product_quantity": 69,
+                "product_price": 81.27
+            },
+            {
+                "product_name": "Product-et-voluptates",
+                "product_description": "Tenetur eos impedit labore ad, magnam veritatis aliquid ipsum provident aperiam assumenda eius quas velit nobis.",
+                "product_quantity": 17,
+                "product_price": 77.2
+            }
+        ]
+    }
+}

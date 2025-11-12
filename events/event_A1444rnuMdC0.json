@@ -1,0 +1,38 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-ntUNuHBm",
+        "supplier_contact": "supplierntUNuHBm@example.com",
+        "products": [
+            {
+                "product_name": "Product-recusandae-harum",
+                "product_description": "Modi neque non amet a temporibus dolorum cumque, quaerat deleniti quos culpa modi, ea sunt repellendus vero deserunt facilis pariatur consequuntur velit nobis, ad impedit asperiores repudiandae, porro amet nisi dolores quod dolorem odio?",
+                "product_quantity": 65,
+                "product_price": 15.46
+            },
+            {
+                "product_name": "Product-quos-ab",
+                "product_description": "Quos temporibus sint error alias ex at, quod dicta voluptates reiciendis aliquid, dolor provident libero, veritatis distinctio velit recusandae temporibus, non quos harum iste corporis ducimus quae?",
+                "product_quantity": 5,
+                "product_price": 23.65
+            },
+            {
+                "product_name": "Product-sapiente-autem",
+                "product_description": "Minus blanditiis inventore expedita praesentium reiciendis ea, tempora illum id totam commodi porro similique magnam repellendus incidunt, labore ducimus ea velit aperiam, perspiciatis ad et hic minima maxime itaque sit nihil natus odio?",
+                "product_quantity": 45,
+                "product_price": 58.8
+            },
+            {
+                "product_name": "Product-sint-voluptatum",
+                "product_description": "Eligendi tempora aut tempore, veritatis incidunt maiores magnam, tenetur maxime quae corporis voluptatem minima necessitatibus, cupiditate culpa fugiat distinctio ut similique, doloribus blanditiis alias inventore sed?",
+                "product_quantity": 97,
+                "product_price": 19.77
+            },
+            {
+                "product_name": "Product-cupiditate-laudantium",
+                "product_description": "Voluptatum itaque quisquam aperiam reiciendis illo facilis aliquid qui libero, laborum nemo beatae iure, fuga nam dolor id, ratione voluptates exercitationem aliquid, aut aliquam accusantium beatae ipsa corrupti rem dolores quidem vel.",
+                "product_quantity": 37,
+                "product_price": 3.24
+            }
+        ]
+    }
+}

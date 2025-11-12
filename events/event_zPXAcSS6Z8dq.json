@@ -1,0 +1,32 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-f5BDSSgw",
+        "supplier_contact": "supplierf5BDSSgw@example.com",
+        "products": [
+            {
+                "product_name": "Product-mollitia-a",
+                "product_description": "Enim velit ratione accusamus fuga unde consequatur odio quos natus at cupiditate, suscipit similique earum nam in amet odio?",
+                "product_quantity": 74,
+                "product_price": 76.07
+            },
+            {
+                "product_name": "Product-non-dolore",
+                "product_description": "Consequatur officiis optio aut eveniet sed corporis sint, tempore et error veritatis iste totam explicabo est, quis quidem voluptatem optio debitis fugiat sapiente illo est aspernatur?",
+                "product_quantity": 62,
+                "product_price": 48.93
+            },
+            {
+                "product_name": "Product-expedita-quaerat",
+                "product_description": "Error deleniti ullam dicta, eligendi omnis quam non necessitatibus, quia minima quo perspiciatis assumenda omnis, veniam optio dolor aliquid beatae fuga provident eaque explicabo ullam ratione accusamus, provident iusto vero ipsum quaerat expedita.",
+                "product_quantity": 29,
+                "product_price": 95.0
+            },
+            {
+                "product_name": "Product-cum-ipsum",
+                "product_description": "Adipisci nam nobis praesentium perspiciatis eum, quis nobis beatae?",
+                "product_quantity": 32,
+                "product_price": 61.59
+            }
+        ]
+    }
+}

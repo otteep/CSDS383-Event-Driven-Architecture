@@ -1,0 +1,38 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-7deuzMMU",
+        "supplier_contact": "supplier7deuzMMU@example.com",
+        "products": [
+            {
+                "product_name": "Product-beatae-neque",
+                "product_description": "Voluptate similique est incidunt cupiditate nulla rem asperiores suscipit, est quam distinctio ad voluptatum repellendus officia?",
+                "product_quantity": 48,
+                "product_price": 50.25
+            },
+            {
+                "product_name": "Product-accusamus-molestias",
+                "product_description": "Optio laudantium dolorum sunt nisi hic nostrum sed ducimus adipisci magnam veritatis, ex nisi eum possimus corrupti inventore, nobis incidunt necessitatibus quibusdam, itaque sunt expedita quaerat rem perferendis id qui asperiores quasi consequatur?",
+                "product_quantity": 95,
+                "product_price": 93.75
+            },
+            {
+                "product_name": "Product-quae-quaerat",
+                "product_description": "Sapiente magni omnis maxime, cum sint suscipit debitis possimus aliquid, veritatis quae quibusdam nobis officia asperiores.",
+                "product_quantity": 68,
+                "product_price": 74.24
+            },
+            {
+                "product_name": "Product-nihil-beatae",
+                "product_description": "Porro libero officiis natus, beatae eligendi necessitatibus pariatur accusamus saepe iusto, a consequuntur fugit ipsam unde tempora id officia?",
+                "product_quantity": 1,
+                "product_price": 83.23
+            },
+            {
+                "product_name": "Product-porro-quod",
+                "product_description": "Eaque tempora neque culpa est labore, rem illum tempore esse similique corrupti dolores odio error nemo quod nobis, voluptatum soluta tempora, aspernatur incidunt iste sint.",
+                "product_quantity": 75,
+                "product_price": 55.23
+            }
+        ]
+    }
+}

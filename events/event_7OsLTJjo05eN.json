@@ -1,0 +1,14 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-U0pj5EE1",
+        "supplier_contact": "supplierU0pj5EE1@example.com",
+        "products": [
+            {
+                "product_name": "Product-voluptatibus-ex",
+                "product_description": "Eum voluptate quam atque hic, quisquam distinctio voluptatum illo culpa obcaecati consectetur impedit architecto nobis molestiae ex, ea corporis excepturi quos, expedita neque repellat eos distinctio perferendis aut nam explicabo quis quam dolore, mollitia provident soluta qui architecto fugit laboriosam deleniti iste repellat sapiente?",
+                "product_quantity": 32,
+                "product_price": 79.97
+            }
+        ]
+    }
+}

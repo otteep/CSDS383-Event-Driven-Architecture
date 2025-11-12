@@ -1,0 +1,14 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-6fDB1uIG",
+        "supplier_contact": "supplier6fDB1uIG@example.com",
+        "products": [
+            {
+                "product_name": "Product-itaque-maxime",
+                "product_description": "Nemo vero qui, consectetur iste ad ipsum error necessitatibus eveniet facere fuga repudiandae vitae, quia unde odio sint et recusandae aut id.",
+                "product_quantity": 57,
+                "product_price": 42.91
+            }
+        ]
+    }
+}

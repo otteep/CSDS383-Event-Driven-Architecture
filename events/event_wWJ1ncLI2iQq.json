@@ -1,0 +1,14 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-tPnyiCz3",
+        "supplier_contact": "suppliertPnyiCz3@example.com",
+        "products": [
+            {
+                "product_name": "Product-placeat-est",
+                "product_description": "Voluptate accusamus assumenda doloribus eligendi aliquid, ad quasi nobis iure aspernatur a quae, quae cupiditate inventore beatae exercitationem quo reiciendis, molestias quo quisquam ullam quae illum, aliquam facilis fuga perspiciatis nobis voluptate atque ipsa aliquid tempore?",
+                "product_quantity": 59,
+                "product_price": 11.41
+            }
+        ]
+    }
+}

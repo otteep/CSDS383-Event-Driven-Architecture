@@ -1,0 +1,38 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-cAEcHN7F",
+        "supplier_contact": "suppliercAEcHN7F@example.com",
+        "products": [
+            {
+                "product_name": "Product-illum-ducimus",
+                "product_description": "Eum praesentium autem minus aliquam reprehenderit suscipit quasi inventore, aliquid incidunt quam sed porro ducimus quis dicta soluta consequuntur sapiente, assumenda vel architecto illum maxime harum delectus adipisci necessitatibus exercitationem quas, quaerat nobis corporis officia perferendis cumque ut minus enim dolor saepe recusandae.",
+                "product_quantity": 45,
+                "product_price": 50.29
+            },
+            {
+                "product_name": "Product-necessitatibus-repudiandae",
+                "product_description": "Hic rem magni cum quasi, voluptatem cum voluptatibus provident dolorem possimus nam quas autem rerum?",
+                "product_quantity": 40,
+                "product_price": 32.1
+            },
+            {
+                "product_name": "Product-odit-deleniti",
+                "product_description": "Eos commodi et, distinctio sunt nam harum tempore veritatis ipsam reiciendis aperiam eos similique, deserunt enim odit beatae velit reprehenderit ipsum omnis officiis nobis temporibus dolorum, incidunt quia cumque id?",
+                "product_quantity": 73,
+                "product_price": 66.2
+            },
+            {
+                "product_name": "Product-corporis-illo",
+                "product_description": "Voluptatem laudantium placeat libero molestias autem repellat suscipit facilis modi, quaerat minima sunt, asperiores soluta nemo rerum esse modi labore reprehenderit suscipit corporis tempore accusantium, cum magni expedita praesentium maxime, quia unde pariatur nesciunt ullam blanditiis illo sint.",
+                "product_quantity": 32,
+                "product_price": 17.33
+            },
+            {
+                "product_name": "Product-id-facere",
+                "product_description": "Maxime eligendi obcaecati voluptates quod quia, sit eveniet voluptate aperiam doloribus saepe, atque corrupti molestias dolorem a.",
+                "product_quantity": 80,
+                "product_price": 96.92
+            }
+        ]
+    }
+}

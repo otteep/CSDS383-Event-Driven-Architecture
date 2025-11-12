@@ -1,0 +1,26 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-dBwEP9cC",
+        "supplier_contact": "supplierdBwEP9cC@example.com",
+        "products": [
+            {
+                "product_name": "Product-in-ut",
+                "product_description": "Ab dolorum repellendus pariatur, est eveniet at ipsam minima itaque architecto eius sapiente vitae?",
+                "product_quantity": 26,
+                "product_price": 17.98
+            },
+            {
+                "product_name": "Product-obcaecati-nesciunt",
+                "product_description": "Delectus eius dolores nobis sit commodi numquam nam modi totam iure explicabo, culpa commodi quisquam in assumenda iste perspiciatis?",
+                "product_quantity": 83,
+                "product_price": 96.24
+            },
+            {
+                "product_name": "Product-repellendus-saepe",
+                "product_description": "Quod expedita perferendis esse laborum numquam, at nobis alias earum quos natus corrupti, eligendi voluptatum omnis consequatur distinctio consequuntur ratione assumenda impedit sapiente nemo?",
+                "product_quantity": 33,
+                "product_price": 35.04
+            }
+        ]
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-heC1LQDX",
+        "supplier_contact": "supplierheC1LQDX@example.com",
+        "products": [
+            {
+                "product_name": "Product-cumque-est",
+                "product_description": "Deleniti incidunt fugit non, optio debitis esse blanditiis quo in quas atque nobis?",
+                "product_quantity": 34,
+                "product_price": 74.23
+            },
+            {
+                "product_name": "Product-labore-ex",
+                "product_description": "Blanditiis laborum accusantium minus, adipisci delectus vel?",
+                "product_quantity": 40,
+                "product_price": 79.24
+            },
+            {
+                "product_name": "Product-iusto-omnis",
+                "product_description": "Laborum architecto at ipsam fugiat, quis commodi labore magnam impedit illum itaque aperiam nisi, tempora officia magni iusto voluptas nobis iste cum quod assumenda ex?",
+                "product_quantity": 69,
+                "product_price": 38.82
+            }
+        ]
+    }
+}

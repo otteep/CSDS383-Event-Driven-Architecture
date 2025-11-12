@@ -1,0 +1,20 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-9gjTKOgI",
+        "supplier_contact": "supplier9gjTKOgI@example.com",
+        "products": [
+            {
+                "product_name": "Product-fugiat-eligendi",
+                "product_description": "Obcaecati quibusdam facilis eius necessitatibus magni accusamus explicabo quia ipsum, repudiandae debitis repellat architecto ratione tenetur aperiam itaque voluptas, tempore eaque pariatur architecto rerum fugiat corrupti velit similique ullam inventore, blanditiis mollitia facilis natus explicabo ipsa molestias commodi recusandae error iusto similique, veritatis commodi unde quo quae illo odit magni iure necessitatibus non.",
+                "product_quantity": 53,
+                "product_price": 67.39
+            },
+            {
+                "product_name": "Product-unde-possimus",
+                "product_description": "Eius earum voluptas perspiciatis, magnam provident expedita quo quas debitis quis voluptatum mollitia est, sint aspernatur nemo perferendis officiis tempora voluptates vel.",
+                "product_quantity": 42,
+                "product_price": 94.92
+            }
+        ]
+    }
+}

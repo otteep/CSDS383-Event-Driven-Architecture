@@ -1,0 +1,38 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-yZbKcDYj",
+        "supplier_contact": "supplieryZbKcDYj@example.com",
+        "products": [
+            {
+                "product_name": "Product-aperiam-non",
+                "product_description": "Omnis eos ullam labore numquam laudantium quas ea pariatur voluptate reprehenderit, non aut nihil quo molestias et nam natus provident sint, expedita eligendi laudantium eius id deleniti, modi nihil eligendi suscipit consequatur optio ducimus qui blanditiis eaque sequi, non quaerat obcaecati.",
+                "product_quantity": 8,
+                "product_price": 28.27
+            },
+            {
+                "product_name": "Product-itaque-accusantium",
+                "product_description": "Voluptates placeat ullam aperiam rerum porro, ea cumque aliquam dignissimos sunt.",
+                "product_quantity": 33,
+                "product_price": 19.25
+            },
+            {
+                "product_name": "Product-eveniet-asperiores",
+                "product_description": "Corporis vero error inventore hic alias repudiandae, impedit veniam facere omnis dignissimos nobis ab hic sit consequuntur reiciendis, molestias velit expedita ex voluptatibus rerum perferendis provident natus hic, dignissimos facere odit.",
+                "product_quantity": 84,
+                "product_price": 98.02
+            },
+            {
+                "product_name": "Product-quae-tempore",
+                "product_description": "Qui minima reprehenderit ipsa delectus omnis perspiciatis hic laboriosam maiores adipisci possimus, et repudiandae eaque, dolor adipisci porro nulla a nam possimus eaque ut libero quo voluptas, consectetur ducimus tempore earum nam distinctio eligendi aperiam a praesentium cumque.",
+                "product_quantity": 46,
+                "product_price": 17.08
+            },
+            {
+                "product_name": "Product-expedita-qui",
+                "product_description": "Praesentium minima obcaecati tempore suscipit recusandae sunt neque impedit totam dolorem, laborum eos asperiores iste quos dicta culpa inventore repellendus, architecto tempore aperiam eius atque quaerat consectetur sint quis iure, laborum laboriosam eveniet asperiores obcaecati rem dicta voluptate necessitatibus excepturi expedita ad.",
+                "product_quantity": 1,
+                "product_price": 30.03
+            }
+        ]
+    }
+}

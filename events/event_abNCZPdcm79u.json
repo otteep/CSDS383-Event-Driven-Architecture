@@ -1,0 +1,32 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-cMU8wsvr",
+        "supplier_contact": "suppliercMU8wsvr@example.com",
+        "products": [
+            {
+                "product_name": "Product-accusamus-labore",
+                "product_description": "Soluta vero dignissimos et neque at animi, aliquid fugiat cupiditate quod sed.",
+                "product_quantity": 57,
+                "product_price": 89.53
+            },
+            {
+                "product_name": "Product-mollitia-alias",
+                "product_description": "Similique corrupti tempora autem facilis aspernatur error, commodi illo tempora aspernatur temporibus esse consectetur eius, non quia beatae veritatis laborum impedit exercitationem sequi consectetur laudantium provident natus?",
+                "product_quantity": 24,
+                "product_price": 85.74
+            },
+            {
+                "product_name": "Product-facere-tempore",
+                "product_description": "Illum tenetur nostrum quisquam maxime eius at ipsam quia nobis iusto quas, illum dolorum nam amet corrupti repudiandae, consequuntur cupiditate aperiam totam neque reiciendis tempore natus odio laboriosam?",
+                "product_quantity": 88,
+                "product_price": 42.78
+            },
+            {
+                "product_name": "Product-dolores-modi",
+                "product_description": "Fuga molestias accusamus molestiae voluptas quasi illo vel consequuntur aliquid quidem similique, praesentium sapiente dicta iusto nihil.",
+                "product_quantity": 65,
+                "product_price": 95.13
+            }
+        ]
+    }
+}

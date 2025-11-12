@@ -1,0 +1,32 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-fQMHTg4o",
+        "supplier_contact": "supplierfQMHTg4o@example.com",
+        "products": [
+            {
+                "product_name": "Product-consequatur-quaerat",
+                "product_description": "Officia nisi dolore tenetur, voluptatibus praesentium ullam similique provident recusandae laborum perferendis magni labore?",
+                "product_quantity": 92,
+                "product_price": 56.17
+            },
+            {
+                "product_name": "Product-laboriosam-voluptatem",
+                "product_description": "Quisquam beatae aut maiores molestias consequatur atque laudantium, molestiae suscipit omnis quisquam libero, pariatur ratione doloremque sint ad numquam delectus?",
+                "product_quantity": 29,
+                "product_price": 81.54
+            },
+            {
+                "product_name": "Product-distinctio-possimus",
+                "product_description": "Accusantium maxime velit quam molestiae aliquam sunt magni, ipsum nostrum libero consectetur inventore facere doloremque obcaecati deserunt vel quo, nisi rerum blanditiis nesciunt repellendus iusto, nemo molestias consequuntur repellat beatae quae reiciendis excepturi saepe quod tempore, nulla nisi voluptas?",
+                "product_quantity": 33,
+                "product_price": 9.75
+            },
+            {
+                "product_name": "Product-obcaecati-consequatur",
+                "product_description": "Dolore saepe suscipit dicta laudantium mollitia obcaecati repellat fuga sunt pariatur, veniam laboriosam illo hic repudiandae, nesciunt voluptatem accusamus, dicta quos ipsam deserunt dolor facere?",
+                "product_quantity": 64,
+                "product_price": 6.58
+            }
+        ]
+    }
+}

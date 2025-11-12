@@ -1,0 +1,14 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-oXcgRCm0",
+        "supplier_contact": "supplieroXcgRCm0@example.com",
+        "products": [
+            {
+                "product_name": "Product-iure-animi",
+                "product_description": "Similique quibusdam iste ea maiores facilis ut, quod quisquam itaque quis atque commodi omnis ad corrupti sunt hic veniam, doloribus dolore perspiciatis recusandae non quae porro veniam adipisci?",
+                "product_quantity": 65,
+                "product_price": 37.7
+            }
+        ]
+    }
+}

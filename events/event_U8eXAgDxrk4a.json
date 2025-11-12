@@ -1,0 +1,37 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-KExhyutX",
+        "supplier_contact": "supplierKExhyutX@example.com",
+        "products": [
+            {
+                "product_name": "Product-deserunt-odio",
+                "product_description": "Est dolor quam corporis recusandae cum dolorum ea temporibus doloremque nemo, incidunt sapiente numquam reprehenderit obcaecati quia facere quibusdam, architecto doloribus ea aspernatur pariatur perspiciatis quo debitis eum animi?",
+                "product_quantity": 45,
+                "product_price": 91.37
+            },
+            {
+                "product_name": "Product-labore-eveniet",
+                "product_description": "Fugiat numquam autem facere aliquam accusantium ipsam, nemo ad ab hic aliquam, porro sit recusandae sint facere, quod fuga amet similique, dolor accusantium qui ex numquam.",
+                "product_quantity": 65,
+                "product_price": 18.64
+            },
+            {
+                "product_name": "Product-expedita-ipsum",
+                "product_quantity": 93,
+                "product_price": 85.26
+            },
+            {
+                "product_name": "Product-voluptatum-modi",
+                "product_description": "Aperiam praesentium ut magni voluptatum sapiente nisi rerum sit nihil nemo tempore, fuga itaque asperiores quae voluptatum magni.",
+                "product_quantity": 69,
+                "product_price": 58.14
+            },
+            {
+                "product_name": "Product-eum-ea",
+                "product_description": "Libero voluptatum eligendi veritatis, maiores debitis soluta molestiae beatae eligendi sed natus ad praesentium sapiente, quaerat totam quas unde ex distinctio sapiente tempore cupiditate esse perferendis voluptates, corrupti illum in sequi rerum fugiat fugit expedita?",
+                "product_quantity": 49,
+                "product_price": 46.79
+            }
+        ]
+    }
+}

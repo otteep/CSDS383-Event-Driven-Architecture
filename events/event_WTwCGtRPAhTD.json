@@ -1,0 +1,14 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-Im1D2xGC",
+        "supplier_contact": "supplierIm1D2xGC@example.com",
+        "products": [
+            {
+                "product_name": "Product-voluptatum-adipisci",
+                "product_description": "Odio qui voluptatem sint quis saepe eveniet sunt enim, architecto inventore perferendis nihil natus consequatur totam laboriosam perspiciatis, quo repellat fugit voluptates alias similique, modi ducimus neque reiciendis autem quia voluptatum dolore numquam deleniti?",
+                "product_quantity": 88,
+                "product_price": 9.58
+            }
+        ]
+    }
+}

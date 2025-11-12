@@ -1,0 +1,20 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-Eht6VxYE",
+        "supplier_contact": "supplierEht6VxYE@example.com",
+        "products": [
+            {
+                "product_name": "Product-placeat-harum",
+                "product_description": "Officia magnam ipsam quo officiis eum hic quas consequuntur, consectetur illum maxime, incidunt beatae asperiores, esse possimus eveniet soluta culpa voluptates dolorem placeat quidem saepe impedit?",
+                "product_quantity": 81,
+                "product_price": 58.61
+            },
+            {
+                "product_name": "Product-cum-provident",
+                "product_description": "Qui dolores quos ad a, eligendi deserunt non illo rem in, perspiciatis impedit commodi?",
+                "product_quantity": 5,
+                "product_price": 3.76
+            }
+        ]
+    }
+}

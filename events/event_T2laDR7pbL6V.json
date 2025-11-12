@@ -1,0 +1,20 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-mrIViciL",
+        "supplier_contact": "suppliermrIViciL@example.com",
+        "products": [
+            {
+                "product_name": "Product-ipsum-incidunt",
+                "product_description": "Architecto cupiditate vero quos quasi adipisci vitae laudantium corrupti accusamus, explicabo nobis laborum soluta suscipit aspernatur ullam?",
+                "product_quantity": 14,
+                "product_price": 4.47
+            },
+            {
+                "product_name": "Product-delectus-consequuntur",
+                "product_description": "Rerum voluptates eaque, quasi doloribus quaerat ducimus distinctio, harum quisquam neque vitae fugit iusto vero magnam provident sunt inventore, exercitationem sed possimus in nam porro quidem pariatur earum nemo, similique est minus quia omnis voluptas eveniet tempore facilis eaque accusantium.",
+                "product_quantity": 20,
+                "product_price": 42.05
+            }
+        ]
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-uq5RhtbO",
+        "supplier_contact": "supplieruq5RhtbO@example.com",
+        "products": [
+            {
+                "product_name": "Product-magni-facilis",
+                "product_description": "Labore debitis sed voluptatum voluptates neque error sint earum, praesentium laborum tempora quaerat adipisci accusamus iusto dignissimos numquam quasi maxime, excepturi laudantium qui velit minima impedit odio, incidunt cum culpa voluptates numquam corrupti vitae eveniet?",
+                "product_quantity": 45,
+                "product_price": 12.24
+            },
+            {
+                "product_name": "Product-molestias-explicabo",
+                "product_description": "Enim minima beatae voluptatibus illo, qui at excepturi labore unde iure repudiandae in magnam sapiente, suscipit vitae accusantium libero, asperiores ullam id tenetur placeat temporibus ad.",
+                "product_quantity": 83,
+                "product_price": 33.4
+            }
+        ]
+    }
+}

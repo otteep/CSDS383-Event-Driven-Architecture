@@ -1,0 +1,32 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-TBWoYcox",
+        "supplier_contact": "supplierTBWoYcox@example.com",
+        "products": [
+            {
+                "product_name": "Product-reiciendis-qui",
+                "product_description": "Ab sed eveniet, neque facere praesentium ipsum tempore nam quis, nihil iste ad saepe id libero totam nemo officiis facilis ea?",
+                "product_quantity": 80,
+                "product_price": 30.08
+            },
+            {
+                "product_name": "Product-eaque-a",
+                "product_description": "Ipsam cumque repellat iusto architecto, sunt rerum cumque necessitatibus nisi illum error ea.",
+                "product_quantity": 2,
+                "product_price": 64.65
+            },
+            {
+                "product_name": "Product-explicabo-voluptatibus",
+                "product_description": "Quam praesentium dignissimos incidunt, animi placeat quod perspiciatis inventore non perferendis eius dolore explicabo, neque dicta suscipit minima labore, dignissimos labore culpa optio iusto non quod consequatur perferendis nisi distinctio, accusantium veritatis cum voluptatum obcaecati omnis.",
+                "product_quantity": 69,
+                "product_price": 93.15
+            },
+            {
+                "product_name": "Product-rem-libero",
+                "product_description": "Sed id asperiores labore at laboriosam, debitis dolorem aspernatur commodi ea ducimus amet vel magni libero optio nulla?",
+                "product_quantity": 93,
+                "product_price": 91.73
+            }
+        ]
+    }
+}

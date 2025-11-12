@@ -1,0 +1,20 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-0nTuPkHy",
+        "supplier_contact": "supplier0nTuPkHy@example.com",
+        "products": [
+            {
+                "product_name": "Product-culpa-nostrum",
+                "product_description": "Quidem ducimus unde, sequi alias et, alias cumque vel placeat tempore esse assumenda unde amet, repudiandae optio temporibus corporis totam aperiam asperiores ab cumque ex perspiciatis.",
+                "product_quantity": 25,
+                "product_price": 4.65
+            },
+            {
+                "product_name": "Product-modi-culpa",
+                "product_description": "Itaque debitis rem libero nam officia corrupti vitae incidunt nisi, necessitatibus ab est debitis, repellat soluta saepe accusantium aspernatur.",
+                "product_quantity": 87,
+                "product_price": 78.91
+            }
+        ]
+    }
+}

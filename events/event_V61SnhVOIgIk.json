@@ -1,0 +1,26 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-yK78P9lb",
+        "supplier_contact": "supplieryK78P9lb@example.com",
+        "products": [
+            {
+                "product_name": "Product-dignissimos-harum",
+                "product_description": "Ipsum accusamus quisquam veniam saepe similique soluta corporis rerum incidunt doloremque, beatae harum quod porro laborum.",
+                "product_quantity": 95,
+                "product_price": 30.67
+            },
+            {
+                "product_name": "Product-id-ad",
+                "product_description": "Hic tenetur odit obcaecati quas pariatur, quidem fugiat veritatis sit repellendus maiores quia?",
+                "product_quantity": 54,
+                "product_price": 19.9
+            },
+            {
+                "product_name": "Product-laborum-nemo",
+                "product_description": "Adipisci enim et voluptatibus sed delectus, voluptatibus tempore perferendis, vel earum recusandae ullam ab tempora cum optio, dolorum fuga saepe magnam similique?",
+                "product_quantity": 30,
+                "product_price": 47.65
+            }
+        ]
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-fFTISuEW",
+        "supplier_contact": "supplierfFTISuEW@example.com",
+        "products": [
+            {
+                "product_name": "Product-ab-laborum",
+                "product_description": "Optio cum pariatur officiis aspernatur accusamus sunt laudantium deleniti, quam id inventore mollitia, incidunt nostrum nihil harum praesentium ducimus, saepe sunt earum consequuntur eligendi ab amet impedit illo quibusdam repellendus, consequatur quibusdam quia reiciendis?",
+                "product_quantity": 58,
+                "product_price": 86.41
+            },
+            {
+                "product_name": "Product-quis-excepturi",
+                "product_description": "Accusamus sed quo natus, esse nostrum consequuntur maxime tenetur expedita ipsa repellat, veritatis mollitia nulla sequi rem vero blanditiis?",
+                "product_quantity": 42,
+                "product_price": 11.5
+            },
+            {
+                "product_name": "Product-eaque-quas",
+                "product_description": "Quidem nemo quibusdam excepturi blanditiis dolor eius placeat eaque sequi consectetur voluptas, temporibus vero eum recusandae minima quasi totam ab ex provident, illo cum accusantium.",
+                "product_price": 50.48
+            },
+            {
+                "product_name": "Product-omnis-quidem",
+                "product_description": "Error illo laboriosam porro sed accusamus deleniti doloribus adipisci, sit quos esse temporibus, magni vel voluptatibus repellat obcaecati veniam?",
+                "product_quantity": 100,
+                "product_price": 97.31
+            }
+        ]
+    }
+}

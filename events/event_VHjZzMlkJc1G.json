@@ -1,0 +1,26 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-iETX7vvv",
+        "supplier_contact": "supplieriETX7vvv@example.com",
+        "products": [
+            {
+                "product_name": "Product-culpa-voluptates",
+                "product_description": "Saepe hic repudiandae quia itaque nostrum aspernatur molestias, ex ad inventore omnis libero nam quasi possimus sapiente exercitationem facere, vel provident in et quasi adipisci dignissimos pariatur a corporis magnam enim?",
+                "product_quantity": 94,
+                "product_price": 76.31
+            },
+            {
+                "product_name": "Product-reiciendis-vitae",
+                "product_description": "Quam recusandae facere perspiciatis, impedit facere vel neque id provident autem in, repellat obcaecati tempora recusandae labore repudiandae exercitationem.",
+                "product_quantity": 35,
+                "product_price": 46.34
+            },
+            {
+                "product_name": "Product-aliquam-molestiae",
+                "product_description": "Totam deleniti explicabo tempora harum error saepe quam omnis, molestias nam quam perspiciatis voluptatum, voluptas nemo aspernatur vitae labore temporibus saepe sit inventore a libero laborum, consequatur laboriosam aspernatur nemo corporis quisquam velit voluptatem id illum nulla?",
+                "product_quantity": 18,
+                "product_price": 8.02
+            }
+        ]
+    }
+}

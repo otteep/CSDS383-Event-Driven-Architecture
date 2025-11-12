@@ -1,0 +1,14 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-waTB7NwG",
+        "supplier_contact": "supplierwaTB7NwG@example.com",
+        "products": [
+            {
+                "product_name": "Product-libero-fugiat",
+                "product_description": "Laborum porro animi doloribus assumenda nisi amet rerum voluptatum totam officiis tempora, dolor earum laborum culpa pariatur molestiae aperiam consequatur, dolores fuga rerum pariatur autem neque dolorem ipsum, sequi vero sit vitae quia quam tempora, quaerat neque porro nihil excepturi architecto exercitationem expedita minus doloremque earum ex.",
+                "product_quantity": 29,
+                "product_price": 37.25
+            }
+        ]
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-OolPo78l",
+        "supplier_contact": "supplierOolPo78l@example.com",
+        "products": [
+            {
+                "product_name": "Product-praesentium-exercitationem",
+                "product_description": "Consequuntur incidunt quibusdam sequi nobis nostrum atque, iste quaerat itaque rem voluptas eum suscipit ad recusandae amet, aspernatur velit consequuntur, sed veritatis temporibus voluptates excepturi non impedit?",
+                "product_quantity": 89,
+                "product_price": 89.43
+            },
+            {
+                "product_name": "Product-iste-quod",
+                "product_description": "Unde ducimus nostrum aut, eaque corrupti dolorum iusto eligendi magnam.",
+                "product_quantity": 59,
+                "product_price": 66.67
+            },
+            {
+                "product_name": "Product-aliquid-magnam",
+                "product_description": "Eum magnam sit illo veniam molestiae nisi incidunt nemo temporibus ab praesentium, ut laborum commodi ipsum reprehenderit tempora nam officiis excepturi?",
+                "product_quantity": 34,
+                "product_price": 91.08
+            },
+            {
+                "product_name": "Product-aspernatur-fuga",
+                "product_description": "Iusto nemo exercitationem illum iste dolores labore placeat, porro exercitationem ad laudantium voluptatum numquam nulla.",
+                "product_quantity": 87,
+                "product_price": 36.29
+            },
+            {
+                "product_name": "Product-impedit-esse",
+                "product_description": "Eveniet ex a esse reiciendis qui unde explicabo natus, illum non commodi, maiores aperiam rem soluta a vitae, alias reiciendis omnis laborum ipsum, unde aperiam magni amet modi architecto perferendis.",
+                "product_quantity": 17,
+                "product_price": 11.92
+            }
+        ]
+    }
+}

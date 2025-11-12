@@ -1,0 +1,37 @@
+{
+    "supplier": {
+        "supplier_contact": "supplieraZ9YqWnp@example.com",
+        "products": [
+            {
+                "product_name": "Product-ducimus-neque",
+                "product_description": "Reiciendis ullam sequi impedit aperiam ipsum similique, architecto esse adipisci, quisquam laborum sunt ad nulla iste nisi suscipit, odio sint obcaecati qui, dolores voluptate ipsa eum?",
+                "product_quantity": 7,
+                "product_price": 3.01
+            },
+            {
+                "product_name": "Product-dolorem-voluptates",
+                "product_description": "Cumque dolorem veritatis corrupti, dolor neque qui perspiciatis ipsam natus laboriosam, sequi dolorum quasi explicabo optio quae, unde vel consequatur accusamus asperiores commodi?",
+                "product_quantity": 50,
+                "product_price": 31.69
+            },
+            {
+                "product_name": "Product-aliquam-suscipit",
+                "product_description": "Perspiciatis id esse vitae unde ullam facilis officiis, minus maiores voluptates pariatur eveniet animi recusandae deserunt, nam sapiente iste dolorem commodi earum aliquid ipsa quo soluta?",
+                "product_quantity": 46,
+                "product_price": 55.49
+            },
+            {
+                "product_name": "Product-obcaecati-voluptate",
+                "product_description": "Dolorum porro quasi, obcaecati nulla aspernatur aperiam harum quae modi dolores dicta assumenda exercitationem veniam, excepturi consequuntur sapiente ipsa animi cupiditate ipsum velit, deserunt quia laborum numquam, fugit quibusdam fugiat illum animi?",
+                "product_quantity": 1,
+                "product_price": 30.84
+            },
+            {
+                "product_name": "Product-accusantium-laboriosam",
+                "product_description": "Quidem molestias ex facilis quo pariatur velit quas similique maxime, quod numquam perspiciatis maiores molestias alias labore praesentium maxime, ut dolores minima ratione.",
+                "product_quantity": 51,
+                "product_price": 42.01
+            }
+        ]
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-fUQ3qTtr",
+        "supplier_contact": "supplierfUQ3qTtr@example.com",
+        "products": [
+            {
+                "product_name": "Product-tempore-quam",
+                "product_description": "Accusamus inventore dolorum veritatis sed necessitatibus animi asperiores molestias non a numquam, sequi ipsa aspernatur tempora facilis sunt dicta maxime, cumque illum quae.",
+                "product_price": 28.41
+            },
+            {
+                "product_name": "Product-accusantium-suscipit",
+                "product_description": "Unde ipsam nostrum facilis molestias quae provident porro laboriosam autem qui, obcaecati modi optio animi consequuntur laboriosam, veritatis ea amet repudiandae ipsa tempora, nihil quasi sed reprehenderit quam quod dolores qui, deserunt harum omnis officia cupiditate accusantium.",
+                "product_quantity": 24,
+                "product_price": 1.8
+            },
+            {
+                "product_name": "Product-tempore-impedit",
+                "product_description": "Quia aperiam laborum veritatis sunt asperiores doloribus praesentium voluptatum quos esse minus, dolor deleniti ullam aperiam eaque facilis incidunt, ab beatae culpa itaque optio eius corporis suscipit, praesentium dolorem nulla.",
+                "product_quantity": 35,
+                "product_price": 16.53
+            },
+            {
+                "product_name": "Product-autem-perferendis",
+                "product_description": "Repellat sapiente libero quo necessitatibus corporis doloribus magni numquam vel deleniti atque, similique dolor aliquam veniam totam unde accusantium atque adipisci.",
+                "product_quantity": 12,
+                "product_price": 14.82
+            },
+            {
+                "product_name": "Product-quod-facere",
+                "product_description": "Consequatur impedit quis suscipit quibusdam perspiciatis saepe dolor corrupti sint at numquam, ex dolorum saepe, modi iste consequuntur veniam quasi nihil consectetur esse omnis.",
+                "product_quantity": 51,
+                "product_price": 22.46
+            }
+        ]
+    }
+}

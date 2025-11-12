@@ -1,0 +1,14 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-UmIXSkI8",
+        "supplier_contact": "supplierUmIXSkI8@example.com",
+        "products": [
+            {
+                "product_name": "Product-reiciendis-aut",
+                "product_description": "Porro quas debitis sint consectetur magnam deserunt, ullam cum qui iusto illum nemo eum aut sed.",
+                "product_quantity": 57,
+                "product_price": 86.79
+            }
+        ]
+    }
+}

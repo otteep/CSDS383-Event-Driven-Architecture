@@ -1,0 +1,32 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-JLiFLnGf",
+        "supplier_contact": "supplierJLiFLnGf@example.com",
+        "products": [
+            {
+                "product_name": "Product-laboriosam-vitae",
+                "product_description": "Impedit dolore dolorum voluptatum maiores commodi repellat, labore reprehenderit eius tenetur ad harum quisquam.",
+                "product_quantity": 52,
+                "product_price": 87.15
+            },
+            {
+                "product_name": "Product-nisi-iure",
+                "product_description": "Molestiae et quae veniam ab eos vitae sunt cupiditate, earum magnam commodi impedit quam facilis dolores quo saepe dolor, tempore optio fugit eum asperiores nesciunt in perspiciatis ab tempora quasi, aliquam quae quisquam fugiat ipsam consequuntur eum.",
+                "product_quantity": 10,
+                "product_price": 67.84
+            },
+            {
+                "product_name": "Product-commodi-placeat",
+                "product_description": "Harum molestias laboriosam alias numquam tempore eligendi, rerum cupiditate maiores officia eaque accusamus placeat, ex debitis odit provident qui saepe sequi consectetur, ratione aspernatur consequatur inventore asperiores aliquid dicta nam.",
+                "product_quantity": 75,
+                "product_price": 69.26
+            },
+            {
+                "product_name": "Product-aperiam-nam",
+                "product_description": "Reprehenderit atque vero eveniet, error doloribus id molestias omnis eligendi assumenda aut vero quisquam pariatur?",
+                "product_quantity": 15,
+                "product_price": 99.44
+            }
+        ]
+    }
+}

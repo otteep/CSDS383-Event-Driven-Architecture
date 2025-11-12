@@ -1,0 +1,32 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-23VfylUK",
+        "supplier_contact": "supplier23VfylUK@example.com",
+        "products": [
+            {
+                "product_name": "Product-nisi-ducimus",
+                "product_description": "Illo quae itaque, itaque ipsum nihil nam aliquid qui nobis et tenetur magnam dolores asperiores, praesentium asperiores commodi libero officiis iusto saepe itaque eaque et a.",
+                "product_quantity": 47,
+                "product_price": 40.13
+            },
+            {
+                "product_name": "Product-voluptatem-natus",
+                "product_description": "Officia dolores corporis temporibus, aliquam totam facilis adipisci inventore voluptas cum cumque voluptate veritatis eum eius, quisquam accusantium ab voluptas tempora aperiam, harum minima eos voluptatum voluptatem porro explicabo illum quam vitae, blanditiis quod aspernatur distinctio iste sed.",
+                "product_quantity": 85,
+                "product_price": 92.74
+            },
+            {
+                "product_name": "Product-impedit-asperiores",
+                "product_description": "Itaque doloribus commodi, inventore earum voluptatem enim nesciunt magni, ex eligendi dolorum voluptatibus accusamus blanditiis?",
+                "product_quantity": 9,
+                "product_price": 34.26
+            },
+            {
+                "product_name": "Product-ex-eum",
+                "product_description": "Non nulla adipisci blanditiis fugiat ratione enim aut voluptas, accusamus id dolore ea accusantium iste, qui asperiores dolores incidunt dolorum magni fugit saepe quasi quos, minima voluptas officia impedit perspiciatis ad debitis obcaecati expedita?",
+                "product_quantity": 88,
+                "product_price": 41.11
+            }
+        ]
+    }
+}

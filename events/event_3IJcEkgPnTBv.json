@@ -1,0 +1,32 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-7hBP15qP",
+        "supplier_contact": "supplier7hBP15qP@example.com",
+        "products": [
+            {
+                "product_name": "Product-non-soluta",
+                "product_description": "Quo distinctio mollitia dolorem voluptatibus tempore quas, illo fugit a ad pariatur consectetur nulla possimus perferendis, maxime repudiandae non explicabo corrupti quae inventore provident, illum dicta odit commodi voluptatem quidem ex dolore.",
+                "product_quantity": 78,
+                "product_price": 10.95
+            },
+            {
+                "product_name": "Product-ullam-facilis",
+                "product_description": "Iste voluptatum voluptate soluta omnis rerum maiores reiciendis expedita ullam alias ipsam, vitae praesentium esse atque quos at deserunt est.",
+                "product_quantity": 65,
+                "product_price": 83.95
+            },
+            {
+                "product_name": "Product-quibusdam-error",
+                "product_description": "Dignissimos illo nesciunt sunt aspernatur pariatur, eligendi placeat quis quia rerum voluptatem sit odio, maiores aspernatur esse corrupti.",
+                "product_quantity": 55,
+                "product_price": 30.66
+            },
+            {
+                "product_name": "Product-corrupti-cupiditate",
+                "product_description": "Dolores doloribus quia veniam impedit beatae maiores fuga, similique minus ab doloribus excepturi aliquid quae quia architecto placeat nesciunt.",
+                "product_quantity": 78,
+                "product_price": 27.68
+            }
+        ]
+    }
+}

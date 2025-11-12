@@ -1,0 +1,14 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-QTZqwJHa",
+        "supplier_contact": "supplierQTZqwJHa@example.com",
+        "products": [
+            {
+                "product_name": "Product-porro-repellendus",
+                "product_description": "Aliquam asperiores vero id, impedit quasi ipsum voluptatem obcaecati deserunt corporis aliquam a?",
+                "product_quantity": 6,
+                "product_price": 95.82
+            }
+        ]
+    }
+}

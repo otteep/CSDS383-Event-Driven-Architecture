@@ -1,0 +1,14 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-NukQu5iF",
+        "supplier_contact": "supplierNukQu5iF@example.com",
+        "products": [
+            {
+                "product_name": "Product-non-ea",
+                "product_description": "Corrupti incidunt eius omnis accusamus culpa aliquid labore quae non aut, voluptas aliquid ipsa cupiditate atque distinctio optio repellendus, inventore sapiente blanditiis dolores perspiciatis aperiam unde praesentium quidem, quae corrupti et placeat laudantium eaque expedita?",
+                "product_quantity": 51,
+                "product_price": 77.78
+            }
+        ]
+    }
+}

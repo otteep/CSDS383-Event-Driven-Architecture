@@ -1,0 +1,14 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-EoTbrHbv",
+        "supplier_contact": "supplierEoTbrHbv@example.com",
+        "products": [
+            {
+                "product_name": "Product-voluptatibus-distinctio",
+                "product_description": "Architecto voluptatibus ut, vero ducimus possimus sit necessitatibus officia quasi mollitia dicta repudiandae architecto nihil, ducimus pariatur unde ipsam dolores adipisci earum?",
+                "product_quantity": 20,
+                "product_price": 55.41
+            }
+        ]
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-Jx20duOI",
+        "supplier_contact": "supplierJx20duOI@example.com",
+        "products": [
+            {
+                "product_name": "Product-eum-consequatur",
+                "product_description": "Rem soluta excepturi autem doloremque, impedit eum facere earum vitae deleniti deserunt distinctio illum nostrum quam, fugiat voluptas voluptatum asperiores blanditiis facere fuga possimus, repellat deserunt reprehenderit eaque quaerat quisquam odio ipsam cumque vitae doloremque, sit laborum repellendus nisi facilis quibusdam ab voluptatem iusto earum corporis?",
+                "product_quantity": 44,
+                "product_price": 40.53
+            },
+            {
+                "product_name": "Product-doloremque-quam",
+                "product_description": "Autem accusantium earum fugiat est veniam recusandae atque numquam, provident tenetur excepturi ad quos perferendis facere placeat, voluptas dicta illo beatae nihil minus in autem maiores, quaerat necessitatibus molestias nobis id rem natus dolorem.",
+                "product_quantity": 63,
+                "product_price": 53.64
+            },
+            {
+                "product_name": "Product-provident-nesciunt",
+                "product_description": "Ex ullam quam ea magnam vero quas fuga, distinctio praesentium expedita molestias minus natus quaerat voluptate corporis amet, neque dolorum minima repellendus aliquid molestias ipsam, quia commodi assumenda numquam reiciendis distinctio rem dolorum ratione enim sit, voluptatem cum voluptatibus doloremque tenetur tempore officia nobis aspernatur.",
+                "product_quantity": 68,
+                "product_price": 90.36
+            },
+            {
+                "product_name": "Product-optio-iusto",
+                "product_description": "Dolorem aspernatur rem ipsa voluptatum nisi odio corporis deserunt, accusamus id modi adipisci nam distinctio odio deserunt illo dignissimos, nesciunt repudiandae dolores minus distinctio aperiam nihil, est fugit porro id sapiente repudiandae ipsa?",
+                "product_quantity": 83,
+                "product_price": 3.91
+            },
+            {
+                "product_name": "Product-dolor-facere",
+                "product_description": "Excepturi autem illum facilis distinctio commodi optio, adipisci nesciunt culpa expedita similique aspernatur nobis quos animi placeat, aliquam est facilis aut corrupti laborum itaque maxime nostrum, tempora consequuntur perspiciatis exercitationem incidunt veritatis fugit id nobis sunt, illo voluptates exercitationem sapiente eveniet qui.",
+                "product_quantity": 16,
+                "product_price": 42.97
+            }
+        ]
+    }
+}

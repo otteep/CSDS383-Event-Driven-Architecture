@@ -1,0 +1,14 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-QX3qSwbF",
+        "supplier_contact": "supplierQX3qSwbF@example.com",
+        "products": [
+            {
+                "product_name": "Product-possimus-repudiandae",
+                "product_description": "A qui sapiente sequi rem labore quibusdam explicabo, officia architecto omnis deserunt ex, velit doloribus et veniam sequi illo ab quasi magni, eos tempora odio explicabo consequuntur vero ipsa fugit?",
+                "product_quantity": 84,
+                "product_price": 24.5
+            }
+        ]
+    }
+}

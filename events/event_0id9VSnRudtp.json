@@ -1,0 +1,20 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-S8xPwE1X",
+        "supplier_contact": "supplierS8xPwE1X@example.com",
+        "products": [
+            {
+                "product_name": "Product-cupiditate-natus",
+                "product_description": "Sapiente magnam eveniet sunt aut eligendi tempore possimus rem assumenda, similique vero architecto enim cumque itaque dolores ipsum, fuga assumenda aspernatur adipisci, quos alias doloremque exercitationem quidem asperiores?",
+                "product_quantity": 37,
+                "product_price": 38.84
+            },
+            {
+                "product_name": "Product-veniam-facere",
+                "product_description": "Laudantium inventore numquam deserunt dolores officiis adipisci minima nisi nam, corporis ea fugiat commodi nulla ad suscipit aliquam, ullam animi impedit nostrum neque distinctio modi aliquid alias, quasi non eveniet aliquid facere ex eligendi officiis inventore et?",
+                "product_quantity": 70,
+                "product_price": 83.93
+            }
+        ]
+    }
+}

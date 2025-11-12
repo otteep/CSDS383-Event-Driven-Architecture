@@ -1,0 +1,38 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-4mOlmSkE",
+        "supplier_contact": "supplier4mOlmSkE@example.com",
+        "products": [
+            {
+                "product_name": "Product-a-in",
+                "product_description": "Repellendus minus quam nesciunt, fugit corporis recusandae sequi ea ut consequatur quis accusamus, nostrum incidunt voluptate, eum numquam vitae tempore recusandae magni qui doloremque soluta delectus, iure modi aspernatur corporis delectus ipsam illo?",
+                "product_quantity": 96,
+                "product_price": 78.86
+            },
+            {
+                "product_name": "Product-accusantium-unde",
+                "product_description": "Culpa ratione excepturi ab ipsam perferendis amet, sapiente voluptatum ratione cupiditate doloremque, ducimus reprehenderit fugiat dolorum ut perferendis animi, dicta vero cupiditate aspernatur corporis beatae quisquam ullam ex?",
+                "product_quantity": 26,
+                "product_price": 88.01
+            },
+            {
+                "product_name": "Product-aliquam-nisi",
+                "product_description": "Porro officia iusto nemo, magnam quas architecto eligendi adipisci velit consequatur corporis quibusdam, earum quibusdam numquam reprehenderit dolores et natus ratione corporis, exercitationem suscipit alias asperiores et corporis, modi perferendis esse numquam.",
+                "product_quantity": 35,
+                "product_price": 69.65
+            },
+            {
+                "product_name": "Product-provident-obcaecati",
+                "product_description": "Nihil vitae amet deserunt architecto optio velit, nihil quibusdam temporibus omnis ipsum sunt magnam.",
+                "product_quantity": 26,
+                "product_price": 49.45
+            },
+            {
+                "product_name": "Product-quas-veritatis",
+                "product_description": "Distinctio maiores vero voluptatibus saepe ipsa in nobis esse corrupti, vel reiciendis quod?",
+                "product_quantity": 92,
+                "product_price": 21.29
+            }
+        ]
+    }
+}

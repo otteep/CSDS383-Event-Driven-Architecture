@@ -1,0 +1,20 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-T9r7eppf",
+        "supplier_contact": "supplierT9r7eppf@example.com",
+        "products": [
+            {
+                "product_name": "Product-iure-iste",
+                "product_description": "Accusamus labore quasi odio, temporibus corporis iusto nesciunt tempore alias laudantium repellendus doloremque minima?",
+                "product_quantity": 27,
+                "product_price": 84.93
+            },
+            {
+                "product_name": "Product-dolorem-obcaecati",
+                "product_description": "Inventore ut necessitatibus alias odit, nam necessitatibus repudiandae ea eos minus deserunt, eum placeat expedita veniam nobis explicabo, corrupti ipsum dignissimos facilis dolorem id ab minima eligendi?",
+                "product_quantity": 90,
+                "product_price": 27.26
+            }
+        ]
+    }
+}

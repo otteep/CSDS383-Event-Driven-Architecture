@@ -1,0 +1,26 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-qqC7Cbvk",
+        "supplier_contact": "supplierqqC7Cbvk@example.com",
+        "products": [
+            {
+                "product_name": "Product-consequuntur-rem",
+                "product_description": "Modi porro ipsam minima rerum aperiam esse, optio sit fugit ex facilis modi placeat deleniti vero aperiam recusandae, sint eveniet tenetur aut temporibus, ab eligendi id, expedita facere asperiores perferendis assumenda.",
+                "product_quantity": 57,
+                "product_price": 73.64
+            },
+            {
+                "product_name": "Product-deleniti-beatae",
+                "product_description": "Numquam magni quidem, officia exercitationem nesciunt tenetur quasi unde error doloremque sunt, vero reiciendis natus modi vel omnis voluptas?",
+                "product_quantity": 73,
+                "product_price": 39.97
+            },
+            {
+                "product_name": "Product-reiciendis-id",
+                "product_description": "Placeat labore eos quae iusto sapiente dolor, cum officiis quas architecto, consequatur nam quam suscipit, tenetur praesentium corporis fuga ad repellat veritatis dolores non libero ipsam unde?",
+                "product_quantity": 25,
+                "product_price": 8.06
+            }
+        ]
+    }
+}

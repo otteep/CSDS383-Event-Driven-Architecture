@@ -1,0 +1,36 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-fSnbSjJy",
+        "supplier_contact": "supplierfSnbSjJy@example.com",
+        "products": [
+            {
+                "product_name": "Product-porro-architecto",
+                "product_description": "Inventore aut quidem incidunt a quaerat vitae maxime quos architecto mollitia, quo facere officiis excepturi fuga vel commodi.",
+                "product_quantity": 36
+            },
+            {
+                "product_name": "Product-necessitatibus-cum",
+                "product_description": "Similique tempore ratione eos harum explicabo enim nemo hic autem perspiciatis quisquam, repudiandae sed aspernatur praesentium dolore reprehenderit laborum fugit nostrum consequatur, error nemo expedita enim, libero ipsum deserunt in quam, impedit ipsam doloribus a voluptatem recusandae quas veniam?",
+                "product_quantity": 54,
+                "product_price": 22.1
+            },
+            {
+                "product_name": "Product-nostrum-recusandae",
+                "product_description": "Dicta deleniti iure distinctio nemo asperiores esse sunt explicabo odit, necessitatibus architecto laborum molestiae eligendi?",
+                "product_quantity": 58,
+                "product_price": 49.14
+            },
+            {
+                "product_name": "Product-expedita-ullam",
+                "product_description": "Quibusdam deserunt quod, eos perferendis assumenda nemo dolore omnis inventore hic alias minus quam ipsum, atque sed repellat facilis mollitia eos fugiat exercitationem vel odio, suscipit voluptas assumenda tempora sapiente consectetur id, pariatur quibusdam adipisci cupiditate ratione unde illo nesciunt?",
+                "product_price": 84.71
+            },
+            {
+                "product_name": "Product-animi-odio",
+                "product_description": "Ex dicta facere possimus, nisi amet voluptatem culpa a repellendus distinctio iste reprehenderit adipisci dolores maxime, eligendi nisi velit tempora eveniet labore unde illum, dolor dolorem ad iure est blanditiis cupiditate rerum a?",
+                "product_quantity": 73,
+                "product_price": 16.07
+            }
+        ]
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-OjQDugbT",
+        "supplier_contact": "supplierOjQDugbT@example.com",
+        "products": [
+            {
+                "product_name": "Product-porro-alias",
+                "product_description": "Error saepe cumque odit accusantium, iste rem itaque accusamus repellendus eum corrupti deleniti, consectetur quisquam doloribus vel omnis nobis atque inventore earum, nesciunt eius id deleniti laudantium beatae.",
+                "product_quantity": 16,
+                "product_price": 1.69
+            },
+            {
+                "product_name": "Product-sapiente-magnam",
+                "product_description": "Eveniet blanditiis ipsum voluptate ipsa voluptatum sint, magnam sapiente aliquam mollitia temporibus accusamus maxime?",
+                "product_quantity": 19,
+                "product_price": 40.62
+            },
+            {
+                "product_name": "Product-voluptatibus-sunt",
+                "product_description": "Voluptatum debitis eligendi numquam nostrum rerum impedit, totam ad doloremque reiciendis sapiente, corrupti dolore ullam odio beatae?",
+                "product_quantity": 52,
+                "product_price": 81.51
+            },
+            {
+                "product_name": "Product-nemo-eligendi",
+                "product_description": "Fugiat vel atque facere error quas perferendis hic quo culpa dolorum, non autem nobis a fuga hic suscipit sed modi, at natus voluptatibus, maxime corrupti in repellat deserunt nobis eveniet praesentium eum, corrupti perferendis aperiam debitis dolorum vero beatae reiciendis assumenda enim earum.",
+                "product_quantity": 26,
+                "product_price": 35.52
+            }
+        ]
+    }
+}

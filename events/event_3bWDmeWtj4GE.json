@@ -1,0 +1,38 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-NWXYgDYA",
+        "supplier_contact": "supplierNWXYgDYA@example.com",
+        "products": [
+            {
+                "product_name": "Product-magni-tempora",
+                "product_description": "Ex provident doloribus, odit optio unde officiis dicta facere sequi fuga aliquam obcaecati sed voluptatibus, esse iste corporis quis deleniti, dolorem veritatis alias temporibus voluptas qui aperiam, aut natus aperiam ducimus eveniet?",
+                "product_quantity": 75,
+                "product_price": 83.8
+            },
+            {
+                "product_name": "Product-consequatur-quos",
+                "product_description": "Tempora ullam temporibus earum quidem vitae adipisci perferendis aliquid nostrum iusto, voluptatibus labore dolorem eligendi ipsam illum quaerat officia, repellat est perferendis sit natus soluta, architecto impedit reprehenderit consequatur blanditiis eveniet nisi?",
+                "product_quantity": 13,
+                "product_price": 22.48
+            },
+            {
+                "product_name": "Product-sit-saepe",
+                "product_description": "Consequatur dolor suscipit molestiae quam praesentium, eum sequi quos voluptate obcaecati debitis nemo, sunt non esse eos reiciendis nemo ab odit?",
+                "product_quantity": 47,
+                "product_price": 14.88
+            },
+            {
+                "product_name": "Product-excepturi-repellat",
+                "product_description": "Itaque veniam modi accusamus repellat consequuntur minima omnis iusto ducimus quam, nemo perspiciatis sed cupiditate repellat consequuntur cum numquam officia, voluptatem ipsum necessitatibus non ipsa doloribus, incidunt cupiditate dolore deleniti odio deserunt aspernatur vero molestiae, reprehenderit deserunt dignissimos modi totam voluptatibus illum aliquam quia ea dolorem.",
+                "product_quantity": 53,
+                "product_price": 40.73
+            },
+            {
+                "product_name": "Product-eos-eaque",
+                "product_description": "Fugiat animi soluta atque vel sapiente itaque qui, sint voluptatem at vel reiciendis sed delectus dolore et consequatur aliquam, dolorum facilis quibusdam nostrum neque distinctio repellat, omnis blanditiis sed tempora ullam magni minus quae assumenda, non esse deserunt tenetur dolorum alias debitis sint laborum atque at eligendi.",
+                "product_quantity": 11,
+                "product_price": 11.72
+            }
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-CmMnZvT6",
+        "supplier_contact": "supplierCmMnZvT6@example.com",
+        "products": [
+            {
+                "product_name": "Product-ad-vero",
+                "product_description": "Numquam consequatur fugiat obcaecati libero id ratione qui totam veritatis tempore quia, amet deserunt tenetur, molestias cumque illo consequatur voluptatum non quis dolore?",
+                "product_quantity": 20,
+                "product_price": 33.68
+            }
+        ]
+    }
+}

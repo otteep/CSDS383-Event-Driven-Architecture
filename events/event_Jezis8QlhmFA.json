@@ -1,0 +1,25 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-JMjVNZHt",
+        "supplier_contact": "supplierJMjVNZHt@example.com",
+        "products": [
+            {
+                "product_name": "Product-voluptate-nihil",
+                "product_description": "Cumque consectetur quisquam eius odio, sapiente eveniet temporibus illum explicabo minima consequuntur doloremque eligendi, reiciendis eum incidunt deserunt perferendis alias dignissimos minus, nostrum accusamus quos dolore ea molestias officia eveniet.",
+                "product_quantity": 96,
+                "product_price": 62.2
+            },
+            {
+                "product_name": "Product-quis-totam",
+                "product_description": "Dolorem corrupti cum quas dolore, exercitationem debitis cumque tempore consequuntur, corporis id distinctio perspiciatis beatae molestias consectetur, suscipit vero eum tempore natus vel quos?",
+                "product_price": 93.61
+            },
+            {
+                "product_name": "Product-asperiores-laborum",
+                "product_description": "Nesciunt natus dolor ut ullam soluta reiciendis suscipit, est sapiente odio numquam explicabo error incidunt facilis repellendus, sequi delectus quas dignissimos odit voluptas dolorem fuga odio similique veritatis, consectetur ducimus enim vitae aspernatur harum maxime consequatur dolore rerum?",
+                "product_quantity": 90,
+                "product_price": 42.52
+            }
+        ]
+    }
+}

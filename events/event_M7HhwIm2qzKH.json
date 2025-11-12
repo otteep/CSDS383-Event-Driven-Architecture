@@ -1,0 +1,14 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-Or5gjrT4",
+        "supplier_contact": "supplierOr5gjrT4@example.com",
+        "products": [
+            {
+                "product_name": "Product-dolores-alias",
+                "product_description": "Molestias molestiae rem, corporis tempora alias delectus nostrum nam cum facilis quae molestias doloremque et, corrupti cupiditate assumenda a veritatis repudiandae, totam sed cum repudiandae expedita nobis eligendi exercitationem.",
+                "product_quantity": 11,
+                "product_price": 95.37
+            }
+        ]
+    }
+}

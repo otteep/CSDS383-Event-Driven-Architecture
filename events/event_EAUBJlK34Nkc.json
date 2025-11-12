@@ -1,0 +1,20 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-SJJQdeoC",
+        "supplier_contact": "supplierSJJQdeoC@example.com",
+        "products": [
+            {
+                "product_name": "Product-aut-iusto",
+                "product_description": "Non maiores alias, adipisci voluptate quaerat neque cumque asperiores, nesciunt debitis adipisci veniam rerum enim vel magni explicabo iusto, voluptatem ut molestias aliquam assumenda quidem.",
+                "product_quantity": 66,
+                "product_price": 88.01
+            },
+            {
+                "product_name": "Product-esse-soluta",
+                "product_description": "Obcaecati nobis nostrum perspiciatis sequi, obcaecati aperiam iusto tempora voluptate beatae magnam eum omnis officia sapiente, deserunt animi ipsum dolorum natus?",
+                "product_quantity": 44,
+                "product_price": 24.04
+            }
+        ]
+    }
+}

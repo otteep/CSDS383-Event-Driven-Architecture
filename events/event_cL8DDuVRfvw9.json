@@ -1,0 +1,32 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-h52LOzrC",
+        "supplier_contact": "supplierh52LOzrC@example.com",
+        "products": [
+            {
+                "product_name": "Product-ab-iure",
+                "product_description": "Vitae minus exercitationem, illum enim consequatur corrupti voluptatem magni ducimus explicabo odit nam officia, officiis natus soluta recusandae distinctio rerum, tempora laboriosam blanditiis quia similique est sint.",
+                "product_quantity": 8,
+                "product_price": 82.43
+            },
+            {
+                "product_name": "Product-illum-numquam",
+                "product_description": "Molestiae temporibus unde fugiat quae amet, perferendis sequi sunt voluptates eligendi tempore ratione fugiat repudiandae ab quos temporibus, nemo obcaecati facere nostrum quo dolore hic totam recusandae laudantium quod numquam, optio quibusdam illo reiciendis ipsum nemo.",
+                "product_quantity": 22,
+                "product_price": 8.28
+            },
+            {
+                "product_name": "Product-dignissimos-molestiae",
+                "product_description": "Error alias quod placeat labore nam sequi quis quisquam, ullam cumque ipsam dolore et quam aspernatur iste, earum necessitatibus delectus nisi ex, neque voluptatum illo repellendus, perspiciatis corrupti eveniet magni voluptatum.",
+                "product_quantity": 58,
+                "product_price": 2.88
+            },
+            {
+                "product_name": "Product-rem-tempore",
+                "product_description": "Dolorem ut odio fugiat, rerum pariatur corporis reprehenderit tempora officia qui odit enim, perferendis debitis veritatis quam nesciunt doloremque nobis dolorem impedit iusto, totam dolorem officia nostrum, sint ducimus explicabo culpa enim minus doloremque numquam?",
+                "product_quantity": 24,
+                "product_price": 43.73
+            }
+        ]
+    }
+}

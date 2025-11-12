@@ -1,0 +1,38 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-UCIeo0Ar",
+        "supplier_contact": "supplierUCIeo0Ar@example.com",
+        "products": [
+            {
+                "product_name": "Product-deserunt-laboriosam",
+                "product_description": "Reiciendis reprehenderit minima provident vitae itaque repudiandae, voluptas dolore laborum atque sed, sed iure reprehenderit nobis, aliquam numquam assumenda eius beatae ipsa enim.",
+                "product_quantity": 48,
+                "product_price": 34.21
+            },
+            {
+                "product_name": "Product-est-consectetur",
+                "product_description": "Deleniti unde quia nemo, a quibusdam tenetur, natus iste eum quae soluta quod doloremque odio amet repudiandae?",
+                "product_quantity": 49,
+                "product_price": 76.35
+            },
+            {
+                "product_name": "Product-doloribus-dolor",
+                "product_description": "Impedit deserunt cupiditate dolorem blanditiis in dolorum recusandae ab tempora sit, nulla non tempora, delectus eius consequatur vitae suscipit impedit ad odit aspernatur perferendis adipisci libero.",
+                "product_quantity": 39,
+                "product_price": 64.93
+            },
+            {
+                "product_name": "Product-fuga-delectus",
+                "product_description": "Nihil maiores magni atque porro dolorum dolor omnis, voluptatibus accusamus odio minima modi alias aut error?",
+                "product_quantity": 45,
+                "product_price": 34.82
+            },
+            {
+                "product_name": "Product-veritatis-atque",
+                "product_description": "Asperiores excepturi aliquid doloribus enim, ratione aut sint voluptatem.",
+                "product_quantity": 31,
+                "product_price": 33.88
+            }
+        ]
+    }
+}

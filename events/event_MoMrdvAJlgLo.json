@@ -1,0 +1,32 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-7JEHrqiR",
+        "supplier_contact": "supplier7JEHrqiR@example.com",
+        "products": [
+            {
+                "product_name": "Product-assumenda-sit",
+                "product_description": "Sunt delectus incidunt numquam ratione sed in autem, asperiores similique nesciunt animi, optio dolorem voluptates molestias quod recusandae libero veniam illo adipisci sequi blanditiis, suscipit quis facere nostrum sequi itaque animi officia commodi debitis illo obcaecati, quia inventore minima laboriosam similique?",
+                "product_quantity": 35,
+                "product_price": 64.28
+            },
+            {
+                "product_name": "Product-natus-laborum",
+                "product_description": "Placeat nostrum nam fugit quod repellat aliquam quis maxime, quidem eveniet sunt eaque alias illum ea, velit blanditiis provident obcaecati voluptas itaque illo, unde sint impedit cumque accusamus facere odio at eligendi in placeat accusantium, explicabo excepturi provident laborum maxime expedita repellat tempore voluptate esse omnis?",
+                "product_quantity": 39,
+                "product_price": 77.54
+            },
+            {
+                "product_name": "Product-culpa-libero",
+                "product_description": "Nesciunt debitis ipsam dolor sequi facere a consectetur perferendis corrupti neque et, error consequuntur exercitationem laudantium similique velit placeat doloremque explicabo dignissimos odio, error dolorem dolorum libero sapiente voluptates ad vero perspiciatis?",
+                "product_quantity": 92,
+                "product_price": 40.66
+            },
+            {
+                "product_name": "Product-temporibus-ut",
+                "product_description": "Commodi nisi ipsam provident blanditiis deleniti velit incidunt debitis, magni blanditiis illo hic nostrum, minus hic deserunt officiis necessitatibus tempore doloribus esse aut, ipsum quia fugiat cumque corporis non aliquam deleniti, excepturi eum quisquam distinctio sapiente reprehenderit illo ipsa obcaecati autem ducimus?",
+                "product_quantity": 31,
+                "product_price": 54.6
+            }
+        ]
+    }
+}

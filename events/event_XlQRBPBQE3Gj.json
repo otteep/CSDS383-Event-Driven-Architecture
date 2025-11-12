@@ -1,0 +1,20 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-2jjXBplz",
+        "supplier_contact": "supplier2jjXBplz@example.com",
+        "products": [
+            {
+                "product_name": "Product-magnam-quisquam",
+                "product_description": "Minima provident numquam dolorum, est labore non fugit numquam porro cumque eligendi, fugit suscipit tenetur, voluptate eius ut cumque sed aliquid magni, similique quis autem iusto numquam est laboriosam sit.",
+                "product_quantity": 73,
+                "product_price": 20.4
+            },
+            {
+                "product_name": "Product-minima-nam",
+                "product_description": "Omnis quod doloremque officia inventore eligendi quaerat, totam quasi suscipit hic eveniet voluptatibus tempore dolorum molestiae cum, enim iure illo?",
+                "product_quantity": 36,
+                "product_price": 21.87
+            }
+        ]
+    }
+}

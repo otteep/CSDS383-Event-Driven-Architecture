@@ -1,0 +1,14 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-1K3X3hQ6",
+        "supplier_contact": "supplier1K3X3hQ6@example.com",
+        "products": [
+            {
+                "product_name": "Product-commodi-expedita",
+                "product_description": "Sint ut eius, facere at corrupti numquam odit iusto aperiam obcaecati, ipsum fuga asperiores expedita esse qui, nulla et nemo omnis aliquid sed quas officia, nisi laborum eius commodi optio?",
+                "product_quantity": 52,
+                "product_price": 16.42
+            }
+        ]
+    }
+}

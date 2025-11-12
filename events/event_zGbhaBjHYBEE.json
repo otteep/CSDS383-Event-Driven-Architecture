@@ -1,0 +1,37 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-x1ymqzAw",
+        "supplier_contact": "supplierx1ymqzAw@example.com",
+        "products": [
+            {
+                "product_name": "Product-dignissimos-impedit",
+                "product_description": "Nobis nemo error eos enim quae saepe unde nulla esse sunt, sapiente sed illo dolor quae laudantium provident totam, libero rem inventore ea vero ratione autem neque omnis, mollitia optio aliquid unde.",
+                "product_price": 50.55
+            },
+            {
+                "product_name": "Product-distinctio-necessitatibus",
+                "product_description": "Reprehenderit illum culpa eligendi possimus hic ipsum voluptas fugit suscipit, vitae corporis eaque cumque neque enim nam ex ab, sint explicabo eveniet laboriosam harum placeat consequuntur, assumenda labore voluptatem a officiis.",
+                "product_quantity": 48,
+                "product_price": 86.1
+            },
+            {
+                "product_name": "Product-eos-reprehenderit",
+                "product_description": "Blanditiis sint velit quia quis maiores, ipsa qui dolor.",
+                "product_quantity": 38,
+                "product_price": 17.22
+            },
+            {
+                "product_name": "Product-earum-quae",
+                "product_description": "Est excepturi laborum esse saepe magnam consectetur sapiente expedita, doloremque adipisci minus similique.",
+                "product_quantity": 61,
+                "product_price": 94.53
+            },
+            {
+                "product_name": "Product-accusantium-recusandae",
+                "product_description": "Ipsa dicta provident alias eligendi, est odit aspernatur nisi dolore corrupti saepe expedita, impedit labore inventore quasi reiciendis temporibus ab?",
+                "product_quantity": 79,
+                "product_price": 67.2
+            }
+        ]
+    }
+}

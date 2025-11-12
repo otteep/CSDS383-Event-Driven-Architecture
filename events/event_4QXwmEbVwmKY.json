@@ -1,0 +1,26 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-oeFBCoeK",
+        "supplier_contact": "supplieroeFBCoeK@example.com",
+        "products": [
+            {
+                "product_name": "Product-non-quam",
+                "product_description": "Perferendis quam ad vero deserunt suscipit ipsa illum quos sunt, aperiam rem voluptatibus praesentium autem corporis excepturi eveniet, ullam alias natus eaque laboriosam ex amet, iusto quis earum error facere facilis placeat fugiat veniam maiores.",
+                "product_quantity": 44,
+                "product_price": 70.89
+            },
+            {
+                "product_name": "Product-maxime-nulla",
+                "product_description": "Magni iste deserunt repellat vero, fuga tenetur a, modi tenetur ipsam praesentium perspiciatis fuga nisi repellendus nesciunt ipsa facilis, ipsum ut facilis soluta.",
+                "product_quantity": 75,
+                "product_price": 16.14
+            },
+            {
+                "product_name": "Product-sunt-in",
+                "product_description": "Porro ab a dolorem at odit sed, consectetur laudantium eligendi voluptatibus esse tempora eaque eveniet?",
+                "product_quantity": 69,
+                "product_price": 55.87
+            }
+        ]
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-hOoVjwDt",
+        "supplier_contact": "supplierhOoVjwDt@example.com",
+        "products": [
+            {
+                "product_name": "Product-voluptate-perspiciatis",
+                "product_description": "Officiis exercitationem provident ab veritatis labore totam dolore in cum, laudantium molestiae tenetur ipsa explicabo quo laborum facere ea?",
+                "product_quantity": 1,
+                "product_price": 47.52
+            },
+            {
+                "product_name": "Product-commodi-voluptate",
+                "product_description": "Sed mollitia molestias corrupti adipisci exercitationem quas non dignissimos ullam nemo amet, suscipit odio animi aliquam itaque dolorem doloremque rerum possimus vel facere, temporibus odio consequuntur quia blanditiis dignissimos minus quam, nostrum officiis corrupti voluptatem maxime maiores?",
+                "product_quantity": 32,
+                "product_price": 15.91
+            },
+            {
+                "product_name": "Product-repellat-nulla",
+                "product_description": "Quibusdam perspiciatis fugiat, magnam ipsum exercitationem laboriosam necessitatibus nostrum voluptate qui saepe, magni minima quos omnis labore culpa quo hic.",
+                "product_quantity": 40,
+                "product_price": 34.23
+            },
+            {
+                "product_name": "Product-atque-modi",
+                "product_description": "Nam quidem tempora non expedita dolorem reprehenderit, praesentium similique laborum officia ipsam iure, nobis quo adipisci velit dolor nesciunt totam eum, ducimus accusantium quibusdam beatae voluptatem dicta.",
+                "product_quantity": 56,
+                "product_price": 34.46
+            }
+        ]
+    }
+}

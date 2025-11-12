@@ -1,0 +1,20 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-sq6oFHvY",
+        "supplier_contact": "suppliersq6oFHvY@example.com",
+        "products": [
+            {
+                "product_name": "Product-ut-corporis",
+                "product_description": "Enim quam minima mollitia praesentium nobis ipsa at vero doloribus a voluptatibus, ducimus repellat porro enim hic.",
+                "product_quantity": 12,
+                "product_price": 87.45
+            },
+            {
+                "product_name": "Product-ad-fuga",
+                "product_description": "Dicta totam in quaerat ipsum iure ducimus, voluptatum vero ad ipsa facere, quos animi nam iste fuga sed adipisci quod assumenda ea.",
+                "product_quantity": 78,
+                "product_price": 60.14
+            }
+        ]
+    }
+}

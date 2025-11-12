@@ -1,0 +1,37 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-fnr1uPoZ",
+        "products": [
+            {
+                "product_name": "Product-quam-illo",
+                "product_description": "Maiores dolorem natus ea hic necessitatibus fugit labore pariatur velit assumenda obcaecati, nam quia minus deserunt modi eos quas, veritatis nesciunt eos voluptas quisquam pariatur vel tempora odio consectetur neque, odio repellendus odit hic ab vel fugit eum fuga modi impedit corrupti.",
+                "product_quantity": 14,
+                "product_price": 31.75
+            },
+            {
+                "product_name": "Product-illo-quos",
+                "product_description": "Voluptates natus consequatur necessitatibus dignissimos nisi, ex quasi dolorem, suscipit veniam tempore maxime nihil repudiandae nemo ipsam autem nisi, culpa non ducimus sit quidem qui ipsum, soluta eligendi minima quos nobis vero et.",
+                "product_quantity": 59,
+                "product_price": 70.41
+            },
+            {
+                "product_name": "Product-iusto-suscipit",
+                "product_description": "Veniam nesciunt enim vitae vero, delectus error sed eligendi accusantium aspernatur, quod alias quas accusantium fuga laudantium corporis reiciendis doloremque nihil.",
+                "product_quantity": 13,
+                "product_price": 5.61
+            },
+            {
+                "product_name": "Product-numquam-eos",
+                "product_description": "Tempora explicabo ut, culpa consectetur voluptas inventore hic reiciendis et fugit explicabo fuga, optio veritatis perferendis tempora a dolorum, dolorum consequatur doloremque fugit.",
+                "product_quantity": 2,
+                "product_price": 51.56
+            },
+            {
+                "product_name": "Product-odio-nesciunt",
+                "product_description": "Facere corporis veniam quam laboriosam qui consequuntur molestiae laborum pariatur, soluta officiis debitis minus error voluptate natus odit temporibus blanditiis ipsum, facere dolores in nulla cupiditate pariatur aperiam quasi enim iure natus.",
+                "product_quantity": 26,
+                "product_price": 26.52
+            }
+        ]
+    }
+}

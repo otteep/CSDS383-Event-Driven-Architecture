@@ -1,0 +1,32 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-fmHLfHev",
+        "supplier_contact": "supplierfmHLfHev@example.com",
+        "products": [
+            {
+                "product_name": "Product-molestiae-est",
+                "product_description": "Vel ducimus inventore facere iste laudantium aspernatur porro obcaecati distinctio, minima suscipit voluptatibus provident nulla eligendi dicta labore laboriosam, assumenda incidunt natus corrupti accusamus sint, autem expedita aperiam eum?",
+                "product_quantity": 65,
+                "product_price": 61.92
+            },
+            {
+                "product_name": "Product-voluptate-officiis",
+                "product_description": "Nisi tempore recusandae ea vero saepe provident, officiis delectus adipisci nemo tenetur cupiditate eaque quidem?",
+                "product_quantity": 82,
+                "product_price": 7.68
+            },
+            {
+                "product_name": "Product-obcaecati-atque",
+                "product_description": "Sunt magnam itaque illum officia, nobis error quis.",
+                "product_quantity": 3,
+                "product_price": 36.0
+            },
+            {
+                "product_name": "Product-doloribus-recusandae",
+                "product_description": "Distinctio veritatis dolorum in adipisci provident consectetur animi laborum ullam corporis voluptate, aliquid ipsam omnis et ratione ut adipisci atque nemo, fugiat excepturi hic quis numquam a eum impedit, ipsum suscipit modi ad eligendi culpa.",
+                "product_quantity": 28,
+                "product_price": 30.99
+            }
+        ]
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-4osHPrV9",
+        "supplier_contact": "supplier4osHPrV9@example.com",
+        "products": [
+            {
+                "product_name": "Product-commodi-rem",
+                "product_description": "Dolorum sapiente minima, minima architecto laborum consectetur, deserunt quisquam ducimus, nobis eaque tenetur hic omnis nemo natus harum ad neque voluptatibus, et voluptatem assumenda quia delectus quod qui ratione provident aspernatur laboriosam sapiente.",
+                "product_quantity": 83,
+                "product_price": 57.0
+            },
+            {
+                "product_name": "Product-impedit-iure",
+                "product_description": "Officiis nisi laboriosam ipsum, aperiam ex sapiente dolore eius officia suscipit aliquid quo vero maxime nostrum, temporibus expedita minima quos necessitatibus veritatis aperiam, non autem cumque asperiores vero laboriosam, voluptatum maiores architecto quia in numquam nulla suscipit dolor quidem veniam voluptate.",
+                "product_quantity": 44,
+                "product_price": 54.53
+            },
+            {
+                "product_name": "Product-praesentium-autem",
+                "product_description": "Quibusdam magni et quidem dolor natus expedita repudiandae, sit iste fugit blanditiis est, deleniti voluptates tempore est, ducimus reprehenderit quos quaerat iste?",
+                "product_quantity": 29,
+                "product_price": 41.98
+            },
+            {
+                "product_name": "Product-quia-vel",
+                "product_description": "Officia eligendi modi nesciunt quam veniam sint voluptatum dolorem molestias autem tenetur, facilis dolore molestias consequatur ullam recusandae eos magni dolorum, pariatur sapiente adipisci delectus est autem exercitationem quas illum ipsa error, error necessitatibus eaque deserunt accusantium quam fuga doloribus molestias expedita dolores blanditiis, veniam ratione adipisci odit accusamus eveniet.",
+                "product_quantity": 62,
+                "product_price": 47.62
+            }
+        ]
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-FTAQP8Uf",
+        "supplier_contact": "supplierFTAQP8Uf@example.com",
+        "products": [
+            {
+                "product_name": "Product-reiciendis-necessitatibus",
+                "product_description": "Repellendus expedita molestiae vel, cupiditate ex quidem sequi sunt doloremque hic iste vero quod quibusdam magni, enim suscipit quisquam expedita temporibus iure rem tempora provident earum.",
+                "product_quantity": 40,
+                "product_price": 34.99
+            },
+            {
+                "product_name": "Product-dolor-deleniti",
+                "product_description": "Nisi suscipit ratione facilis perspiciatis sequi, est nostrum architecto rem obcaecati saepe voluptas ratione quidem nemo, nobis id eius tempora provident earum itaque, ad corrupti atque rem eos saepe sunt odio vitae a totam ea.",
+                "product_quantity": 12,
+                "product_price": 74.07
+            }
+        ]
+    }
+}

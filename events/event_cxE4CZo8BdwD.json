@@ -1,0 +1,14 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-MNday9qa",
+        "supplier_contact": "supplierMNday9qa@example.com",
+        "products": [
+            {
+                "product_name": "Product-necessitatibus-eaque",
+                "product_description": "Deleniti repellendus dicta temporibus, soluta eligendi esse cum quia totam quae alias qui nam, perferendis fugit obcaecati?",
+                "product_quantity": 3,
+                "product_price": 83.88
+            }
+        ]
+    }
+}

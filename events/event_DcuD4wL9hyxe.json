@@ -1,0 +1,14 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-UYJnZO9w",
+        "supplier_contact": "supplierUYJnZO9w@example.com",
+        "products": [
+            {
+                "product_name": "Product-earum-recusandae",
+                "product_description": "Commodi vero eveniet sint sit ex, pariatur eius laudantium omnis odio similique possimus enim consectetur est assumenda?",
+                "product_quantity": 83,
+                "product_price": 70.76
+            }
+        ]
+    }
+}

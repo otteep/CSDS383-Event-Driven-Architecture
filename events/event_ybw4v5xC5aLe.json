@@ -1,0 +1,19 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-Xrhcltjp",
+        "supplier_contact": "supplierXrhcltjp@example.com",
+        "products": [
+            {
+                "product_name": "Product-aliquid-beatae",
+                "product_description": "Ab praesentium qui dolore necessitatibus, esse ipsum dolor fugit veritatis asperiores tempora perspiciatis ad minus cupiditate, delectus tenetur suscipit totam consectetur autem vitae, ratione corrupti velit earum exercitationem, laudantium consequuntur sunt ad vero exercitationem quis quam maxime voluptates.",
+                "product_quantity": 56
+            },
+            {
+                "product_name": "Product-nesciunt-a",
+                "product_description": "Ducimus quae incidunt, eveniet excepturi temporibus dolore modi voluptatem amet sapiente doloribus, ipsa eius vero?",
+                "product_quantity": 30,
+                "product_price": 47.65
+            }
+        ]
+    }
+}

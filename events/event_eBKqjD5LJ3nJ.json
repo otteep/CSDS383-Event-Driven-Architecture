@@ -1,0 +1,37 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-xxz3CsQA",
+        "supplier_contact": "supplierxxz3CsQA@example.com",
+        "products": [
+            {
+                "product_name": "Product-dicta-praesentium",
+                "product_description": "Reiciendis atque ut saepe voluptate quia necessitatibus natus, quia cupiditate ad sequi consequuntur recusandae iste culpa deleniti harum commodi.",
+                "product_quantity": 42,
+                "product_price": 99.64
+            },
+            {
+                "product_name": "Product-magnam-alias",
+                "product_description": "Eligendi at pariatur asperiores deserunt repellendus, vitae eos vel velit deserunt error explicabo dolores obcaecati beatae cupiditate, animi aut reiciendis accusantium aliquid minima facilis fuga dolores laudantium saepe, rem quam quibusdam, culpa est aut facere provident ipsum eaque labore?",
+                "product_quantity": 74,
+                "product_price": 3.07
+            },
+            {
+                "product_name": "Product-nam-fuga",
+                "product_description": "Illum vitae eligendi doloremque, iure ratione quas illum, nostrum excepturi quas reiciendis, laudantium beatae impedit explicabo quidem deleniti, veritatis necessitatibus distinctio laudantium corrupti fugit aperiam accusantium?",
+                "product_quantity": 40,
+                "product_price": 32.7
+            },
+            {
+                "product_description": "Officiis magnam sapiente, repudiandae quas explicabo quidem architecto, exercitationem nobis hic?",
+                "product_quantity": 40,
+                "product_price": 40.27
+            },
+            {
+                "product_name": "Product-pariatur-nam",
+                "product_description": "Eveniet at consequatur culpa natus, cumque inventore distinctio sapiente hic magnam provident, pariatur vel cum voluptatum ullam nobis fuga quia obcaecati qui praesentium nulla, eligendi consequatur reiciendis accusamus ea dolorum in architecto.",
+                "product_quantity": 79,
+                "product_price": 58.57
+            }
+        ]
+    }
+}

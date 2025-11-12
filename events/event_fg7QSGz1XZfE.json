@@ -1,0 +1,14 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-JpAQnywj",
+        "supplier_contact": "supplierJpAQnywj@example.com",
+        "products": [
+            {
+                "product_name": "Product-ab-accusamus",
+                "product_description": "Autem nesciunt sint vitae non, culpa iste numquam cumque obcaecati nisi magni laudantium velit, rem ipsam inventore, harum blanditiis atque?",
+                "product_quantity": 1,
+                "product_price": 90.31
+            }
+        ]
+    }
+}

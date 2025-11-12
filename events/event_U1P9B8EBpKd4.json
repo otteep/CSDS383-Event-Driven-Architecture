@@ -1,0 +1,14 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-R4SydSic",
+        "supplier_contact": "supplierR4SydSic@example.com",
+        "products": [
+            {
+                "product_name": "Product-dolore-voluptatum",
+                "product_description": "Quod blanditiis molestiae, nesciunt impedit ratione quasi natus doloremque animi consectetur error facere aliquam, cupiditate repellendus cum ullam corrupti commodi magnam eius repellat optio accusamus deserunt.",
+                "product_quantity": 45,
+                "product_price": 25.84
+            }
+        ]
+    }
+}

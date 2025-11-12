@@ -1,0 +1,37 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-VM6hcfYd",
+        "supplier_contact": "supplierVM6hcfYd@example.com",
+        "products": [
+            {
+                "product_name": "Product-eveniet-ad",
+                "product_description": "Iste molestias consequuntur maxime assumenda corrupti id reprehenderit, reprehenderit incidunt temporibus libero mollitia voluptatum quae inventore magnam provident, cupiditate consectetur quod id suscipit, temporibus recusandae quas illum maiores?",
+                "product_quantity": 34,
+                "product_price": 33.5
+            },
+            {
+                "product_name": "Product-assumenda-possimus",
+                "product_description": "Aspernatur a eos voluptatibus facere explicabo similique libero error, minima culpa doloribus voluptatibus quas animi sint non porro, quibusdam voluptate libero odio nulla aliquid ducimus quam?",
+                "product_quantity": 84,
+                "product_price": 56.31
+            },
+            {
+                "product_name": "Product-sunt-libero",
+                "product_description": "Necessitatibus optio fugiat culpa qui voluptatem quas voluptate quis quam porro totam, saepe eveniet facilis, porro autem tempore deleniti minima commodi pariatur, neque dolore soluta placeat ipsam voluptas aperiam repellendus, nulla labore fugiat illo?",
+                "product_quantity": 100,
+                "product_price": 25.3
+            },
+            {
+                "product_name": "Product-fugiat-alias",
+                "product_description": "Numquam autem impedit neque corporis rem vel dolorem sed aut, ab quae exercitationem unde, rerum vitae deleniti harum fugiat nobis vel delectus laudantium, enim deserunt cupiditate dignissimos in nisi voluptatibus qui recusandae officia unde cum?",
+                "product_quantity": 82,
+                "product_price": 50.15
+            },
+            {
+                "product_description": "Fuga aliquid quam obcaecati nobis nulla eos quasi, rem nobis quos illo laboriosam eaque temporibus perferendis adipisci culpa doloribus, harum porro rerum amet.",
+                "product_quantity": 89,
+                "product_price": 80.76
+            }
+        ]
+    }
+}

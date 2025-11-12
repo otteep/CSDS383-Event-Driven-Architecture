@@ -1,0 +1,20 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-3cY7Vm7M",
+        "supplier_contact": "supplier3cY7Vm7M@example.com",
+        "products": [
+            {
+                "product_name": "Product-cum-esse",
+                "product_description": "Tempore nemo laborum architecto saepe optio rem ea, natus voluptatem officia molestias, tenetur optio dicta hic dolores, obcaecati aliquid enim blanditiis laboriosam veniam quasi sequi mollitia earum corporis, eos temporibus sit deleniti blanditiis.",
+                "product_quantity": 92,
+                "product_price": 71.51
+            },
+            {
+                "product_name": "Product-eveniet-saepe",
+                "product_description": "Cupiditate provident pariatur nam cum necessitatibus fuga consequuntur, rerum odit nihil fugiat nemo.",
+                "product_quantity": 97,
+                "product_price": 46.3
+            }
+        ]
+    }
+}

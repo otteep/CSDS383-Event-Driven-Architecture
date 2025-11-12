@@ -1,0 +1,20 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-SNdWG7so",
+        "supplier_contact": "supplierSNdWG7so@example.com",
+        "products": [
+            {
+                "product_name": "Product-repellendus-eius",
+                "product_description": "Sed recusandae eos corporis, cum asperiores sed labore quasi officiis.",
+                "product_quantity": 12,
+                "product_price": 96.48
+            },
+            {
+                "product_name": "Product-nihil-sint",
+                "product_description": "Perspiciatis voluptatibus consequuntur inventore quia voluptas reiciendis sit impedit deserunt eveniet ab, alias facilis fuga iste omnis beatae enim debitis magni quidem veritatis, similique debitis hic aut quibusdam?",
+                "product_quantity": 7,
+                "product_price": 57.78
+            }
+        ]
+    }
+}

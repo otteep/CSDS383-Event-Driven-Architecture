@@ -1,0 +1,20 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-uRQvYfT4",
+        "supplier_contact": "supplieruRQvYfT4@example.com",
+        "products": [
+            {
+                "product_name": "Product-minima-veritatis",
+                "product_description": "Expedita ea in laudantium dolore atque, vero mollitia minus repudiandae labore, quae ab deleniti, sit obcaecati deserunt beatae, eaque perspiciatis error repellendus quam facilis expedita?",
+                "product_quantity": 84,
+                "product_price": 12.26
+            },
+            {
+                "product_name": "Product-dolores-laborum",
+                "product_description": "Excepturi obcaecati laboriosam reprehenderit a culpa suscipit dolore enim omnis labore, libero est quaerat maxime illum quibusdam vero, autem corrupti adipisci quasi repudiandae quis officiis debitis nulla, doloribus a commodi nostrum quisquam, odit nihil iusto facere.",
+                "product_quantity": 35,
+                "product_price": 5.58
+            }
+        ]
+    }
+}

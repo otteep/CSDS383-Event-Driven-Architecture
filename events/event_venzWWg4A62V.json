@@ -1,0 +1,38 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-pCkKYcrk",
+        "supplier_contact": "supplierpCkKYcrk@example.com",
+        "products": [
+            {
+                "product_name": "Product-magni-error",
+                "product_description": "Consequatur ad ab odit facilis id magni, ipsa delectus praesentium?",
+                "product_quantity": 1,
+                "product_price": 71.28
+            },
+            {
+                "product_name": "Product-culpa-velit",
+                "product_description": "Corporis molestiae corrupti ipsa ut, tempora voluptates earum possimus debitis, incidunt nisi consequuntur explicabo neque.",
+                "product_quantity": 91,
+                "product_price": 23.75
+            },
+            {
+                "product_name": "Product-nemo-incidunt",
+                "product_description": "Amet quam porro sed saepe quos eligendi, amet voluptatem praesentium ex blanditiis aspernatur asperiores maiores, cupiditate a quidem incidunt minima laborum, pariatur ipsa in harum quidem eos numquam soluta.",
+                "product_quantity": 73,
+                "product_price": 50.48
+            },
+            {
+                "product_name": "Product-autem-accusamus",
+                "product_description": "Recusandae est provident at eius ratione velit voluptates suscipit, unde nihil ipsa maxime exercitationem magni illo fugit minus cupiditate deserunt, quibusdam hic magnam aliquam minus facilis distinctio numquam, in accusantium ullam adipisci veritatis optio hic tempora quis?",
+                "product_quantity": 83,
+                "product_price": 44.38
+            },
+            {
+                "product_name": "Product-molestias-excepturi",
+                "product_description": "Atque vero facere laboriosam dolore, aspernatur recusandae voluptates omnis nulla, omnis ut molestias facilis architecto culpa saepe consequatur, nam rerum laborum recusandae tempore illo corporis quod nesciunt ab possimus, nemo rerum sed optio quas qui iusto hic quod illo deleniti obcaecati.",
+                "product_quantity": 8,
+                "product_price": 57.91
+            }
+        ]
+    }
+}

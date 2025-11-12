@@ -1,0 +1,14 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-kkhA1DGv",
+        "supplier_contact": "supplierkkhA1DGv@example.com",
+        "products": [
+            {
+                "product_name": "Product-accusamus-exercitationem",
+                "product_description": "Omnis soluta ducimus accusantium, delectus nisi earum laboriosam in quasi minus repellat obcaecati corporis, officia vero aut perspiciatis?",
+                "product_quantity": 78,
+                "product_price": 18.33
+            }
+        ]
+    }
+}

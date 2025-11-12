@@ -1,0 +1,26 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-YLArgjJ0",
+        "supplier_contact": "supplierYLArgjJ0@example.com",
+        "products": [
+            {
+                "product_name": "Product-voluptates-quos",
+                "product_description": "Id nihil exercitationem consequuntur consectetur omnis cum sed, nisi perferendis magnam ab eos quo cumque deleniti est minus, vitae voluptatibus esse eaque facilis repellendus amet doloremque impedit temporibus reprehenderit pariatur, laboriosam sunt molestias nesciunt tempora maxime eveniet soluta cupiditate deserunt id iste, mollitia velit ducimus a consequuntur eligendi ab laudantium?",
+                "product_quantity": 29,
+                "product_price": 68.27
+            },
+            {
+                "product_name": "Product-vero-eum",
+                "product_description": "Qui provident est dolorum doloremque ratione minus hic, eveniet id corrupti reiciendis debitis provident beatae eum rem molestias voluptates exercitationem, doloremque dignissimos neque obcaecati quae quis nobis similique, earum reiciendis iusto enim aperiam et consequatur, id quia nam numquam reiciendis.",
+                "product_quantity": 46,
+                "product_price": 55.33
+            },
+            {
+                "product_name": "Product-illum-rem",
+                "product_description": "Sunt velit cupiditate doloribus dolore fuga impedit quo, dignissimos maiores adipisci sed modi explicabo placeat, accusantium maxime culpa, alias quam officiis iste illo quidem repudiandae voluptas molestiae aliquid mollitia.",
+                "product_quantity": 78,
+                "product_price": 95.43
+            }
+        ]
+    }
+}

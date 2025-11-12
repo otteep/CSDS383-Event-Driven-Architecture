@@ -1,0 +1,20 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-KCZVipEN",
+        "supplier_contact": "supplierKCZVipEN@example.com",
+        "products": [
+            {
+                "product_name": "Product-placeat-aliquid",
+                "product_description": "Praesentium animi nesciunt a quasi, libero magnam sequi illum molestias, sequi dicta id a optio consectetur, deserunt quo consequuntur veritatis, sit neque dolor exercitationem amet impedit.",
+                "product_quantity": 58,
+                "product_price": 98.55
+            },
+            {
+                "product_name": "Product-sequi-autem",
+                "product_description": "Similique veniam molestias cupiditate quibusdam dignissimos unde atque a aut, fuga accusantium voluptatibus culpa incidunt quaerat unde porro sint consectetur expedita, distinctio vero eligendi sed veritatis a veniam praesentium autem exercitationem architecto necessitatibus, suscipit eligendi commodi quidem repudiandae voluptas voluptates libero blanditiis.",
+                "product_quantity": 8,
+                "product_price": 62.65
+            }
+        ]
+    }
+}

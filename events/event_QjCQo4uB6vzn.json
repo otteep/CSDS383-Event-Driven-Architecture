@@ -1,0 +1,20 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-esDipA6G",
+        "supplier_contact": "supplieresDipA6G@example.com",
+        "products": [
+            {
+                "product_name": "Product-officiis-amet",
+                "product_description": "Dicta vel quasi unde fugit laboriosam fuga dolor voluptas, illo velit quisquam architecto eius nesciunt et expedita magnam in, velit tempora recusandae veniam.",
+                "product_quantity": 96,
+                "product_price": 13.82
+            },
+            {
+                "product_name": "Product-inventore-eligendi",
+                "product_description": "Error animi iure iusto tempore fuga qui doloremque deserunt, unde quos tempore placeat itaque assumenda vitae hic veritatis recusandae vero omnis, voluptatum ad necessitatibus minus neque, veritatis maiores officia.",
+                "product_quantity": 42,
+                "product_price": 14.22
+            }
+        ]
+    }
+}

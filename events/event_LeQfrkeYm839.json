@@ -1,0 +1,32 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-6yXOUCyc",
+        "supplier_contact": "supplier6yXOUCyc@example.com",
+        "products": [
+            {
+                "product_name": "Product-nihil-illo",
+                "product_description": "Excepturi odio non aut, eaque omnis similique libero illum veritatis, neque illo quibusdam perferendis sit blanditiis, eveniet rem consequuntur quod, necessitatibus sed quae temporibus suscipit?",
+                "product_quantity": 84,
+                "product_price": 3.82
+            },
+            {
+                "product_name": "Product-nulla-consectetur",
+                "product_description": "Blanditiis maiores sit ipsa illo officia, ad aspernatur nemo, rem ipsa minus, aut perferendis eum natus soluta nam.",
+                "product_quantity": 40,
+                "product_price": 96.5
+            },
+            {
+                "product_name": "Product-debitis-velit",
+                "product_description": "Culpa blanditiis dolorem mollitia ea laboriosam in repellendus ducimus eum, fugiat facilis tempore, ducimus consectetur alias ipsam illo in debitis nostrum saepe, a adipisci repudiandae blanditiis cumque dolor eius debitis aut magnam.",
+                "product_quantity": 14,
+                "product_price": 87.12
+            },
+            {
+                "product_name": "Product-exercitationem-itaque",
+                "product_description": "Obcaecati veniam recusandae sequi magni ipsam hic facilis minima tenetur, error quia aliquid perspiciatis saepe non accusantium quae, obcaecati dolores sint minus deserunt illum suscipit ipsa soluta est, sint porro reiciendis ratione doloribus praesentium temporibus quo repellat facere fugiat repudiandae?",
+                "product_quantity": 26,
+                "product_price": 27.08
+            }
+        ]
+    }
+}

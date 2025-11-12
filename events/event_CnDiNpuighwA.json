@@ -1,0 +1,14 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-NOZ8vqma",
+        "supplier_contact": "supplierNOZ8vqma@example.com",
+        "products": [
+            {
+                "product_name": "Product-laborum-a",
+                "product_description": "Placeat laboriosam iure ab atque mollitia nostrum debitis ipsa numquam quos, reprehenderit recusandae fugiat accusantium obcaecati inventore maxime aspernatur nulla ipsam.",
+                "product_quantity": 31,
+                "product_price": 33.4
+            }
+        ]
+    }
+}

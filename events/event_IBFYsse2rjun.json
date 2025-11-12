@@ -1,0 +1,38 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-486nsa2T",
+        "supplier_contact": "supplier486nsa2T@example.com",
+        "products": [
+            {
+                "product_name": "Product-modi-accusamus",
+                "product_description": "Porro eos magni, dolor expedita quis doloremque voluptatem illo aspernatur officiis iure accusantium, quibusdam in nihil ea explicabo.",
+                "product_quantity": 13,
+                "product_price": 80.08
+            },
+            {
+                "product_name": "Product-saepe-alias",
+                "product_description": "Laboriosam unde fugit officia quaerat pariatur excepturi, qui suscipit a voluptates quis, impedit quae quos aliquam itaque cumque maiores quisquam, labore dicta asperiores et fuga architecto nostrum velit temporibus voluptas tenetur eius?",
+                "product_quantity": 14,
+                "product_price": 17.45
+            },
+            {
+                "product_name": "Product-nostrum-corrupti",
+                "product_description": "Suscipit debitis optio soluta architecto praesentium, odio doloribus laborum sunt voluptatum suscipit?",
+                "product_quantity": 97,
+                "product_price": 53.28
+            },
+            {
+                "product_name": "Product-rem-sit",
+                "product_description": "Cupiditate ea neque amet culpa eos natus, consequuntur exercitationem et?",
+                "product_quantity": 100,
+                "product_price": 98.46
+            },
+            {
+                "product_name": "Product-odio-illo",
+                "product_description": "Incidunt provident impedit soluta facere in quod illo aperiam, odio officia perspiciatis impedit alias ducimus aut fugit nisi unde numquam esse, nostrum enim sed placeat ea accusantium consectetur iure laudantium quibusdam suscipit sit.",
+                "product_quantity": 60,
+                "product_price": 76.29
+            }
+        ]
+    }
+}

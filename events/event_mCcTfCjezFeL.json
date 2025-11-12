@@ -1,0 +1,14 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-8fnn7SuC",
+        "supplier_contact": "supplier8fnn7SuC@example.com",
+        "products": [
+            {
+                "product_name": "Product-officiis-consequuntur",
+                "product_description": "Temporibus repellendus nihil, porro excepturi eos quaerat, reiciendis odit laborum aut nam expedita, accusantium perspiciatis ab repudiandae aliquam atque asperiores?",
+                "product_quantity": 55,
+                "product_price": 64.92
+            }
+        ]
+    }
+}

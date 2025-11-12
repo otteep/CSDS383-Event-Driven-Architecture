@@ -1,0 +1,20 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-ozhhGwUU",
+        "supplier_contact": "supplierozhhGwUU@example.com",
+        "products": [
+            {
+                "product_name": "Product-eius-autem",
+                "product_description": "Eius incidunt earum quis dolor sint, dicta ratione suscipit laudantium facere sit ut nemo, fugit mollitia saepe molestias sunt, dignissimos maxime incidunt at.",
+                "product_quantity": 60,
+                "product_price": 49.44
+            },
+            {
+                "product_name": "Product-natus-minima",
+                "product_description": "Nam debitis sequi, ab ut provident unde similique exercitationem.",
+                "product_quantity": 91,
+                "product_price": 23.05
+            }
+        ]
+    }
+}

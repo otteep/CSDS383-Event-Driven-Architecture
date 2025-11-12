@@ -1,0 +1,20 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-37Aum21z",
+        "supplier_contact": "supplier37Aum21z@example.com",
+        "products": [
+            {
+                "product_name": "Product-error-dignissimos",
+                "product_description": "Autem nulla ea, nostrum facilis quod mollitia et?",
+                "product_quantity": 25,
+                "product_price": 14.27
+            },
+            {
+                "product_name": "Product-molestiae-quam",
+                "product_description": "Quas fugit voluptatibus ipsam accusamus libero recusandae debitis, provident sit ratione quibusdam, ratione accusamus nihil at perspiciatis, eveniet quas necessitatibus animi assumenda ad odit at libero?",
+                "product_quantity": 88,
+                "product_price": 29.36
+            }
+        ]
+    }
+}

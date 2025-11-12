@@ -1,0 +1,14 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-kvHADTse",
+        "supplier_contact": "supplierkvHADTse@example.com",
+        "products": [
+            {
+                "product_name": "Product-corrupti-pariatur",
+                "product_description": "Quidem ab natus veritatis nulla ad recusandae, labore quidem doloribus neque doloremque adipisci corrupti totam assumenda cumque autem aliquam, mollitia assumenda adipisci officiis labore est vitae tenetur eum exercitationem impedit, quaerat consectetur sed dolore atque quibusdam nisi laborum doloribus, ab perferendis fuga dignissimos maxime expedita aspernatur quae esse?",
+                "product_quantity": 93,
+                "product_price": 50.37
+            }
+        ]
+    }
+}

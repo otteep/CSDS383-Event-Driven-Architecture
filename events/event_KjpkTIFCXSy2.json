@@ -1,0 +1,38 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-cuYd99dC",
+        "supplier_contact": "suppliercuYd99dC@example.com",
+        "products": [
+            {
+                "product_name": "Product-voluptatum-maiores",
+                "product_description": "Suscipit excepturi iste quae ut aperiam rerum perspiciatis dolore aspernatur adipisci at, magnam porro dolorum ducimus, commodi culpa in earum quia, provident accusamus maiores doloremque accusantium quasi eum assumenda quaerat mollitia sunt, dolores voluptatem voluptates eius nihil molestias expedita?",
+                "product_quantity": 28,
+                "product_price": 62.7
+            },
+            {
+                "product_name": "Product-eveniet-ducimus",
+                "product_description": "Alias sint veritatis, nihil sunt non error sint labore natus, nihil sequi enim illum dignissimos aliquid consequuntur quam, nostrum voluptatem consequatur architecto accusamus sint neque pariatur sapiente, excepturi reiciendis alias minus?",
+                "product_quantity": 19,
+                "product_price": 67.75
+            },
+            {
+                "product_name": "Product-libero-maiores",
+                "product_description": "Omnis cumque laborum perferendis exercitationem nobis, odit ut enim laboriosam rerum commodi sit quos vitae quidem eaque id?",
+                "product_quantity": 11,
+                "product_price": 17.16
+            },
+            {
+                "product_name": "Product-vel-velit",
+                "product_description": "Alias soluta magni, temporibus magni asperiores quisquam, perspiciatis odio temporibus provident expedita, rem asperiores quod velit incidunt ipsum accusantium, laborum dignissimos voluptatem?",
+                "product_quantity": 43,
+                "product_price": 15.2
+            },
+            {
+                "product_name": "Product-tempore-provident",
+                "product_description": "Accusamus dolores explicabo eius placeat ex pariatur alias quibusdam nostrum nisi, ut magnam sequi rem, molestiae pariatur ipsum tenetur autem quia sit in, hic veritatis est inventore maiores assumenda nobis?",
+                "product_quantity": 58,
+                "product_price": 31.84
+            }
+        ]
+    }
+}

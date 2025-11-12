@@ -1,0 +1,38 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-ILpdBojD",
+        "supplier_contact": "supplierILpdBojD@example.com",
+        "products": [
+            {
+                "product_name": "Product-quisquam-amet",
+                "product_description": "Maxime non soluta ad voluptas, non praesentium minima laudantium qui necessitatibus ipsam, repudiandae hic quod beatae ex reprehenderit, sed ut omnis officiis tempore fuga obcaecati quasi magnam voluptas, quos fuga quis consequuntur recusandae.",
+                "product_quantity": 6,
+                "product_price": 98.67
+            },
+            {
+                "product_name": "Product-quisquam-atque",
+                "product_description": "Asperiores impedit et deleniti quasi rerum laudantium at delectus dolorum, molestias libero totam?",
+                "product_quantity": 42,
+                "product_price": 1.08
+            },
+            {
+                "product_name": "Product-consequatur-soluta",
+                "product_description": "Fugiat ullam odit eveniet ducimus ad nam aperiam commodi, saepe nostrum vel, sed incidunt expedita adipisci accusamus, non consequatur illo sequi doloribus explicabo soluta eligendi reiciendis molestiae consectetur.",
+                "product_quantity": 68,
+                "product_price": 8.5
+            },
+            {
+                "product_name": "Product-pariatur-mollitia",
+                "product_description": "Rem itaque ad a modi perferendis voluptate, mollitia ut earum laudantium cumque deleniti dicta?",
+                "product_quantity": 55,
+                "product_price": 95.32
+            },
+            {
+                "product_name": "Product-animi-dolorum",
+                "product_description": "Error ipsum minima perspiciatis dolores ea laborum ex culpa, adipisci exercitationem deleniti eaque suscipit voluptatibus molestias labore sint dolore recusandae, enim iusto dolore saepe ad reiciendis fuga in excepturi, animi repellendus natus voluptatibus harum delectus odit?",
+                "product_quantity": 61,
+                "product_price": 46.86
+            }
+        ]
+    }
+}

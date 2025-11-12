@@ -1,0 +1,19 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-NERRbC8u",
+        "supplier_contact": "supplierNERRbC8u@example.com",
+        "products": [
+            {
+                "product_name": "Product-fugit-architecto",
+                "product_description": "Ipsa beatae nostrum eaque magni tenetur, nobis fugiat officia velit quo soluta nesciunt maxime deleniti cum?",
+                "product_quantity": 58,
+                "product_price": 31.63
+            },
+            {
+                "product_description": "Rerum nostrum quis nulla adipisci quae mollitia suscipit, recusandae ut quae illum commodi ullam repudiandae voluptate, omnis eos libero sapiente adipisci, aut blanditiis eos sit?",
+                "product_quantity": 36,
+                "product_price": 99.24
+            }
+        ]
+    }
+}

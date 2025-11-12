@@ -1,0 +1,14 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-wqyEr3UR",
+        "supplier_contact": "supplierwqyEr3UR@example.com",
+        "products": [
+            {
+                "product_name": "Product-blanditiis-maxime",
+                "product_description": "Quam eum sit officia debitis id, consequatur nobis ullam rerum ea veritatis, iste vero dignissimos quod repudiandae libero laborum nam beatae praesentium iusto dolores.",
+                "product_quantity": 74,
+                "product_price": 54.36
+            }
+        ]
+    }
+}

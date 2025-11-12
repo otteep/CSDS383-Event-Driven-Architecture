@@ -1,0 +1,14 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-l5hquhQG",
+        "supplier_contact": "supplierl5hquhQG@example.com",
+        "products": [
+            {
+                "product_name": "Product-sit-architecto",
+                "product_description": "Obcaecati velit explicabo aperiam repudiandae delectus sequi voluptatibus aliquid atque libero suscipit, quia laudantium facere sapiente vitae dignissimos voluptatem excepturi, repellat dicta quis doloribus exercitationem voluptate suscipit sequi magnam sed, sed distinctio explicabo odit vitae maxime officia ex sequi id, consequuntur enim officiis quaerat non soluta facilis atque totam quidem.",
+                "product_quantity": 75,
+                "product_price": 49.14
+            }
+        ]
+    }
+}

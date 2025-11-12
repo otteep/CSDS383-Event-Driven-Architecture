@@ -1,0 +1,14 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-LeQYOnio",
+        "supplier_contact": "supplierLeQYOnio@example.com",
+        "products": [
+            {
+                "product_name": "Product-eveniet-rem",
+                "product_description": "Alias tenetur aperiam dignissimos ex non earum, rerum nemo modi consectetur harum quaerat, magnam numquam natus incidunt quam et?",
+                "product_quantity": 12,
+                "product_price": 71.08
+            }
+        ]
+    }
+}

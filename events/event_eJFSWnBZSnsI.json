@@ -1,0 +1,26 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-UNLAfs3R",
+        "supplier_contact": "supplierUNLAfs3R@example.com",
+        "products": [
+            {
+                "product_name": "Product-perferendis-numquam",
+                "product_description": "Tempore rem voluptatibus assumenda aspernatur tenetur laudantium eum soluta, corrupti voluptatibus laboriosam labore harum mollitia, architecto voluptate nihil omnis natus molestias adipisci sunt tenetur voluptatibus aliquam ad.",
+                "product_quantity": 70,
+                "product_price": 100.0
+            },
+            {
+                "product_name": "Product-ex-adipisci",
+                "product_description": "Dignissimos repellat reiciendis dolorem aut cumque quod sequi quia ducimus obcaecati illum, fugiat architecto perspiciatis dolor optio est quas accusamus, fugit quaerat eaque at expedita dignissimos assumenda.",
+                "product_quantity": 71,
+                "product_price": 12.91
+            },
+            {
+                "product_name": "Product-dolorum-sint",
+                "product_description": "Nulla dignissimos voluptates amet impedit cumque illum alias ducimus sapiente perspiciatis, quo rem eum odio, omnis pariatur non eos inventore illum dolores sint nesciunt, provident rem reprehenderit.",
+                "product_quantity": 45,
+                "product_price": 1.51
+            }
+        ]
+    }
+}

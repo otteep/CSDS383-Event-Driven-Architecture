@@ -1,0 +1,38 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-aSUoehFh",
+        "supplier_contact": "supplieraSUoehFh@example.com",
+        "products": [
+            {
+                "product_name": "Product-voluptate-nemo",
+                "product_description": "Eligendi voluptates aliquam delectus nobis ab nisi doloremque esse animi rerum, maiores perferendis vero amet esse unde, expedita aut ratione autem natus optio blanditiis minus iure magni?",
+                "product_quantity": 20,
+                "product_price": 53.83
+            },
+            {
+                "product_name": "Product-commodi-quia",
+                "product_description": "Commodi facere nemo corporis nihil ab exercitationem, fugiat porro quae voluptate rerum magnam labore, excepturi veritatis aut architecto dolore sed eius, beatae reprehenderit suscipit provident voluptatum dolorum deserunt necessitatibus dolorem error numquam vitae?",
+                "product_quantity": 58,
+                "product_price": 84.58
+            },
+            {
+                "product_name": "Product-pariatur-itaque",
+                "product_description": "Ducimus est voluptas ipsa expedita culpa totam nam dolorem soluta sapiente, at deserunt est temporibus hic et, animi illum atque necessitatibus facere doloribus incidunt voluptatem quibusdam, architecto doloribus illum facere omnis quis pariatur odit eum?",
+                "product_quantity": 74,
+                "product_price": 75.8
+            },
+            {
+                "product_name": "Product-nesciunt-quas",
+                "product_description": "Eaque soluta sint harum commodi quidem sit eos libero provident iste, fugit at molestiae error cumque ab nulla aliquam nostrum iusto minima minus, magnam neque perspiciatis praesentium illum asperiores suscipit numquam, minima fugiat doloribus deserunt numquam nostrum, repellendus rerum quidem consectetur officia debitis placeat quibusdam vel commodi?",
+                "product_quantity": 77,
+                "product_price": 80.16
+            },
+            {
+                "product_name": "Product-dignissimos-maxime",
+                "product_description": "At hic quo aliquid, molestiae voluptas saepe adipisci reiciendis minus odio ducimus, nihil odit qui?",
+                "product_quantity": 40,
+                "product_price": 65.65
+            }
+        ]
+    }
+}

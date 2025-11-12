@@ -1,0 +1,14 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-ja72d9zm",
+        "supplier_contact": "supplierja72d9zm@example.com",
+        "products": [
+            {
+                "product_name": "Product-adipisci-omnis",
+                "product_description": "Et illo laborum minus, quis dignissimos dicta temporibus minus nihil doloribus excepturi ipsam facere qui, ipsam quod distinctio fugit nesciunt, sed eos fugit omnis, aspernatur odio quos.",
+                "product_quantity": 86,
+                "product_price": 76.48
+            }
+        ]
+    }
+}

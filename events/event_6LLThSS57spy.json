@@ -1,0 +1,20 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-QAxaIeRZ",
+        "supplier_contact": "supplierQAxaIeRZ@example.com",
+        "products": [
+            {
+                "product_name": "Product-beatae-odit",
+                "product_description": "Dignissimos optio illo error similique quos quia inventore sed fugit placeat, aperiam sint magni non impedit corporis porro neque, sed tenetur illum esse vitae assumenda eligendi accusantium?",
+                "product_quantity": 62,
+                "product_price": 74.71
+            },
+            {
+                "product_name": "Product-aut-eaque",
+                "product_description": "Placeat eaque veniam nulla, similique id quidem doloribus blanditiis ut et iste assumenda, incidunt dolores reiciendis, nam deserunt neque, soluta maxime ea.",
+                "product_quantity": 51,
+                "product_price": 27.35
+            }
+        ]
+    }
+}

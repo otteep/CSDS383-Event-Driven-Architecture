@@ -1,0 +1,32 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-bvLZ268r",
+        "supplier_contact": "supplierbvLZ268r@example.com",
+        "products": [
+            {
+                "product_name": "Product-magni-reprehenderit",
+                "product_description": "Quis omnis quasi cum quaerat numquam at facilis dignissimos, nemo voluptatem officia pariatur eum, optio necessitatibus rem quam facilis doloremque, modi voluptatem placeat quidem?",
+                "product_quantity": 49,
+                "product_price": 63.21
+            },
+            {
+                "product_name": "Product-repellendus-laborum",
+                "product_description": "Rerum nobis nihil facere incidunt ut laboriosam, velit incidunt ducimus laboriosam commodi?",
+                "product_quantity": 50,
+                "product_price": 52.31
+            },
+            {
+                "product_name": "Product-tenetur-consequatur",
+                "product_description": "Libero quasi vitae temporibus qui eligendi illum distinctio sunt sapiente, perferendis error mollitia, id ipsum hic repellendus sint reiciendis error reprehenderit accusantium sequi eius, nobis cum ullam voluptate sed distinctio fugiat ut, ipsa et blanditiis dolores minima provident?",
+                "product_quantity": 100,
+                "product_price": 79.9
+            },
+            {
+                "product_name": "Product-numquam-optio",
+                "product_description": "Non quod eum quaerat nemo, veritatis aut cumque provident, quisquam in fugiat excepturi assumenda saepe est nostrum exercitationem eveniet numquam quod, sunt non accusamus omnis repudiandae voluptatum laudantium, aspernatur molestiae omnis aperiam laborum?",
+                "product_quantity": 75,
+                "product_price": 13.53
+            }
+        ]
+    }
+}

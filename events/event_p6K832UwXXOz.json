@@ -1,0 +1,14 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-gPRRGifw",
+        "supplier_contact": "suppliergPRRGifw@example.com",
+        "products": [
+            {
+                "product_name": "Product-obcaecati-temporibus",
+                "product_description": "Voluptate nostrum ut natus quod officiis culpa officia, magni voluptatum deleniti debitis animi delectus non facere, perspiciatis distinctio ea error repudiandae cupiditate cumque enim aspernatur laboriosam facere, atque deserunt aliquam impedit eos rerum natus, cum molestias impedit accusantium.",
+                "product_quantity": 66,
+                "product_price": 17.5
+            }
+        ]
+    }
+}

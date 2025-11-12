@@ -1,0 +1,26 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-uP63iavr",
+        "supplier_contact": "supplieruP63iavr@example.com",
+        "products": [
+            {
+                "product_name": "Product-facilis-eius",
+                "product_description": "Soluta sapiente eius optio repudiandae perspiciatis, expedita fugit ducimus pariatur omnis veritatis molestiae, a soluta distinctio mollitia, nisi placeat similique laudantium eius minus laborum ipsum quod voluptates odio.",
+                "product_quantity": 26,
+                "product_price": 34.15
+            },
+            {
+                "product_name": "Product-veniam-accusamus",
+                "product_description": "Doloribus sint ratione voluptatibus rerum accusantium veritatis perspiciatis provident porro a, perspiciatis sapiente fugit esse.",
+                "product_quantity": 4,
+                "product_price": 93.48
+            },
+            {
+                "product_name": "Product-mollitia-debitis",
+                "product_description": "Incidunt quasi et expedita iure, ullam modi numquam aspernatur provident architecto nisi perspiciatis nostrum corrupti cum, minus laborum enim laboriosam odio accusantium at perspiciatis dignissimos.",
+                "product_quantity": 23,
+                "product_price": 11.95
+            }
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-lea5QiNr",
+        "supplier_contact": "supplierlea5QiNr@example.com",
+        "products": [
+            {
+                "product_name": "Product-repellat-numquam",
+                "product_description": "Consectetur earum necessitatibus eveniet, fugiat iusto amet aut autem repellendus quaerat quasi voluptatem minima doloribus possimus, cumque unde numquam exercitationem accusamus itaque minima culpa quos ratione mollitia.",
+                "product_quantity": 42,
+                "product_price": 22.44
+            }
+        ]
+    }
+}

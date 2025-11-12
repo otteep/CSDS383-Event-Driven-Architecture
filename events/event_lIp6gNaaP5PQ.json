@@ -1,0 +1,31 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-RWM0dK1W",
+        "supplier_contact": "supplierRWM0dK1W@example.com",
+        "products": [
+            {
+                "product_name": "Product-laboriosam-possimus",
+                "product_description": "Cum at eum ex nobis labore necessitatibus iusto officia non nulla, illo iure incidunt eum quo vel deserunt perspiciatis optio tempora quos blanditiis?",
+                "product_quantity": 66,
+                "product_price": 48.67
+            },
+            {
+                "product_name": "Product-accusantium-veniam",
+                "product_description": "Veritatis libero velit ex dolores similique non nulla magnam blanditiis dolore, quibusdam temporibus quam provident facilis veniam aperiam saepe minima, a ratione libero dolores culpa temporibus pariatur ea, cumque beatae a tempora id numquam assumenda officia dignissimos.",
+                "product_quantity": 58,
+                "product_price": 11.59
+            },
+            {
+                "product_name": "Product-omnis-earum",
+                "product_description": "Atque laboriosam debitis ab earum excepturi tempora quas quos omnis, explicabo quibusdam vitae dolor quas reiciendis delectus, voluptatem maxime ipsam veritatis ullam fugit est itaque deleniti at?",
+                "product_price": 3.44
+            },
+            {
+                "product_name": "Product-esse-reprehenderit",
+                "product_description": "Quo officia hic eum ab ducimus fugiat odio autem, quos at perspiciatis ut fuga consequuntur laborum porro ad, numquam excepturi eaque libero totam deserunt a consequuntur, deserunt magnam ex reprehenderit a cupiditate voluptas, consectetur mollitia facilis nobis?",
+                "product_quantity": 29,
+                "product_price": 53.27
+            }
+        ]
+    }
+}

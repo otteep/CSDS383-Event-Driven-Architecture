@@ -1,0 +1,38 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-PIzppKUB",
+        "supplier_contact": "supplierPIzppKUB@example.com",
+        "products": [
+            {
+                "product_name": "Product-nemo-mollitia",
+                "product_description": "Dolore mollitia quas nemo voluptate sunt reiciendis beatae facere ullam ad iure, dolor reiciendis ab est suscipit inventore alias, deleniti vero natus temporibus corporis odio cum fugit, dicta beatae odit autem architecto culpa.",
+                "product_quantity": 25,
+                "product_price": 22.49
+            },
+            {
+                "product_name": "Product-neque-voluptatem",
+                "product_description": "Porro possimus ab maiores earum architecto ipsam laudantium, iusto cumque nesciunt assumenda iure quibusdam quo molestiae temporibus, eum et facere accusamus, veritatis suscipit dolorum porro itaque, perferendis eius dolor illo dolores dolorem?",
+                "product_quantity": 26,
+                "product_price": 14.14
+            },
+            {
+                "product_name": "Product-nam-perferendis",
+                "product_description": "Minima deserunt consequuntur, laudantium explicabo nam accusamus voluptatibus consequatur atque, culpa ab magnam esse impedit soluta veritatis suscipit?",
+                "product_quantity": 100,
+                "product_price": 28.67
+            },
+            {
+                "product_name": "Product-culpa-facere",
+                "product_description": "Iure dicta aspernatur, provident quisquam eligendi voluptate consequuntur, quisquam dolor dolorum molestias aperiam, veniam voluptates placeat mollitia.",
+                "product_quantity": 50,
+                "product_price": 32.98
+            },
+            {
+                "product_name": "Product-repellat-optio",
+                "product_description": "Autem ut facere est unde, nostrum expedita suscipit similique non pariatur vitae corporis harum nesciunt, ipsa tempore soluta quaerat commodi nostrum dolor fuga eligendi quasi neque, rem earum alias mollitia unde ut minus et, expedita autem doloribus ex aliquid cupiditate nobis accusantium eligendi eaque?",
+                "product_quantity": 91,
+                "product_price": 65.64
+            }
+        ]
+    }
+}

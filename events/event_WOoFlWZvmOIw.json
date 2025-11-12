@@ -1,0 +1,20 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-w4HrMhTo",
+        "supplier_contact": "supplierw4HrMhTo@example.com",
+        "products": [
+            {
+                "product_name": "Product-modi-nisi",
+                "product_description": "Dolorem earum maiores voluptates magnam sunt expedita reiciendis recusandae assumenda, explicabo veritatis laboriosam officia perspiciatis magni aliquam veniam, velit ut voluptate rerum iusto perspiciatis debitis, minus itaque id aspernatur corporis sequi odio magni alias modi aliquid?",
+                "product_quantity": 65,
+                "product_price": 7.01
+            },
+            {
+                "product_name": "Product-illo-dolorum",
+                "product_description": "Totam delectus cum officiis sapiente neque, provident fugit nisi?",
+                "product_quantity": 3,
+                "product_price": 88.64
+            }
+        ]
+    }
+}

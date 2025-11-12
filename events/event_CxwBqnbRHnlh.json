@@ -1,0 +1,26 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-sG7Rdh7x",
+        "supplier_contact": "suppliersG7Rdh7x@example.com",
+        "products": [
+            {
+                "product_name": "Product-debitis-porro",
+                "product_description": "In dicta enim quidem commodi molestias corporis non tenetur numquam magnam expedita, quia odit nemo ipsum sapiente aliquam error nulla soluta.",
+                "product_quantity": 68,
+                "product_price": 24.72
+            },
+            {
+                "product_name": "Product-modi-sint",
+                "product_description": "Placeat beatae repellendus earum optio asperiores blanditiis, atque libero consequuntur culpa, perspiciatis accusantium quaerat, perferendis ullam consectetur aut neque?",
+                "product_quantity": 91,
+                "product_price": 41.94
+            },
+            {
+                "product_name": "Product-quam-accusamus",
+                "product_description": "Eligendi labore nesciunt repellendus qui ea veritatis molestias dolore ratione voluptatum, ea pariatur esse consequuntur velit reiciendis vel dolorem, in beatae eos quod officiis quos corporis reiciendis necessitatibus explicabo architecto, recusandae consectetur magni inventore libero distinctio laudantium, nemo delectus omnis ducimus quos provident sunt placeat nulla error doloremque facere?",
+                "product_quantity": 39,
+                "product_price": 20.88
+            }
+        ]
+    }
+}

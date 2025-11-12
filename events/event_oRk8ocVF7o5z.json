@@ -1,0 +1,20 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-vcgV1drH",
+        "supplier_contact": "suppliervcgV1drH@example.com",
+        "products": [
+            {
+                "product_name": "Product-cum-obcaecati",
+                "product_description": "Ex atque numquam cum temporibus saepe expedita veniam eos non necessitatibus molestias, quibusdam ex maiores nobis, ipsa culpa necessitatibus?",
+                "product_quantity": 73,
+                "product_price": 52.84
+            },
+            {
+                "product_name": "Product-voluptates-in",
+                "product_description": "Ex harum nostrum soluta voluptatem illo tempora nulla officiis, tempora deserunt reiciendis voluptates eveniet voluptatibus, vitae inventore maxime enim quas laborum, ratione fuga doloremque facere tempore.",
+                "product_quantity": 47,
+                "product_price": 62.98
+            }
+        ]
+    }
+}

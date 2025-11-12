@@ -1,0 +1,26 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-Xm21PxQE",
+        "supplier_contact": "supplierXm21PxQE@example.com",
+        "products": [
+            {
+                "product_name": "Product-cum-laborum",
+                "product_description": "Quisquam hic iusto neque ipsa sint fugit, in rerum quidem eligendi fugit rem, accusantium quo necessitatibus in explicabo odit architecto tempore quos, perferendis aspernatur autem debitis quaerat dolores rerum officiis perspiciatis asperiores sapiente, incidunt dignissimos dolor.",
+                "product_quantity": 90,
+                "product_price": 40.05
+            },
+            {
+                "product_name": "Product-tempora-natus",
+                "product_description": "Iure quia in fugiat libero, iste iusto doloribus recusandae quidem vel, reprehenderit odio quod accusamus numquam, inventore temporibus ea beatae dolorum.",
+                "product_quantity": 79,
+                "product_price": 2.28
+            },
+            {
+                "product_name": "Product-exercitationem-nam",
+                "product_description": "Maiores perspiciatis eligendi esse saepe dolor quo, voluptatum reprehenderit earum dicta dolore fuga cumque minus vel animi?",
+                "product_quantity": 92,
+                "product_price": 15.92
+            }
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-Yx8vx4zz",
+        "supplier_contact": "supplierYx8vx4zz@example.com",
+        "products": [
+            {
+                "product_name": "Product-enim-earum",
+                "product_description": "Dolore deleniti quibusdam sapiente nesciunt officia quidem aut ea, ad et natus ut expedita est maiores, aliquam molestias iure consequatur blanditiis odit corporis?",
+                "product_quantity": 24,
+                "product_price": 47.19
+            }
+        ]
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-nK1aXA7n",
+        "supplier_contact": "suppliernK1aXA7n@example.com",
+        "products": [
+            {
+                "product_name": "Product-ratione-repellat",
+                "product_description": "Fuga numquam earum ea minima, sed magnam ad nihil quidem eveniet sequi, sit labore odio ipsam quas cumque doloremque a dicta dolore suscipit?",
+                "product_quantity": 82,
+                "product_price": 5.02
+            },
+            {
+                "product_name": "Product-nam-possimus",
+                "product_description": "Molestias a ullam facere officiis earum saepe ab recusandae perspiciatis repudiandae ad, odio ducimus nulla harum deserunt consectetur perspiciatis dolorem enim quo nihil, obcaecati soluta magnam est ex labore sit dignissimos nisi autem deserunt.",
+                "product_quantity": 64,
+                "product_price": 68.13
+            },
+            {
+                "product_name": "Product-nostrum-inventore",
+                "product_description": "Veniam suscipit incidunt laudantium repellat sit minima porro sint tenetur et beatae, officiis exercitationem dolores accusantium maiores?",
+                "product_quantity": 73,
+                "product_price": 66.98
+            }
+        ]
+    }
+}

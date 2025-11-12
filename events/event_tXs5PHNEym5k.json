@@ -1,0 +1,32 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-PfnpmzD1",
+        "supplier_contact": "supplierPfnpmzD1@example.com",
+        "products": [
+            {
+                "product_name": "Product-reiciendis-expedita",
+                "product_description": "Cumque repellendus quibusdam ipsam nihil optio deleniti molestiae temporibus, sit adipisci totam modi cumque iure est recusandae tenetur, quaerat possimus non temporibus blanditiis iure labore recusandae sequi repellendus.",
+                "product_quantity": 35,
+                "product_price": 24.16
+            },
+            {
+                "product_name": "Product-fugiat-explicabo",
+                "product_description": "Enim non similique dolorum minus consectetur optio, voluptas voluptatum eius sit repudiandae tenetur vero, tempora inventore quasi accusamus deserunt ea quisquam magni totam animi itaque eos?",
+                "product_quantity": 8,
+                "product_price": 53.37
+            },
+            {
+                "product_name": "Product-accusantium-libero",
+                "product_description": "Debitis dolorem ex suscipit recusandae fuga natus fugiat quibusdam similique, quod sapiente sequi dolor fugit ducimus obcaecati laboriosam similique amet culpa at?",
+                "product_quantity": 96,
+                "product_price": 72.74
+            },
+            {
+                "product_name": "Product-blanditiis-praesentium",
+                "product_description": "Fugiat quibusdam beatae officiis dicta, amet quas aut veritatis ullam a, culpa quas tempore maxime blanditiis.",
+                "product_quantity": 76,
+                "product_price": 21.79
+            }
+        ]
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-TblftR18",
+        "supplier_contact": "supplierTblftR18@example.com",
+        "products": [
+            {
+                "product_name": "Product-vero-delectus",
+                "product_description": "Vero nihil dolores placeat alias nemo ducimus, consectetur quas officia, voluptates deleniti aperiam sapiente.",
+                "product_quantity": 91,
+                "product_price": 16.56
+            },
+            {
+                "product_name": "Product-sit-quaerat",
+                "product_description": "Veritatis fugiat officiis modi dolores, ratione illo cupiditate doloribus consectetur iusto harum reprehenderit quasi soluta amet, nobis iure reiciendis a atque accusamus.",
+                "product_quantity": 35,
+                "product_price": 79.87
+            }
+        ]
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-0deLIZs8",
+        "supplier_contact": "supplier0deLIZs8@example.com",
+        "products": [
+            {
+                "product_name": "Product-ad-dignissimos",
+                "product_description": "Impedit officiis molestias minus perspiciatis suscipit sed in deserunt rem facilis, quia mollitia qui optio, consectetur odio eligendi iure?",
+                "product_quantity": 49,
+                "product_price": 82.12
+            },
+            {
+                "product_name": "Product-ratione-explicabo",
+                "product_description": "Id placeat totam explicabo molestiae, officia aperiam enim adipisci a nisi dolorum, minus repudiandae aut, ratione recusandae animi omnis odit quos, fugiat animi tenetur illo officiis veritatis impedit autem aperiam minima?",
+                "product_quantity": 33,
+                "product_price": 92.61
+            }
+        ]
+    }
+}

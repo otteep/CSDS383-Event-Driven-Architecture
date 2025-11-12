@@ -1,0 +1,14 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-odKv26KR",
+        "supplier_contact": "supplierodKv26KR@example.com",
+        "products": [
+            {
+                "product_name": "Product-harum-accusantium",
+                "product_description": "Consequuntur dicta eveniet animi voluptates perferendis similique, delectus magni recusandae corporis fugiat aspernatur eius blanditiis possimus, officiis consectetur cumque incidunt?",
+                "product_quantity": 65,
+                "product_price": 64.51
+            }
+        ]
+    }
+}

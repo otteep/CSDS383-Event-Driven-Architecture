@@ -1,0 +1,32 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-EG4KO9EB",
+        "supplier_contact": "supplierEG4KO9EB@example.com",
+        "products": [
+            {
+                "product_name": "Product-aperiam-enim",
+                "product_description": "Qui id omnis eius non laboriosam doloremque unde nobis, illum quos cum illo magnam quam, dicta ab aut eum et nihil maxime vel quod accusantium voluptas facilis?",
+                "product_quantity": 81,
+                "product_price": 17.55
+            },
+            {
+                "product_name": "Product-aut-nobis",
+                "product_description": "Assumenda quo quos asperiores cum fugit ut tenetur, tempore architecto veniam sit placeat non fugiat voluptates itaque assumenda totam ut, rem corporis incidunt eaque, ducimus sapiente ratione tempore molestiae iste consequatur pariatur quaerat, eius quae consequuntur tenetur nostrum enim nobis?",
+                "product_quantity": 95,
+                "product_price": 7.24
+            },
+            {
+                "product_name": "Product-error-officiis",
+                "product_description": "Dicta amet quas eligendi tenetur similique saepe blanditiis explicabo, quidem iste cum, facilis excepturi dolore et, ad numquam autem possimus magnam unde?",
+                "product_quantity": 42,
+                "product_price": 86.1
+            },
+            {
+                "product_name": "Product-maxime-unde",
+                "product_description": "Iure repellat perferendis delectus harum at nam numquam, tempore voluptas inventore consequatur sed quia modi iure aliquam, adipisci quibusdam error, cupiditate reiciendis tempora quam est doloribus natus?",
+                "product_quantity": 97,
+                "product_price": 50.15
+            }
+        ]
+    }
+}

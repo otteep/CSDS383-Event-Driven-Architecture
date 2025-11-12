@@ -1,0 +1,26 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-PLfe7ANi",
+        "supplier_contact": "supplierPLfe7ANi@example.com",
+        "products": [
+            {
+                "product_name": "Product-eius-accusamus",
+                "product_description": "Amet rerum perspiciatis dignissimos unde ipsam facilis eveniet ipsa sed, eos rerum maiores numquam soluta corporis sint expedita, vel cumque harum quas similique laboriosam reprehenderit maxime incidunt voluptas praesentium, recusandae architecto nulla nemo cumque modi error dolor ducimus incidunt excepturi, nisi provident itaque necessitatibus sint deserunt voluptates ab dignissimos consectetur ullam voluptatem?",
+                "product_quantity": 78,
+                "product_price": 79.99
+            },
+            {
+                "product_name": "Product-ullam-unde",
+                "product_description": "Alias quisquam at laborum est, ex qui nesciunt illum dicta mollitia provident cumque, voluptas perspiciatis aspernatur illum, dolores ab consequatur minima obcaecati exercitationem quam distinctio consequuntur, commodi non aliquam.",
+                "product_quantity": 59,
+                "product_price": 75.47
+            },
+            {
+                "product_name": "Product-adipisci-eum",
+                "product_description": "Dolores voluptatum quaerat praesentium tenetur nesciunt rerum autem quo eligendi temporibus, quod facere voluptatem velit ex consectetur suscipit eveniet quis, deserunt eius itaque quis suscipit molestias possimus tempore mollitia est nemo?",
+                "product_quantity": 4,
+                "product_price": 38.19
+            }
+        ]
+    }
+}

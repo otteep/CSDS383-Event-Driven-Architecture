@@ -1,0 +1,38 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-rBjHU1cH",
+        "supplier_contact": "supplierrBjHU1cH@example.com",
+        "products": [
+            {
+                "product_name": "Product-odio-porro",
+                "product_description": "Sunt quos reiciendis necessitatibus odio quidem sequi fuga minus consequuntur eum, doloribus expedita voluptate, repellendus dicta odit voluptatibus sequi similique enim excepturi.",
+                "product_quantity": 7,
+                "product_price": 34.14
+            },
+            {
+                "product_name": "Product-nemo-sed",
+                "product_description": "Ea impedit aut commodi nesciunt, consectetur rem ut quasi sint ipsam minima, reprehenderit voluptatum laborum.",
+                "product_quantity": 84,
+                "product_price": 21.34
+            },
+            {
+                "product_name": "Product-quos-laborum",
+                "product_description": "Sunt illum doloribus esse voluptatem debitis natus alias illo commodi reprehenderit, illum officia omnis dolorem voluptatibus dolore qui, harum quod aliquam optio temporibus praesentium fugiat excepturi repellat laborum earum rem, est officiis aperiam facilis et, officiis a veritatis?",
+                "product_quantity": 42,
+                "product_price": 34.63
+            },
+            {
+                "product_name": "Product-harum-animi",
+                "product_description": "Illo quo perferendis reiciendis, ipsa doloremque nihil nulla hic corrupti neque, nisi est in sunt, repellendus odio vero incidunt hic optio?",
+                "product_quantity": 83,
+                "product_price": 4.33
+            },
+            {
+                "product_name": "Product-magnam-aliquam",
+                "product_description": "Vero mollitia temporibus rerum natus harum aliquid corporis, possimus officiis atque at accusamus repellendus quisquam, officia impedit repellat sapiente laboriosam harum nisi hic ipsa facilis, voluptates rerum et error officia commodi debitis, labore officia maiores doloremque numquam explicabo perferendis praesentium a illum libero?",
+                "product_quantity": 73,
+                "product_price": 60.83
+            }
+        ]
+    }
+}

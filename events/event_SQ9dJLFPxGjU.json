@@ -1,0 +1,26 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-vv4Yha8U",
+        "supplier_contact": "suppliervv4Yha8U@example.com",
+        "products": [
+            {
+                "product_name": "Product-architecto-magni",
+                "product_description": "Exercitationem unde iste, corporis nulla voluptates illo ad iusto esse, dolore saepe molestias laudantium tempore omnis voluptatum labore doloremque obcaecati dignissimos, quo quibusdam itaque quas pariatur, omnis sequi minus?",
+                "product_quantity": 11,
+                "product_price": 2.54
+            },
+            {
+                "product_name": "Product-at-repudiandae",
+                "product_description": "Incidunt porro aliquam consequatur repudiandae autem, maxime amet aperiam odit adipisci pariatur nam.",
+                "product_quantity": 100,
+                "product_price": 48.25
+            },
+            {
+                "product_name": "Product-a-accusantium",
+                "product_description": "Dolorum exercitationem corrupti cumque quae quasi quisquam similique, exercitationem praesentium iste nobis beatae omnis quam saepe doloribus?",
+                "product_quantity": 41,
+                "product_price": 24.35
+            }
+        ]
+    }
+}

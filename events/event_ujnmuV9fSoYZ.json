@@ -1,0 +1,32 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-nImPzOKD",
+        "supplier_contact": "suppliernImPzOKD@example.com",
+        "products": [
+            {
+                "product_name": "Product-corporis-labore",
+                "product_description": "Quaerat accusamus aliquid ratione aut neque dolorem inventore modi fugit quidem, porro alias ullam eveniet nobis similique accusantium.",
+                "product_quantity": 85,
+                "product_price": 16.64
+            },
+            {
+                "product_name": "Product-at-maiores",
+                "product_description": "Cupiditate mollitia velit eum voluptas voluptatibus saepe dolore, voluptatibus deleniti sed tempore quas expedita quasi adipisci amet, neque laborum voluptates ipsam alias suscipit eligendi nulla rem vel voluptatum.",
+                "product_quantity": 45,
+                "product_price": 53.72
+            },
+            {
+                "product_name": "Product-rem-dolore",
+                "product_description": "Asperiores dolores quam enim numquam corrupti eligendi odio aspernatur in, nam ducimus beatae rerum, modi a ad corrupti facere quisquam ipsum amet veritatis, alias iste laudantium iure tenetur ipsa.",
+                "product_quantity": 62,
+                "product_price": 72.74
+            },
+            {
+                "product_name": "Product-dicta-excepturi",
+                "product_description": "Qui fugiat repellendus atque accusantium et aliquid eius tempora rerum quaerat, perspiciatis saepe dolores consectetur a soluta nam corporis nihil nemo ipsa eos, praesentium quidem maiores consectetur accusantium, voluptatem veritatis molestias ea libero laboriosam cum perspiciatis dolor inventore quae?",
+                "product_quantity": 44,
+                "product_price": 54.71
+            }
+        ]
+    }
+}

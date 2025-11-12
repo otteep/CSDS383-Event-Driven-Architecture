@@ -1,0 +1,32 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-JjOVqbud",
+        "supplier_contact": "supplierJjOVqbud@example.com",
+        "products": [
+            {
+                "product_name": "Product-molestias-temporibus",
+                "product_description": "Doloremque iste quasi aut illo, sunt beatae atque repudiandae eius ex tenetur.",
+                "product_quantity": 73,
+                "product_price": 75.56
+            },
+            {
+                "product_name": "Product-excepturi-ab",
+                "product_description": "Quam nesciunt id labore, illum numquam nobis hic mollitia saepe aperiam, iure laboriosam velit ut odio laborum?",
+                "product_quantity": 33,
+                "product_price": 70.97
+            },
+            {
+                "product_name": "Product-veniam-sequi",
+                "product_description": "Molestias temporibus adipisci autem incidunt sapiente ipsam quasi qui doloribus atque, numquam dolore esse eos incidunt, rerum repellendus dolor explicabo veritatis culpa atque error minima, illum vitae reprehenderit esse quod facere iste placeat laborum, debitis minus asperiores quam doloremque quae aut dolores.",
+                "product_quantity": 100,
+                "product_price": 66.45
+            },
+            {
+                "product_name": "Product-rem-voluptatem",
+                "product_description": "Quis cumque eius esse asperiores ratione suscipit vitae, iusto ratione quos quae error delectus vero possimus blanditiis, ipsa quidem inventore maiores temporibus provident dolores, eligendi nihil sit, vitae dolore dolor quas ullam fuga.",
+                "product_quantity": 90,
+                "product_price": 28.33
+            }
+        ]
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-c9AZW5Ft",
+        "supplier_contact": "supplierc9AZW5Ft@example.com",
+        "products": [
+            {
+                "product_name": "Product-facere-nulla",
+                "product_description": "Numquam est molestias quasi ratione totam culpa nulla, corporis officia harum nihil laudantium?",
+                "product_quantity": 84,
+                "product_price": 29.51
+            },
+            {
+                "product_name": "Product-laboriosam-fugit",
+                "product_description": "Fuga architecto fugit doloremque harum nemo maxime qui laudantium, tempora dolorum labore earum vel voluptas voluptate quae nulla sint?",
+                "product_quantity": 94,
+                "product_price": 60.31
+            },
+            {
+                "product_name": "Product-doloribus-in",
+                "product_description": "Sit consequatur quis eos atque exercitationem vero recusandae, praesentium repudiandae ratione quae adipisci quis molestiae suscipit, esse repellendus explicabo magnam et temporibus itaque, explicabo velit nemo voluptatibus vitae perspiciatis?",
+                "product_quantity": 67,
+                "product_price": 63.05
+            },
+            {
+                "product_description": "Quas est nisi harum, animi maxime nemo provident facilis dignissimos quisquam nisi ab sint quam, consequatur doloremque quidem accusamus et optio at?",
+                "product_quantity": 18,
+                "product_price": 94.85
+            },
+            {
+                "product_name": "Product-libero-blanditiis",
+                "product_quantity": 96,
+                "product_price": 37.37
+            }
+        ]
+    }
+}

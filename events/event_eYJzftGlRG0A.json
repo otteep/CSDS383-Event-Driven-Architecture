@@ -1,0 +1,26 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-M1SWYfET",
+        "supplier_contact": "supplierM1SWYfET@example.com",
+        "products": [
+            {
+                "product_name": "Product-obcaecati-nobis",
+                "product_description": "Illum laborum maxime placeat qui dolorum architecto numquam nulla, explicabo aut cumque hic?",
+                "product_quantity": 93,
+                "product_price": 37.24
+            },
+            {
+                "product_name": "Product-vel-et",
+                "product_description": "Consectetur ut harum dolorem deleniti recusandae voluptatem exercitationem, laboriosam quod error alias sunt nesciunt ipsum harum voluptatem rem aut fugit, fuga totam pariatur repudiandae ipsa fugit perspiciatis recusandae consequatur tempore, earum asperiores quasi quos reiciendis accusamus voluptate cupiditate neque commodi.",
+                "product_quantity": 85,
+                "product_price": 84.65
+            },
+            {
+                "product_name": "Product-obcaecati-facere",
+                "product_description": "Sit aut delectus ab veniam ex earum aliquam quidem sunt commodi, voluptatibus quae fuga libero excepturi dignissimos aspernatur consectetur ullam laboriosam, iste reprehenderit adipisci officia dignissimos nostrum harum omnis fuga dicta obcaecati.",
+                "product_quantity": 33,
+                "product_price": 93.21
+            }
+        ]
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-dFe5fsk2",
+        "supplier_contact": "supplierdFe5fsk2@example.com",
+        "products": [
+            {
+                "product_name": "Product-praesentium-vero",
+                "product_description": "Accusantium impedit inventore error ut omnis, quod nulla harum vitae nostrum rem nihil similique, laboriosam cupiditate expedita saepe, voluptatem expedita adipisci blanditiis quod dolores voluptatibus nesciunt minima?",
+                "product_quantity": 59,
+                "product_price": 88.8
+            },
+            {
+                "product_name": "Product-distinctio-vitae",
+                "product_description": "Perferendis eos architecto, nulla commodi rem ducimus molestias, molestiae ab ad dolorum quibusdam tenetur commodi magnam rerum alias, optio animi ratione totam soluta.",
+                "product_price": 10.28
+            },
+            {
+                "product_name": "Product-fugiat-dolor",
+                "product_description": "Ipsa voluptatem sapiente praesentium temporibus odit ipsum cum, cum dolore cupiditate repellat quos quo ea aperiam incidunt hic explicabo, suscipit itaque maxime veniam quis consectetur animi, eum nesciunt reiciendis voluptatibus doloremque illo dolore?",
+                "product_quantity": 100,
+                "product_price": 46.08
+            }
+        ]
+    }
+}

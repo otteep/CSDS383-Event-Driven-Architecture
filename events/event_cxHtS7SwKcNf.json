@@ -1,0 +1,14 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-RUWOEctL",
+        "supplier_contact": "supplierRUWOEctL@example.com",
+        "products": [
+            {
+                "product_name": "Product-maiores-veniam",
+                "product_description": "Laborum architecto commodi nisi accusamus consequatur officiis sequi dolorum earum, asperiores commodi nihil necessitatibus earum modi, molestiae dicta ipsa amet.",
+                "product_quantity": 55,
+                "product_price": 85.47
+            }
+        ]
+    }
+}

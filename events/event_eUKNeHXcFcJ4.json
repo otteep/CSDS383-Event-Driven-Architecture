@@ -1,0 +1,32 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-Y3L6wTcw",
+        "supplier_contact": "supplierY3L6wTcw@example.com",
+        "products": [
+            {
+                "product_name": "Product-cumque-placeat",
+                "product_description": "Quaerat deserunt officia accusamus sunt, soluta cum provident quaerat sed ratione repudiandae maxime, dolores corporis ab molestias sunt dolor odio aliquid illo.",
+                "product_quantity": 53,
+                "product_price": 58.88
+            },
+            {
+                "product_name": "Product-velit-quibusdam",
+                "product_description": "Corporis alias iusto quas, velit quo esse ad numquam nihil, aliquid ipsam impedit facilis totam nesciunt amet architecto, mollitia sit amet culpa modi expedita?",
+                "product_quantity": 44,
+                "product_price": 52.6
+            },
+            {
+                "product_name": "Product-minima-porro",
+                "product_description": "Impedit odio doloremque tempore iusto quod labore quas architecto, amet dicta voluptatum veniam delectus consequuntur magni perferendis, minus doloremque nam id neque dolore temporibus perferendis perspiciatis vel.",
+                "product_quantity": 77,
+                "product_price": 21.76
+            },
+            {
+                "product_name": "Product-quia-iure",
+                "product_description": "Facere accusamus quidem asperiores aspernatur id commodi nulla sint beatae, eum veritatis ratione dolorem at itaque laudantium consectetur aut reprehenderit ullam, voluptatibus labore nemo dolores.",
+                "product_quantity": 2,
+                "product_price": 62.63
+            }
+        ]
+    }
+}

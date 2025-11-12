@@ -1,0 +1,26 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-4ekv5jAZ",
+        "supplier_contact": "supplier4ekv5jAZ@example.com",
+        "products": [
+            {
+                "product_name": "Product-modi-consectetur",
+                "product_description": "Hic quae culpa doloribus maxime vitae atque modi voluptatibus praesentium porro nostrum, maiores harum eaque at autem consequatur quae fugiat ea, fugit pariatur quaerat nisi quasi.",
+                "product_quantity": 81,
+                "product_price": 39.23
+            },
+            {
+                "product_name": "Product-reiciendis-mollitia",
+                "product_description": "Sapiente harum dolorum minima quam accusantium placeat consequuntur commodi numquam sunt, laborum voluptatibus itaque ex doloribus quis, obcaecati maiores voluptatum, numquam maxime error quae eaque velit ratione.",
+                "product_quantity": 65,
+                "product_price": 81.36
+            },
+            {
+                "product_name": "Product-quibusdam-iure",
+                "product_description": "Unde soluta dolor, doloremque nisi corrupti cum excepturi nam, ad consequatur doloremque nemo ducimus facere accusamus magnam dolorem corporis tempore quia?",
+                "product_quantity": 96,
+                "product_price": 41.03
+            }
+        ]
+    }
+}

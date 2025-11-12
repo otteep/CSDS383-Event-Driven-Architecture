@@ -1,0 +1,14 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-n352QsjH",
+        "supplier_contact": "suppliern352QsjH@example.com",
+        "products": [
+            {
+                "product_name": "Product-repellat-aspernatur",
+                "product_description": "Molestias dolorem explicabo voluptatem delectus dicta repellendus, repellat consectetur explicabo corrupti a libero, reiciendis architecto consequuntur quae ducimus voluptatibus sequi odio tenetur cumque quibusdam magni, ratione quisquam aliquid reiciendis id doloribus sunt saepe sed quam impedit?",
+                "product_quantity": 24,
+                "product_price": 60.37
+            }
+        ]
+    }
+}

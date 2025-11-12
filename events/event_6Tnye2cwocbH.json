@@ -1,0 +1,14 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-Tbkjtxt5",
+        "supplier_contact": "supplierTbkjtxt5@example.com",
+        "products": [
+            {
+                "product_name": "Product-dolores-voluptas",
+                "product_description": "Consequuntur impedit reiciendis sequi dignissimos maxime voluptatibus laborum ducimus, nam hic sint.",
+                "product_quantity": 82,
+                "product_price": 23.51
+            }
+        ]
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-KYoV0sNk",
+        "supplier_contact": "supplierKYoV0sNk@example.com",
+        "products": [
+            {
+                "product_name": "Product-exercitationem-aliquam",
+                "product_description": "Corrupti quos aspernatur dicta et maiores in exercitationem at, tempora aliquam voluptatibus quos illo voluptate soluta?",
+                "product_quantity": 43,
+                "product_price": 73.71
+            },
+            {
+                "product_name": "Product-impedit-fugit",
+                "product_description": "Sit ab odio itaque, vel unde recusandae commodi id eligendi.",
+                "product_quantity": 20,
+                "product_price": 46.92
+            },
+            {
+                "product_name": "Product-ex-adipisci",
+                "product_description": "Consequuntur ut mollitia vel earum architecto, delectus possimus inventore iusto fugit veniam eum natus mollitia minima unde.",
+                "product_quantity": 94,
+                "product_price": 92.67
+            },
+            {
+                "product_name": "Product-atque-deleniti",
+                "product_description": "Similique enim quo expedita nostrum totam consequuntur asperiores repellat, suscipit ea vero aspernatur fugiat maiores eum corporis repellendus nemo dolor numquam, quibusdam mollitia ipsa nisi beatae, ex fugit ullam maxime, ad rem consequuntur a nihil sint.",
+                "product_quantity": 29,
+                "product_price": 85.17
+            }
+        ]
+    }
+}

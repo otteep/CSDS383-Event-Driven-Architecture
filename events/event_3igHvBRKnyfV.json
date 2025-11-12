@@ -1,0 +1,31 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-hoLXFke1",
+        "supplier_contact": "supplierhoLXFke1@example.com",
+        "products": [
+            {
+                "product_name": "Product-ab-deserunt",
+                "product_description": "Iste aspernatur saepe impedit quas nemo vero quae consequatur, illo vero neque facilis inventore?",
+                "product_quantity": 99
+            },
+            {
+                "product_name": "Product-saepe-nulla",
+                "product_description": "Sint error laudantium in commodi cum veritatis neque, et distinctio sequi illo voluptas nemo blanditiis perspiciatis, esse molestiae nemo asperiores doloribus maiores perferendis recusandae.",
+                "product_quantity": 91,
+                "product_price": 87.41
+            },
+            {
+                "product_name": "Product-aperiam-quae",
+                "product_description": "Officia blanditiis hic quae, voluptas facilis quas impedit tempora quos exercitationem voluptatibus necessitatibus magnam explicabo, doloremque ratione dolorum perspiciatis quas eius?",
+                "product_quantity": 49,
+                "product_price": 70.17
+            },
+            {
+                "product_name": "Product-quod-natus",
+                "product_description": "Exercitationem rerum rem sunt, quo laudantium fugiat pariatur fugit voluptatum cum dolores, vero laudantium ipsum, accusantium temporibus dolores, labore aspernatur totam iusto facere recusandae unde fugit sint.",
+                "product_quantity": 53,
+                "product_price": 7.49
+            }
+        ]
+    }
+}

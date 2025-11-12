@@ -1,0 +1,32 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-ULC2N3Jz",
+        "supplier_contact": "supplierULC2N3Jz@example.com",
+        "products": [
+            {
+                "product_name": "Product-dolorem-culpa",
+                "product_description": "Ut nostrum a culpa aliquid, est quam quos unde ratione hic dignissimos at laboriosam dolores.",
+                "product_quantity": 35,
+                "product_price": 58.32
+            },
+            {
+                "product_name": "Product-aliquid-possimus",
+                "product_description": "Atque dicta labore sapiente, repellat praesentium animi quisquam nulla quod necessitatibus veniam ut nihil aperiam, unde officia neque nulla quo fugiat animi debitis nihil repellat aspernatur maxime, itaque libero doloremque alias exercitationem vero, quae veniam eligendi voluptate?",
+                "product_quantity": 46,
+                "product_price": 89.44
+            },
+            {
+                "product_name": "Product-quis-vitae",
+                "product_description": "Expedita ullam libero similique eaque, odio iste eveniet maxime deserunt vel quasi, eligendi voluptatum sunt ea incidunt quo error nobis exercitationem similique cumque doloremque, architecto nobis commodi dignissimos, nesciunt explicabo praesentium magnam?",
+                "product_quantity": 75,
+                "product_price": 52.65
+            },
+            {
+                "product_name": "Product-excepturi-corporis",
+                "product_description": "Impedit praesentium sed tempora similique ratione modi fugiat quas fugit asperiores consequatur, dolorum quaerat quam at, aspernatur eveniet quod dicta temporibus sunt aperiam?",
+                "product_quantity": 68,
+                "product_price": 44.11
+            }
+        ]
+    }
+}

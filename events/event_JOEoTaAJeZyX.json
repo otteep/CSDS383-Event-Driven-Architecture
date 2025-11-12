@@ -1,0 +1,38 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-FzFahWxT",
+        "supplier_contact": "supplierFzFahWxT@example.com",
+        "products": [
+            {
+                "product_name": "Product-illo-quae",
+                "product_description": "Fugit porro id vel expedita, nemo similique quod, accusamus repudiandae deleniti reprehenderit possimus qui illo natus dolorem amet, corporis minima quia tenetur nisi iusto voluptatibus adipisci optio explicabo in, laboriosam sed numquam laudantium debitis nam ut ducimus id?",
+                "product_quantity": 94,
+                "product_price": 49.36
+            },
+            {
+                "product_name": "Product-hic-vel",
+                "product_description": "Qui deleniti recusandae reiciendis tempore sunt, nobis eos dolore modi quasi libero molestiae?",
+                "product_quantity": 91,
+                "product_price": 15.16
+            },
+            {
+                "product_name": "Product-cupiditate-dolor",
+                "product_description": "Nam quis tenetur doloribus nostrum ab et molestias, voluptate blanditiis ex doloribus quos similique accusamus eos, in soluta quam, optio sunt sint quia voluptas praesentium doloribus deleniti error itaque voluptatibus?",
+                "product_quantity": 9,
+                "product_price": 9.66
+            },
+            {
+                "product_name": "Product-error-reprehenderit",
+                "product_description": "Iure repellendus quam nisi dignissimos fuga itaque voluptates enim, optio eligendi id porro at tempore cupiditate perferendis quae magnam, sint excepturi officia natus ab doloremque iste atque aut assumenda?",
+                "product_quantity": 4,
+                "product_price": 84.74
+            },
+            {
+                "product_name": "Product-veritatis-distinctio",
+                "product_description": "Minus dolor eaque beatae sint iste molestiae ipsa quasi, accusamus consequatur voluptatem nesciunt est voluptate vero, ex atque labore ab nihil.",
+                "product_quantity": 19,
+                "product_price": 93.65
+            }
+        ]
+    }
+}

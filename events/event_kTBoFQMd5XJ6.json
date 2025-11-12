@@ -1,0 +1,38 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-iy3MB14f",
+        "supplier_contact": "supplieriy3MB14f@example.com",
+        "products": [
+            {
+                "product_name": "Product-doloribus-nihil",
+                "product_description": "Consequuntur omnis repellendus officia repellat, accusamus voluptates voluptatum.",
+                "product_quantity": 22,
+                "product_price": 5.26
+            },
+            {
+                "product_name": "Product-similique-quia",
+                "product_description": "Consectetur consequatur fugiat assumenda aperiam nisi quidem facilis sed, soluta quia ut quam ipsum aspernatur eaque eveniet illum perferendis beatae asperiores.",
+                "product_quantity": 35,
+                "product_price": 14.32
+            },
+            {
+                "product_name": "Product-expedita-similique",
+                "product_description": "Repudiandae voluptatum quod reprehenderit nam odit ut, inventore corporis illum porro molestias odit non dolores dolorem nobis ex quos, laboriosam eaque officiis doloribus consequuntur minus incidunt ipsam saepe deleniti, nam asperiores unde corporis voluptas doloremque consequuntur natus.",
+                "product_quantity": 71,
+                "product_price": 45.36
+            },
+            {
+                "product_name": "Product-deserunt-hic",
+                "product_description": "Dicta impedit commodi corrupti provident laudantium pariatur eos eum voluptatum, libero veniam consequatur perspiciatis possimus ullam dolorum officia alias, eveniet aut iste quidem sit ad deserunt iusto neque perferendis repellat, mollitia tenetur aspernatur aliquam odio harum ducimus provident quod accusamus fugit repudiandae, eveniet aut repudiandae deserunt molestias architecto reiciendis exercitationem assumenda fuga minima.",
+                "product_quantity": 49,
+                "product_price": 84.62
+            },
+            {
+                "product_name": "Product-minus-libero",
+                "product_description": "Cumque neque a numquam, fugit atque quasi eum tempora quaerat culpa rem voluptas fugiat delectus consequuntur, laborum vel repellat mollitia velit perferendis est quia, unde quam officiis minima blanditiis sint beatae fugit possimus vel veniam, exercitationem minus accusamus rerum vel aperiam adipisci et nostrum hic sint.",
+                "product_quantity": 20,
+                "product_price": 11.2
+            }
+        ]
+    }
+}

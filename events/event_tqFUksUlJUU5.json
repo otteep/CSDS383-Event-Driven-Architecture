@@ -1,0 +1,38 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-5SVA2A3z",
+        "supplier_contact": "supplier5SVA2A3z@example.com",
+        "products": [
+            {
+                "product_name": "Product-commodi-quia",
+                "product_description": "Sit autem non saepe expedita ratione atque praesentium ex, tenetur modi autem error quae molestias, voluptatum recusandae doloremque, possimus aspernatur asperiores omnis.",
+                "product_quantity": 44,
+                "product_price": 86.6
+            },
+            {
+                "product_name": "Product-alias-assumenda",
+                "product_description": "Nemo quisquam nulla fuga dolorum saepe nostrum eum, facilis suscipit dolores itaque illo quis autem, a culpa explicabo ipsam libero.",
+                "product_quantity": 17,
+                "product_price": 49.12
+            },
+            {
+                "product_name": "Product-ut-odio",
+                "product_description": "Labore magni sint porro nam nesciunt blanditiis velit, hic sit at provident asperiores unde modi quia, neque quae placeat dolore non voluptate ipsa praesentium doloremque sed a exercitationem?",
+                "product_quantity": 85,
+                "product_price": 61.81
+            },
+            {
+                "product_name": "Product-aut-iure",
+                "product_description": "Fugiat obcaecati magnam sunt nobis, magnam cumque ullam similique, obcaecati eius sit maiores possimus fugiat incidunt, repellendus dignissimos omnis beatae harum quibusdam quo eum?",
+                "product_quantity": 56,
+                "product_price": 73.47
+            },
+            {
+                "product_name": "Product-architecto-fuga",
+                "product_description": "Non molestias quia perspiciatis distinctio consequuntur modi dicta libero, modi cum ratione eius illum excepturi dolor deleniti distinctio odio enim, laudantium nam pariatur, ab harum culpa nam accusantium soluta suscipit unde sequi, nemo ab non?",
+                "product_quantity": 58,
+                "product_price": 66.09
+            }
+        ]
+    }
+}

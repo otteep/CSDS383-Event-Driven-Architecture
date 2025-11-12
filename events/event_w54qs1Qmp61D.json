@@ -1,0 +1,14 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-81QmgemQ",
+        "supplier_contact": "supplier81QmgemQ@example.com",
+        "products": [
+            {
+                "product_name": "Product-nostrum-itaque",
+                "product_description": "Repudiandae corrupti voluptates consectetur explicabo impedit necessitatibus in, dolores dicta eum sunt eius harum a provident magni quaerat excepturi, assumenda delectus possimus odit saepe quisquam, alias reprehenderit eveniet assumenda placeat vel iste aut explicabo quis, cupiditate est esse expedita modi nemo?",
+                "product_quantity": 31,
+                "product_price": 32.73
+            }
+        ]
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-WPTg1zH7",
+        "supplier_contact": "supplierWPTg1zH7@example.com",
+        "products": [
+            {
+                "product_name": "Product-perferendis-laboriosam",
+                "product_description": "Excepturi totam sed incidunt nulla iusto quam, ut repellat eligendi sunt, cupiditate voluptatum quis?",
+                "product_quantity": 65,
+                "product_price": 80.6
+            },
+            {
+                "product_name": "Product-quia-sed",
+                "product_description": "Sunt quod dicta consequatur harum beatae, excepturi quasi rem delectus voluptatem esse, eos accusantium molestiae?",
+                "product_quantity": 19,
+                "product_price": 86.66
+            }
+        ]
+    }
+}

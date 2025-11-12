@@ -1,0 +1,14 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-HraJiWDW",
+        "supplier_contact": "supplierHraJiWDW@example.com",
+        "products": [
+            {
+                "product_name": "Product-dolorum-iste",
+                "product_description": "Consequatur ullam repellat pariatur harum accusantium officia quam, enim sequi esse.",
+                "product_quantity": 14,
+                "product_price": 8.49
+            }
+        ]
+    }
+}

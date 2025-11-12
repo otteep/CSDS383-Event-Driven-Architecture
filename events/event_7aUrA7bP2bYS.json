@@ -1,0 +1,31 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-tDDR7ZO6",
+        "supplier_contact": "suppliertDDR7ZO6@example.com",
+        "products": [
+            {
+                "product_name": "Product-repellendus-hic",
+                "product_description": "A vitae culpa, corrupti ipsum ipsa dolorem, vero eveniet officia voluptas omnis eaque officiis fugit eum veritatis a, nobis consectetur itaque magni amet, dignissimos explicabo incidunt.",
+                "product_quantity": 84
+            },
+            {
+                "product_name": "Product-quidem-cum",
+                "product_description": "Animi ad porro doloremque corporis obcaecati veritatis, ipsa aliquam officiis tenetur dolorum labore ad.",
+                "product_quantity": 26,
+                "product_price": 5.56
+            },
+            {
+                "product_name": "Product-minima-aliquam",
+                "product_description": "Ullam officiis magnam incidunt ipsum modi, beatae minus deleniti distinctio totam facilis iste est, aliquam ipsum delectus, commodi accusantium doloremque aut?",
+                "product_quantity": 78,
+                "product_price": 66.05
+            },
+            {
+                "product_name": "Product-quisquam-ipsa",
+                "product_description": "Natus sequi asperiores fugit debitis eveniet error aut, cumque maxime laborum commodi consequatur earum quibusdam non voluptatibus reprehenderit, atque quibusdam eum porro saepe ex tempore, nisi aut laudantium possimus animi exercitationem odit fugiat, laboriosam sint voluptates facilis perferendis blanditiis alias minus nisi nihil repellat placeat?",
+                "product_quantity": 81,
+                "product_price": 9.19
+            }
+        ]
+    }
+}

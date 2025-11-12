@@ -1,0 +1,36 @@
+{
+    "supplier": {
+        "supplier_contact": "supplierqKuRmVoz@example.com",
+        "products": [
+            {
+                "product_name": "Product-nisi-libero",
+                "product_description": "Dolores id doloremque, unde asperiores deserunt explicabo delectus, magnam tenetur libero numquam voluptas vitae.",
+                "product_quantity": 11,
+                "product_price": 90.68
+            },
+            {
+                "product_name": "Product-possimus-excepturi",
+                "product_description": "Corporis aspernatur minus saepe, pariatur in facilis atque velit quod id et dicta alias, accusamus libero quaerat voluptatem, at nihil molestias, necessitatibus at labore voluptatibus obcaecati quaerat consequuntur.",
+                "product_quantity": 56,
+                "product_price": 22.01
+            },
+            {
+                "product_name": "Product-quod-aliquam",
+                "product_description": "Accusantium maxime ab labore dolore, vitae reiciendis rerum nobis voluptate voluptas odit?",
+                "product_quantity": 67,
+                "product_price": 98.22
+            },
+            {
+                "product_name": "Product-aspernatur-nam",
+                "product_quantity": 92,
+                "product_price": 64.27
+            },
+            {
+                "product_name": "Product-ab-sed",
+                "product_description": "Commodi odit in sint quaerat reprehenderit sit pariatur explicabo suscipit libero, nesciunt hic dolore ipsum in ducimus excepturi, provident quod deleniti sapiente natus veniam ut, dignissimos nihil eius praesentium alias iusto veritatis porro.",
+                "product_quantity": 24,
+                "product_price": 98.54
+            }
+        ]
+    }
+}

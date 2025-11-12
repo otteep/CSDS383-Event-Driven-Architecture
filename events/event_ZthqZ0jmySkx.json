@@ -1,0 +1,37 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-MAKhyxEo",
+        "supplier_contact": "supplierMAKhyxEo@example.com",
+        "products": [
+            {
+                "product_name": "Product-autem-vitae",
+                "product_description": "Recusandae dolorem ad suscipit fugiat libero magnam et beatae, numquam commodi culpa et iusto fugiat tenetur cum voluptas, assumenda magnam repudiandae dolor iste quas libero at explicabo consectetur, adipisci quo recusandae sit placeat vitae consequuntur dolorem magnam repellendus doloremque beatae.",
+                "product_price": 39.95
+            },
+            {
+                "product_name": "Product-officiis-dolore",
+                "product_description": "Hic asperiores iste mollitia aut porro soluta esse sequi culpa dolore quisquam, quasi porro alias consequatur rerum sapiente explicabo, praesentium voluptatibus consequatur soluta fuga asperiores, quam accusantium quas itaque saepe quae quaerat dolorum hic aliquam nobis quisquam, sequi voluptatum earum dignissimos voluptatibus quis rem molestiae laudantium facilis explicabo alias.",
+                "product_quantity": 80,
+                "product_price": 37.68
+            },
+            {
+                "product_name": "Product-iste-adipisci",
+                "product_description": "Quia architecto vitae accusamus eligendi labore dicta corrupti ullam in, rem non nam fugit qui molestiae velit ipsum, inventore aut quia sed sit vitae ipsam, aspernatur ipsa dolore accusantium officia consequatur animi iste accusamus quo quis, hic ipsum qui corporis non tempora libero enim?",
+                "product_quantity": 1,
+                "product_price": 51.89
+            },
+            {
+                "product_name": "Product-voluptate-error",
+                "product_description": "Officia quisquam a temporibus dignissimos veniam deserunt incidunt reiciendis omnis eum atque, alias sunt autem odio deleniti voluptatem velit reiciendis nemo minima nihil?",
+                "product_quantity": 7,
+                "product_price": 52.32
+            },
+            {
+                "product_name": "Product-id-blanditiis",
+                "product_description": "Voluptates ea saepe laboriosam reprehenderit nulla sapiente, maxime esse temporibus quod tenetur laudantium, inventore eveniet reprehenderit natus nulla, eos odio aspernatur ipsa quis beatae.",
+                "product_quantity": 80,
+                "product_price": 93.7
+            }
+        ]
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-MI5tqO3Q",
+        "supplier_contact": "supplierMI5tqO3Q@example.com",
+        "products": [
+            {
+                "product_name": "Product-facilis-neque",
+                "product_description": "Iste corrupti tenetur veritatis voluptas, tempora maxime iste blanditiis at debitis dolores beatae perferendis corrupti, ducimus maxime modi sunt sit esse, fugit dolores iusto doloremque ad ratione itaque necessitatibus?",
+                "product_quantity": 21,
+                "product_price": 65.72
+            },
+            {
+                "product_name": "Product-inventore-dicta",
+                "product_quantity": 60,
+                "product_price": 77.22
+            },
+            {
+                "product_name": "Product-consequatur-dolor",
+                "product_description": "Vel minus possimus vitae dolorem quidem voluptatum sint, iusto quisquam repudiandae sit numquam eveniet vero, dolore quas voluptatum.",
+                "product_quantity": 20,
+                "product_price": 75.75
+            }
+        ]
+    }
+}

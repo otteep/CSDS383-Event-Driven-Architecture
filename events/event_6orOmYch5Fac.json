@@ -1,0 +1,26 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-pKs9uZ93",
+        "supplier_contact": "supplierpKs9uZ93@example.com",
+        "products": [
+            {
+                "product_name": "Product-praesentium-nemo",
+                "product_description": "Minus doloremque exercitationem et dicta asperiores voluptas explicabo nihil libero officiis doloribus, voluptas dolorum quisquam modi illo, deleniti quidem illum quos omnis?",
+                "product_quantity": 21,
+                "product_price": 90.84
+            },
+            {
+                "product_name": "Product-voluptas-ipsa",
+                "product_description": "Repellat vero sed rem sunt nobis sit fugit ex, quod dolor labore laudantium molestiae fuga eius consequuntur inventore obcaecati, accusamus facere dicta cumque dignissimos enim quae rerum saepe molestiae eos, possimus quidem commodi labore soluta, maxime unde voluptatibus voluptates illum corporis corrupti delectus quam.",
+                "product_quantity": 55,
+                "product_price": 96.86
+            },
+            {
+                "product_name": "Product-tempore-adipisci",
+                "product_description": "Natus amet at labore odio voluptatibus incidunt eligendi dolorum impedit, architecto non ipsam aperiam, ipsa aut quam facilis maiores possimus molestias dolore ipsum repellat, quae adipisci sit deserunt ducimus quibusdam qui quaerat natus totam?",
+                "product_quantity": 46,
+                "product_price": 35.43
+            }
+        ]
+    }
+}

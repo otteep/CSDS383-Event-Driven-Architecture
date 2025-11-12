@@ -1,0 +1,26 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-p8HMcVq7",
+        "supplier_contact": "supplierp8HMcVq7@example.com",
+        "products": [
+            {
+                "product_name": "Product-eius-fugiat",
+                "product_description": "Corporis cum nulla laboriosam voluptatem magni aliquam pariatur asperiores, esse voluptates sed aspernatur suscipit enim consequuntur possimus voluptatibus reiciendis nesciunt, magnam nobis itaque odio quasi reprehenderit perferendis praesentium dolorum ex, eum impedit molestiae sint temporibus eos distinctio, voluptatem hic quisquam necessitatibus odio obcaecati similique consequatur aut molestias laudantium dicta?",
+                "product_quantity": 35,
+                "product_price": 60.25
+            },
+            {
+                "product_name": "Product-sed-alias",
+                "product_description": "Sequi cumque maiores, harum itaque molestiae expedita ducimus incidunt rem facere eius, nobis maxime assumenda nemo unde?",
+                "product_quantity": 43,
+                "product_price": 66.93
+            },
+            {
+                "product_name": "Product-officia-impedit",
+                "product_description": "Molestiae alias eaque odio laborum libero, mollitia adipisci harum vitae quos blanditiis reprehenderit voluptates, esse facilis optio inventore, cum in incidunt tempore non, iure tempora dicta facilis sit.",
+                "product_quantity": 59,
+                "product_price": 66.36
+            }
+        ]
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-WahbHDZu",
+        "supplier_contact": "supplierWahbHDZu@example.com",
+        "products": [
+            {
+                "product_name": "Product-omnis-tempora",
+                "product_description": "Cum quisquam provident inventore, eaque fugiat commodi consequuntur et reiciendis, omnis culpa neque quae, saepe in fugit, temporibus ad dignissimos blanditiis totam tenetur recusandae minus vero eligendi dolorem.",
+                "product_quantity": 39,
+                "product_price": 75.51
+            },
+            {
+                "product_name": "Product-ratione-enim",
+                "product_description": "Nobis quos earum dolorum eos nam harum repellat dolore beatae, officiis nobis dolorum quae incidunt consectetur corporis vitae minima temporibus.",
+                "product_quantity": 92,
+                "product_price": 20.29
+            },
+            {
+                "product_name": "Product-at-sequi",
+                "product_description": "Itaque repudiandae voluptates corporis nulla id, enim qui ducimus magnam dolor, quos odio quia recusandae numquam animi?",
+                "product_quantity": 6,
+                "product_price": 73.99
+            },
+            {
+                "product_name": "Product-eveniet-maiores",
+                "product_description": "Praesentium adipisci esse, natus culpa adipisci facere ducimus quo quia incidunt ea porro.",
+                "product_price": 81.03
+            },
+            {
+                "product_name": "Product-excepturi-aliquid",
+                "product_description": "Sed quasi mollitia eius quae expedita, natus nam aliquam nihil eum doloribus hic asperiores placeat maiores quos.",
+                "product_quantity": 48,
+                "product_price": 79.3
+            }
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-YPPcucSU",
+        "supplier_contact": "supplierYPPcucSU@example.com",
+        "products": [
+            {
+                "product_name": "Product-inventore-exercitationem",
+                "product_description": "Vel impedit eaque atque quisquam voluptates ipsum, optio autem facere nisi, eum fugit ullam, quidem sint unde fugit error debitis, delectus sit ad magni ipsam laboriosam laborum quibusdam illum?",
+                "product_quantity": 57,
+                "product_price": 6.01
+            }
+        ]
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-9PJDUInq",
+        "supplier_contact": "supplier9PJDUInq@example.com",
+        "products": [
+            {
+                "product_name": "Product-eveniet-dolore",
+                "product_description": "Fugit distinctio molestias qui ratione eius aut, recusandae modi aspernatur eos velit nesciunt culpa ratione consequuntur, eaque error quo exercitationem libero in aliquam beatae quis est, quas neque possimus minus eos inventore cum, architecto at minima rerum?",
+                "product_quantity": 69,
+                "product_price": 21.19
+            },
+            {
+                "product_name": "Product-corporis-esse",
+                "product_description": "Necessitatibus nostrum quam, voluptate commodi accusantium omnis illo placeat praesentium corrupti laboriosam nobis, sed ipsum maxime id facere quos atque repellendus impedit officiis?",
+                "product_quantity": 72,
+                "product_price": 71.94
+            },
+            {
+                "product_name": "Product-voluptatibus-rerum",
+                "product_description": "Blanditiis eveniet illum illo facere error, nostrum esse sit at, tempore alias rem illo inventore ad, fugit eum laudantium quos eaque nemo harum rerum, quaerat vel unde labore delectus?",
+                "product_price": 96.2
+            },
+            {
+                "product_name": "Product-facere-illum",
+                "product_description": "Minima perspiciatis aut omnis tenetur porro laborum labore, maiores in autem pariatur labore soluta beatae sit quas, modi quam amet, fugit at consequatur ea, numquam optio impedit perferendis quae nam mollitia velit facilis ipsum quibusdam architecto?",
+                "product_quantity": 93,
+                "product_price": 10.95
+            },
+            {
+                "product_name": "Product-rem-voluptates",
+                "product_description": "Molestias molestiae ipsa explicabo doloribus sunt, non repellendus et sequi alias enim quam commodi mollitia ipsum recusandae vel, soluta quae deserunt totam libero voluptatibus nihil molestias ducimus id voluptates.",
+                "product_quantity": 37,
+                "product_price": 29.23
+            }
+        ]
+    }
+}

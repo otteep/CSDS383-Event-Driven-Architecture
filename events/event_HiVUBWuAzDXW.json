@@ -1,0 +1,25 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-nFz0wZ3o",
+        "supplier_contact": "suppliernFz0wZ3o@example.com",
+        "products": [
+            {
+                "product_name": "Product-ipsa-veniam",
+                "product_description": "Eos blanditiis minus veritatis, dicta corrupti corporis voluptates autem architecto a quis est accusantium at ducimus, doloribus deserunt quaerat consequuntur voluptates provident aliquid eaque, ab quia sit cumque quo odio perspiciatis consequatur dignissimos animi.",
+                "product_quantity": 95
+            },
+            {
+                "product_name": "Product-accusamus-minus",
+                "product_description": "Veritatis vitae voluptatem consequatur recusandae temporibus fugit, voluptate nobis earum aspernatur accusantium dolorem laboriosam perferendis laudantium odio deserunt, aliquam sapiente debitis.",
+                "product_quantity": 70,
+                "product_price": 43.37
+            },
+            {
+                "product_name": "Product-corporis-voluptatum",
+                "product_description": "Veritatis tempore repellat ad voluptates quis inventore explicabo odio non corrupti, veniam laboriosam quia id error dolorum nostrum asperiores nihil eum similique numquam.",
+                "product_quantity": 56,
+                "product_price": 16.94
+            }
+        ]
+    }
+}

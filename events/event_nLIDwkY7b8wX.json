@@ -1,0 +1,37 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-NNCHIntt",
+        "supplier_contact": "supplierNNCHIntt@example.com",
+        "products": [
+            {
+                "product_name": "Product-possimus-hic",
+                "product_description": "Quaerat corrupti nostrum modi beatae praesentium voluptatibus perferendis tempore odio atque nam, debitis aspernatur animi cumque iure deserunt alias quasi delectus velit ipsa, praesentium nam ad sapiente laborum molestias, nihil veniam alias tempore ad officiis dolor?",
+                "product_quantity": 85,
+                "product_price": 72.04
+            },
+            {
+                "product_name": "Product-iusto-autem",
+                "product_description": "Distinctio cum temporibus optio, laudantium sint dolorum ipsam?",
+                "product_quantity": 35,
+                "product_price": 71.51
+            },
+            {
+                "product_description": "Tempore aperiam quidem, quia architecto ut facere autem fugit libero excepturi totam exercitationem veniam rem, qui temporibus obcaecati?",
+                "product_quantity": 100,
+                "product_price": 69.91
+            },
+            {
+                "product_name": "Product-magni-dolorem",
+                "product_description": "Tenetur consequatur sed ipsa, nihil est tenetur in quam eligendi incidunt mollitia quidem dolor doloribus, neque aut unde ad quos eum consequatur eligendi sit quibusdam rem quis.",
+                "product_quantity": 97,
+                "product_price": 2.47
+            },
+            {
+                "product_name": "Product-nihil-inventore",
+                "product_description": "Harum tenetur velit magni neque provident laborum ducimus voluptatem blanditiis, officia nisi quo ipsa quisquam eveniet est quis natus, sed iure quaerat.",
+                "product_quantity": 1,
+                "product_price": 84.61
+            }
+        ]
+    }
+}

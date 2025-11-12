@@ -1,0 +1,38 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-Ht9hzA2G",
+        "supplier_contact": "supplierHt9hzA2G@example.com",
+        "products": [
+            {
+                "product_name": "Product-culpa-dolore",
+                "product_description": "Expedita quaerat possimus reprehenderit aliquid quod minus tempore dolore, eius dolorem harum amet dolor quis numquam at voluptatum rerum fuga, mollitia temporibus dolores placeat reprehenderit odit quas, exercitationem in architecto dicta?",
+                "product_quantity": 33,
+                "product_price": 64.9
+            },
+            {
+                "product_name": "Product-aperiam-numquam",
+                "product_description": "Eveniet mollitia iure quas nesciunt nam eum id, autem nisi veritatis quo sit cumque possimus?",
+                "product_quantity": 96,
+                "product_price": 92.23
+            },
+            {
+                "product_name": "Product-quis-fuga",
+                "product_description": "Quis ea suscipit est quibusdam repellendus quam dolor, voluptatem quas repellat sint laborum nostrum delectus.",
+                "product_quantity": 84,
+                "product_price": 95.74
+            },
+            {
+                "product_name": "Product-dolores-aliquam",
+                "product_description": "Sunt ut explicabo iure repellendus tempora eaque unde alias dolorum, aliquid itaque iste sint, accusamus impedit exercitationem veniam, at minus saepe voluptate iste.",
+                "product_quantity": 69,
+                "product_price": 75.12
+            },
+            {
+                "product_name": "Product-harum-perspiciatis",
+                "product_description": "Ut a necessitatibus sint, odit assumenda voluptatem fuga fugit obcaecati officia laudantium porro quibusdam quisquam, omnis tempora facere aperiam repudiandae explicabo sunt eius vitae incidunt, eaque sint suscipit sit omnis voluptatem minima incidunt eligendi dicta accusantium exercitationem.",
+                "product_quantity": 14,
+                "product_price": 96.37
+            }
+        ]
+    }
+}

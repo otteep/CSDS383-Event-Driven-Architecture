@@ -1,0 +1,20 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-J9ndn3CZ",
+        "supplier_contact": "supplierJ9ndn3CZ@example.com",
+        "products": [
+            {
+                "product_name": "Product-corporis-fugiat",
+                "product_description": "Accusantium pariatur sint, rem tenetur asperiores sapiente doloribus labore totam.",
+                "product_quantity": 98,
+                "product_price": 64.85
+            },
+            {
+                "product_name": "Product-maxime-fugiat",
+                "product_description": "Quas earum nihil corporis dolorum, iure itaque illo in commodi quibusdam, laborum fuga sint vero consequuntur molestias necessitatibus maiores qui, delectus dignissimos nemo commodi est a.",
+                "product_quantity": 87,
+                "product_price": 54.11
+            }
+        ]
+    }
+}

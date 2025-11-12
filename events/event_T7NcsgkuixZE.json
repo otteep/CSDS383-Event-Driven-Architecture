@@ -1,0 +1,14 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-LroBX01U",
+        "supplier_contact": "supplierLroBX01U@example.com",
+        "products": [
+            {
+                "product_name": "Product-voluptate-iste",
+                "product_description": "Vel consequuntur sunt aspernatur nisi adipisci, ea fuga consequuntur asperiores odit fugit nam eius possimus corrupti quibusdam iure?",
+                "product_quantity": 50,
+                "product_price": 68.66
+            }
+        ]
+    }
+}

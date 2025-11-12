@@ -1,0 +1,37 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-qTKxjV2s",
+        "supplier_contact": "supplierqTKxjV2s@example.com",
+        "products": [
+            {
+                "product_name": "Product-voluptatem-quae",
+                "product_description": "Ex illum et aperiam fuga eaque magni unde repudiandae iste nisi, saepe assumenda voluptas eveniet quis at, cumque exercitationem est quia placeat explicabo pariatur earum repellat alias, quia cupiditate cum rem dolorem facilis veniam fugiat expedita quisquam quo?",
+                "product_quantity": 20
+            },
+            {
+                "product_name": "Product-provident-vitae",
+                "product_description": "Minus nobis veritatis architecto eveniet repellat quaerat neque explicabo, at molestias neque laboriosam incidunt, dignissimos corporis eligendi doloribus repudiandae, enim quod blanditiis atque nostrum suscipit?",
+                "product_quantity": 17,
+                "product_price": 76.09
+            },
+            {
+                "product_name": "Product-accusamus-laudantium",
+                "product_description": "Aliquid eveniet in pariatur minus perferendis architecto maiores sed atque quasi cupiditate, alias incidunt aperiam dolorum repellat impedit qui atque officiis nesciunt, voluptatibus dolor voluptates temporibus, at blanditiis commodi nesciunt, deserunt fuga obcaecati earum beatae nesciunt eius?",
+                "product_quantity": 81,
+                "product_price": 47.33
+            },
+            {
+                "product_name": "Product-similique-excepturi",
+                "product_description": "Sequi eveniet odit magni maxime, ipsam enim pariatur minima consectetur aperiam vero unde quibusdam nostrum reiciendis nisi, commodi reiciendis in eum exercitationem expedita, excepturi dolore quae atque necessitatibus assumenda deserunt laudantium aliquam ex impedit?",
+                "product_quantity": 91,
+                "product_price": 70.66
+            },
+            {
+                "product_name": "Product-temporibus-mollitia",
+                "product_description": "Enim dicta repudiandae accusantium aliquam quidem voluptatibus facere et illo fuga, dicta facere voluptatum pariatur ipsa illo tempora, ipsa rerum perspiciatis tempore numquam sint minus, libero dolorum necessitatibus, id necessitatibus sit facilis.",
+                "product_quantity": 79,
+                "product_price": 64.32
+            }
+        ]
+    }
+}

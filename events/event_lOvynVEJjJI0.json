@@ -1,0 +1,32 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-hF5AR3Pw",
+        "supplier_contact": "supplierhF5AR3Pw@example.com",
+        "products": [
+            {
+                "product_name": "Product-qui-consectetur",
+                "product_description": "In nemo atque iure nobis, iure illo explicabo eaque sint consequuntur quaerat in consectetur quam odio beatae, minima obcaecati ab quibusdam eos pariatur iure quasi incidunt totam?",
+                "product_quantity": 64,
+                "product_price": 99.36
+            },
+            {
+                "product_name": "Product-repellat-quaerat",
+                "product_description": "Harum obcaecati quasi quae odio id officiis, corrupti minima dolorum ab, iste tenetur esse dolorum quae odio nisi dolore molestiae at molestias, repudiandae nobis incidunt ea dolores est officiis earum fugiat quod consequatur accusantium?",
+                "product_quantity": 5,
+                "product_price": 27.0
+            },
+            {
+                "product_name": "Product-ratione-accusamus",
+                "product_description": "Molestias earum itaque aut sint doloremque consequuntur id magni perferendis voluptate ut, omnis rerum suscipit iste saepe expedita sequi corrupti, in deserunt et architecto cupiditate natus ratione error minima magnam, similique quasi deleniti nulla sed explicabo tempore aspernatur pariatur id vero odio?",
+                "product_quantity": 99,
+                "product_price": 18.86
+            },
+            {
+                "product_name": "Product-quod-eos",
+                "product_description": "Sunt minus iste expedita inventore, modi possimus consequuntur, adipisci modi animi expedita, saepe quae cum commodi, tempore eveniet maxime commodi veritatis?",
+                "product_quantity": 66,
+                "product_price": 40.1
+            }
+        ]
+    }
+}

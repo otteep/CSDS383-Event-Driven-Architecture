@@ -1,0 +1,14 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-jA6LiobD",
+        "supplier_contact": "supplierjA6LiobD@example.com",
+        "products": [
+            {
+                "product_name": "Product-dolorem-in",
+                "product_description": "Culpa at dignissimos libero fuga id laudantium, quaerat quidem magnam laborum voluptate eveniet, unde maxime expedita sit in, placeat tempore molestias numquam illum possimus corrupti expedita, temporibus consequuntur repellat vel tempore alias doloribus doloremque?",
+                "product_quantity": 85,
+                "product_price": 22.96
+            }
+        ]
+    }
+}

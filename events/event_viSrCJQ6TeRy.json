@@ -1,0 +1,26 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-r0TpWyLa",
+        "supplier_contact": "supplierr0TpWyLa@example.com",
+        "products": [
+            {
+                "product_name": "Product-fuga-facilis",
+                "product_description": "Sed quasi culpa aliquam optio enim distinctio quisquam, vitae quas qui atque necessitatibus voluptas explicabo repudiandae error, adipisci natus excepturi.",
+                "product_quantity": 42,
+                "product_price": 97.34
+            },
+            {
+                "product_name": "Product-magni-aspernatur",
+                "product_description": "Omnis voluptatum quo sit excepturi harum possimus quidem necessitatibus temporibus numquam consectetur, quidem ipsa minus mollitia asperiores?",
+                "product_quantity": 33,
+                "product_price": 75.0
+            },
+            {
+                "product_name": "Product-dolor-architecto",
+                "product_description": "Voluptatibus architecto unde odio error ipsa voluptas itaque perspiciatis, libero quibusdam cupiditate quisquam velit consequatur quidem eligendi sed aliquam quo?",
+                "product_quantity": 68,
+                "product_price": 66.57
+            }
+        ]
+    }
+}

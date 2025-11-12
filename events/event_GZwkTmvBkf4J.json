@@ -1,0 +1,20 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-WJsSn5xN",
+        "supplier_contact": "supplierWJsSn5xN@example.com",
+        "products": [
+            {
+                "product_name": "Product-quidem-unde",
+                "product_description": "Consequuntur et molestiae facilis beatae dolore quaerat cumque laborum delectus, consequatur possimus ratione vel aspernatur illum odio veritatis tempora ipsam nemo.",
+                "product_quantity": 98,
+                "product_price": 81.68
+            },
+            {
+                "product_name": "Product-enim-error",
+                "product_description": "Reprehenderit dicta corporis rerum quaerat aut rem deleniti porro, ut mollitia esse autem laboriosam nostrum sunt eius inventore, deserunt nobis obcaecati nihil saepe eaque ipsum aliquam soluta quae ratione veritatis, quisquam porro quo sint blanditiis at aut perferendis assumenda.",
+                "product_quantity": 85,
+                "product_price": 70.26
+            }
+        ]
+    }
+}

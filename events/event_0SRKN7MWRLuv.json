@@ -1,0 +1,14 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-ponzPjLH",
+        "supplier_contact": "supplierponzPjLH@example.com",
+        "products": [
+            {
+                "product_name": "Product-impedit-autem",
+                "product_description": "Odio impedit ducimus reiciendis cupiditate quidem, qui eius doloribus veritatis deserunt cumque modi at quisquam, est eius praesentium fugit delectus a sunt atque nostrum, eaque rem cum quia vel, voluptates corporis tenetur doloribus exercitationem.",
+                "product_quantity": 88,
+                "product_price": 37.69
+            }
+        ]
+    }
+}

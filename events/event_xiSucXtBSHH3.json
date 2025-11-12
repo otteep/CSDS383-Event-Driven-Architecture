@@ -1,0 +1,26 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-rllUw1zx",
+        "supplier_contact": "supplierrllUw1zx@example.com",
+        "products": [
+            {
+                "product_name": "Product-ipsa-soluta",
+                "product_description": "Ut veniam explicabo provident voluptatum quae ipsam, eaque odit deleniti necessitatibus asperiores pariatur libero, vitae aspernatur quaerat vero placeat nisi ipsum quod similique quo minima?",
+                "product_quantity": 97,
+                "product_price": 86.08
+            },
+            {
+                "product_name": "Product-natus-quibusdam",
+                "product_description": "Eveniet officiis architecto tenetur corrupti voluptate dolores quos inventore ipsam aut, illo tenetur aperiam facere nulla laudantium accusantium eveniet voluptas fuga, maxime sed error minima aliquam rem aperiam asperiores rerum non laudantium?",
+                "product_quantity": 29,
+                "product_price": 76.88
+            },
+            {
+                "product_name": "Product-quam-dolore",
+                "product_description": "Culpa perferendis distinctio dignissimos blanditiis nam inventore error consequatur animi velit, vitae non odio officiis, ea nemo dolorem alias, adipisci odit quae provident nemo.",
+                "product_quantity": 22,
+                "product_price": 84.29
+            }
+        ]
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-eIVI5JyO",
+        "supplier_contact": "suppliereIVI5JyO@example.com",
+        "products": [
+            {
+                "product_name": "Product-magnam-aliquid",
+                "product_description": "Ea aspernatur nihil consectetur velit voluptatibus voluptate, in dolor nesciunt ducimus a quaerat, aspernatur minus nulla similique quidem quasi animi sequi inventore, quaerat dolor modi nostrum eaque sint commodi odio?",
+                "product_quantity": 78,
+                "product_price": 29.58
+            },
+            {
+                "product_name": "Product-sint-magnam",
+                "product_description": "A reiciendis nulla, voluptatem ea obcaecati atque, similique sed nulla non in corrupti quibusdam laborum?",
+                "product_quantity": 89,
+                "product_price": 76.67
+            }
+        ]
+    }
+}

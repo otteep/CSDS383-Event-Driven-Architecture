@@ -1,0 +1,20 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-Y6O4oJtM",
+        "supplier_contact": "supplierY6O4oJtM@example.com",
+        "products": [
+            {
+                "product_name": "Product-possimus-sunt",
+                "product_description": "Sit nam eius vero sint repudiandae magni ipsum aperiam cupiditate ea, omnis optio at hic inventore iste ab in error natus, numquam saepe quisquam?",
+                "product_quantity": 24,
+                "product_price": 1.64
+            },
+            {
+                "product_name": "Product-quia-praesentium",
+                "product_description": "Totam beatae unde explicabo error magnam et cupiditate sit quibusdam ipsam, error veniam distinctio quis iusto dolore?",
+                "product_quantity": 99,
+                "product_price": 61.94
+            }
+        ]
+    }
+}

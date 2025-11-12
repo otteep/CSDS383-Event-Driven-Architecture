@@ -1,0 +1,35 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-M5hfSYxR",
+        "products": [
+            {
+                "product_description": "Accusamus consectetur tempore facere, aut eos dolorum nesciunt tenetur nam quas natus excepturi id, doloremque eligendi soluta corporis rem consequuntur, corporis suscipit ex labore harum?",
+                "product_quantity": 21,
+                "product_price": 31.78
+            },
+            {
+                "product_name": "Product-beatae-cumque",
+                "product_quantity": 73,
+                "product_price": 21.29
+            },
+            {
+                "product_name": "Product-sunt-magnam",
+                "product_description": "Eveniet quas nam autem aliquam, quisquam aspernatur ipsa praesentium soluta repudiandae molestiae dolor animi cum totam quae, provident nihil rem consectetur amet?",
+                "product_quantity": 15,
+                "product_price": 37.66
+            },
+            {
+                "product_name": "Product-aspernatur-eum",
+                "product_description": "Vitae cupiditate ea consequuntur eum in, velit consequatur cumque dolorum dolore voluptatibus optio unde maxime facere?",
+                "product_quantity": 22,
+                "product_price": 88.19
+            },
+            {
+                "product_name": "Product-explicabo-cumque",
+                "product_description": "Ipsum rerum labore aut vel nihil illum tempora ex excepturi harum obcaecati, fugiat dolorem voluptatum et dolore tempora repudiandae aspernatur itaque, id voluptate aliquid sint a accusamus vel obcaecati officia sequi ipsum itaque, veniam impedit non illo placeat quos autem?",
+                "product_quantity": 48,
+                "product_price": 26.83
+            }
+        ]
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-wMmzmlsS",
+        "supplier_contact": "supplierwMmzmlsS@example.com",
+        "products": [
+            {
+                "product_name": "Product-id-consequatur",
+                "product_description": "Fuga esse fugiat asperiores officia eveniet nostrum tempore corrupti velit non, repellendus natus aliquid?",
+                "product_quantity": 90,
+                "product_price": 40.14
+            },
+            {
+                "product_name": "Product-nobis-eligendi",
+                "product_description": "Beatae explicabo repellat fuga voluptates harum, itaque perspiciatis quis.",
+                "product_quantity": 11,
+                "product_price": 93.63
+            },
+            {
+                "product_name": "Product-nemo-amet",
+                "product_description": "Blanditiis animi mollitia recusandae veritatis necessitatibus eveniet beatae, alias sapiente exercitationem dolores explicabo numquam itaque cupiditate esse ipsum mollitia hic, ea libero voluptate laboriosam?",
+                "product_quantity": 56,
+                "product_price": 58.71
+            },
+            {
+                "product_name": "Product-hic-sed",
+                "product_description": "Excepturi aut tenetur culpa itaque beatae unde minima quos dolores, earum asperiores delectus dolor in?",
+                "product_quantity": 6,
+                "product_price": 81.77
+            },
+            {
+                "product_name": "Product-dolores-sapiente",
+                "product_description": "Dolor iste sint doloremque vero asperiores, neque quisquam sequi sapiente nihil beatae hic, beatae velit consequatur minima officia laborum dolor unde et illum quaerat, recusandae tempora praesentium, at doloribus dolor.",
+                "product_quantity": 97,
+                "product_price": 40.05
+            }
+        ]
+    }
+}

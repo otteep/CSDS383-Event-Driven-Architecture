@@ -1,0 +1,37 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-5PLZFo2M",
+        "supplier_contact": "supplier5PLZFo2M@example.com",
+        "products": [
+            {
+                "product_name": "Product-minus-deleniti",
+                "product_quantity": 11,
+                "product_price": 90.65
+            },
+            {
+                "product_name": "Product-fuga-sequi",
+                "product_description": "Rem tempore nulla incidunt nobis perferendis quae labore excepturi, odit praesentium facere cum accusantium dolorem, cumque aut laborum?",
+                "product_quantity": 28,
+                "product_price": 11.52
+            },
+            {
+                "product_name": "Product-dolorem-consequuntur",
+                "product_description": "Blanditiis corporis impedit quidem recusandae, consectetur modi esse eligendi dolores?",
+                "product_quantity": 21,
+                "product_price": 89.82
+            },
+            {
+                "product_name": "Product-sapiente-magni",
+                "product_description": "Obcaecati doloribus voluptatem ipsum odio veritatis, facilis inventore dolorum eaque laborum voluptatibus dolore, minima iste laboriosam consequuntur eum, eligendi eos sapiente et placeat.",
+                "product_quantity": 46,
+                "product_price": 43.79
+            },
+            {
+                "product_name": "Product-aperiam-impedit",
+                "product_description": "Tempora doloribus beatae odio nulla quae rerum animi mollitia eius officia, soluta illum esse ex, saepe ducimus ullam repellendus inventore aliquam deserunt cum et tempore nam?",
+                "product_quantity": 15,
+                "product_price": 77.66
+            }
+        ]
+    }
+}

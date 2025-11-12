@@ -1,0 +1,20 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-m3p3Okk6",
+        "supplier_contact": "supplierm3p3Okk6@example.com",
+        "products": [
+            {
+                "product_name": "Product-iusto-facere",
+                "product_description": "Repellat quisquam eos atque nobis deserunt officia quod exercitationem voluptatibus tempore qui, culpa minima ex accusamus ducimus tempore, quas corrupti quisquam amet similique accusamus eaque unde nemo, animi perspiciatis beatae sequi error est velit magni distinctio dolorem laudantium et, natus deleniti quos nam saepe nihil ipsum?",
+                "product_quantity": 45,
+                "product_price": 89.39
+            },
+            {
+                "product_name": "Product-tenetur-ea",
+                "product_description": "Sint natus fugit magnam veniam, aut doloribus aperiam cumque accusantium tempora hic maxime corporis odit a.",
+                "product_quantity": 96,
+                "product_price": 16.53
+            }
+        ]
+    }
+}

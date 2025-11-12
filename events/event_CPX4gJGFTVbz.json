@@ -1,0 +1,14 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-iED5R9lw",
+        "supplier_contact": "supplieriED5R9lw@example.com",
+        "products": [
+            {
+                "product_name": "Product-accusamus-consequatur",
+                "product_description": "Unde sequi fugiat veritatis molestiae nam quam, dignissimos earum repellendus provident sed tempore hic sequi ipsa sapiente facilis doloremque, nesciunt quia enim, dolore odit laboriosam pariatur placeat rerum.",
+                "product_quantity": 83,
+                "product_price": 20.65
+            }
+        ]
+    }
+}

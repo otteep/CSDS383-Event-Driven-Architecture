@@ -1,0 +1,14 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-ZT4HdEvA",
+        "supplier_contact": "supplierZT4HdEvA@example.com",
+        "products": [
+            {
+                "product_name": "Product-in-eveniet",
+                "product_description": "Beatae illum quis ipsam, saepe id modi iste vel quisquam?",
+                "product_quantity": 26,
+                "product_price": 35.86
+            }
+        ]
+    }
+}

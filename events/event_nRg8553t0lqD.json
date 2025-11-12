@@ -1,0 +1,14 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-669ZV4UR",
+        "supplier_contact": "supplier669ZV4UR@example.com",
+        "products": [
+            {
+                "product_name": "Product-molestias-tempora",
+                "product_description": "Quae modi quas quaerat unde, quaerat accusantium molestiae voluptatem.",
+                "product_quantity": 87,
+                "product_price": 77.12
+            }
+        ]
+    }
+}

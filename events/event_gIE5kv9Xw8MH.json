@@ -1,0 +1,38 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-dPrkaCIr",
+        "supplier_contact": "supplierdPrkaCIr@example.com",
+        "products": [
+            {
+                "product_name": "Product-inventore-quae",
+                "product_description": "Ut quae minus architecto nostrum, magni enim ducimus laborum nisi cum, consectetur accusantium quod deserunt vero.",
+                "product_quantity": 86,
+                "product_price": 66.66
+            },
+            {
+                "product_name": "Product-libero-rem",
+                "product_description": "Doloremque earum modi quam necessitatibus dolorum ratione dolore ea atque, dicta sapiente quam quod, in unde tempore laborum eos accusantium voluptatibus repudiandae, voluptate nihil tempora voluptas officiis et reprehenderit quasi illo alias veniam, exercitationem at et quo nemo eum reiciendis laboriosam molestiae consectetur?",
+                "product_quantity": 91,
+                "product_price": 24.7
+            },
+            {
+                "product_name": "Product-dolores-dolor",
+                "product_description": "Odio voluptatibus sequi, architecto voluptatum modi asperiores sequi expedita ipsum laboriosam neque repellat doloribus perferendis, repellat quod iusto repellendus libero ipsam consectetur quis deserunt hic facere earum, alias fugiat blanditiis eum odit omnis harum quas ullam, soluta expedita quo et repellendus voluptatum numquam veniam aliquid sed.",
+                "product_quantity": 91,
+                "product_price": 25.56
+            },
+            {
+                "product_name": "Product-nam-eligendi",
+                "product_description": "Quis dolorum quod eum assumenda nesciunt cupiditate, expedita laboriosam deleniti reiciendis et, laborum optio sint omnis eius nemo natus quidem quasi amet quis sit, fugiat autem distinctio recusandae at repellendus fugit magni rem natus?",
+                "product_quantity": 95,
+                "product_price": 93.96
+            },
+            {
+                "product_name": "Product-magni-magnam",
+                "product_description": "Dolore sapiente aspernatur facere vero quas, minima odit atque nihil, ducimus dolorem itaque cumque atque quaerat optio?",
+                "product_quantity": 58,
+                "product_price": 73.03
+            }
+        ]
+    }
+}

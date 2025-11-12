@@ -1,0 +1,14 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-NOt5AIzc",
+        "supplier_contact": "supplierNOt5AIzc@example.com",
+        "products": [
+            {
+                "product_name": "Product-dolor-magnam",
+                "product_description": "Laborum facilis tempore sed nostrum culpa aperiam, odio dolore officiis quod?",
+                "product_quantity": 21,
+                "product_price": 25.06
+            }
+        ]
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-icKFAutX",
+        "supplier_contact": "suppliericKFAutX@example.com",
+        "products": [
+            {
+                "product_name": "Product-tempore-optio",
+                "product_description": "Reiciendis tenetur ratione sit impedit, aut accusamus placeat minima odio adipisci quia maiores sed cum exercitationem reprehenderit?",
+                "product_quantity": 45,
+                "product_price": 41.21
+            },
+            {
+                "product_name": "Product-voluptatibus-saepe",
+                "product_description": "Quasi natus provident exercitationem excepturi iste facere nulla a earum, quam doloremque repellendus accusantium obcaecati ipsum dolorem, soluta fuga et quod quaerat sapiente beatae.",
+                "product_quantity": 38,
+                "product_price": 71.39
+            },
+            {
+                "product_name": "Product-blanditiis-labore",
+                "product_description": "Obcaecati atque minima consequuntur explicabo, quidem amet provident architecto hic eveniet ipsum?",
+                "product_quantity": 71,
+                "product_price": 64.93
+            }
+        ]
+    }
+}

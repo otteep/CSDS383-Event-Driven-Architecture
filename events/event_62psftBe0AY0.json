@@ -1,0 +1,38 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-axwdqoxu",
+        "supplier_contact": "supplieraxwdqoxu@example.com",
+        "products": [
+            {
+                "product_name": "Product-in-maxime",
+                "product_description": "Necessitatibus dolor dolorum praesentium deleniti, sapiente in dicta quae sint obcaecati ratione cum minus labore a?",
+                "product_quantity": 16,
+                "product_price": 52.77
+            },
+            {
+                "product_name": "Product-corporis-voluptatibus",
+                "product_description": "Odit totam iste, nihil ad eligendi id mollitia ea, ipsam nulla ipsa tempore itaque maiores nisi sapiente, cupiditate vitae delectus ipsum?",
+                "product_quantity": 20,
+                "product_price": 39.36
+            },
+            {
+                "product_name": "Product-laborum-facilis",
+                "product_description": "Odit saepe rerum autem fugiat sunt perspiciatis qui a est architecto, corporis quo quod aliquam beatae vitae culpa eaque porro magnam omnis deleniti, distinctio voluptatibus corporis nostrum minima tenetur, expedita ex fugit exercitationem, necessitatibus sit veritatis dicta iure temporibus.",
+                "product_quantity": 35,
+                "product_price": 28.21
+            },
+            {
+                "product_name": "Product-esse-expedita",
+                "product_description": "Magni similique non ut assumenda tempore exercitationem in, atque officiis delectus maiores tenetur itaque fugiat maxime aliquid ipsum possimus reprehenderit, quibusdam officia nobis saepe, minus dolorum animi, nisi dignissimos itaque?",
+                "product_quantity": 69,
+                "product_price": 86.3
+            },
+            {
+                "product_name": "Product-placeat-minima",
+                "product_description": "Ab dolor labore cumque optio omnis, doloribus vero blanditiis culpa minus officia fugit in nemo tempora ab, numquam consequatur repellendus cupiditate?",
+                "product_quantity": 83,
+                "product_price": 42.19
+            }
+        ]
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-OiyGmmb3",
+        "supplier_contact": "supplierOiyGmmb3@example.com",
+        "products": [
+            {
+                "product_description": "Facilis commodi molestiae officiis atque vitae, fuga id iure soluta illum corporis consectetur, illum itaque veniam molestiae assumenda facere ut, itaque reiciendis nam velit libero quisquam praesentium, nulla nesciunt minima ullam culpa nam?",
+                "product_quantity": 9,
+                "product_price": 91.24
+            },
+            {
+                "product_name": "Product-accusamus-rem",
+                "product_description": "Quos aliquid nobis dicta non natus rerum adipisci officia distinctio sit nostrum, exercitationem accusantium corrupti perferendis fuga quod, molestias illum ex veniam quo sapiente, inventore magni laudantium id ad aspernatur quasi?",
+                "product_quantity": 32,
+                "product_price": 62.69
+            }
+        ]
+    }
+}

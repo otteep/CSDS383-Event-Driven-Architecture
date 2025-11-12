@@ -1,0 +1,20 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-xzMMVknB",
+        "supplier_contact": "supplierxzMMVknB@example.com",
+        "products": [
+            {
+                "product_name": "Product-doloremque-odio",
+                "product_description": "Asperiores dolorem sed magnam provident optio, odit nulla neque a sed, dignissimos libero placeat hic qui delectus at suscipit ea deserunt?",
+                "product_quantity": 84,
+                "product_price": 20.51
+            },
+            {
+                "product_name": "Product-doloribus-nam",
+                "product_description": "Illum pariatur quod hic alias modi voluptate unde repellat eius corrupti, esse consequuntur nesciunt, deserunt doloribus non iure ipsam officia animi neque commodi quas hic, ipsam sequi libero nostrum dolore quo veritatis corrupti quae debitis, sit minima neque sapiente pariatur ab temporibus deserunt adipisci eum?",
+                "product_quantity": 26,
+                "product_price": 5.0
+            }
+        ]
+    }
+}

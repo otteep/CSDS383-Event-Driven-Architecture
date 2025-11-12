@@ -1,0 +1,37 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-orfqJi1D",
+        "supplier_contact": "supplierorfqJi1D@example.com",
+        "products": [
+            {
+                "product_name": "Product-placeat-ab",
+                "product_description": "Neque nostrum quam velit culpa quas aliquam a soluta sint totam, sed eaque ullam voluptas eum, incidunt error sit magnam nobis corrupti reprehenderit, officiis obcaecati facilis dolorem, nobis ab delectus veniam laboriosam pariatur quia?",
+                "product_quantity": 76,
+                "product_price": 10.09
+            },
+            {
+                "product_name": "Product-ipsum-ut",
+                "product_description": "Ullam quisquam deserunt, aliquid placeat sit commodi, libero recusandae minus vitae delectus consequuntur porro quos alias, repudiandae fugiat neque laborum blanditiis aliquid dolore vel consectetur hic non maxime, illum animi praesentium.",
+                "product_quantity": 63,
+                "product_price": 94.54
+            },
+            {
+                "product_name": "Product-itaque-autem",
+                "product_description": "Beatae deleniti molestias exercitationem laboriosam reprehenderit suscipit ipsa soluta labore, ipsa tempore ipsam, veniam magni asperiores possimus maxime quaerat, expedita voluptatibus maxime rerum similique quis, temporibus ab sint saepe commodi dolorem ipsa magnam beatae vero ipsam eum.",
+                "product_quantity": 83,
+                "product_price": 16.26
+            },
+            {
+                "product_name": "Product-delectus-voluptatibus",
+                "product_description": "Vero quos iure inventore dicta a vitae tempore nemo placeat, dolore ut error fuga repudiandae quae adipisci.",
+                "product_quantity": 64,
+                "product_price": 99.12
+            },
+            {
+                "product_name": "Product-vitae-ad",
+                "product_description": "Ipsam magnam magni modi, temporibus odit ducimus est?",
+                "product_quantity": 7
+            }
+        ]
+    }
+}

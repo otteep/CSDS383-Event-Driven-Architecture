@@ -1,0 +1,26 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-iKTW98Ex",
+        "supplier_contact": "supplieriKTW98Ex@example.com",
+        "products": [
+            {
+                "product_name": "Product-sequi-natus",
+                "product_description": "Vitae velit omnis sint doloremque sit sunt aut, rerum quo nisi id, voluptate deserunt tenetur accusamus provident quaerat dolores praesentium laboriosam, nobis itaque dolor obcaecati harum?",
+                "product_quantity": 47,
+                "product_price": 68.81
+            },
+            {
+                "product_name": "Product-quo-eius",
+                "product_description": "Doloremque tenetur quae neque sapiente, quos quidem facere velit quis, eaque vero repellat ipsam aperiam.",
+                "product_quantity": 70,
+                "product_price": 1.62
+            },
+            {
+                "product_name": "Product-recusandae-quas",
+                "product_description": "Dolorum ea officia labore porro adipisci quasi similique veniam pariatur explicabo, vitae voluptates mollitia maiores dolores sit, molestias libero excepturi vitae possimus aliquid magni nulla nam ipsa maiores suscipit?",
+                "product_quantity": 76,
+                "product_price": 96.72
+            }
+        ]
+    }
+}

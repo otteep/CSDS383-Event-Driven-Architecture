@@ -1,0 +1,19 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-T5i5AZGJ",
+        "products": [
+            {
+                "product_name": "Product-doloremque-illo",
+                "product_description": "Sunt voluptatum ea hic ut aperiam vero quo necessitatibus, laudantium aut harum possimus ab soluta?",
+                "product_quantity": 57,
+                "product_price": 16.53
+            },
+            {
+                "product_name": "Product-quo-natus",
+                "product_description": "Explicabo nisi unde ea officia minima iste optio, rerum suscipit impedit veniam quasi ab corrupti accusamus facilis eveniet quo ad, itaque eos doloremque veniam aspernatur et ipsa dignissimos ut vel perferendis, doloremque nesciunt odio unde explicabo sit voluptates ad eligendi perferendis quis sunt?",
+                "product_quantity": 39,
+                "product_price": 75.51
+            }
+        ]
+    }
+}

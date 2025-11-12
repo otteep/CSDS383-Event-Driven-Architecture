@@ -1,0 +1,38 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-Gheb3Mld",
+        "supplier_contact": "supplierGheb3Mld@example.com",
+        "products": [
+            {
+                "product_name": "Product-facilis-iure",
+                "product_description": "Nesciunt laboriosam quam quos nobis quo placeat optio quod atque officiis, ea dicta assumenda labore minus, reprehenderit voluptas nemo id perferendis distinctio ad quidem amet veniam, fugiat iste quo vero beatae.",
+                "product_quantity": 74,
+                "product_price": 46.82
+            },
+            {
+                "product_name": "Product-laboriosam-numquam",
+                "product_description": "Unde voluptas dolorum, vel ducimus quam corporis porro quibusdam maiores repudiandae minima, itaque velit et esse sunt quod ipsum assumenda quia, iusto tempore cum unde id harum tempora amet dolore eligendi sed, praesentium natus labore officia sit assumenda soluta vitae commodi?",
+                "product_quantity": 29,
+                "product_price": 48.51
+            },
+            {
+                "product_name": "Product-animi-cumque",
+                "product_description": "Voluptates quasi distinctio aut consectetur debitis numquam itaque quidem excepturi eveniet rerum, aspernatur reiciendis facere quia pariatur atque tempora, debitis eaque voluptatibus tempore perspiciatis porro nobis, dolor sapiente hic labore eligendi excepturi.",
+                "product_quantity": 93,
+                "product_price": 87.47
+            },
+            {
+                "product_name": "Product-mollitia-voluptatum",
+                "product_description": "Eveniet distinctio libero soluta delectus dolores fuga corporis, a repudiandae laboriosam possimus?",
+                "product_quantity": 27,
+                "product_price": 28.97
+            },
+            {
+                "product_name": "Product-corporis-error",
+                "product_description": "Veniam aperiam voluptates enim aut nesciunt ad cum magnam accusamus perspiciatis, aliquam voluptates molestiae dignissimos natus aliquid ex saepe quisquam, officiis velit inventore consequatur possimus laborum commodi unde earum dolor aperiam ipsa, dolores officiis veritatis exercitationem maxime error iste eos?",
+                "product_quantity": 1,
+                "product_price": 11.88
+            }
+        ]
+    }
+}

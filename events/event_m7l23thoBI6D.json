@@ -1,0 +1,26 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-swJYAHCY",
+        "supplier_contact": "supplierswJYAHCY@example.com",
+        "products": [
+            {
+                "product_name": "Product-dolor-suscipit",
+                "product_description": "Alias necessitatibus asperiores laudantium, voluptate a illum laboriosam earum, perspiciatis quam cum laborum amet non nostrum?",
+                "product_quantity": 99,
+                "product_price": 97.67
+            },
+            {
+                "product_name": "Product-voluptate-ipsum",
+                "product_description": "Quod nobis voluptatibus facere doloribus, deserunt quia ipsum molestias et earum amet vel blanditiis dignissimos officiis?",
+                "product_quantity": 6,
+                "product_price": 95.21
+            },
+            {
+                "product_name": "Product-fuga-harum",
+                "product_description": "Aperiam ipsam quos corporis, illo sunt ut optio cum dolore totam, qui omnis quas non aut reiciendis expedita suscipit adipisci maxime fuga iure, quo esse numquam ipsam voluptas obcaecati laboriosam sint facere necessitatibus ex, magnam id aliquam in odio.",
+                "product_quantity": 69,
+                "product_price": 31.4
+            }
+        ]
+    }
+}

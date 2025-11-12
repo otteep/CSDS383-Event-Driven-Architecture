@@ -1,0 +1,32 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-qn1rKQ85",
+        "supplier_contact": "supplierqn1rKQ85@example.com",
+        "products": [
+            {
+                "product_name": "Product-quae-error",
+                "product_description": "Dolor aperiam in, voluptates quasi aliquid, eum alias totam deleniti error, debitis tempore porro pariatur dicta asperiores repellendus hic optio unde.",
+                "product_quantity": 29,
+                "product_price": 3.96
+            },
+            {
+                "product_name": "Product-beatae-mollitia",
+                "product_description": "Explicabo suscipit dicta aut, fuga accusamus dolore dicta atque, expedita rem quibusdam obcaecati vel temporibus quod autem?",
+                "product_quantity": 93,
+                "product_price": 15.41
+            },
+            {
+                "product_name": "Product-magnam-eligendi",
+                "product_description": "Similique qui quaerat soluta dolorem porro dicta doloremque, vitae quisquam odio quia saepe, iure maxime non.",
+                "product_quantity": 26,
+                "product_price": 89.02
+            },
+            {
+                "product_name": "Product-aliquam-quo",
+                "product_description": "At laborum ullam earum, voluptatum dolorum possimus aut doloribus voluptate fuga aspernatur sequi officia aliquid, ullam saepe minus quidem, sint aut expedita repellat modi odio dolorum debitis provident ab, ad odit blanditiis?",
+                "product_quantity": 74,
+                "product_price": 79.1
+            }
+        ]
+    }
+}

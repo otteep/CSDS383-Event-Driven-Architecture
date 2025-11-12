@@ -1,0 +1,38 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-LMKODUxS",
+        "supplier_contact": "supplierLMKODUxS@example.com",
+        "products": [
+            {
+                "product_name": "Product-neque-molestiae",
+                "product_description": "Maiores unde error eligendi ipsam fugiat ea possimus, reprehenderit totam assumenda at tempora quae eveniet?",
+                "product_quantity": 96,
+                "product_price": 69.6
+            },
+            {
+                "product_name": "Product-amet-deserunt",
+                "product_description": "Laudantium sit excepturi saepe eaque quidem aliquam distinctio necessitatibus, vitae voluptate esse voluptates totam dicta doloribus reiciendis adipisci iste eveniet iure, ex qui aut provident facere neque recusandae sapiente distinctio officiis quidem, fugit asperiores excepturi nobis maxime tempora cupiditate, ut repudiandae vel at saepe deleniti tenetur?",
+                "product_quantity": 4,
+                "product_price": 62.58
+            },
+            {
+                "product_name": "Product-quidem-dolores",
+                "product_description": "Ipsa ullam doloribus, consectetur at iusto id?",
+                "product_quantity": 89,
+                "product_price": 31.43
+            },
+            {
+                "product_name": "Product-ut-aut",
+                "product_description": "Labore culpa recusandae eligendi reiciendis laudantium iusto, iusto deleniti enim qui earum recusandae possimus consequatur dolor dolore ex, eos error corrupti exercitationem rem distinctio, tempora distinctio quis recusandae cumque dolorem libero in excepturi, deleniti mollitia quaerat in nesciunt doloribus maxime nulla?",
+                "product_quantity": 27,
+                "product_price": 33.26
+            },
+            {
+                "product_name": "Product-aliquid-ea",
+                "product_description": "Exercitationem id ad repudiandae nihil natus perferendis laudantium odio beatae accusantium, cum obcaecati porro molestiae consectetur sed?",
+                "product_quantity": 90,
+                "product_price": 92.48
+            }
+        ]
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-FGnGFzpS",
+        "supplier_contact": "supplierFGnGFzpS@example.com",
+        "products": [
+            {
+                "product_name": "Product-omnis-adipisci",
+                "product_description": "Qui nemo eveniet assumenda quo illo magni perspiciatis cumque animi soluta, ullam rem esse iste molestias magnam ea?",
+                "product_quantity": 70,
+                "product_price": 77.52
+            },
+            {
+                "product_description": "Ducimus dolorum explicabo ipsa tenetur quis, suscipit repellendus at dolorem minima sit non laboriosam dignissimos eius culpa quidem?",
+                "product_quantity": 89,
+                "product_price": 58.07
+            }
+        ]
+    }
+}

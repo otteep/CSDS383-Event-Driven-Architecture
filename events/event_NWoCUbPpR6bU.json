@@ -1,0 +1,26 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-SEGMNdi5",
+        "supplier_contact": "supplierSEGMNdi5@example.com",
+        "products": [
+            {
+                "product_name": "Product-nemo-cumque",
+                "product_description": "Asperiores harum culpa nemo sint earum voluptate optio, quia qui magnam tempore assumenda eos repudiandae unde itaque, nobis minima veritatis quidem esse eveniet at excepturi, magni libero accusantium excepturi eligendi distinctio, asperiores at deserunt mollitia quia voluptatum.",
+                "product_quantity": 100,
+                "product_price": 50.45
+            },
+            {
+                "product_name": "Product-error-veniam",
+                "product_description": "Omnis repellat quam quis eaque provident eum, neque velit ad, neque nisi non, repudiandae vero sunt autem corrupti voluptas eius exercitationem saepe?",
+                "product_quantity": 2,
+                "product_price": 37.06
+            },
+            {
+                "product_name": "Product-corporis-natus",
+                "product_description": "Possimus recusandae quae et corrupti debitis, suscipit nulla dicta corporis autem blanditiis fuga, sint fuga adipisci eius pariatur, laborum fugit maiores unde earum neque tempore animi, aperiam ullam expedita ex dolorem perspiciatis?",
+                "product_quantity": 49,
+                "product_price": 52.3
+            }
+        ]
+    }
+}

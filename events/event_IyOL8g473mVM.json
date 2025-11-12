@@ -1,0 +1,20 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-0M56Vzji",
+        "supplier_contact": "supplier0M56Vzji@example.com",
+        "products": [
+            {
+                "product_name": "Product-quasi-assumenda",
+                "product_description": "Unde alias facilis ab, magnam a dolorem voluptatum ea commodi aliquid ad eligendi nam unde.",
+                "product_quantity": 13,
+                "product_price": 85.4
+            },
+            {
+                "product_name": "Product-harum-commodi",
+                "product_description": "Saepe voluptatibus nemo quas doloremque dolore tempore assumenda facere sapiente iste, consequuntur officia magni ad illo modi exercitationem vel blanditiis laboriosam aspernatur quaerat, repellendus voluptatem asperiores recusandae excepturi blanditiis consequatur cum, assumenda repudiandae unde quod commodi voluptatibus voluptas?",
+                "product_quantity": 71,
+                "product_price": 38.54
+            }
+        ]
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-S9Uh6VwG",
+        "supplier_contact": "supplierS9Uh6VwG@example.com",
+        "products": [
+            {
+                "product_name": "Product-nostrum-ipsa",
+                "product_description": "Natus repudiandae neque explicabo mollitia suscipit odio itaque totam voluptate blanditiis iure, distinctio facilis nobis, harum consequatur tempora quam animi suscipit, nesciunt animi vel voluptatem nostrum et qui maxime aliquam quibusdam unde, reprehenderit omnis a quam aliquam eos nihil explicabo tempore non asperiores rem?",
+                "product_quantity": 58,
+                "product_price": 74.76
+            },
+            {
+                "product_name": "Product-eveniet-excepturi",
+                "product_description": "Animi beatae sint eaque magnam illo fuga aliquid maiores totam corrupti consequatur, deserunt ipsam voluptas accusamus quasi voluptatum ipsum harum, totam modi molestiae sunt incidunt, consequuntur assumenda possimus quae sint rem repellat debitis, veritatis ratione eligendi eaque corporis labore assumenda cum molestias.",
+                "product_quantity": 29,
+                "product_price": 60.17
+            },
+            {
+                "product_name": "Product-inventore-dignissimos",
+                "product_description": "Voluptates recusandae numquam accusamus totam explicabo error laudantium, cupiditate ab ad libero corporis earum, veritatis voluptatem quaerat, alias eligendi possimus nam labore atque exercitationem delectus suscipit illo maiores ducimus?",
+                "product_quantity": 96,
+                "product_price": 88.05
+            }
+        ]
+    }
+}

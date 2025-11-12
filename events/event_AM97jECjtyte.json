@@ -1,0 +1,38 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-g8j9s99m",
+        "supplier_contact": "supplierg8j9s99m@example.com",
+        "products": [
+            {
+                "product_name": "Product-dignissimos-fugiat",
+                "product_description": "Iusto voluptates tempora optio totam accusantium veniam, quae nesciunt aliquid hic exercitationem atque sequi aspernatur temporibus at voluptas, maiores voluptates aliquid maxime non doloribus omnis rerum quam vitae aut, ducimus illum doloremque molestias quis molestiae sequi quas aspernatur quaerat id, aperiam optio sint nostrum corrupti repudiandae quis tenetur aliquam?",
+                "product_quantity": 87,
+                "product_price": 11.86
+            },
+            {
+                "product_name": "Product-maiores-consequatur",
+                "product_description": "Sed numquam odit voluptatibus, quia nisi culpa ad laboriosam odio illo consequuntur magni fuga fugit, esse commodi illum cumque dolore consectetur cupiditate quas enim eveniet nam.",
+                "product_quantity": 28,
+                "product_price": 12.72
+            },
+            {
+                "product_name": "Product-consequatur-nam",
+                "product_description": "Quia alias magni enim eum vero earum libero dolorem natus tempora asperiores, ratione illum ipsum temporibus alias dolorem blanditiis veniam harum eius recusandae quae, nostrum quisquam dolor inventore amet cum totam?",
+                "product_quantity": 56,
+                "product_price": 1.42
+            },
+            {
+                "product_name": "Product-illo-adipisci",
+                "product_description": "Perferendis numquam est omnis quos nobis, nulla vel tempora, praesentium veniam vel sint fuga, mollitia quidem vitae repudiandae animi eaque maiores itaque, laboriosam consequatur tempore quasi cumque eveniet aliquid corrupti eligendi soluta nam.",
+                "product_quantity": 73,
+                "product_price": 39.74
+            },
+            {
+                "product_name": "Product-quod-blanditiis",
+                "product_description": "Necessitatibus exercitationem ab similique accusamus autem eum, illum veritatis facilis ad explicabo nihil doloribus fugiat aperiam temporibus deserunt ipsum, nesciunt inventore deserunt sapiente error in ducimus quod, ab ullam cumque animi quasi?",
+                "product_quantity": 87,
+                "product_price": 87.62
+            }
+        ]
+    }
+}

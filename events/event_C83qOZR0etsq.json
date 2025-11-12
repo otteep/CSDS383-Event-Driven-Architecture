@@ -1,0 +1,26 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-VT7jvnJo",
+        "supplier_contact": "supplierVT7jvnJo@example.com",
+        "products": [
+            {
+                "product_name": "Product-animi-mollitia",
+                "product_description": "Consectetur deserunt qui asperiores aperiam tempora accusamus iste, perferendis necessitatibus natus laudantium doloribus libero esse, libero et sint incidunt enim excepturi, ullam repudiandae dignissimos odit fugit earum nulla animi veniam necessitatibus.",
+                "product_quantity": 58,
+                "product_price": 18.3
+            },
+            {
+                "product_name": "Product-tempora-placeat",
+                "product_description": "Nam sed ipsam harum eligendi, atque sapiente ducimus odit repellat qui fuga ut, amet non ullam aliquid fugiat illum?",
+                "product_quantity": 89,
+                "product_price": 30.72
+            },
+            {
+                "product_name": "Product-expedita-ducimus",
+                "product_description": "Quae recusandae enim laborum officiis labore quisquam aliquam, autem fugiat ipsum iure placeat, soluta animi officia voluptate odit libero ullam.",
+                "product_quantity": 3,
+                "product_price": 63.97
+            }
+        ]
+    }
+}

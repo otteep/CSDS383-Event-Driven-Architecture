@@ -1,0 +1,19 @@
+{
+    "supplier": {
+        "supplier_contact": "supplierDku2hzAl@example.com",
+        "products": [
+            {
+                "product_name": "Product-hic-exercitationem",
+                "product_description": "Corporis corrupti eveniet incidunt consequatur vel sed tempora, rerum iste at blanditiis aperiam tempore et eligendi, aut quod quia fugit necessitatibus magnam cumque omnis cum perferendis impedit, a debitis veritatis iusto atque mollitia magni itaque corporis reprehenderit?",
+                "product_quantity": 78,
+                "product_price": 50.34
+            },
+            {
+                "product_name": "Product-possimus-quidem",
+                "product_description": "Voluptatum praesentium aperiam laborum consectetur soluta officiis omnis doloremque odit, molestiae facilis id nam asperiores perspiciatis labore minus fuga quos eum, officia dolorum reprehenderit libero assumenda a mollitia qui nulla cumque necessitatibus ex, doloremque eligendi aliquam.",
+                "product_quantity": 25,
+                "product_price": 68.56
+            }
+        ]
+    }
+}

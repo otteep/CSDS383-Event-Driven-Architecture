@@ -1,0 +1,26 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-MpTZ8luj",
+        "supplier_contact": "supplierMpTZ8luj@example.com",
+        "products": [
+            {
+                "product_name": "Product-autem-sunt",
+                "product_description": "Illum est debitis autem saepe similique ducimus eligendi, deserunt autem atque error eum quis ipsam architecto dignissimos eius, eius beatae maiores veniam assumenda laborum impedit fugit explicabo voluptatum vero quaerat, aliquid odit at blanditiis dolorum iusto?",
+                "product_quantity": 90,
+                "product_price": 26.12
+            },
+            {
+                "product_name": "Product-dolorem-doloremque",
+                "product_description": "Deleniti aspernatur sint cupiditate obcaecati quo, voluptatibus ad nulla, voluptate inventore tempore repudiandae temporibus soluta nisi, obcaecati omnis fugiat atque quidem accusantium ipsam?",
+                "product_quantity": 48,
+                "product_price": 52.86
+            },
+            {
+                "product_name": "Product-quos-eum",
+                "product_description": "Laboriosam officia nostrum perferendis maiores cumque, natus maiores excepturi est non, saepe distinctio porro soluta laborum?",
+                "product_quantity": 85,
+                "product_price": 64.19
+            }
+        ]
+    }
+}

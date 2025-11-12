@@ -1,0 +1,20 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-IOVjY645",
+        "supplier_contact": "supplierIOVjY645@example.com",
+        "products": [
+            {
+                "product_name": "Product-quidem-earum",
+                "product_description": "Doloremque molestiae ab ut dignissimos porro itaque nemo mollitia soluta architecto ex, facilis modi exercitationem animi in perferendis voluptatem fugiat nostrum placeat repudiandae omnis, quia fuga quasi maiores, cum commodi quam et.",
+                "product_quantity": 3,
+                "product_price": 9.98
+            },
+            {
+                "product_name": "Product-nisi-necessitatibus",
+                "product_description": "Sapiente quidem sit reprehenderit adipisci, eum sit quos tenetur at suscipit aut officiis, eligendi fugiat at facilis?",
+                "product_quantity": 88,
+                "product_price": 30.51
+            }
+        ]
+    }
+}

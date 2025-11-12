@@ -1,0 +1,38 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-qNfWIXs4",
+        "supplier_contact": "supplierqNfWIXs4@example.com",
+        "products": [
+            {
+                "product_name": "Product-hic-distinctio",
+                "product_description": "Id nulla deserunt, sit libero laudantium perferendis aliquam error, consectetur corporis esse blanditiis harum ex ipsam soluta tenetur perspiciatis veniam nihil, quos distinctio necessitatibus totam laborum laboriosam voluptatum eaque inventore veniam fuga, accusantium vero non libero reiciendis.",
+                "product_quantity": 98,
+                "product_price": 81.12
+            },
+            {
+                "product_name": "Product-temporibus-incidunt",
+                "product_description": "Nesciunt mollitia quibusdam eius beatae eaque aut quaerat aperiam magni laboriosam, dignissimos omnis nam quisquam magni adipisci velit minima quia maiores, laborum officia repellat similique eligendi at dolor fugit, quidem facere ullam eos.",
+                "product_quantity": 91,
+                "product_price": 96.25
+            },
+            {
+                "product_name": "Product-illum-fugiat",
+                "product_description": "Sed quo quod, consectetur at aspernatur id possimus quos doloribus explicabo quas, temporibus consectetur nesciunt harum saepe reprehenderit quod iusto ab facere commodi, distinctio numquam debitis voluptates veniam, commodi temporibus vero quod nulla natus.",
+                "product_quantity": 70,
+                "product_price": 40.08
+            },
+            {
+                "product_name": "Product-repudiandae-fugit",
+                "product_description": "Fugiat at cupiditate a, eum consectetur et non quae soluta omnis, odio aliquid in voluptate recusandae delectus vero cumque deleniti expedita placeat, dolores recusandae ipsum explicabo, id doloremque officiis beatae corporis vitae neque natus aliquid?",
+                "product_quantity": 39,
+                "product_price": 56.54
+            },
+            {
+                "product_name": "Product-ducimus-eligendi",
+                "product_description": "Dolore neque rerum tenetur doloremque earum sapiente maxime eveniet temporibus quas, blanditiis laboriosam iste id quae nisi rerum perspiciatis excepturi, ad atque consectetur ipsam facilis nostrum necessitatibus excepturi?",
+                "product_quantity": 41,
+                "product_price": 74.5
+            }
+        ]
+    }
+}

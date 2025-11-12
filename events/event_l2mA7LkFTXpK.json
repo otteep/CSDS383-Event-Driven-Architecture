@@ -1,0 +1,38 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-5DL8jVGU",
+        "supplier_contact": "supplier5DL8jVGU@example.com",
+        "products": [
+            {
+                "product_name": "Product-id-voluptatibus",
+                "product_description": "Unde quidem deserunt suscipit, ullam animi facere consectetur nulla, cumque cum iure laboriosam blanditiis modi fugit fugiat, accusantium molestiae deserunt harum?",
+                "product_quantity": 31,
+                "product_price": 13.85
+            },
+            {
+                "product_name": "Product-illum-perferendis",
+                "product_description": "Ex illum libero, temporibus quis ducimus commodi reiciendis sapiente natus consectetur, dolores repellendus soluta consequatur excepturi odio corporis fuga sint numquam, illo nam sit consectetur eveniet, repudiandae quidem similique pariatur facilis nam modi animi perferendis est fugit esse.",
+                "product_quantity": 83,
+                "product_price": 77.1
+            },
+            {
+                "product_name": "Product-pariatur-asperiores",
+                "product_description": "Asperiores magnam optio quas perferendis blanditiis dicta, magnam aperiam officia voluptates reprehenderit facere pariatur praesentium quo cum saepe, itaque ipsum suscipit delectus repellat animi?",
+                "product_quantity": 61,
+                "product_price": 94.54
+            },
+            {
+                "product_name": "Product-qui-voluptate",
+                "product_description": "Magnam reiciendis illum deserunt dolorem voluptatum asperiores iste nesciunt quod, dolorum ad omnis aut, repellendus aliquid animi molestias quisquam inventore odit delectus fugiat, dolorum temporibus quis numquam, obcaecati hic similique saepe mollitia.",
+                "product_quantity": 56,
+                "product_price": 26.49
+            },
+            {
+                "product_name": "Product-mollitia-modi",
+                "product_description": "Laboriosam deserunt beatae sed quis nulla, porro aliquam officiis pariatur sequi mollitia, voluptatum assumenda blanditiis molestiae, molestias quis quas soluta nisi veritatis repudiandae quos expedita accusantium voluptate, nobis dolorum ea debitis eveniet natus?",
+                "product_quantity": 85,
+                "product_price": 44.75
+            }
+        ]
+    }
+}

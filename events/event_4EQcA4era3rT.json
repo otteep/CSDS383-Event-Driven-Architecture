@@ -1,0 +1,20 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-jLr5GOUO",
+        "supplier_contact": "supplierjLr5GOUO@example.com",
+        "products": [
+            {
+                "product_name": "Product-dignissimos-nesciunt",
+                "product_description": "Perferendis cumque officia aut deserunt molestias earum at, at molestiae harum dolores?",
+                "product_quantity": 98,
+                "product_price": 46.98
+            },
+            {
+                "product_name": "Product-aperiam-odit",
+                "product_description": "Ducimus quia aperiam fuga eaque eius obcaecati, corrupti eos accusantium, neque ipsum quae unde quasi ad hic illo tempore.",
+                "product_quantity": 45,
+                "product_price": 27.84
+            }
+        ]
+    }
+}

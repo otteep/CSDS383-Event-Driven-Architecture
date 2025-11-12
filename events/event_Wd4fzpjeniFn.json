@@ -1,0 +1,20 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-FrdqXvC8",
+        "supplier_contact": "supplierFrdqXvC8@example.com",
+        "products": [
+            {
+                "product_name": "Product-architecto-perferendis",
+                "product_description": "Voluptatum laboriosam quidem cumque fuga culpa, sed doloremque nulla numquam consequatur velit esse maiores nisi.",
+                "product_quantity": 33,
+                "product_price": 1.89
+            },
+            {
+                "product_name": "Product-inventore-ducimus",
+                "product_description": "Facere minus harum odio asperiores aliquam iure voluptates iste doloremque rem, reprehenderit voluptatum id eum explicabo quaerat nam accusantium alias reiciendis?",
+                "product_quantity": 31,
+                "product_price": 39.98
+            }
+        ]
+    }
+}

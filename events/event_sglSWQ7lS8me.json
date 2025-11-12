@@ -1,0 +1,20 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-85P0FDja",
+        "supplier_contact": "supplier85P0FDja@example.com",
+        "products": [
+            {
+                "product_name": "Product-natus-doloremque",
+                "product_description": "Quod quia quasi assumenda adipisci maxime odio provident eveniet corrupti nesciunt nobis, ullam quo molestias dignissimos aliquid minima, eos aperiam illo laboriosam?",
+                "product_quantity": 72,
+                "product_price": 78.53
+            },
+            {
+                "product_name": "Product-eius-non",
+                "product_description": "Itaque error magnam asperiores provident perferendis suscipit doloribus illo veniam eligendi, libero officia nisi voluptatum dolores sapiente iste similique doloremque, non temporibus dolor, ratione fugiat dicta nostrum nihil ea, nesciunt repellat commodi cum dolor?",
+                "product_quantity": 50,
+                "product_price": 96.32
+            }
+        ]
+    }
+}

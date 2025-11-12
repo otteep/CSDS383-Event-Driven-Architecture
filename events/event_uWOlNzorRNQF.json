@@ -1,0 +1,19 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-mksDAAHn",
+        "supplier_contact": "suppliermksDAAHn@example.com",
+        "products": [
+            {
+                "product_name": "Product-illo-perferendis",
+                "product_description": "Consequatur molestiae magnam, sint laborum iste quaerat incidunt, iure fugiat minus?",
+                "product_quantity": 88,
+                "product_price": 33.4
+            },
+            {
+                "product_name": "Product-beatae-reiciendis",
+                "product_quantity": 17,
+                "product_price": 2.96
+            }
+        ]
+    }
+}

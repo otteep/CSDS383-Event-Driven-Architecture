@@ -1,0 +1,14 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-zKvvUReV",
+        "supplier_contact": "supplierzKvvUReV@example.com",
+        "products": [
+            {
+                "product_name": "Product-animi-excepturi",
+                "product_description": "Consequuntur modi esse assumenda expedita quos, modi ea mollitia ad nisi ut et commodi cum, atque distinctio eveniet voluptas culpa corporis cum tempora laboriosam, asperiores ullam vitae delectus quaerat dolore quod deleniti perspiciatis.",
+                "product_quantity": 35,
+                "product_price": 81.52
+            }
+        ]
+    }
+}

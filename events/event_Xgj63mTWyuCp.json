@@ -1,0 +1,32 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-2Lvr5SRr",
+        "supplier_contact": "supplier2Lvr5SRr@example.com",
+        "products": [
+            {
+                "product_name": "Product-nostrum-expedita",
+                "product_description": "Voluptate illo veniam repellendus magnam, distinctio provident minus necessitatibus libero, est repudiandae qui nisi molestiae veniam adipisci.",
+                "product_quantity": 90,
+                "product_price": 56.1
+            },
+            {
+                "product_name": "Product-mollitia-ab",
+                "product_description": "Ratione iusto doloremque dicta officia voluptate delectus laborum eligendi tempora, sint dignissimos iure itaque quam, aliquam velit quo sint labore, illo at expedita repellendus voluptatem?",
+                "product_quantity": 52,
+                "product_price": 84.8
+            },
+            {
+                "product_name": "Product-ipsam-provident",
+                "product_description": "Iste ipsam ullam perspiciatis, ea nihil ab ducimus consequuntur harum, modi facilis alias velit, accusamus cum blanditiis hic odit voluptatem nam quaerat quam magnam explicabo, maiores quibusdam odio repudiandae sed vel autem?",
+                "product_quantity": 66,
+                "product_price": 30.88
+            },
+            {
+                "product_name": "Product-praesentium-harum",
+                "product_description": "Odio quia quos saepe temporibus architecto, libero vel unde dolor reiciendis provident vero consectetur velit explicabo cupiditate voluptatem?",
+                "product_quantity": 74,
+                "product_price": 85.46
+            }
+        ]
+    }
+}

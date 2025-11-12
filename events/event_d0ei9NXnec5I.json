@@ -1,0 +1,14 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-cd9XVKXZ",
+        "supplier_contact": "suppliercd9XVKXZ@example.com",
+        "products": [
+            {
+                "product_name": "Product-aut-blanditiis",
+                "product_description": "Quae reiciendis quasi dignissimos porro quam molestiae eum enim suscipit ut, voluptatum saepe molestiae ducimus consequatur at eos eaque accusamus.",
+                "product_quantity": 41,
+                "product_price": 31.13
+            }
+        ]
+    }
+}

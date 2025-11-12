@@ -1,0 +1,32 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-ABQC6Pfq",
+        "supplier_contact": "supplierABQC6Pfq@example.com",
+        "products": [
+            {
+                "product_name": "Product-nostrum-obcaecati",
+                "product_description": "Iusto necessitatibus maiores, repudiandae explicabo magni voluptatibus nobis aperiam, vitae magni dolores?",
+                "product_quantity": 16,
+                "product_price": 26.49
+            },
+            {
+                "product_name": "Product-rem-recusandae",
+                "product_description": "Delectus cum aliquam velit fugit quam iusto ad laboriosam est tenetur a, excepturi praesentium consequuntur reiciendis repudiandae.",
+                "product_quantity": 14,
+                "product_price": 72.09
+            },
+            {
+                "product_name": "Product-impedit-omnis",
+                "product_description": "Voluptates harum quo, esse nisi vitae labore et voluptatem nemo delectus rem amet, aliquid reprehenderit repudiandae esse enim fugiat facere dignissimos voluptatum voluptates ratione, labore maiores quis in libero quae harum obcaecati?",
+                "product_quantity": 52,
+                "product_price": 24.49
+            },
+            {
+                "product_name": "Product-dolorum-necessitatibus",
+                "product_description": "Similique deleniti quis eum sed ea harum impedit tempora alias, alias quidem sequi necessitatibus quasi earum perferendis, molestiae enim aliquid nihil neque unde nostrum obcaecati eius facilis?",
+                "product_quantity": 29,
+                "product_price": 28.27
+            }
+        ]
+    }
+}

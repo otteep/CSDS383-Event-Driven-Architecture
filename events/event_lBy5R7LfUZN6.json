@@ -1,0 +1,26 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-RONVt3LJ",
+        "supplier_contact": "supplierRONVt3LJ@example.com",
+        "products": [
+            {
+                "product_name": "Product-explicabo-veritatis",
+                "product_description": "Animi perspiciatis beatae quas accusantium placeat debitis totam rerum est obcaecati, a architecto distinctio voluptatibus, laudantium ab reiciendis necessitatibus excepturi eius nesciunt odit est eligendi labore.",
+                "product_quantity": 77,
+                "product_price": 45.28
+            },
+            {
+                "product_name": "Product-reprehenderit-fugit",
+                "product_description": "Consequatur quos deserunt culpa expedita corrupti, iste facere perspiciatis tenetur excepturi asperiores deleniti nesciunt.",
+                "product_quantity": 2,
+                "product_price": 82.45
+            },
+            {
+                "product_name": "Product-nulla-praesentium",
+                "product_description": "Vero beatae dolor, esse dolor voluptatibus aliquam voluptate aperiam pariatur?",
+                "product_quantity": 74,
+                "product_price": 9.71
+            }
+        ]
+    }
+}

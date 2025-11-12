@@ -1,0 +1,26 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-DmSiPYAv",
+        "supplier_contact": "supplierDmSiPYAv@example.com",
+        "products": [
+            {
+                "product_name": "Product-dolor-velit",
+                "product_description": "A porro eos voluptatum aspernatur fugit rem non, vel eligendi molestias?",
+                "product_quantity": 33,
+                "product_price": 57.92
+            },
+            {
+                "product_name": "Product-sit-libero",
+                "product_description": "Adipisci dignissimos quia, dolor dolorem aliquid placeat quibusdam sequi itaque ratione eaque pariatur alias animi?",
+                "product_quantity": 36,
+                "product_price": 41.39
+            },
+            {
+                "product_name": "Product-provident-iure",
+                "product_description": "Blanditiis repellat ipsa praesentium reiciendis aperiam voluptatum ad tempora doloremque expedita esse, consectetur unde provident, deleniti optio provident maiores cum praesentium?",
+                "product_quantity": 56,
+                "product_price": 87.93
+            }
+        ]
+    }
+}

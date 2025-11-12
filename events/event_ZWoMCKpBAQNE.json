@@ -1,0 +1,26 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-OM4a1ZDy",
+        "supplier_contact": "supplierOM4a1ZDy@example.com",
+        "products": [
+            {
+                "product_name": "Product-quo-dolores",
+                "product_description": "Enim exercitationem fugiat hic molestiae asperiores eveniet distinctio, nesciunt ut quaerat autem voluptates cumque, fugiat voluptates labore nisi aliquam, tempore distinctio voluptates nesciunt quibusdam atque?",
+                "product_quantity": 15,
+                "product_price": 89.48
+            },
+            {
+                "product_name": "Product-officia-aperiam",
+                "product_description": "Delectus vero magnam consectetur quam cumque amet, laborum illo accusantium excepturi facilis, blanditiis corporis perspiciatis deserunt magni?",
+                "product_quantity": 90,
+                "product_price": 27.67
+            },
+            {
+                "product_name": "Product-id-labore",
+                "product_description": "Ratione vero earum eaque autem distinctio nemo ducimus dolore dolores voluptatem voluptate, quod corporis facilis?",
+                "product_quantity": 96,
+                "product_price": 38.82
+            }
+        ]
+    }
+}

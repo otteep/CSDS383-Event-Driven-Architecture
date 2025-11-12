@@ -1,0 +1,38 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-9HV9cFaB",
+        "supplier_contact": "supplier9HV9cFaB@example.com",
+        "products": [
+            {
+                "product_name": "Product-et-minima",
+                "product_description": "Nobis quam repudiandae perspiciatis, illo expedita maxime saepe quae ab, rerum cumque amet adipisci, officiis modi ab magni?",
+                "product_quantity": 66,
+                "product_price": 42.69
+            },
+            {
+                "product_name": "Product-totam-alias",
+                "product_description": "Consequatur dicta eius, dolore dolores amet repellat voluptas autem reiciendis.",
+                "product_quantity": 94,
+                "product_price": 62.91
+            },
+            {
+                "product_name": "Product-explicabo-veritatis",
+                "product_description": "Eum tempora ipsum repudiandae corrupti voluptatem explicabo, temporibus pariatur laboriosam architecto labore officiis hic quidem unde, atque doloribus distinctio inventore consectetur dignissimos magnam cumque possimus modi placeat, alias temporibus cupiditate asperiores sit aspernatur nulla suscipit laudantium.",
+                "product_quantity": 10,
+                "product_price": 94.92
+            },
+            {
+                "product_name": "Product-quod-vel",
+                "product_description": "Possimus hic dolores aut totam iste similique ullam quod autem pariatur, quibusdam ab quidem voluptatem atque laborum corrupti adipisci modi, eum architecto non atque voluptatem deleniti obcaecati error id, quo perferendis nam maxime.",
+                "product_quantity": 58,
+                "product_price": 35.18
+            },
+            {
+                "product_name": "Product-dolorum-velit",
+                "product_description": "Provident odio quia omnis neque illo quis nemo, suscipit qui sunt adipisci commodi iusto excepturi voluptates iste aut, error porro rerum magni maiores eligendi molestiae distinctio nostrum odit ab, aliquam eius eos enim debitis asperiores alias quas corporis excepturi, sed architecto est nisi cum soluta ea rerum vitae et ad necessitatibus.",
+                "product_quantity": 87,
+                "product_price": 98.91
+            }
+        ]
+    }
+}

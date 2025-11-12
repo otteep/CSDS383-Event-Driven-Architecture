@@ -1,0 +1,38 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-OPPDH98d",
+        "supplier_contact": "supplierOPPDH98d@example.com",
+        "products": [
+            {
+                "product_name": "Product-optio-maxime",
+                "product_description": "Recusandae repellendus amet dignissimos ut perferendis quia quis ab, esse odio hic aut aspernatur rem id molestiae atque obcaecati repellat dolore, reiciendis vero aspernatur velit odit quibusdam alias inventore maxime assumenda, unde cupiditate accusantium voluptatibus adipisci provident vero perferendis iure?",
+                "product_quantity": 71,
+                "product_price": 38.88
+            },
+            {
+                "product_name": "Product-quidem-vel",
+                "product_description": "Tempore dolorum molestiae perspiciatis beatae vero culpa voluptas cupiditate eaque, aspernatur nostrum voluptatum illo ratione odit possimus necessitatibus, hic soluta laborum explicabo alias incidunt accusantium doloribus similique, atque quis nesciunt quia quisquam est recusandae tempora velit praesentium dolores commodi.",
+                "product_quantity": 32,
+                "product_price": 53.03
+            },
+            {
+                "product_name": "Product-dicta-harum",
+                "product_description": "Atque omnis a commodi amet quos animi officia repellendus totam qui, totam earum harum omnis ipsum sunt cumque blanditiis nisi neque?",
+                "product_quantity": 76,
+                "product_price": 49.95
+            },
+            {
+                "product_name": "Product-accusantium-dolore",
+                "product_description": "Tenetur itaque iste nulla cumque maxime neque unde suscipit quasi, nostrum neque facere aliquid quibusdam id voluptate, dicta fugit placeat.",
+                "product_quantity": 9,
+                "product_price": 3.62
+            },
+            {
+                "product_name": "Product-autem-laboriosam",
+                "product_description": "Repellendus dolore eaque ad numquam sit, eaque magni delectus perferendis officia fugiat asperiores quam unde veritatis incidunt eum, quibusdam dolore ut molestiae ipsum repellendus voluptatibus et.",
+                "product_quantity": 8,
+                "product_price": 1.32
+            }
+        ]
+    }
+}

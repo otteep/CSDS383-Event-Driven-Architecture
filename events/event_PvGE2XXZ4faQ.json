@@ -1,0 +1,14 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-dwJbuCUK",
+        "supplier_contact": "supplierdwJbuCUK@example.com",
+        "products": [
+            {
+                "product_name": "Product-provident-facilis",
+                "product_description": "Saepe hic repellat praesentium rem laboriosam beatae est, inventore harum porro veritatis, odio officiis deleniti.",
+                "product_quantity": 6,
+                "product_price": 75.99
+            }
+        ]
+    }
+}

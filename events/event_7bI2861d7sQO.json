@@ -1,0 +1,36 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-xKU0BYE6",
+        "supplier_contact": "supplierxKU0BYE6@example.com",
+        "products": [
+            {
+                "product_name": "Product-odio-iusto",
+                "product_description": "Eaque molestias accusamus velit tempora non esse nam reprehenderit harum, provident nihil et, assumenda rem libero similique repudiandae quos quas reiciendis laboriosam error, eligendi fugiat quae labore magni quis in possimus sed?",
+                "product_quantity": 70,
+                "product_price": 87.4
+            },
+            {
+                "product_name": "Product-eius-voluptas",
+                "product_description": "Similique sint odit, aspernatur quis pariatur delectus rerum cumque beatae sequi ad nemo tempore iste, a commodi voluptatem architecto ut delectus animi officiis pariatur alias laudantium, perferendis ratione provident exercitationem culpa doloremque tenetur repudiandae, praesentium earum nisi autem at esse neque molestias placeat veniam assumenda?",
+                "product_price": 34.41
+            },
+            {
+                "product_description": "Vitae at assumenda et sunt vero neque, suscipit quas incidunt velit ex atque sunt dolores repudiandae fugit architecto saepe, reiciendis inventore praesentium, nisi ut dolor magnam eaque praesentium esse maiores animi fuga.",
+                "product_quantity": 96,
+                "product_price": 92.05
+            },
+            {
+                "product_name": "Product-ducimus-doloribus",
+                "product_description": "Iusto vitae ipsum blanditiis repellendus quo hic architecto, voluptatem officiis saepe hic impedit neque voluptas quis facilis libero recusandae tempora?",
+                "product_quantity": 59,
+                "product_price": 20.42
+            },
+            {
+                "product_name": "Product-adipisci-laboriosam",
+                "product_description": "Perspiciatis magnam repellat commodi repellendus, delectus repellat exercitationem nisi sed commodi dolore cumque adipisci ratione, vel inventore nulla beatae obcaecati nihil ab placeat, nisi aliquid tenetur dolore.",
+                "product_quantity": 80,
+                "product_price": 72.47
+            }
+        ]
+    }
+}

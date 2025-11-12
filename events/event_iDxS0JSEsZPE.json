@@ -1,0 +1,37 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-alCXSLSz",
+        "products": [
+            {
+                "product_name": "Product-accusantium-officia",
+                "product_description": "Ipsum facere similique nostrum fugiat voluptas consectetur temporibus animi, totam eveniet quod necessitatibus explicabo quis, ex consectetur enim tenetur fugit iure sit aliquam ducimus, repudiandae repellat labore necessitatibus earum adipisci possimus fugit cupiditate atque velit, omnis rerum expedita aliquam ipsam velit sapiente necessitatibus?",
+                "product_quantity": 94,
+                "product_price": 58.73
+            },
+            {
+                "product_name": "Product-dolore-error",
+                "product_description": "Sed excepturi tempore ratione doloremque enim, dicta eius praesentium iusto?",
+                "product_quantity": 78,
+                "product_price": 2.19
+            },
+            {
+                "product_name": "Product-rem-blanditiis",
+                "product_description": "Laboriosam illo numquam, quaerat iusto delectus nostrum dolores nesciunt, ipsa expedita sequi esse porro reprehenderit deserunt, nihil alias error totam voluptatum sint inventore iusto nostrum quia?",
+                "product_quantity": 71,
+                "product_price": 32.15
+            },
+            {
+                "product_name": "Product-doloremque-qui",
+                "product_description": "Repudiandae illum enim tempora fugit explicabo reiciendis ea esse ratione nobis, minus aspernatur alias, quod aliquid fugit.",
+                "product_quantity": 50,
+                "product_price": 24.94
+            },
+            {
+                "product_name": "Product-saepe-veritatis",
+                "product_description": "Ut corporis itaque, consequuntur hic impedit quam maiores similique itaque exercitationem dolore, dolores earum sapiente minus alias blanditiis possimus temporibus vel dolore deleniti, quia harum dignissimos recusandae quod facere.",
+                "product_quantity": 42,
+                "product_price": 4.14
+            }
+        ]
+    }
+}

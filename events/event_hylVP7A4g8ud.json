@@ -1,0 +1,38 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-9HiLXOex",
+        "supplier_contact": "supplier9HiLXOex@example.com",
+        "products": [
+            {
+                "product_name": "Product-totam-quos",
+                "product_description": "Quaerat quos fuga, aliquid exercitationem temporibus voluptas quo eligendi hic, tempore voluptatem autem similique a impedit consectetur laudantium repellat eligendi, similique modi porro molestias voluptatum ut illum optio ipsa suscipit?",
+                "product_quantity": 15,
+                "product_price": 68.46
+            },
+            {
+                "product_name": "Product-quibusdam-ipsa",
+                "product_description": "Repellendus quae maxime, vero voluptatem sit laboriosam velit aspernatur ratione rem officia illum sapiente eos, quod saepe eum ex nulla consectetur blanditiis dolores magnam porro ratione, veritatis perferendis id aspernatur, sit ut est dicta deserunt porro consequatur ex impedit cupiditate debitis.",
+                "product_quantity": 44,
+                "product_price": 99.72
+            },
+            {
+                "product_name": "Product-esse-inventore",
+                "product_description": "Voluptatibus corporis possimus itaque accusantium voluptatem doloremque autem voluptate, ex a in quas, minima unde omnis commodi ipsum officia pariatur laboriosam quis velit eaque deserunt, fugiat reprehenderit aspernatur commodi nesciunt assumenda alias mollitia?",
+                "product_quantity": 76,
+                "product_price": 35.75
+            },
+            {
+                "product_name": "Product-provident-et",
+                "product_description": "Officia rerum vero maiores nisi voluptates in natus possimus nihil, qui ab maiores, obcaecati eius ullam eum distinctio ipsum saepe autem adipisci.",
+                "product_quantity": 27,
+                "product_price": 81.11
+            },
+            {
+                "product_name": "Product-et-itaque",
+                "product_description": "Qui fugiat minus commodi quibusdam ratione unde dolorum quis corrupti, praesentium ipsum ex inventore delectus, laudantium reprehenderit officiis inventore voluptatum voluptatem fugiat ipsam quibusdam nihil, est id enim earum ipsa adipisci laudantium quas praesentium nostrum fugit, blanditiis impedit aliquam.",
+                "product_quantity": 26,
+                "product_price": 36.25
+            }
+        ]
+    }
+}

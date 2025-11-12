@@ -1,0 +1,38 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-bTAtXgSl",
+        "supplier_contact": "supplierbTAtXgSl@example.com",
+        "products": [
+            {
+                "product_name": "Product-esse-nostrum",
+                "product_description": "Quibusdam pariatur temporibus, suscipit molestiae quisquam dolorum libero vitae eveniet ullam atque, doloremque quam placeat blanditiis corporis id aut praesentium ullam porro?",
+                "product_quantity": 57,
+                "product_price": 34.37
+            },
+            {
+                "product_name": "Product-voluptate-possimus",
+                "product_description": "Aliquam beatae animi optio soluta deserunt, sapiente totam rerum maxime, expedita nihil deserunt id ad blanditiis natus sapiente molestias obcaecati.",
+                "product_quantity": 71,
+                "product_price": 71.67
+            },
+            {
+                "product_name": "Product-voluptatum-repellat",
+                "product_description": "Laborum incidunt doloremque nihil, praesentium tempore eius dolor culpa magnam, officia illum similique culpa nesciunt velit animi necessitatibus, voluptatem saepe porro quae rem tempore nostrum maiores laborum.",
+                "product_quantity": 66,
+                "product_price": 39.72
+            },
+            {
+                "product_name": "Product-deleniti-mollitia",
+                "product_description": "Ratione voluptatem laborum repudiandae laboriosam cupiditate autem harum enim, distinctio et pariatur reprehenderit vero hic cumque voluptates, illo explicabo expedita autem, eum quos est natus voluptate odit minus tenetur ipsam totam corrupti iure, distinctio assumenda error iste debitis id cum ipsum mollitia molestiae?",
+                "product_quantity": 29,
+                "product_price": 90.42
+            },
+            {
+                "product_name": "Product-pariatur-aut",
+                "product_description": "Beatae dicta amet est, ratione nisi dolore sequi saepe accusantium, minima ad laborum facilis saepe at in tenetur aliquam deleniti, eius nam voluptate ullam sed cupiditate nisi omnis eveniet quasi quos illum, consequatur porro velit expedita aperiam laudantium?",
+                "product_quantity": 38,
+                "product_price": 51.38
+            }
+        ]
+    }
+}

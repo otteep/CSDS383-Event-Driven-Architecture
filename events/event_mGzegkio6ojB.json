@@ -1,0 +1,37 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-Uy8g6AEc",
+        "supplier_contact": "supplierUy8g6AEc@example.com",
+        "products": [
+            {
+                "product_name": "Product-dignissimos-quia",
+                "product_description": "Perspiciatis repellat beatae, ipsum commodi eius voluptatum atque et fugiat explicabo impedit.",
+                "product_quantity": 57,
+                "product_price": 64.28
+            },
+            {
+                "product_name": "Product-iste-consequuntur",
+                "product_description": "Laboriosam est consectetur a, totam quasi sed ducimus vero cum corporis iste nesciunt, consectetur mollitia error adipisci qui nisi facere atque itaque magni.",
+                "product_quantity": 9,
+                "product_price": 37.38
+            },
+            {
+                "product_name": "Product-sit-quia",
+                "product_description": "In reiciendis itaque impedit, consectetur dolorem architecto voluptate ea asperiores non, eos voluptas veritatis magnam expedita voluptate pariatur doloribus quas architecto voluptatibus, tempore nobis tenetur suscipit quam, ratione eius asperiores voluptatem quisquam quae?",
+                "product_quantity": 18,
+                "product_price": 26.5
+            },
+            {
+                "product_name": "Product-dolor-explicabo",
+                "product_description": "Dolores possimus laborum nulla aliquid ipsum obcaecati itaque, aliquid eveniet ratione ducimus quidem eum labore praesentium adipisci animi placeat.",
+                "product_price": 32.33
+            },
+            {
+                "product_name": "Product-ratione-debitis",
+                "product_description": "Mollitia modi sapiente quos itaque magni, quis ducimus vel vitae, magni porro quo, iure debitis repudiandae magni facilis commodi ea explicabo accusamus beatae, corrupti consectetur ab distinctio iusto iste quisquam adipisci nulla laudantium necessitatibus saepe.",
+                "product_quantity": 19,
+                "product_price": 10.39
+            }
+        ]
+    }
+}

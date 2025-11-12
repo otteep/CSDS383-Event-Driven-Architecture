@@ -1,0 +1,20 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-LCuOXkNB",
+        "supplier_contact": "supplierLCuOXkNB@example.com",
+        "products": [
+            {
+                "product_name": "Product-adipisci-aspernatur",
+                "product_description": "Provident nihil inventore id odit dolorem maxime pariatur itaque, in dolor dolorem repellat eos magnam voluptates ipsam adipisci nobis qui?",
+                "product_quantity": 34,
+                "product_price": 42.54
+            },
+            {
+                "product_name": "Product-facilis-numquam",
+                "product_description": "Quasi cum cumque fuga, laudantium architecto quos accusantium illum aliquam quia qui quae repellat minima?",
+                "product_quantity": 76,
+                "product_price": 70.44
+            }
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-Vu1rMTPt",
+        "supplier_contact": "supplierVu1rMTPt@example.com",
+        "products": [
+            {
+                "product_name": "Product-sint-beatae",
+                "product_description": "Libero dolorum consectetur porro sequi tempora eaque, iusto nam ex pariatur ut ad quasi sit dolorum modi rem voluptas, quas molestias illum optio similique officia?",
+                "product_quantity": 24,
+                "product_price": 8.3
+            }
+        ]
+    }
+}

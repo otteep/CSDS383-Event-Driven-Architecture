@@ -1,0 +1,26 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-p2vsjA5l",
+        "supplier_contact": "supplierp2vsjA5l@example.com",
+        "products": [
+            {
+                "product_name": "Product-in-nam",
+                "product_description": "Dicta quia vero earum, aut itaque facilis consequatur, quisquam cupiditate id officia velit voluptatum labore culpa ad tenetur explicabo, non corrupti nostrum exercitationem minus repellendus ipsam, nobis pariatur delectus blanditiis possimus cum nihil corporis dolor libero.",
+                "product_quantity": 43,
+                "product_price": 60.68
+            },
+            {
+                "product_name": "Product-atque-harum",
+                "product_description": "Laborum distinctio iusto sequi, a porro maxime deleniti dolorum quis at minus nam natus, molestias repudiandae consequatur corporis incidunt ipsa, dolore in excepturi adipisci expedita doloremque, ipsa et culpa?",
+                "product_quantity": 84,
+                "product_price": 57.65
+            },
+            {
+                "product_name": "Product-eos-repellendus",
+                "product_description": "Aliquid totam similique, facere vel ex esse labore non libero.",
+                "product_quantity": 12,
+                "product_price": 88.22
+            }
+        ]
+    }
+}

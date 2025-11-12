@@ -1,0 +1,14 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-aJb5NHe1",
+        "supplier_contact": "supplieraJb5NHe1@example.com",
+        "products": [
+            {
+                "product_name": "Product-itaque-harum",
+                "product_description": "Quis aspernatur magnam commodi eos, ex modi tenetur maiores assumenda quidem minima dignissimos odio sunt provident?",
+                "product_quantity": 91,
+                "product_price": 5.57
+            }
+        ]
+    }
+}

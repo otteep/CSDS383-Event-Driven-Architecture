@@ -1,0 +1,26 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-isPpWni6",
+        "supplier_contact": "supplierisPpWni6@example.com",
+        "products": [
+            {
+                "product_name": "Product-architecto-quisquam",
+                "product_description": "Esse debitis labore delectus ad, doloribus similique sed aliquid nam?",
+                "product_quantity": 32,
+                "product_price": 8.65
+            },
+            {
+                "product_name": "Product-praesentium-mollitia",
+                "product_description": "Quod hic nihil, eligendi obcaecati amet fugit iure?",
+                "product_quantity": 79,
+                "product_price": 50.75
+            },
+            {
+                "product_name": "Product-possimus-vel",
+                "product_description": "Debitis cupiditate ea qui earum vel eveniet repellendus architecto, ad atque odio incidunt quaerat, consequatur et enim laboriosam ullam sit quod.",
+                "product_quantity": 17,
+                "product_price": 20.46
+            }
+        ]
+    }
+}

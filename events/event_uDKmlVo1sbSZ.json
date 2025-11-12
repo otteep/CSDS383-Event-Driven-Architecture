@@ -1,0 +1,14 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-GLCcjfHh",
+        "supplier_contact": "supplierGLCcjfHh@example.com",
+        "products": [
+            {
+                "product_name": "Product-suscipit-beatae",
+                "product_description": "Ut quis dolor in ipsum, consequatur ratione quod saepe nostrum molestiae rem temporibus autem consequuntur, maxime sunt non sequi totam nobis exercitationem eos?",
+                "product_quantity": 99,
+                "product_price": 26.8
+            }
+        ]
+    }
+}

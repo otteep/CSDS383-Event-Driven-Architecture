@@ -1,0 +1,20 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-6d2gufOl",
+        "supplier_contact": "supplier6d2gufOl@example.com",
+        "products": [
+            {
+                "product_name": "Product-quaerat-ut",
+                "product_description": "Animi placeat aliquam aperiam, maiores fugiat itaque obcaecati minus officia nostrum ea dolorum a earum minima, repudiandae dolor eligendi deleniti fugiat minima eveniet numquam excepturi porro qui harum, nemo omnis autem esse quam consectetur fugit repudiandae amet similique?",
+                "product_quantity": 67,
+                "product_price": 44.16
+            },
+            {
+                "product_name": "Product-unde-qui",
+                "product_description": "Alias fuga a in temporibus exercitationem blanditiis est aliquid ab perspiciatis cupiditate, asperiores fuga nihil repellendus deleniti ratione commodi tempora veritatis, reprehenderit molestiae nulla iste illo.",
+                "product_quantity": 96,
+                "product_price": 31.8
+            }
+        ]
+    }
+}

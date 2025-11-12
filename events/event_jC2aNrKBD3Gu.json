@@ -1,0 +1,20 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-mJowgJcW",
+        "supplier_contact": "suppliermJowgJcW@example.com",
+        "products": [
+            {
+                "product_name": "Product-repellendus-eum",
+                "product_description": "Numquam sapiente accusantium facere quae delectus officia, qui consequuntur nihil ea tenetur quaerat.",
+                "product_quantity": 29,
+                "product_price": 4.29
+            },
+            {
+                "product_name": "Product-alias-dolore",
+                "product_description": "Fugit est adipisci voluptatibus rerum impedit sit quaerat molestias accusantium, obcaecati dolore recusandae eos debitis rem dicta nemo qui, aliquam ducimus corporis.",
+                "product_quantity": 86,
+                "product_price": 12.23
+            }
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-GUMQNldQ",
+        "supplier_contact": "supplierGUMQNldQ@example.com",
+        "products": [
+            {
+                "product_name": "Product-vel-numquam",
+                "product_description": "Eaque placeat ullam voluptas rerum alias nihil, est repudiandae tempora impedit tempore dolorem quo obcaecati expedita?",
+                "product_quantity": 57,
+                "product_price": 45.38
+            }
+        ]
+    }
+}

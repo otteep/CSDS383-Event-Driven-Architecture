@@ -1,0 +1,31 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-ZwHdoI1p",
+        "supplier_contact": "supplierZwHdoI1p@example.com",
+        "products": [
+            {
+                "product_name": "Product-voluptates-cum",
+                "product_description": "Deserunt a molestiae blanditiis iste excepturi reprehenderit fugit natus ab, repudiandae nostrum minus quo explicabo expedita soluta asperiores commodi consequatur earum adipisci?",
+                "product_quantity": 36,
+                "product_price": 28.64
+            },
+            {
+                "product_name": "Product-at-beatae",
+                "product_description": "Inventore error commodi optio quos, deleniti sit obcaecati quod, a blanditiis sit nemo sapiente reiciendis.",
+                "product_price": 82.64
+            },
+            {
+                "product_name": "Product-doloremque-fuga",
+                "product_description": "Possimus delectus eligendi autem quidem deleniti in quod atque sint commodi quos, ipsum aliquid quidem omnis.",
+                "product_quantity": 8,
+                "product_price": 63.04
+            },
+            {
+                "product_name": "Product-sunt-maxime",
+                "product_description": "Cum at reprehenderit fuga inventore ea totam suscipit, dolorum mollitia aliquam nulla dolores, esse tempore a quia amet iusto quod provident dolorum optio, iste repellat ex magnam perspiciatis sapiente nobis impedit, commodi fuga illum saepe quos dolore dicta exercitationem ipsa id.",
+                "product_quantity": 14,
+                "product_price": 6.81
+            }
+        ]
+    }
+}

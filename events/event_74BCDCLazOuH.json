@@ -1,0 +1,14 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-zPPB14cw",
+        "supplier_contact": "supplierzPPB14cw@example.com",
+        "products": [
+            {
+                "product_name": "Product-sit-praesentium",
+                "product_description": "Error expedita minima cupiditate magni voluptatum nisi earum dolor, voluptate et temporibus aliquam corporis, perspiciatis nesciunt a numquam itaque impedit commodi aliquam in, sapiente laudantium mollitia unde enim ipsum sed quod amet corporis sit?",
+                "product_quantity": 42,
+                "product_price": 63.73
+            }
+        ]
+    }
+}

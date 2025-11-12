@@ -1,0 +1,14 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-0otuSw0o",
+        "supplier_contact": "supplier0otuSw0o@example.com",
+        "products": [
+            {
+                "product_name": "Product-nulla-quae",
+                "product_description": "Nulla veritatis error commodi repudiandae esse doloribus unde saepe voluptatem consequuntur nihil, laudantium earum minus quaerat tempore sint doloribus neque laborum in eaque?",
+                "product_quantity": 25,
+                "product_price": 81.35
+            }
+        ]
+    }
+}

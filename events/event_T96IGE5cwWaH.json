@@ -1,0 +1,14 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-XkDD82Tw",
+        "supplier_contact": "supplierXkDD82Tw@example.com",
+        "products": [
+            {
+                "product_name": "Product-corrupti-saepe",
+                "product_description": "Ducimus nisi itaque tempore doloremque expedita, vitae quo natus pariatur consectetur reprehenderit eaque earum sapiente veniam aperiam, omnis laboriosam est minus soluta eligendi exercitationem voluptate eos?",
+                "product_quantity": 52,
+                "product_price": 56.72
+            }
+        ]
+    }
+}

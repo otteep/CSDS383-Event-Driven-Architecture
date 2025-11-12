@@ -1,0 +1,14 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-S7xH3COD",
+        "supplier_contact": "supplierS7xH3COD@example.com",
+        "products": [
+            {
+                "product_name": "Product-nulla-earum",
+                "product_description": "Quos inventore iusto, cumque accusamus aliquam odit magni autem ab id blanditiis consequuntur consectetur, suscipit maiores dolorem cumque quae nobis, nesciunt id debitis a ipsum nisi eius praesentium, libero enim incidunt delectus aspernatur dicta dolorum debitis itaque?",
+                "product_quantity": 8,
+                "product_price": 83.79
+            }
+        ]
+    }
+}

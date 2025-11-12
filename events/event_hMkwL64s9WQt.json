@@ -1,0 +1,38 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-QuRnM9iy",
+        "supplier_contact": "supplierQuRnM9iy@example.com",
+        "products": [
+            {
+                "product_name": "Product-sunt-magni",
+                "product_description": "Totam atque modi omnis recusandae aspernatur ex, nihil veritatis assumenda velit exercitationem recusandae alias harum excepturi necessitatibus atque, ex adipisci reprehenderit atque cum neque quo eos enim eligendi veritatis.",
+                "product_quantity": 41,
+                "product_price": 41.23
+            },
+            {
+                "product_name": "Product-porro-ipsa",
+                "product_description": "Omnis voluptatum inventore, vel neque similique mollitia dolorum possimus, laudantium unde neque doloribus id, magni autem adipisci culpa dolorem, veniam quis obcaecati aliquid?",
+                "product_quantity": 14,
+                "product_price": 30.38
+            },
+            {
+                "product_name": "Product-facere-iure",
+                "product_description": "Nostrum sequi distinctio sit earum culpa aperiam, molestias esse iste quam ducimus, ut expedita omnis mollitia error odio repellendus esse repudiandae voluptates modi, voluptatibus dolor doloribus optio illo id dolores facilis, hic repudiandae est corrupti quam?",
+                "product_quantity": 64,
+                "product_price": 23.64
+            },
+            {
+                "product_name": "Product-repellat-atque",
+                "product_description": "Illo iusto tenetur repellendus nostrum quos assumenda vitae, ducimus quidem error maxime voluptas molestias esse consequuntur, dolorum obcaecati sunt id debitis, recusandae ut nisi pariatur commodi quidem adipisci itaque et reprehenderit, sapiente animi suscipit totam vero perferendis sit?",
+                "product_quantity": 80,
+                "product_price": 78.72
+            },
+            {
+                "product_name": "Product-aliquam-quisquam",
+                "product_description": "Cumque asperiores suscipit cupiditate facere eaque, magni cupiditate praesentium maxime libero est quis explicabo minima fuga, nobis ut odio.",
+                "product_quantity": 9,
+                "product_price": 34.03
+            }
+        ]
+    }
+}

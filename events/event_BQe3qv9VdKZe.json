@@ -1,0 +1,32 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-t4RbnKid",
+        "supplier_contact": "suppliert4RbnKid@example.com",
+        "products": [
+            {
+                "product_name": "Product-tenetur-incidunt",
+                "product_description": "Animi sed aperiam ut aliquam illo quas, nobis animi placeat sint qui aliquid quasi ratione possimus voluptatem.",
+                "product_quantity": 67,
+                "product_price": 62.02
+            },
+            {
+                "product_name": "Product-necessitatibus-porro",
+                "product_description": "Quae maxime voluptatibus rerum corrupti dignissimos neque nam incidunt, consequuntur perferendis aliquam maiores libero ab, voluptate iste autem porro, maiores iure odit natus enim veniam repellat quisquam modi libero.",
+                "product_quantity": 40,
+                "product_price": 70.07
+            },
+            {
+                "product_name": "Product-molestias-aliquid",
+                "product_description": "Soluta veniam explicabo sapiente consequuntur voluptas quis incidunt optio beatae quisquam, velit accusantium facere distinctio voluptates repellendus, repudiandae repellendus debitis autem, ab voluptate quia accusamus libero eius porro eos pariatur quam nulla repellendus.",
+                "product_quantity": 13,
+                "product_price": 56.69
+            },
+            {
+                "product_name": "Product-ex-aliquam",
+                "product_description": "In debitis reiciendis, delectus obcaecati a id accusantium neque omnis veritatis molestias totam autem, natus recusandae consectetur similique deserunt voluptatem debitis animi aliquid in, eum optio deleniti corrupti saepe facere nobis eos nostrum corporis?",
+                "product_quantity": 92,
+                "product_price": 63.33
+            }
+        ]
+    }
+}

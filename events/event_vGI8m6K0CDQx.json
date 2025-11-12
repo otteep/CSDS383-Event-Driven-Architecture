@@ -1,0 +1,14 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-AZvy1Yqt",
+        "supplier_contact": "supplierAZvy1Yqt@example.com",
+        "products": [
+            {
+                "product_name": "Product-temporibus-incidunt",
+                "product_description": "Aut facilis facere iusto cum dignissimos quidem repellat doloremque cumque, fugit nam aliquid repudiandae iure eligendi enim nemo facere quas.",
+                "product_quantity": 82,
+                "product_price": 17.85
+            }
+        ]
+    }
+}

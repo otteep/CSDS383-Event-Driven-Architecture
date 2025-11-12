@@ -1,0 +1,14 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-r1UwM8Fr",
+        "supplier_contact": "supplierr1UwM8Fr@example.com",
+        "products": [
+            {
+                "product_name": "Product-quas-a",
+                "product_description": "Quod beatae labore magni vero fugit natus nam dolorem ullam, deleniti asperiores dolorum aperiam inventore aspernatur, magni eligendi neque architecto praesentium nam doloribus fuga, quisquam autem impedit consequatur earum beatae laborum?",
+                "product_quantity": 79,
+                "product_price": 55.86
+            }
+        ]
+    }
+}

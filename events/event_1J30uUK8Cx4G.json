@@ -1,0 +1,26 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-SWgWYeyn",
+        "supplier_contact": "supplierSWgWYeyn@example.com",
+        "products": [
+            {
+                "product_name": "Product-placeat-quis",
+                "product_description": "Explicabo laborum laboriosam neque maxime veritatis ab non sapiente dolore cumque dolor, quidem eligendi facere asperiores harum accusamus nobis expedita unde praesentium officiis, distinctio mollitia velit, at reiciendis molestias facere eaque assumenda eum nulla nisi commodi dolorem sed?",
+                "product_quantity": 80,
+                "product_price": 21.15
+            },
+            {
+                "product_name": "Product-iste-laudantium",
+                "product_description": "Id veritatis praesentium itaque, odit consectetur commodi modi, hic perspiciatis quidem dolorum, officia iusto ducimus consectetur vitae enim suscipit deserunt, tempora molestiae soluta?",
+                "product_quantity": 91,
+                "product_price": 70.46
+            },
+            {
+                "product_name": "Product-obcaecati-debitis",
+                "product_description": "Ipsum dignissimos atque praesentium assumenda eius ullam ratione blanditiis porro, velit quasi provident corrupti odit repellat, nemo recusandae ut.",
+                "product_quantity": 68,
+                "product_price": 47.45
+            }
+        ]
+    }
+}

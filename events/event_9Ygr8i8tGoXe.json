@@ -1,0 +1,19 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-sZ0M3LMZ",
+        "supplier_contact": "suppliersZ0M3LMZ@example.com",
+        "products": [
+            {
+                "product_name": "Product-officiis-eum",
+                "product_description": "Architecto magni inventore cupiditate doloremque molestias id, perferendis aspernatur sint.",
+                "product_quantity": 33,
+                "product_price": 29.44
+            },
+            {
+                "product_description": "Quo numquam optio necessitatibus blanditiis quasi molestiae corrupti quidem iste, sed eaque quis iusto sint animi maxime amet rem quia exercitationem dolorem, adipisci optio dolor, perspiciatis doloremque reiciendis sint eius sit earum assumenda quo tempore quisquam?",
+                "product_quantity": 54,
+                "product_price": 75.3
+            }
+        ]
+    }
+}

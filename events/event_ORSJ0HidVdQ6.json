@@ -1,0 +1,38 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-RUEQGjiz",
+        "supplier_contact": "supplierRUEQGjiz@example.com",
+        "products": [
+            {
+                "product_name": "Product-vitae-officiis",
+                "product_description": "Quis accusamus eius consequuntur neque accusantium non, dicta ut laborum doloremque quisquam illo in sapiente?",
+                "product_quantity": 54,
+                "product_price": 63.3
+            },
+            {
+                "product_name": "Product-totam-rem",
+                "product_description": "Doloremque consequuntur accusantium dignissimos ut omnis quaerat iure magni veritatis debitis, itaque fugit tempora voluptatum incidunt consequuntur fuga voluptas officiis esse cupiditate.",
+                "product_quantity": 60,
+                "product_price": 55.38
+            },
+            {
+                "product_name": "Product-rem-doloremque",
+                "product_description": "Nam repellendus enim eos id iste quam nulla eligendi, saepe laborum voluptatum, sequi adipisci atque, a repudiandae ducimus incidunt?",
+                "product_quantity": 73,
+                "product_price": 15.93
+            },
+            {
+                "product_name": "Product-vitae-non",
+                "product_description": "Similique ab esse nisi incidunt cupiditate vel quidem quaerat, consectetur praesentium ipsam modi commodi expedita dolores repellendus accusamus, natus explicabo consectetur alias nemo dolores cumque.",
+                "product_quantity": 34,
+                "product_price": 50.06
+            },
+            {
+                "product_name": "Product-magnam-maiores",
+                "product_description": "Aperiam natus non ex neque eos voluptates, possimus nulla ad molestias quo totam cum impedit esse, nesciunt vitae debitis.",
+                "product_quantity": 42,
+                "product_price": 39.64
+            }
+        ]
+    }
+}

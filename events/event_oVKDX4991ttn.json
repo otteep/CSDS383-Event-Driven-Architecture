@@ -1,0 +1,32 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-iWj31TEQ",
+        "supplier_contact": "supplieriWj31TEQ@example.com",
+        "products": [
+            {
+                "product_name": "Product-atque-qui",
+                "product_description": "Eos possimus aperiam molestias eius odit sit dolorem quo in, fugit a ea at vero eos dolorum tempora distinctio veritatis.",
+                "product_quantity": 44,
+                "product_price": 9.62
+            },
+            {
+                "product_name": "Product-ipsa-earum",
+                "product_description": "Itaque autem nihil dolores minima qui tempore quia omnis excepturi ipsam, recusandae neque ipsum provident laboriosam, architecto dolores possimus quidem quisquam quasi, sint quos deleniti quia quidem accusantium provident accusamus earum similique temporibus?",
+                "product_quantity": 3,
+                "product_price": 1.21
+            },
+            {
+                "product_name": "Product-voluptatum-excepturi",
+                "product_description": "Dolorem veritatis illo aspernatur rerum nisi nulla qui, illo autem nesciunt dolorem excepturi facilis officia, corporis amet ipsum quo fuga magni cupiditate ut minus, sed ex vel harum dolor aspernatur consequuntur dolorem accusantium vero error, libero ipsa sunt.",
+                "product_quantity": 92,
+                "product_price": 41.16
+            },
+            {
+                "product_name": "Product-autem-eius",
+                "product_description": "Atque optio quas dicta tempore, cumque nostrum inventore est deleniti temporibus id eum ipsum itaque debitis laborum, quae sapiente fugiat accusantium quos vitae libero distinctio, sequi deleniti reprehenderit ducimus suscipit recusandae cum, aliquam tempora deleniti nemo esse pariatur optio dignissimos hic.",
+                "product_quantity": 88,
+                "product_price": 8.04
+            }
+        ]
+    }
+}

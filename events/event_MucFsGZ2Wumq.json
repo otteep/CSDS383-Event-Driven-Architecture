@@ -1,0 +1,37 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-pPmR1Ljo",
+        "supplier_contact": "supplierpPmR1Ljo@example.com",
+        "products": [
+            {
+                "product_name": "Product-dolorum-officiis",
+                "product_description": "Minus voluptates eveniet enim culpa necessitatibus consequatur soluta, quo voluptates numquam explicabo ducimus, ullam quibusdam asperiores quis quae blanditiis natus adipisci temporibus consectetur, suscipit et a maiores veritatis voluptate vero dolorum natus iure, velit eveniet tenetur quam.",
+                "product_price": 86.64
+            },
+            {
+                "product_name": "Product-repellendus-nam",
+                "product_description": "Possimus sint sapiente ipsum sit vel dolor omnis animi ratione quisquam alias, ab blanditiis modi consequuntur commodi temporibus suscipit culpa quibusdam.",
+                "product_quantity": 100,
+                "product_price": 73.69
+            },
+            {
+                "product_name": "Product-ullam-tempore",
+                "product_description": "Minima deserunt labore voluptatem earum molestias assumenda quaerat, temporibus nobis alias amet ipsum quidem sint reiciendis itaque, deserunt maiores dolorum necessitatibus ad ipsam, unde accusantium aspernatur.",
+                "product_quantity": 62,
+                "product_price": 26.91
+            },
+            {
+                "product_name": "Product-aspernatur-quo",
+                "product_description": "Quam minima nisi similique deleniti minus magni officia aperiam error sed, ab ut fuga cumque, commodi illum dolorem aliquam maxime veritatis molestias perferendis sit hic, voluptate cum laborum quod architecto obcaecati odit, recusandae nesciunt eveniet necessitatibus delectus.",
+                "product_quantity": 4,
+                "product_price": 88.51
+            },
+            {
+                "product_name": "Product-explicabo-tempore",
+                "product_description": "Aperiam aliquid sit reiciendis maiores, explicabo blanditiis repellendus alias minus consectetur qui reiciendis, id error delectus praesentium cumque eaque voluptatem maiores labore illo maxime, aspernatur modi a temporibus molestiae repudiandae et odit dolores, ipsa cupiditate similique quaerat nesciunt placeat harum debitis sit beatae totam dolorum?",
+                "product_quantity": 61,
+                "product_price": 75.97
+            }
+        ]
+    }
+}

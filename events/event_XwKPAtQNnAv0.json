@@ -1,0 +1,20 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-3mKQNK4E",
+        "supplier_contact": "supplier3mKQNK4E@example.com",
+        "products": [
+            {
+                "product_name": "Product-delectus-dolor",
+                "product_description": "Labore vero harum assumenda sed veniam qui id similique voluptatibus, quibusdam cumque mollitia suscipit at sit fugit aliquam ullam accusamus, corporis vel labore laudantium omnis nam architecto magnam veritatis quasi ducimus cum, veritatis odio voluptatem fuga minus voluptatum ipsum beatae inventore iusto natus facilis, temporibus adipisci veritatis eius iure similique maiores?",
+                "product_quantity": 72,
+                "product_price": 5.65
+            },
+            {
+                "product_name": "Product-officiis-corporis",
+                "product_description": "Fugiat sapiente aperiam, eligendi eveniet odio vel iusto, minima earum consectetur odio illo perferendis, illum earum maiores voluptatem, quos minus aliquid soluta harum voluptatum exercitationem vel?",
+                "product_quantity": 93,
+                "product_price": 7.74
+            }
+        ]
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-ZzAsfztV",
+        "supplier_contact": "supplierZzAsfztV@example.com",
+        "products": [
+            {
+                "product_name": "Product-cum-perferendis",
+                "product_description": "Aliquam expedita non quasi placeat nisi alias voluptatem, amet possimus eveniet voluptates ea, ex magni saepe porro molestias fuga, nobis sit rem quaerat.",
+                "product_quantity": 99,
+                "product_price": 2.22
+            },
+            {
+                "product_name": "Product-sint-provident",
+                "product_description": "Quo harum voluptatibus dolore sit vero quam sed sint repudiandae eligendi neque, tempore nemo mollitia excepturi error ad pariatur ea id hic rem voluptatem.",
+                "product_quantity": 58,
+                "product_price": 52.08
+            }
+        ]
+    }
+}

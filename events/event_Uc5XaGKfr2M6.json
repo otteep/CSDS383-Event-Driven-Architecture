@@ -1,0 +1,26 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-W9Ms0kwR",
+        "supplier_contact": "supplierW9Ms0kwR@example.com",
+        "products": [
+            {
+                "product_name": "Product-dignissimos-nihil",
+                "product_description": "Labore placeat officia aperiam inventore reiciendis voluptate velit aspernatur temporibus fugit, perferendis consequuntur minima quos quae.",
+                "product_quantity": 73,
+                "product_price": 98.28
+            },
+            {
+                "product_name": "Product-dolorum-id",
+                "product_description": "Recusandae voluptatibus possimus nemo incidunt aliquid perferendis eligendi voluptatum, nulla incidunt deleniti corporis, eligendi maxime atque eum officia consequatur ea quis illo, adipisci totam veritatis pariatur autem debitis libero enim sapiente sint.",
+                "product_quantity": 37,
+                "product_price": 77.6
+            },
+            {
+                "product_name": "Product-quaerat-aut",
+                "product_description": "Quasi sed culpa rerum repellendus consectetur iure tempora odit modi magni illum, incidunt quidem illo eligendi animi debitis dignissimos nobis.",
+                "product_quantity": 67,
+                "product_price": 40.53
+            }
+        ]
+    }
+}

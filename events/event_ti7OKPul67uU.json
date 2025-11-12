@@ -1,0 +1,14 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-NnHhM6kL",
+        "supplier_contact": "supplierNnHhM6kL@example.com",
+        "products": [
+            {
+                "product_name": "Product-animi-quae",
+                "product_description": "Quasi omnis accusamus odio sit veritatis soluta ex repudiandae dolor nihil, itaque tempore maxime provident consectetur cupiditate consequatur doloribus, culpa quam accusamus velit enim sapiente suscipit eos ipsa qui, consequuntur quaerat veritatis id eveniet quisquam natus quod.",
+                "product_quantity": 48,
+                "product_price": 44.45
+            }
+        ]
+    }
+}

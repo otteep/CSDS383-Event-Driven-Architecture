@@ -1,0 +1,20 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-hRBGWsgA",
+        "supplier_contact": "supplierhRBGWsgA@example.com",
+        "products": [
+            {
+                "product_name": "Product-fugiat-sed",
+                "product_description": "Repellendus perspiciatis fugit voluptatem quasi rem, deserunt necessitatibus voluptatum reiciendis maxime expedita commodi porro assumenda dolorem error?",
+                "product_quantity": 64,
+                "product_price": 79.15
+            },
+            {
+                "product_name": "Product-omnis-itaque",
+                "product_description": "Repellat esse illum nobis repellendus, assumenda libero porro ex ipsa sint molestiae, nihil rerum adipisci hic illo amet.",
+                "product_quantity": 16,
+                "product_price": 36.05
+            }
+        ]
+    }
+}

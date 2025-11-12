@@ -1,0 +1,20 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-YgwiCK2b",
+        "supplier_contact": "supplierYgwiCK2b@example.com",
+        "products": [
+            {
+                "product_name": "Product-explicabo-mollitia",
+                "product_description": "Odio ullam aut laudantium exercitationem iure quasi porro molestias assumenda, odit magni numquam enim neque molestiae?",
+                "product_quantity": 58,
+                "product_price": 92.46
+            },
+            {
+                "product_name": "Product-officia-cupiditate",
+                "product_description": "Obcaecati inventore odit labore dolorem qui facilis, dignissimos necessitatibus possimus facere expedita eligendi, fugiat autem deleniti quod ad.",
+                "product_quantity": 22,
+                "product_price": 23.78
+            }
+        ]
+    }
+}

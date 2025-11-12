@@ -1,0 +1,14 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-e1GgmL2K",
+        "supplier_contact": "suppliere1GgmL2K@example.com",
+        "products": [
+            {
+                "product_name": "Product-ratione-debitis",
+                "product_description": "Blanditiis voluptatem ab numquam odit culpa provident quibusdam aspernatur neque aliquid, inventore nostrum fugiat nobis id ad, animi laborum nisi facilis eveniet magnam itaque culpa molestiae sapiente, distinctio blanditiis nihil maxime ea dolor, itaque quasi eius numquam quos modi.",
+                "product_quantity": 75,
+                "product_price": 36.14
+            }
+        ]
+    }
+}

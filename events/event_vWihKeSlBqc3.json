@@ -1,0 +1,31 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-8D17IYl3",
+        "supplier_contact": "supplier8D17IYl3@example.com",
+        "products": [
+            {
+                "product_name": "Product-dolorem-non",
+                "product_description": "Delectus ipsum asperiores rem odio animi iusto exercitationem minus optio, explicabo exercitationem quod, quasi unde natus quia.",
+                "product_quantity": 2
+            },
+            {
+                "product_name": "Product-nam-distinctio",
+                "product_description": "Eos nostrum cupiditate animi id facilis adipisci ad sit et, ducimus eligendi voluptatum doloribus autem voluptatibus, illum voluptatibus recusandae voluptate laborum accusamus, omnis sunt ducimus, similique consectetur adipisci non dignissimos itaque blanditiis quae asperiores repellat vel?",
+                "product_quantity": 28,
+                "product_price": 80.15
+            },
+            {
+                "product_name": "Product-ipsa-libero",
+                "product_description": "Magni quas quia inventore hic, optio molestiae veniam, ab dicta sunt aliquam quam ipsum consequatur ducimus, aliquid obcaecati quaerat amet sed placeat tenetur illo odio, nisi voluptates laborum aspernatur adipisci iste?",
+                "product_quantity": 80,
+                "product_price": 99.92
+            },
+            {
+                "product_name": "Product-ducimus-perferendis",
+                "product_description": "Dicta doloribus iure totam labore aperiam tempora delectus odit harum unde, nihil quaerat vero repudiandae deserunt quia illo eligendi, blanditiis minus quasi placeat iure aspernatur assumenda ex aliquid at quidem.",
+                "product_quantity": 44,
+                "product_price": 63.46
+            }
+        ]
+    }
+}

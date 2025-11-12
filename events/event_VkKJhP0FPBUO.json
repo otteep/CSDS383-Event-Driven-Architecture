@@ -1,0 +1,20 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-HPGVIkkx",
+        "supplier_contact": "supplierHPGVIkkx@example.com",
+        "products": [
+            {
+                "product_name": "Product-exercitationem-dicta",
+                "product_description": "Qui iste ab, repellat velit perspiciatis consequatur voluptate aut labore, natus commodi error quia, et unde qui nisi sed dolore nesciunt perspiciatis?",
+                "product_quantity": 96,
+                "product_price": 74.17
+            },
+            {
+                "product_name": "Product-facere-officiis",
+                "product_description": "Asperiores ipsum odit eligendi veritatis sequi provident, voluptatibus quam esse harum voluptate assumenda accusantium dolorum aliquid, praesentium perspiciatis animi ratione nam quasi odio doloribus facilis repellendus quae, laboriosam dignissimos quam architecto autem voluptatibus?",
+                "product_quantity": 91,
+                "product_price": 90.03
+            }
+        ]
+    }
+}

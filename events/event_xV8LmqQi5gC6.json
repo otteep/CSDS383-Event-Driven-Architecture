@@ -1,0 +1,20 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-bnNcw4kh",
+        "supplier_contact": "supplierbnNcw4kh@example.com",
+        "products": [
+            {
+                "product_name": "Product-harum-sequi",
+                "product_description": "Et architecto soluta laudantium optio necessitatibus inventore nemo reiciendis, totam dolore praesentium at officia animi voluptates esse rerum illo, voluptatem esse fugit, quae sapiente delectus totam enim officiis similique, similique labore hic odio?",
+                "product_quantity": 89,
+                "product_price": 67.57
+            },
+            {
+                "product_name": "Product-explicabo-placeat",
+                "product_description": "Magni illo eveniet nostrum suscipit facere in maiores rem dicta quidem porro, impedit assumenda recusandae ipsum voluptatum quae iusto totam nam, quisquam tempore nisi ipsum expedita ex error rerum?",
+                "product_quantity": 29,
+                "product_price": 10.85
+            }
+        ]
+    }
+}

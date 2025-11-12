@@ -1,0 +1,14 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-8G8zj4X3",
+        "supplier_contact": "supplier8G8zj4X3@example.com",
+        "products": [
+            {
+                "product_name": "Product-maxime-expedita",
+                "product_description": "Fuga distinctio molestiae odit debitis minima incidunt tempore officiis quis cupiditate obcaecati, quo a ducimus eum at animi nam ex minus voluptatum, dolorum omnis minima ut eum fugiat voluptate, necessitatibus adipisci minima nihil corrupti, eaque similique vel dolor debitis quod eum.",
+                "product_quantity": 72,
+                "product_price": 81.73
+            }
+        ]
+    }
+}

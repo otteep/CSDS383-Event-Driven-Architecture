@@ -1,0 +1,20 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-qv39pF5T",
+        "supplier_contact": "supplierqv39pF5T@example.com",
+        "products": [
+            {
+                "product_name": "Product-esse-obcaecati",
+                "product_description": "Maiores iure optio necessitatibus odit deserunt numquam consequuntur ex, nihil harum minima fuga sequi quisquam quidem assumenda aperiam numquam ratione amet, recusandae incidunt ipsa consequatur deleniti ab vero accusamus ratione dolorum?",
+                "product_quantity": 48,
+                "product_price": 91.31
+            },
+            {
+                "product_name": "Product-ut-cum",
+                "product_description": "Repellendus facilis repellat incidunt harum, earum a ad, incidunt assumenda repellendus ab eaque alias at soluta sit?",
+                "product_quantity": 84,
+                "product_price": 28.56
+            }
+        ]
+    }
+}

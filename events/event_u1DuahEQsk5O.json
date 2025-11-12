@@ -1,0 +1,20 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-NHkZhF6r",
+        "supplier_contact": "supplierNHkZhF6r@example.com",
+        "products": [
+            {
+                "product_name": "Product-porro-modi",
+                "product_description": "Corrupti rem blanditiis assumenda harum laudantium eos totam modi, id voluptatibus odio cum eveniet aut, provident deserunt veniam nam quidem repellat labore voluptates in explicabo quaerat doloribus, expedita ab ex natus minus repellat.",
+                "product_quantity": 54,
+                "product_price": 52.07
+            },
+            {
+                "product_name": "Product-corrupti-molestias",
+                "product_description": "Cupiditate a aperiam, enim nesciunt voluptas odio reiciendis, vitae quaerat velit quis harum sit quasi hic, dolorem quibusdam vero harum?",
+                "product_quantity": 77,
+                "product_price": 22.87
+            }
+        ]
+    }
+}

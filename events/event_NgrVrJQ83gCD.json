@@ -1,0 +1,31 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-Gc26Ux0g",
+        "supplier_contact": "supplierGc26Ux0g@example.com",
+        "products": [
+            {
+                "product_name": "Product-vel-modi",
+                "product_description": "Alias odit excepturi quam repudiandae ab iure maiores illum aliquid, vitae temporibus laboriosam, officia magnam perferendis quibusdam vel aperiam qui facilis illo voluptate, iusto obcaecati nemo odit aliquid totam tenetur et ipsum fugit accusamus, rerum tempora sunt ea.",
+                "product_quantity": 72,
+                "product_price": 6.37
+            },
+            {
+                "product_name": "Product-nulla-inventore",
+                "product_description": "Quia ducimus suscipit hic deserunt rerum ex, ab at quia, quo at quas animi sunt perferendis, quam in vitae quae facere.",
+                "product_quantity": 90,
+                "product_price": 78.3
+            },
+            {
+                "product_name": "Product-quas-optio",
+                "product_description": "Nostrum cum totam dolor voluptatum aliquid incidunt quos quisquam possimus distinctio qui, dolores nobis doloremque dolorum exercitationem itaque enim at ab eaque cumque animi.",
+                "product_price": 95.64
+            },
+            {
+                "product_name": "Product-accusantium-cumque",
+                "product_description": "Optio sed corporis praesentium inventore odio enim a dicta iusto corrupti consequatur, quod alias laudantium tenetur autem eaque inventore consequuntur minus.",
+                "product_quantity": 65,
+                "product_price": 35.1
+            }
+        ]
+    }
+}

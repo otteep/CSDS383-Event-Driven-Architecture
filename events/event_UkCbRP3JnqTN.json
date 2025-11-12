@@ -1,0 +1,20 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-dqQNV7zX",
+        "supplier_contact": "supplierdqQNV7zX@example.com",
+        "products": [
+            {
+                "product_name": "Product-officiis-cupiditate",
+                "product_description": "Aperiam nisi saepe quo, ipsa atque quaerat soluta excepturi, facere recusandae expedita aut maxime neque.",
+                "product_quantity": 45,
+                "product_price": 57.67
+            },
+            {
+                "product_name": "Product-neque-minima",
+                "product_description": "Iusto dolore dolorum quis iste incidunt hic omnis natus alias, repellat qui minus tempore aliquam perferendis iusto eos facere ipsam aperiam debitis?",
+                "product_quantity": 49,
+                "product_price": 79.09
+            }
+        ]
+    }
+}

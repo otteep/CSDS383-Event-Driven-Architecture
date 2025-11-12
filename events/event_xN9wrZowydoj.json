@@ -1,0 +1,31 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-qx2sArWH",
+        "supplier_contact": "supplierqx2sArWH@example.com",
+        "products": [
+            {
+                "product_name": "Product-quasi-quidem",
+                "product_description": "Praesentium nemo assumenda cumque, iusto cumque fugiat autem quasi, ducimus deserunt sunt ad amet provident aspernatur eaque, repudiandae beatae veniam velit totam ea?",
+                "product_quantity": 60,
+                "product_price": 67.49
+            },
+            {
+                "product_name": "Product-molestiae-necessitatibus",
+                "product_description": "Dolores quidem odit quibusdam, quidem magni et soluta velit, excepturi officia laborum tempore consequatur libero temporibus voluptatum saepe dicta beatae, incidunt earum aut sunt vero in fugit cumque deleniti eius non velit.",
+                "product_quantity": 40,
+                "product_price": 74.9
+            },
+            {
+                "product_description": "Ullam cupiditate delectus fugit incidunt ducimus ipsum, nisi impedit accusantium soluta nam amet reiciendis iure eos, ut enim vitae facere, aspernatur magnam dolore laudantium odit labore fuga impedit assumenda fugit aliquid?",
+                "product_quantity": 24,
+                "product_price": 44.22
+            },
+            {
+                "product_name": "Product-iusto-delectus",
+                "product_description": "Nihil voluptates tempora excepturi velit expedita, modi officia commodi natus rem recusandae doloremque earum iusto reprehenderit voluptate, voluptatem beatae mollitia, vero animi odio molestias ut hic vel harum perspiciatis impedit atque delectus?",
+                "product_quantity": 19,
+                "product_price": 15.09
+            }
+        ]
+    }
+}

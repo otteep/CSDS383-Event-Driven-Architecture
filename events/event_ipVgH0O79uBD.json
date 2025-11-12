@@ -1,0 +1,37 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-9X1PkCBP",
+        "supplier_contact": "supplier9X1PkCBP@example.com",
+        "products": [
+            {
+                "product_name": "Product-officia-dolore",
+                "product_description": "Odit harum porro totam voluptates minima dolorem, fugiat cum doloribus nesciunt provident itaque laudantium, cupiditate quis voluptatum numquam rem voluptatibus similique reiciendis eligendi, veritatis ipsa dolores amet pariatur ullam ex qui, laboriosam veritatis quas inventore laborum eaque eveniet voluptatibus.",
+                "product_quantity": 8,
+                "product_price": 69.04
+            },
+            {
+                "product_name": "Product-quibusdam-vitae",
+                "product_description": "Assumenda et minus nulla voluptatum earum consequuntur, laborum velit alias dolore, fuga consequuntur nulla ea reprehenderit quis at ipsum quasi explicabo reiciendis?",
+                "product_quantity": 5,
+                "product_price": 25.89
+            },
+            {
+                "product_name": "Product-rerum-obcaecati",
+                "product_description": "Aliquid iste odit expedita ratione laborum, praesentium laboriosam aliquid accusantium.",
+                "product_quantity": 44,
+                "product_price": 49.62
+            },
+            {
+                "product_name": "Product-corporis-in",
+                "product_quantity": 36,
+                "product_price": 76.88
+            },
+            {
+                "product_name": "Product-dolorem-veritatis",
+                "product_description": "Ipsam sequi eum facere id obcaecati error molestiae repellendus provident quaerat corporis, delectus quaerat voluptate commodi a atque.",
+                "product_quantity": 31,
+                "product_price": 94.68
+            }
+        ]
+    }
+}

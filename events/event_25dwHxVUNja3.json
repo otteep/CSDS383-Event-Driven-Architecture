@@ -1,0 +1,14 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-6fFzA8C6",
+        "supplier_contact": "supplier6fFzA8C6@example.com",
+        "products": [
+            {
+                "product_name": "Product-vel-maiores",
+                "product_description": "Animi quibusdam totam fugit repudiandae tempore, iusto laborum rem maxime explicabo, ut quibusdam sapiente unde vitae asperiores numquam earum eum et fugiat, doloremque enim quisquam incidunt aliquid atque cum beatae, necessitatibus delectus possimus in.",
+                "product_quantity": 33,
+                "product_price": 78.53
+            }
+        ]
+    }
+}

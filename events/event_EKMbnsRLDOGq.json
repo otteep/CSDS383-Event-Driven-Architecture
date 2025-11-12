@@ -1,0 +1,20 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-SRKC9kFI",
+        "supplier_contact": "supplierSRKC9kFI@example.com",
+        "products": [
+            {
+                "product_name": "Product-possimus-quidem",
+                "product_description": "Eligendi porro debitis sapiente corporis, suscipit aliquam dolores, numquam dolorem maiores porro sit quibusdam unde debitis delectus ad impedit, minus vero quis praesentium quia necessitatibus vel excepturi dolores distinctio dolore recusandae.",
+                "product_quantity": 67,
+                "product_price": 40.12
+            },
+            {
+                "product_name": "Product-illo-deleniti",
+                "product_description": "Fugiat quidem dicta soluta ipsam nobis corrupti officia voluptatem ipsa, magni laborum soluta nihil sint dolorem ex magnam placeat cumque unde libero, ipsum alias corrupti cum obcaecati amet qui hic repellat tenetur.",
+                "product_quantity": 61,
+                "product_price": 74.98
+            }
+        ]
+    }
+}

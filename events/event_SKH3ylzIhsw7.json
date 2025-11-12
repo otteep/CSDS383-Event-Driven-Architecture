@@ -1,0 +1,32 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-FvfyPYBC",
+        "supplier_contact": "supplierFvfyPYBC@example.com",
+        "products": [
+            {
+                "product_name": "Product-cumque-quo",
+                "product_description": "Exercitationem sequi dolorem unde perspiciatis vero obcaecati et numquam, iste deleniti error quibusdam culpa consequatur illum, soluta quis vero repellendus esse dicta ad ipsam consequuntur.",
+                "product_quantity": 86,
+                "product_price": 65.28
+            },
+            {
+                "product_name": "Product-atque-tempore",
+                "product_description": "Doloremque consequatur accusamus suscipit iste tenetur deleniti temporibus, magni libero vel alias consequuntur et a, ipsam accusantium est iure deserunt numquam amet tempora earum nemo consectetur ullam, pariatur labore nemo illo vero.",
+                "product_quantity": 66,
+                "product_price": 81.84
+            },
+            {
+                "product_name": "Product-consequatur-earum",
+                "product_description": "Delectus ipsam nobis harum nisi aperiam laudantium commodi voluptatum minus, vero ipsa sequi laboriosam sapiente quos tenetur molestias itaque, nulla ad dolore consectetur dolorem tenetur earum ipsa aliquam reiciendis, ad quaerat maxime quam.",
+                "product_quantity": 79,
+                "product_price": 48.16
+            },
+            {
+                "product_name": "Product-et-voluptatum",
+                "product_description": "Consectetur sint pariatur debitis iste culpa placeat velit corporis ut, nemo esse tempore quisquam nam culpa dolor odio quo aliquam minima magnam.",
+                "product_quantity": 3,
+                "product_price": 24.15
+            }
+        ]
+    }
+}

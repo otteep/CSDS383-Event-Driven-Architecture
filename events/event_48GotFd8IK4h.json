@@ -1,0 +1,19 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-gNpRxC1u",
+        "supplier_contact": "suppliergNpRxC1u@example.com",
+        "products": [
+            {
+                "product_name": "Product-quasi-facere",
+                "product_description": "Voluptate sed iusto perferendis sapiente quasi vel libero doloremque, accusamus rerum tempora dolorum molestias asperiores aperiam eos provident.",
+                "product_price": 35.64
+            },
+            {
+                "product_name": "Product-nulla-modi",
+                "product_description": "Delectus mollitia omnis rerum vel iusto esse consequatur eius, iusto exercitationem sunt aliquid hic voluptas itaque quis magni, non obcaecati tenetur esse harum ut numquam reiciendis excepturi corrupti maxime, quo rerum ratione officiis adipisci dolor debitis earum, sequi tempora molestias fuga minima eos qui illo quidem repudiandae ut?",
+                "product_quantity": 30,
+                "product_price": 40.2
+            }
+        ]
+    }
+}

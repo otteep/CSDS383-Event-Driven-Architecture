@@ -1,0 +1,13 @@
+{
+    "supplier": {
+        "supplier_contact": "supplier2xwG6XKC@example.com",
+        "products": [
+            {
+                "product_name": "Product-fugiat-nulla",
+                "product_description": "Architecto inventore totam dolor quisquam odio, libero autem nobis nemo officia, ratione fugiat quam quisquam quidem temporibus maxime nemo nisi commodi, pariatur officia dolorem commodi sit facere aut eveniet corporis optio, voluptatibus in culpa nulla expedita rem aut.",
+                "product_quantity": 33,
+                "product_price": 85.17
+            }
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-uzeUe97N",
+        "supplier_contact": "supplieruzeUe97N@example.com",
+        "products": [
+            {
+                "product_name": "Product-deleniti-voluptatibus",
+                "product_description": "Delectus dolorem tempore illo quidem, laboriosam nisi quibusdam recusandae libero sed iure quae, porro voluptas nobis perspiciatis minima doloribus libero quia tempora fugiat exercitationem aliquam, voluptatibus repellendus eaque quaerat unde velit distinctio magni accusamus eveniet modi alias, necessitatibus magni quasi reprehenderit a veritatis neque quas iusto quidem eos.",
+                "product_quantity": 65,
+                "product_price": 98.86
+            }
+        ]
+    }
+}

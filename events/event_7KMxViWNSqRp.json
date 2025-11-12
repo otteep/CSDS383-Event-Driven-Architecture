@@ -1,0 +1,14 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-S7drxai5",
+        "supplier_contact": "supplierS7drxai5@example.com",
+        "products": [
+            {
+                "product_name": "Product-tempore-quasi",
+                "product_description": "Laudantium impedit soluta deserunt sint doloremque, quia sed non, iusto ut quibusdam assumenda tempora reprehenderit omnis ab aspernatur nihil inventore quo, aliquam incidunt dolore illo quo distinctio enim est?",
+                "product_quantity": 20,
+                "product_price": 9.69
+            }
+        ]
+    }
+}

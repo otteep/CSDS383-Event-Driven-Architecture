@@ -1,0 +1,26 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-MMvXgsN8",
+        "supplier_contact": "supplierMMvXgsN8@example.com",
+        "products": [
+            {
+                "product_name": "Product-enim-voluptatum",
+                "product_description": "Alias officia dolor tempora quod quia corporis incidunt blanditiis harum, eveniet atque veritatis quae maiores saepe sit vitae nobis neque.",
+                "product_quantity": 99,
+                "product_price": 88.37
+            },
+            {
+                "product_name": "Product-quis-beatae",
+                "product_description": "Ratione facilis dolore mollitia recusandae error assumenda sint, ut velit nulla iste?",
+                "product_quantity": 46,
+                "product_price": 34.9
+            },
+            {
+                "product_name": "Product-officiis-et",
+                "product_description": "Laboriosam tempora ratione dolore alias doloremque illum, odio harum ullam voluptas magni debitis provident nostrum fugiat necessitatibus, enim ipsum quidem minus dolor, dolorum amet ex dolore?",
+                "product_quantity": 15,
+                "product_price": 46.36
+            }
+        ]
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-hZQOPJF6",
+        "supplier_contact": "supplierhZQOPJF6@example.com",
+        "products": [
+            {
+                "product_name": "Product-tempore-repellat",
+                "product_description": "Voluptate commodi asperiores doloribus iusto, nulla inventore velit vero minima ipsam, architecto deserunt aliquid nostrum voluptatum dolorum quidem iure neque saepe quis delectus, eligendi eos earum nostrum omnis nesciunt?",
+                "product_quantity": 71,
+                "product_price": 62.37
+            },
+            {
+                "product_name": "Product-esse-ducimus",
+                "product_description": "Repellat fugiat eius vitae, ipsam fugiat est esse a neque atque quia unde veniam praesentium, dolores sapiente repellat eum, labore aliquid qui necessitatibus tempore accusamus totam accusantium incidunt neque ad, sequi magni enim quia quis fugit sit ullam modi earum?",
+                "product_quantity": 9,
+                "product_price": 50.15
+            },
+            {
+                "product_name": "Product-reiciendis-praesentium",
+                "product_description": "Ad similique consequatur corporis enim eligendi et ipsa voluptates perferendis eaque, dolorem harum quos tempora ducimus hic vel eius vitae, iure sint nulla perspiciatis quae repellat, ea aperiam nemo quod eligendi.",
+                "product_quantity": 98,
+                "product_price": 11.24
+            },
+            {
+                "product_name": "Product-explicabo-earum",
+                "product_description": "Molestias culpa nobis, harum quia facere reiciendis adipisci asperiores sit recusandae labore, quo soluta cum repellendus facilis eligendi eius esse autem hic odio quia.",
+                "product_quantity": 26,
+                "product_price": 58.75
+            }
+        ]
+    }
+}

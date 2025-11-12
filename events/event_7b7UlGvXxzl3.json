@@ -1,0 +1,14 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-k4tI24LA",
+        "supplier_contact": "supplierk4tI24LA@example.com",
+        "products": [
+            {
+                "product_name": "Product-obcaecati-vero",
+                "product_description": "Modi iste ex placeat deleniti eos ipsum, voluptatem inventore aliquam sunt placeat?",
+                "product_quantity": 20,
+                "product_price": 50.42
+            }
+        ]
+    }
+}

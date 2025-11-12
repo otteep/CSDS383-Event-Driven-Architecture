@@ -1,0 +1,37 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-vNs7GlrT",
+        "supplier_contact": "suppliervNs7GlrT@example.com",
+        "products": [
+            {
+                "product_name": "Product-impedit-ducimus",
+                "product_description": "Perspiciatis officia assumenda sunt quisquam minus temporibus consequuntur culpa aspernatur voluptates, tempora doloremque aliquam itaque, officia nemo consequuntur eius, est iste reiciendis eius doloremque asperiores quod unde rerum vel ut labore, corporis quia explicabo earum atque porro ullam doloremque?",
+                "product_quantity": 32,
+                "product_price": 54.68
+            },
+            {
+                "product_name": "Product-suscipit-temporibus",
+                "product_description": "Aspernatur accusamus non, exercitationem repellendus id illo, amet voluptates id a vel vitae expedita eligendi voluptas, recusandae doloribus repellat voluptates temporibus veniam architecto impedit reiciendis.",
+                "product_quantity": 15,
+                "product_price": 15.09
+            },
+            {
+                "product_description": "Maiores voluptatem doloremque possimus quae ea eveniet excepturi eligendi perferendis, distinctio vitae voluptatem magnam iusto eos maxime nemo suscipit, nobis vero ducimus laudantium aliquam facere quo ex quis accusantium reiciendis?",
+                "product_quantity": 97,
+                "product_price": 38.03
+            },
+            {
+                "product_name": "Product-ullam-aperiam",
+                "product_description": "Modi asperiores dolor amet impedit maiores dolorem architecto quia nihil dignissimos nesciunt, architecto repellendus dolorum quis itaque error non sit expedita vitae totam, molestiae quasi consequuntur placeat perspiciatis quo maiores accusantium veritatis hic, voluptatem quasi perspiciatis facilis iusto, provident libero praesentium suscipit voluptatibus.",
+                "product_quantity": 2,
+                "product_price": 62.79
+            },
+            {
+                "product_name": "Product-aspernatur-iure",
+                "product_description": "Odit nam ullam nisi a inventore perferendis tempore velit esse animi suscipit, recusandae soluta laborum, totam laborum nobis eos ex labore enim similique distinctio dolores eius aperiam, mollitia placeat quo facilis eveniet eos.",
+                "product_quantity": 95,
+                "product_price": 60.89
+            }
+        ]
+    }
+}

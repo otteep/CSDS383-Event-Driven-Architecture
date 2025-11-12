@@ -1,0 +1,20 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-Tcwn2TZT",
+        "supplier_contact": "supplierTcwn2TZT@example.com",
+        "products": [
+            {
+                "product_name": "Product-eius-nostrum",
+                "product_description": "Enim odit iusto inventore fuga deleniti, cupiditate quo sapiente iste consectetur ipsa voluptates corporis aspernatur esse praesentium?",
+                "product_quantity": 6,
+                "product_price": 36.79
+            },
+            {
+                "product_name": "Product-iste-impedit",
+                "product_description": "Neque architecto eum eligendi, laborum hic magnam vero qui excepturi quo possimus facilis officiis, excepturi magni saepe enim ipsam.",
+                "product_quantity": 46,
+                "product_price": 62.8
+            }
+        ]
+    }
+}

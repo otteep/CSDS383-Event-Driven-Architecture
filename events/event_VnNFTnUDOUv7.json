@@ -1,0 +1,26 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-pIFPE8y1",
+        "supplier_contact": "supplierpIFPE8y1@example.com",
+        "products": [
+            {
+                "product_name": "Product-eveniet-voluptatem",
+                "product_description": "Consequatur dolor unde ea ratione dolorem, non fugiat minima nesciunt hic quidem similique veniam dolores consequatur consequuntur tempore, officia laudantium excepturi tempore saepe molestias quas sunt modi, sed dolorem dolorum culpa temporibus minima ab libero voluptatem praesentium.",
+                "product_quantity": 39,
+                "product_price": 43.84
+            },
+            {
+                "product_name": "Product-in-sit",
+                "product_description": "Vel a tempore cum natus, architecto temporibus autem deleniti, sapiente numquam tempora, eveniet earum iure beatae, provident iste culpa.",
+                "product_quantity": 59,
+                "product_price": 66.28
+            },
+            {
+                "product_name": "Product-suscipit-distinctio",
+                "product_description": "Atque soluta in nam repellendus iusto hic, voluptatum non molestias iusto saepe assumenda, ratione numquam accusantium repellat eaque deserunt delectus dolore quidem?",
+                "product_quantity": 13,
+                "product_price": 50.2
+            }
+        ]
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-qRQ4jnw5",
+        "supplier_contact": "supplierqRQ4jnw5@example.com",
+        "products": [
+            {
+                "product_name": "Product-alias-repellat",
+                "product_description": "Nemo magni aliquam nobis, vel perspiciatis itaque, maiores vitae fugiat error illo illum laudantium?",
+                "product_quantity": 80,
+                "product_price": 11.47
+            },
+            {
+                "product_name": "Product-vero-et",
+                "product_description": "Minima nihil obcaecati eius, nostrum ea sint perspiciatis fugit velit aliquid quasi saepe, odio facere minima nam voluptatibus iusto.",
+                "product_quantity": 96,
+                "product_price": 29.16
+            },
+            {
+                "product_name": "Product-vero-voluptatem",
+                "product_description": "Necessitatibus deleniti atque non odio, delectus eum dignissimos deleniti, recusandae pariatur nam deserunt libero magnam fugit rerum maiores reiciendis nisi eos?",
+                "product_quantity": 68,
+                "product_price": 32.55
+            },
+            {
+                "product_name": "Product-sapiente-nam",
+                "product_description": "Deserunt animi quibusdam aliquid odit ipsa magnam perspiciatis ab dolorum molestiae assumenda, officia ipsam sequi, exercitationem possimus iste, molestias omnis quae ipsa iusto quod quas autem, tempora obcaecati laborum ullam iure praesentium?",
+                "product_quantity": 36,
+                "product_price": 23.16
+            }
+        ]
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-XNOeOqwO",
+        "supplier_contact": "supplierXNOeOqwO@example.com",
+        "products": [
+            {
+                "product_name": "Product-nemo-vel",
+                "product_description": "Ut dolorum autem earum harum, facere illum ipsum ut quasi explicabo non, explicabo sapiente sint velit beatae molestiae voluptatibus suscipit facere perferendis at similique, dolorum officiis labore ullam harum nulla id quod alias?",
+                "product_quantity": 58
+            }
+        ]
+    }
+}

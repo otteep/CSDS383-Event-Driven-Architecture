@@ -1,0 +1,20 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-wm0k4XTJ",
+        "supplier_contact": "supplierwm0k4XTJ@example.com",
+        "products": [
+            {
+                "product_name": "Product-ullam-optio",
+                "product_description": "Fuga eius porro veritatis totam, tempore reprehenderit quidem debitis non id sit cupiditate maiores obcaecati, vitae necessitatibus consequuntur quae porro soluta reiciendis reprehenderit accusamus voluptatum, nam ratione quae quibusdam.",
+                "product_quantity": 4,
+                "product_price": 58.2
+            },
+            {
+                "product_name": "Product-totam-reiciendis",
+                "product_description": "Tenetur eos soluta quas nam animi voluptatum dolorem odio eum excepturi, dicta inventore porro dolor, impedit consectetur sapiente dolore laudantium quos quod animi quis, soluta nam earum, nam sint harum earum inventore ea suscipit?",
+                "product_quantity": 40,
+                "product_price": 65.73
+            }
+        ]
+    }
+}

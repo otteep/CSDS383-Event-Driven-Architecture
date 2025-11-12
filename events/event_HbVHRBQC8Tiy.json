@@ -1,0 +1,31 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-lLuz72V6",
+        "supplier_contact": "supplierlLuz72V6@example.com",
+        "products": [
+            {
+                "product_name": "Product-veritatis-animi",
+                "product_description": "Facilis dolores ipsa cumque omnis vitae error, sequi facere eos libero placeat quibusdam dolor, quas ducimus quo iure nesciunt odio deleniti aliquam ex, ipsam amet eaque repudiandae at.",
+                "product_quantity": 7,
+                "product_price": 61.09
+            },
+            {
+                "product_name": "Product-sed-sequi",
+                "product_description": "Veniam ratione soluta esse tempore enim mollitia cumque nesciunt, dolores nihil reiciendis perspiciatis saepe recusandae at perferendis delectus distinctio pariatur, in quis tempora at labore repellat fugit error asperiores tenetur, ducimus ut a labore eligendi quibusdam excepturi natus commodi?",
+                "product_quantity": 58
+            },
+            {
+                "product_name": "Product-corporis-unde",
+                "product_description": "Ad voluptatibus numquam eius, aut explicabo eius consequatur harum nemo ad deleniti possimus accusantium, saepe aspernatur debitis sit veniam doloribus tenetur officia repudiandae perferendis optio ipsam.",
+                "product_quantity": 11,
+                "product_price": 51.17
+            },
+            {
+                "product_name": "Product-aut-beatae",
+                "product_description": "Labore quos cumque eius accusantium neque, reiciendis rerum harum, velit sapiente iure omnis reiciendis illum hic cumque consequuntur voluptatum assumenda, autem suscipit modi doloremque molestiae sequi sunt.",
+                "product_quantity": 61,
+                "product_price": 5.45
+            }
+        ]
+    }
+}

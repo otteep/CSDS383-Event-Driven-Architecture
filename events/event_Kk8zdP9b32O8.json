@@ -1,0 +1,20 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-3kHKCDd2",
+        "supplier_contact": "supplier3kHKCDd2@example.com",
+        "products": [
+            {
+                "product_name": "Product-vero-aspernatur",
+                "product_description": "Nisi nemo dolorum cupiditate nulla est rem quibusdam, qui minima aliquam est doloremque tempora ipsam officia minus fugit placeat.",
+                "product_quantity": 63,
+                "product_price": 60.87
+            },
+            {
+                "product_name": "Product-laborum-laboriosam",
+                "product_description": "Nobis ipsum officiis nemo a, dolorum vero ipsam adipisci alias maiores dolore accusantium eum ex, nisi expedita iste incidunt dolor voluptates, tenetur odio eum facilis minus alias explicabo non, ut corporis tempora molestias incidunt sint assumenda numquam aliquam ea.",
+                "product_quantity": 70,
+                "product_price": 16.48
+            }
+        ]
+    }
+}

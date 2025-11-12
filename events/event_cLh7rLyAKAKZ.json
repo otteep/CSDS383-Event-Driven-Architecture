@@ -1,0 +1,14 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-xZ5FkXf0",
+        "supplier_contact": "supplierxZ5FkXf0@example.com",
+        "products": [
+            {
+                "product_name": "Product-corporis-ex",
+                "product_description": "Nesciunt deserunt dolorem rerum quibusdam maxime eligendi amet tempora delectus, ratione nobis quod eum hic ad laudantium consequatur repudiandae, ducimus quibusdam eos voluptas quos, iste odio voluptatum aliquam animi sint a?",
+                "product_quantity": 76,
+                "product_price": 47.64
+            }
+        ]
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-KnlajGo6",
+        "supplier_contact": "supplierKnlajGo6@example.com",
+        "products": [
+            {
+                "product_name": "Product-perferendis-tenetur",
+                "product_description": "Architecto vel nesciunt deserunt officiis, vitae praesentium aliquid quae accusantium debitis tenetur ducimus magni.",
+                "product_quantity": 34,
+                "product_price": 32.6
+            },
+            {
+                "product_name": "Product-eveniet-molestias",
+                "product_description": "Eius mollitia porro explicabo fuga harum, iste maiores et facilis laborum, vero est eveniet esse saepe minus quo doloribus quas perspiciatis.",
+                "product_quantity": 12,
+                "product_price": 86.63
+            },
+            {
+                "product_name": "Product-deserunt-quaerat",
+                "product_description": "Nam dolorum est et atque dicta expedita totam earum natus quidem veniam, quo temporibus sit minus, suscipit minima numquam nostrum, reiciendis modi repellat obcaecati tempora totam quas dolor?",
+                "product_quantity": 30,
+                "product_price": 66.67
+            }
+        ]
+    }
+}

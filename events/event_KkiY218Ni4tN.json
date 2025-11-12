@@ -1,0 +1,14 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-oGNYD0Oy",
+        "supplier_contact": "supplieroGNYD0Oy@example.com",
+        "products": [
+            {
+                "product_name": "Product-consequuntur-tempora",
+                "product_description": "Ratione ullam tenetur sit dicta sed expedita maxime, soluta ipsa atque quas voluptas a incidunt perferendis in, sint necessitatibus suscipit commodi nobis nesciunt hic voluptatum, enim hic molestiae consectetur vitae, ut molestiae natus non voluptas porro excepturi autem dignissimos reiciendis incidunt laudantium?",
+                "product_quantity": 12,
+                "product_price": 54.11
+            }
+        ]
+    }
+}

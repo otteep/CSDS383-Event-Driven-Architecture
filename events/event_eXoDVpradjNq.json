@@ -1,0 +1,20 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-RSx7u3uG",
+        "supplier_contact": "supplierRSx7u3uG@example.com",
+        "products": [
+            {
+                "product_name": "Product-sint-et",
+                "product_description": "Culpa tempore suscipit perspiciatis delectus inventore cum veniam similique enim assumenda consequatur, quis quisquam quas ut modi blanditiis eos laboriosam animi repellendus tempora?",
+                "product_quantity": 31,
+                "product_price": 19.61
+            },
+            {
+                "product_name": "Product-voluptatum-eum",
+                "product_description": "Officia veniam et iste dignissimos debitis labore, debitis praesentium officiis repellendus accusantium architecto rem ab.",
+                "product_quantity": 17,
+                "product_price": 26.64
+            }
+        ]
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-GNIolAU6",
+        "supplier_contact": "supplierGNIolAU6@example.com",
+        "products": [
+            {
+                "product_name": "Product-et-recusandae",
+                "product_description": "Dignissimos provident placeat expedita suscipit, rerum aliquam impedit fugiat ducimus magni fugit beatae quae unde voluptate, est totam nihil non culpa ad at eos rerum doloremque enim doloribus.",
+                "product_quantity": 86,
+                "product_price": 75.92
+            },
+            {
+                "product_name": "Product-ipsam-totam",
+                "product_description": "Est debitis veniam adipisci quos blanditiis ratione ex, magnam minima natus veritatis consectetur minus, provident ipsam consectetur odio, amet assumenda dolorum, quo voluptas molestias in repellendus.",
+                "product_quantity": 77,
+                "product_price": 8.35
+            },
+            {
+                "product_name": "Product-dolor-natus",
+                "product_description": "Neque voluptas quae iusto, at soluta in eum, reprehenderit assumenda dignissimos blanditiis, pariatur at voluptas rerum repellat facere dignissimos obcaecati, mollitia repudiandae fuga a corporis autem recusandae?",
+                "product_quantity": 3,
+                "product_price": 6.26
+            },
+            {
+                "product_name": "Product-modi-hic",
+                "product_description": "Vel in ex doloremque nisi aliquid facilis assumenda culpa tempora quae officia, fugiat velit ab delectus distinctio repellendus voluptates ipsa, aspernatur rerum cum dicta minima consectetur earum tempora architecto molestias, culpa nam cum molestias maxime facilis repellendus?",
+                "product_quantity": 67,
+                "product_price": 75.92
+            }
+        ]
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-8DllLrEC",
+        "supplier_contact": "supplier8DllLrEC@example.com",
+        "products": [
+            {
+                "product_name": "Product-sed-aliquid",
+                "product_description": "Quia inventore iure nesciunt rerum odio reprehenderit, cupiditate soluta ex ea exercitationem fuga quae cumque, inventore necessitatibus aperiam cupiditate magni repellendus impedit quos delectus quia?",
+                "product_quantity": 24,
+                "product_price": 15.4
+            },
+            {
+                "product_name": "Product-tempora-reiciendis",
+                "product_description": "Amet neque facere sint quos aliquid suscipit corrupti fugiat iure ut, aliquid officia dolores ullam deserunt a excepturi dolor unde, eligendi officia cupiditate aperiam quae dolorem veniam iste dolor eveniet nobis nihil, molestias ipsum voluptate harum ipsam quisquam vitae exercitationem, dolorem iusto assumenda nobis saepe rem.",
+                "product_quantity": 31,
+                "product_price": 9.06
+            },
+            {
+                "product_name": "Product-hic-commodi",
+                "product_description": "Vitae quas cum a quidem sapiente commodi quos, excepturi laborum reiciendis sed ex deleniti velit dolores fugit praesentium qui, sit dolore blanditiis porro officiis doloremque ex, possimus enim quas facilis, quibusdam hic libero nam modi non sequi saepe?",
+                "product_quantity": 75,
+                "product_price": 1.86
+            }
+        ]
+    }
+}

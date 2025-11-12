@@ -1,0 +1,25 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-hXkfpiMy",
+        "supplier_contact": "supplierhXkfpiMy@example.com",
+        "products": [
+            {
+                "product_name": "Product-reprehenderit-ratione",
+                "product_description": "Qui illum maiores fuga, rem dicta dignissimos ad consequuntur esse culpa, inventore quia eos expedita consectetur facere autem deleniti atque ab commodi, deserunt voluptates quis inventore cum placeat officia quibusdam modi maxime, exercitationem vitae incidunt distinctio excepturi rerum culpa.",
+                "product_quantity": 11,
+                "product_price": 32.47
+            },
+            {
+                "product_name": "Product-obcaecati-aliquam",
+                "product_description": "Delectus quis eveniet illum voluptatibus officia culpa rerum a eaque eum assumenda, provident sed vel?",
+                "product_quantity": 3,
+                "product_price": 39.5
+            },
+            {
+                "product_description": "Molestiae adipisci corporis odit odio nostrum impedit vel dolore nam voluptates, officia maxime minima aliquid, assumenda facilis soluta iste, pariatur dolor optio perferendis vitae, ex aspernatur rerum ut doloribus deserunt ea illo assumenda.",
+                "product_quantity": 76,
+                "product_price": 56.64
+            }
+        ]
+    }
+}

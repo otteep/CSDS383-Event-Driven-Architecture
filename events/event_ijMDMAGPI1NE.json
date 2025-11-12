@@ -1,0 +1,38 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-5HsK5vI9",
+        "supplier_contact": "supplier5HsK5vI9@example.com",
+        "products": [
+            {
+                "product_name": "Product-ad-obcaecati",
+                "product_description": "Fugiat perspiciatis fugit vel quidem, sunt cumque consequatur dolorum ipsa reiciendis sint, cumque delectus repudiandae iure quisquam, consequuntur aliquam quo nisi mollitia doloribus consectetur?",
+                "product_quantity": 26,
+                "product_price": 18.07
+            },
+            {
+                "product_name": "Product-maiores-quasi",
+                "product_description": "Quae doloremque praesentium a eligendi voluptas officiis ipsa eaque excepturi sunt, architecto sunt enim doloribus vel dolorem magni, sunt provident eos vitae nisi recusandae ad?",
+                "product_quantity": 59,
+                "product_price": 24.53
+            },
+            {
+                "product_name": "Product-eum-magnam",
+                "product_description": "Voluptatum illum natus pariatur vitae magnam velit itaque nemo quo autem, ab et ea assumenda est aspernatur, natus asperiores tempore numquam inventore voluptatibus voluptates labore, vel earum mollitia esse animi quidem maiores sed, quia magni quaerat qui quos id?",
+                "product_quantity": 3,
+                "product_price": 88.36
+            },
+            {
+                "product_name": "Product-asperiores-ex",
+                "product_description": "Ipsam quisquam odit maiores praesentium corrupti dolores, repudiandae fugiat reprehenderit libero soluta molestiae, ab tempore facilis sapiente blanditiis, explicabo excepturi quia, enim numquam quas.",
+                "product_quantity": 53,
+                "product_price": 98.24
+            },
+            {
+                "product_name": "Product-quas-maxime",
+                "product_description": "Velit reprehenderit architecto necessitatibus tempore repellat sequi molestiae officiis dolores cupiditate, magnam eveniet sapiente architecto, deleniti at eum omnis obcaecati atque hic dolore quibusdam sapiente neque blanditiis.",
+                "product_quantity": 25,
+                "product_price": 71.19
+            }
+        ]
+    }
+}

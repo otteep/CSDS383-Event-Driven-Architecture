@@ -1,0 +1,20 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-YVVtFhma",
+        "supplier_contact": "supplierYVVtFhma@example.com",
+        "products": [
+            {
+                "product_name": "Product-recusandae-obcaecati",
+                "product_description": "Voluptatum et esse facere, consequuntur perferendis corrupti deserunt voluptatum maxime eligendi, labore aut est magni perferendis, impedit nihil inventore voluptate suscipit veritatis accusamus quo, impedit pariatur id maiores mollitia dolorum.",
+                "product_quantity": 28,
+                "product_price": 37.8
+            },
+            {
+                "product_name": "Product-temporibus-quis",
+                "product_description": "Accusantium animi aliquam quam quibusdam iure natus modi commodi nihil, accusantium asperiores officia optio iste cumque eum mollitia quasi deserunt, ullam ab explicabo similique, aperiam commodi saepe.",
+                "product_quantity": 26,
+                "product_price": 86.59
+            }
+        ]
+    }
+}

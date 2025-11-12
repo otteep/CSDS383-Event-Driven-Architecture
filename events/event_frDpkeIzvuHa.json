@@ -1,0 +1,25 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-PMVYETMO",
+        "products": [
+            {
+                "product_name": "Product-ad-temporibus",
+                "product_description": "Iusto quisquam officiis quis voluptates odio aut, ea dolorum corrupti fugiat, quis quos totam ipsam quo eius recusandae error, dolorum dicta suscipit aliquid explicabo error soluta, aut dicta esse excepturi sed dolorem dignissimos quis in reprehenderit aliquid aspernatur.",
+                "product_quantity": 66,
+                "product_price": 6.16
+            },
+            {
+                "product_name": "Product-quasi-laborum",
+                "product_description": "Facilis odio fuga deleniti veniam blanditiis corporis ex iusto optio obcaecati numquam, optio delectus assumenda maiores cum aspernatur voluptate tempora similique, cupiditate rem beatae voluptatum amet fugiat corrupti consectetur magnam ex nulla delectus, magnam aliquam beatae et vitae.",
+                "product_quantity": 73,
+                "product_price": 37.4
+            },
+            {
+                "product_name": "Product-expedita-veritatis",
+                "product_description": "Modi quod dolorum aliquid consequuntur deleniti, quam obcaecati quibusdam doloribus quod iure aspernatur dicta asperiores ratione quisquam iusto, non eligendi dolorum laborum error exercitationem numquam ab unde, consectetur nihil ut tempora totam repudiandae, nihil ex assumenda aliquid modi beatae nulla a similique earum ea?",
+                "product_quantity": 20,
+                "product_price": 42.53
+            }
+        ]
+    }
+}

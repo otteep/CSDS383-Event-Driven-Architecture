@@ -1,0 +1,32 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-DQFs1XR8",
+        "supplier_contact": "supplierDQFs1XR8@example.com",
+        "products": [
+            {
+                "product_name": "Product-harum-in",
+                "product_description": "Quibusdam veniam quam nemo, dolores quos reiciendis modi impedit consequatur asperiores explicabo, animi dolorum voluptate illum provident facere laborum.",
+                "product_quantity": 99,
+                "product_price": 15.7
+            },
+            {
+                "product_name": "Product-voluptatibus-quaerat",
+                "product_description": "Enim laudantium odit sint expedita eum ut facere quibusdam, dolore repellendus temporibus tempore architecto iusto corporis, nihil odio ullam laboriosam temporibus qui est minima, perferendis sit maxime dolore corporis tempora sequi cumque reprehenderit error necessitatibus repudiandae?",
+                "product_quantity": 46,
+                "product_price": 67.68
+            },
+            {
+                "product_name": "Product-nemo-consequuntur",
+                "product_description": "Molestias facere ab facilis dolor itaque aliquam quia, praesentium animi ullam similique necessitatibus, sint necessitatibus dolore aut laudantium commodi.",
+                "product_quantity": 17,
+                "product_price": 75.09
+            },
+            {
+                "product_name": "Product-distinctio-quam",
+                "product_description": "Ex reprehenderit facilis, provident animi voluptatem cumque, illum magnam nostrum suscipit, perferendis obcaecati beatae dolore minima deserunt nobis inventore velit necessitatibus ad dolores.",
+                "product_quantity": 23,
+                "product_price": 72.55
+            }
+        ]
+    }
+}

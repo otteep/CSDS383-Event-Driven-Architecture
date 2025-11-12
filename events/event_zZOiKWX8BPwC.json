@@ -1,0 +1,26 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-4uMmU5Yk",
+        "supplier_contact": "supplier4uMmU5Yk@example.com",
+        "products": [
+            {
+                "product_name": "Product-harum-pariatur",
+                "product_description": "Nam amet distinctio explicabo beatae tenetur similique debitis vel nihil aperiam culpa, illum corrupti obcaecati autem velit error non accusamus dicta fuga et architecto, quibusdam totam dolorem, voluptates officiis commodi sunt, fuga nostrum eum aut?",
+                "product_quantity": 9,
+                "product_price": 75.28
+            },
+            {
+                "product_name": "Product-et-velit",
+                "product_description": "Quam ad exercitationem, exercitationem quae ut blanditiis temporibus aut voluptatem, quod ad corrupti recusandae qui aspernatur eveniet eaque sed?",
+                "product_quantity": 82,
+                "product_price": 35.2
+            },
+            {
+                "product_name": "Product-eius-voluptate",
+                "product_description": "Accusantium officiis autem magni distinctio veniam exercitationem cum, ab cumque a id aliquid reiciendis, expedita est earum mollitia veritatis asperiores?",
+                "product_quantity": 1,
+                "product_price": 21.22
+            }
+        ]
+    }
+}

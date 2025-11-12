@@ -1,0 +1,26 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-h3FB5Mso",
+        "supplier_contact": "supplierh3FB5Mso@example.com",
+        "products": [
+            {
+                "product_name": "Product-rerum-quasi",
+                "product_description": "Porro tenetur architecto ab culpa cum et vero dicta dolorum, possimus vero quidem ipsum odit libero non molestiae hic quis animi, alias totam modi sequi eaque quaerat nisi corrupti recusandae officiis molestiae inventore?",
+                "product_quantity": 3,
+                "product_price": 5.83
+            },
+            {
+                "product_name": "Product-assumenda-consectetur",
+                "product_description": "Eligendi distinctio qui veniam delectus, sapiente fugit corporis quos dolor dolorem harum recusandae officiis?",
+                "product_quantity": 65,
+                "product_price": 70.57
+            },
+            {
+                "product_name": "Product-eveniet-magni",
+                "product_description": "Doloribus numquam magnam debitis quos nesciunt, ducimus aperiam esse, corporis cum voluptatum eaque, non quae modi?",
+                "product_quantity": 2,
+                "product_price": 29.5
+            }
+        ]
+    }
+}

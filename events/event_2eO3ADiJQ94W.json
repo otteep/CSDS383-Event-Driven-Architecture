@@ -1,0 +1,14 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-z6nYfdeh",
+        "supplier_contact": "supplierz6nYfdeh@example.com",
+        "products": [
+            {
+                "product_name": "Product-nam-quia",
+                "product_description": "Nesciunt aut at vero soluta deserunt asperiores ratione corrupti, eius quo eos fugit, dolor blanditiis vel deleniti, ex fugit odit voluptate quas voluptatibus asperiores ipsa, omnis odio accusamus necessitatibus vero atque dolores.",
+                "product_quantity": 97,
+                "product_price": 7.12
+            }
+        ]
+    }
+}

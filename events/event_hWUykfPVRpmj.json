@@ -1,0 +1,20 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-O93mGzjy",
+        "supplier_contact": "supplierO93mGzjy@example.com",
+        "products": [
+            {
+                "product_name": "Product-dignissimos-accusantium",
+                "product_description": "Perspiciatis fuga pariatur, illo rerum animi provident ut reiciendis nobis tenetur atque tempore itaque, ipsam nostrum excepturi nisi tempora dolorum corporis quaerat totam unde consequuntur rem?",
+                "product_quantity": 84,
+                "product_price": 57.03
+            },
+            {
+                "product_name": "Product-impedit-veritatis",
+                "product_description": "Aspernatur eos labore necessitatibus repudiandae at molestiae iure, recusandae voluptatibus quia eos maxime culpa dolore ducimus cumque quam eum?",
+                "product_quantity": 13,
+                "product_price": 71.32
+            }
+        ]
+    }
+}

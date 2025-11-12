@@ -1,0 +1,13 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-HO0A4j7g",
+        "supplier_contact": "supplierHO0A4j7g@example.com",
+        "products": [
+            {
+                "product_description": "Architecto optio nesciunt ad aut recusandae soluta ducimus nemo, odio recusandae vero illum fugiat labore eveniet, id facilis assumenda, voluptate eos velit pariatur est.",
+                "product_quantity": 43,
+                "product_price": 6.38
+            }
+        ]
+    }
+}

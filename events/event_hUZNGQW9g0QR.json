@@ -1,0 +1,32 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-18Amrmiw",
+        "supplier_contact": "supplier18Amrmiw@example.com",
+        "products": [
+            {
+                "product_name": "Product-repellendus-distinctio",
+                "product_description": "Sapiente dolorum voluptates vel, voluptates nam consequatur.",
+                "product_quantity": 13,
+                "product_price": 46.88
+            },
+            {
+                "product_name": "Product-possimus-non",
+                "product_description": "Animi hic cum mollitia possimus recusandae, nobis nisi unde et rem ducimus placeat dicta quaerat excepturi velit earum, placeat beatae at error soluta consequatur neque?",
+                "product_quantity": 26,
+                "product_price": 49.14
+            },
+            {
+                "product_name": "Product-fugiat-maxime",
+                "product_description": "Aut laudantium ipsa iste corporis, ipsam consectetur exercitationem enim nulla nisi ea, asperiores illo possimus excepturi quis perspiciatis eligendi nobis.",
+                "product_quantity": 71,
+                "product_price": 14.95
+            },
+            {
+                "product_name": "Product-cumque-tempore",
+                "product_description": "Nesciunt quos fugiat optio iure saepe necessitatibus quod qui aspernatur eius reprehenderit, similique veritatis recusandae pariatur ut veniam asperiores nisi consequatur, quaerat nesciunt at pariatur quia reprehenderit, ad deserunt suscipit.",
+                "product_quantity": 85,
+                "product_price": 28.81
+            }
+        ]
+    }
+}

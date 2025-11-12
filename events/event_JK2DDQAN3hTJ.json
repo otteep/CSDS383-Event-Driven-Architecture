@@ -1,0 +1,38 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-zImC5p93",
+        "supplier_contact": "supplierzImC5p93@example.com",
+        "products": [
+            {
+                "product_name": "Product-iste-magni",
+                "product_description": "Odio reiciendis unde minima similique molestias maxime dolor distinctio recusandae doloribus temporibus, eos adipisci enim numquam reprehenderit officiis in obcaecati magnam et consectetur.",
+                "product_quantity": 59,
+                "product_price": 35.59
+            },
+            {
+                "product_name": "Product-suscipit-animi",
+                "product_description": "Nobis vero iure voluptates neque similique pariatur facere, magnam dolorum soluta consequuntur eum non magni quis culpa mollitia omnis earum, quos quisquam assumenda accusantium non minus porro voluptate ipsum, delectus dolor expedita soluta temporibus dolore, similique mollitia incidunt nihil obcaecati suscipit eius?",
+                "product_quantity": 95,
+                "product_price": 78.42
+            },
+            {
+                "product_name": "Product-suscipit-aliquid",
+                "product_description": "Quibusdam voluptatem ipsam et autem unde repellendus facilis repudiandae officiis blanditiis cum, nobis nihil harum autem tempora vel maiores deserunt minus voluptates aperiam, magnam quia quam quaerat eius esse qui voluptas, id aspernatur nemo aliquid deserunt excepturi.",
+                "product_quantity": 9,
+                "product_price": 28.25
+            },
+            {
+                "product_name": "Product-excepturi-reiciendis",
+                "product_description": "Dolor adipisci alias quaerat ex est doloremque reiciendis asperiores saepe quo, accusamus odio consectetur ab voluptate assumenda molestiae.",
+                "product_quantity": 79,
+                "product_price": 35.91
+            },
+            {
+                "product_name": "Product-nesciunt-accusantium",
+                "product_description": "Asperiores dicta maiores aspernatur voluptate odio cum id magnam, sit similique fugit, perspiciatis velit alias ipsam necessitatibus, rem minima laborum sint maiores porro illo ipsum fugit culpa consectetur.",
+                "product_quantity": 67,
+                "product_price": 74.64
+            }
+        ]
+    }
+}

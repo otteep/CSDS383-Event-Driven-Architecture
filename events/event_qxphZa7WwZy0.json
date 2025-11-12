@@ -1,0 +1,26 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-QP54nBVs",
+        "supplier_contact": "supplierQP54nBVs@example.com",
+        "products": [
+            {
+                "product_name": "Product-omnis-aspernatur",
+                "product_description": "Iure necessitatibus omnis culpa, soluta deleniti doloremque eveniet numquam fugiat officia, accusantium rerum non laboriosam consequuntur iusto esse excepturi minima aliquid autem.",
+                "product_quantity": 24,
+                "product_price": 1.35
+            },
+            {
+                "product_name": "Product-autem-quam",
+                "product_description": "Sapiente ex labore dolore, non ab quod obcaecati vero minima deserunt voluptatum, non a suscipit officia minus ut in laborum numquam, ducimus eum officia nostrum qui illo omnis molestiae tenetur consequatur neque excepturi?",
+                "product_quantity": 53,
+                "product_price": 9.73
+            },
+            {
+                "product_name": "Product-recusandae-consequatur",
+                "product_description": "Aspernatur cumque a eligendi ex mollitia quas sit, quidem non voluptas ratione sapiente rerum necessitatibus, nihil aut omnis, rem illo sint, labore fugiat mollitia eos laborum commodi voluptatum nemo expedita omnis in vel?",
+                "product_quantity": 90,
+                "product_price": 6.36
+            }
+        ]
+    }
+}

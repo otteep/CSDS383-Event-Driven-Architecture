@@ -1,0 +1,26 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-nLyHFo0x",
+        "supplier_contact": "suppliernLyHFo0x@example.com",
+        "products": [
+            {
+                "product_name": "Product-maxime-animi",
+                "product_description": "Placeat nisi temporibus natus soluta corporis, expedita voluptates corporis autem earum hic unde facere dignissimos nulla eum suscipit, temporibus iste adipisci magnam quas cumque voluptate doloribus facere, tenetur culpa dolorem iste temporibus voluptates odit dignissimos.",
+                "product_quantity": 26,
+                "product_price": 26.01
+            },
+            {
+                "product_name": "Product-corporis-incidunt",
+                "product_description": "Soluta corrupti eligendi minima, dignissimos nobis culpa assumenda et consequatur, blanditiis harum nisi facere voluptate incidunt ea soluta velit ut quia corrupti.",
+                "product_quantity": 4,
+                "product_price": 50.06
+            },
+            {
+                "product_name": "Product-ea-facere",
+                "product_description": "Reprehenderit iste excepturi neque modi delectus iusto, eos cumque dolores in minus temporibus ad expedita ratione, fuga enim quas ad.",
+                "product_quantity": 90,
+                "product_price": 75.06
+            }
+        ]
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "supplier": {
+        "supplier_name": "Supplier-tmzYY5ga",
+        "supplier_contact": "suppliertmzYY5ga@example.com",
+        "products": [
+            {
+                "product_name": "Product-odit-nisi",
+                "product_description": "Consequatur porro voluptatem quas dolor officia voluptates, quaerat iusto magni exercitationem reprehenderit a magnam ea, explicabo nulla ad quidem incidunt?",
+                "product_quantity": 98,
+                "product_price": 76.35
+            },
+            {
+                "product_name": "Product-neque-dicta",
+                "product_description": "Nulla natus dolorem aspernatur cupiditate hic ex expedita necessitatibus sed sapiente, harum quae magnam laboriosam vel nisi accusantium unde, nobis quas sint similique?",
+                "product_quantity": 98,
+                "product_price": 19.71
+            },
+            {
+                "product_name": "Product-fugit-quod",
+                "product_quantity": 99,
+                "product_price": 91.98
+            }
+        ]
+    }
+}
