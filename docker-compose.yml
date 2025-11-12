@@ -1,28 +1,59 @@
 services:
-  product-service:
-    build:
-      context: ./server/product
-      dockerfile: Dockerfile.dockerfile
-    container_name: product-service
+  rabbitmq:
+    image: rabbitmq:3-management
+    container_name: rabbitmq
     ports:
-      - "8002:8002"
+      - "5672:5672"   
+      - "15672:15672" 
     environment:
-      - SUPPLIER_BASE_URL=http://supplier-service:8001/suppliers
-      - CATEGORY_BASE_URL=http://category-service:8003/categories
-      - IMAGE_BASE_URL=http://image-service:8004/images
-      - DATABASE_URL=sqlite:///./product.db
+      - RABBITMQ_DEFAULT_USER=admin
+      - RABBITMQ_DEFAULT_PASS=admin
+    healthcheck:
+      test: ["CMD", "rabbitmq-diagnostics", "ping"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
     restart: unless-stopped
 
-  supplier-service:
+  event-producer:
+    build:
+      context: ./server/event-publisher
+      dockerfile: Dockerfile
+    container_name: event-publisher
+    environment:
+      - RABBITMQ_URL=amqp://admin:admin@rabbitmq:5672/
+      - EVENTS_FILE=/app/events.json
+    volumes:
+      - ./events.json:/app/events.json:ro
+    depends_on:
+      rabbitmq:
+        condition: service_healthy
+    restart: unless-stopped
+
+  supplier-processor:
     build:
       context: ./server/supplier
       dockerfile: Dockerfile.dockerfile
-    container_name: supplier-service
-    ports:
-      - "8001:8001"
+    container_name: supplier-processor
     environment:
-      - PRODUCT_BASE_URL=http://product-service:8002/products
+      - RABBITMQ_URL=amqp://admin:admin@rabbitmq:5672/
       - DATABASE_URL=sqlite:///./supplier.db
+    depends_on:
+      rabbitmq:
+        condition: service_healthy
+    restart: unless-stopped
+
+  product-processor:
+    build:
+      context: ./server/product
+      dockerfile: Dockerfile.dockerfile
+    container_name: product-processor
+    environment:
+      - RABBITMQ_URL=amqp://admin:admin@rabbitmq:5672/
+      - DATABASE_URL=sqlite:///./product.db
+    depends_on:
+      rabbitmq:
+        condition: service_healthy
     restart: unless-stopped
 
   category-service:
@@ -33,8 +64,11 @@ services:
     ports:
       - "8003:8003"
     environment:
-      - PRODUCT_BASE_URL=http://product-service:8002/products
+      - RABBITMQ_URL=amqp://admin:admin@rabbitmq:5672/
       - DATABASE_URL=sqlite:///./category.db
+    depends_on:
+      rabbitmq:
+        condition: service_healthy
     restart: unless-stopped
 
   image-service:
@@ -45,23 +79,11 @@ services:
     ports:
       - "8004:8004"
     environment:
-      - PRODUCT_BASE_URL=http://product-service:8002/products
+      - RABBITMQ_URL=amqp://admin:admin@rabbitmq:5672/
       - DATABASE_URL=sqlite:///./image.db
-    restart: unless-stopped
-
-  krakend:
-    image: krakend:latest
-    container_name: krakend-gateway
-    ports:
-      - "8080:8080"
-    volumes:
-      - ./krakend/config:/etc/krakend
-    command: ["run", "-d", "-c", "/etc/krakend/krakend.json"]
     depends_on:
-      - product-service
-      - supplier-service
-      - category-service
-      - image-service
+      rabbitmq:
+        condition: service_healthy
     restart: unless-stopped
 
   frontend:
@@ -72,7 +94,8 @@ services:
     ports:
       - "5173:5173"
     environment:
-      - VITE_API_BASE_URL=http://localhost:8080/api
-    depends_on:
-      - krakend
+      - VITE_PRODUCT_API=http://localhost:8002
+      - VITE_SUPPLIER_API=http://localhost:8001
+      - VITE_CATEGORY_API=http://localhost:8003
+      - VITE_IMAGE_API=http://localhost:8004
     restart: unless-stopped
