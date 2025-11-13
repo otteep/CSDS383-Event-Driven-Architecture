@@ -1,0 +1,156 @@
+name: ims-eventing
+
+services:
+  # -------------------- broker --------------------
+  rabbitmq:
+    image: rabbitmq:3.13-management
+    container_name: rabbitmq
+    ports:
+      - "5672:5672"
+      - "15672:15672"
+    healthcheck:
+      test: ["CMD-SHELL", "rabbitmq-diagnostics -q ping"]
+      interval: 10s
+      timeout: 5s
+      start_period: 30s
+      retries: 10
+    restart: unless-stopped
+
+  # -------------------- existing microservices --------------------
+  supplier-service:
+    build:
+      context: ../supplier
+      dockerfile: Dockerfile.dockerfile
+    container_name: supplier-service
+    ports:
+      - "8001:8001"
+    depends_on:
+      - rabbitmq
+    restart: unless-stopped
+
+  product-service:
+    build:
+      context: ../product
+      dockerfile: Dockerfile.dockerfile
+    container_name: product-service
+    ports:
+      - "8002:8002"
+    depends_on:
+      - rabbitmq
+    restart: unless-stopped
+
+  category-service:
+    build:
+      context: ../category
+      dockerfile: Dockerfile.dockerfile
+    container_name: category-service
+    ports:
+      - "8003:8003"
+    restart: unless-stopped
+
+  image-service:
+    build:
+      context: ../image
+      dockerfile: Dockerfile.dockerfile
+    container_name: image-service
+    ports:
+      - "8004:8004"
+    restart: unless-stopped
+
+  # -------------------- broker topology (one-shot) --------------------
+  topology:
+    image: python:3.11-slim
+    container_name: topology
+    environment:
+      BROKER_URL: amqp://guest:guest@rabbitmq:5672/
+      EXCHANGE: events
+      Q_SUPPLIER_INIT: supplier.init.q
+      Q_PRODUCT_INIT: product.init.q
+      Q_SUPPLIER_VALID: supplier.valid.q
+      DLX_INIT: dlx.init
+      DLQ_INIT: dlq.init.q
+      DLX_PRODUCT: dlx.product
+      DLQ_PRODUCT: dlq.product.q
+    volumes:
+      - ./scripts:/scripts:ro
+    depends_on:
+      rabbitmq:
+        condition: service_healthy
+    # Install pika, then run the script
+    command: [ "sh", "-c", "python -m pip install --no-cache-dir pika && python /scripts/topology.py" ]
+    restart: "no"
+
+  # -------------------- event publisher --------------------
+  publisher:
+    build:
+      context: .
+      dockerfile: ./publisher/Dockerfile.dockerfile
+    container_name: publisher
+    environment:
+      BROKER_URL: amqp://guest:guest@rabbitmq:5672/
+      EXCHANGE: events
+      EVENTS_DIR: /data/events
+      BAD_DIR: /data/dlq
+    volumes:
+      - ./events:/data/events              # writeable so it can create /_bad if needed
+      - publisher_data:/data
+    depends_on:
+      rabbitmq:
+        condition: service_healthy
+      topology:
+        condition: service_completed_successfully
+    restart: on-failure
+
+  # -------------------- processors --------------------
+  supplier-processor:
+    build:
+      context: .
+      dockerfile: ./processors/supplier/Dockerfile.dockerfile
+    container_name: supplier-processor
+    environment:
+      BROKER_URL: amqp://guest:guest@rabbitmq:5672/%2f   # encoded vhost
+      EXCHANGE: events
+      SUPPLIER_BASE_URL: http://supplier-service:8001/suppliers
+      SUPPLIER_INIT_QUEUE: supplier.init.q
+      SUPPLIER_VALID_RK: supplier.valid
+      SUPPLIER_VALID_QUEUE: supplier.valid.q
+      IDEMPOTENCY_DB: /data/idem_supplier.db
+    volumes:
+      - supplier_idem:/data
+    depends_on:
+      rabbitmq:
+        condition: service_healthy
+      supplier-service:
+        condition: service_started
+      topology:
+        condition: service_completed_successfully
+    restart: on-failure
+
+  product-processor:
+    build:
+      context: .
+      dockerfile: ./processors/product/Dockerfile.dockerfile
+    container_name: product-processor
+    environment:
+      BROKER_URL: amqp://guest:guest@rabbitmq:5672/
+      EXCHANGE: events
+      PRODUCT_BASE_URL: http://product-service:8002/products
+      SUPPLIER_VALID_QUEUE: supplier.valid.q
+      PRODUCT_INIT_QUEUE: product.init.q
+      CONSUME_PRODUCT_INIT: "true"
+      IDEMPOTENCY_DB: /data/idem_product.db
+    volumes:
+      - product_idem:/data
+    depends_on:
+      rabbitmq:
+        condition: service_healthy
+      product-service:
+        condition: service_started
+      topology:
+        condition: service_completed_successfully
+    restart: on-failure
+
+volumes:
+  supplier_idem:
+  product_idem:
+  publisher_data:
