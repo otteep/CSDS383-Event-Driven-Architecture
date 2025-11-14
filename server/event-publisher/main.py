@@ -3,10 +3,29 @@ import logging
 import time
 import pika
 from pathlib import Path
+from typing import List, Dict, Any
 from config import settings
+from fastapi import FastAPI, HTTPException
+from fastapi.middleware.cors import CORSMiddleware
+from pydantic import BaseModel
 
 logging.basicConfig(level=logging.INFO)
 log = logging.getLogger("event.publisher")
+
+app = FastAPI()
+
+# Add CORS middleware
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=["http://localhost:5173", "http://localhost:3000"],
+    allow_credentials=True,
+    allow_methods=["*"],
+    allow_headers=["*"],
+)
+
+class Event(BaseModel):
+    event_type: str
+    data: Dict[str, Any]
 
 class EventPublisher:
     def __init__(self):
@@ -81,6 +100,28 @@ class EventPublisher:
         if self.connection and not self.connection.is_closed:
             self.connection.close()
             log.info("🔌 Connection closed")
+
+@app.post("/publish")
+async def publish_events(events: List[Event]):
+    """Publish events to RabbitMQ"""
+    try:
+        publisher = EventPublisher()
+        count = 0
+        
+        for event in events:
+            event_dict = event.dict()
+            publisher.publish_event(event_dict, "api_request")
+            count += 1
+        
+        publisher.close()
+        
+        return {
+            "message": "Events published successfully",
+            "count": count
+        }
+    except Exception as e:
+        log.error(f"Error publishing events: {e}")
+        raise HTTPException(status_code=500, detail=str(e))
 
 def main():
     """Read all JSON files from events directory and publish them"""

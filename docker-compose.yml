@@ -14,6 +14,8 @@ services:
       timeout: 5s
       retries: 5
     restart: unless-stopped
+    networks:
+      - app-network
 
   event-publisher:
     build:
@@ -23,12 +25,16 @@ services:
     environment:
       - RABBITMQ_URL=amqp://admin:admin@rabbitmq:5672/
       - EVENTS_DIR=/app/events
+    ports:
+      - "8000:8000"  
     volumes:
-      - ./events:/app/events:ro  # Mount the entire events directory
+      - ./events:/app/events:ro  
     depends_on:
       rabbitmq:
         condition: service_healthy
     restart: unless-stopped
+    networks:
+      - app-network
 
   supplier-processor:
     build:
@@ -42,6 +48,8 @@ services:
       rabbitmq:
         condition: service_healthy
     restart: unless-stopped
+    networks:
+      - app-network
 
   product-processor:
     build:
@@ -55,6 +63,8 @@ services:
       rabbitmq:
         condition: service_healthy
     restart: unless-stopped
+    networks:
+      - app-network
 
   category-service:
     build:
@@ -70,6 +80,8 @@ services:
       rabbitmq:
         condition: service_healthy
     restart: unless-stopped
+    networks:
+      - app-network
 
   image-service:
     build:
@@ -85,6 +97,8 @@ services:
       rabbitmq:
         condition: service_healthy
     restart: unless-stopped
+    networks:
+      - app-network
 
   frontend:
     build:
@@ -99,3 +113,9 @@ services:
       - VITE_CATEGORY_API=http://localhost:8003
       - VITE_IMAGE_API=http://localhost:8004
     restart: unless-stopped
+    networks:
+      - app-network
+
+networks:
+  app-network:
+    driver: bridge

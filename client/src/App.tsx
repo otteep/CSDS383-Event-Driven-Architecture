@@ -1,21 +1,40 @@
-import React, { useEffect, useState } from 'react';
+import { useEffect, useState } from 'react';
 import axios from 'axios';
 
-const RabbitMQFrontend = () => {
-  const [events, setEvents] = useState([]);
-  const [selectedEvents, setSelectedEvents] = useState([]);
-  const [selectedEventContent, setSelectedEventContent] = useState(null);
-  const [response, setResponse] = useState(null);
+interface EventContent {
+  event_type: string;
+  data: Record<string, any>;
+}
 
-  // Load all JSON files dynamically from /src/events
+interface Event {
+  name: string;
+  content: EventContent;
+}
+
+interface ApiResponse {
+  message?: string;
+  error?: string;
+  details?: string;
+}
+
+const RabbitMQFrontend = () => {
+  const [events, setEvents] = useState<Event[]>([]);
+  const [selectedEvents, setSelectedEvents] = useState<string[]>([]);
+  const [selectedEventContent, setSelectedEventContent] = useState<Event | null>(null);
+  const [response, setResponse] = useState<ApiResponse | null>(null);
+
+  // Get publisher URL from environment variable
+  const PUBLISHER_URL = import.meta.env.VITE_PUBLISHER_URL || 'http://localhost:8000/publish';
+
+  // Load all JSON files dynamically from /events
   useEffect(() => {
     const importEvents = async () => {
       try {
-        const eventModules = import.meta.glob('../../events/*.json');
+        const eventModules = import.meta.glob<{ default: EventContent }>('../events/*.json');
         const loadedEvents = await Promise.all(
           Object.keys(eventModules).map(async (path) => {
             const data = await eventModules[path]();
-            return { name: path.split('/').pop(), content: data.default };
+            return { name: path.split('/').pop() || '', content: data.default };
           })
         );
         setEvents(loadedEvents);
@@ -26,7 +45,7 @@ const RabbitMQFrontend = () => {
     importEvents();
   }, []);
 
-  const handleSelectEvent = (eventName) => {
+  const handleSelectEvent = (eventName: string) => {
     if (selectedEvents.includes(eventName)) {
       setSelectedEvents(selectedEvents.filter((e) => e !== eventName));
     } else {
@@ -34,11 +53,11 @@ const RabbitMQFrontend = () => {
     }
   };
 
-  const handleViewEvent = (event) => {
+  const handleViewEvent = (event: Event) => {
     setSelectedEventContent(event);
   };
 
-  const handleSendEvent = async (eventList) => {
+  const handleSendEvent = async (eventList: string[]) => {
     try {
       setResponse(null);
       const payload = eventList.map((eName) => {
@@ -46,14 +65,25 @@ const RabbitMQFrontend = () => {
         return e?.content;
       });
 
-      const res = await axios.post(
-        import.meta.env.VITE_PUBLISHER_URL || 'http://localhost:8000/publish',
-        payload
-      );
+      const res = await axios.post(PUBLISHER_URL, payload, {
+        headers: {
+          'Content-Type': 'application/json',
+        },
+      });
       setResponse(res.data);
     } catch (error) {
       console.error('Error sending event:', error);
-      setResponse({ error: 'Failed to send events.' });
+      if (axios.isAxiosError(error)) {
+        setResponse({ 
+          error: 'Failed to send events.', 
+          details: error.response?.data || error.message 
+        });
+      } else {
+        setResponse({ 
+          error: 'Failed to send events.', 
+          details: 'Unknown error occurred' 
+        });
+      }
     }
   };
 
@@ -66,7 +96,6 @@ const RabbitMQFrontend = () => {
           <h2 className="text-xl font-semibold mb-2">Available Events</h2>
           <ul className="space-y-2">
             {events.map((event, idx) => (
-              
               <li
                 key={idx}
                 className={`p-2 rounded cursor-pointer border ${
@@ -89,8 +118,6 @@ const RabbitMQFrontend = () => {
               </li>
             ))}
           </ul>
-
-
         </div>
 
         {/* Event Viewer */}
@@ -104,7 +131,7 @@ const RabbitMQFrontend = () => {
             <p className="text-gray-500">Select an event to preview its contents.</p>
           )}
 
-            {selectedEvents.length > 0 && (
+          {selectedEvents.length > 0 && (
             <button
               onClick={() => handleSendEvent(selectedEvents)}
               className="mt-4 bg-blue-600 text-white px-4 py-2 rounded hover:bg-blue-700"
