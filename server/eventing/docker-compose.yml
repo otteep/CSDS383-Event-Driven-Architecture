@@ -92,7 +92,7 @@ services:
       EVENTS_DIR: /data/events
       BAD_DIR: /data/dlq
     volumes:
-      - ./events:/data/events              # writeable so it can create /_bad if needed
+      #- ./events:/data/events              # writeable so it can create /_bad if needed
       - publisher_data:/data
     depends_on:
       rabbitmq:

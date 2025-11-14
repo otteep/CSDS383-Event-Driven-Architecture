@@ -6,7 +6,7 @@ from typing import List, Dict, Any
 
 from fastapi import FastAPI, HTTPException
 from fastapi.middleware.cors import CORSMiddleware
-
+import re 
 from common.broker import publish
 from common.events import Event
 
@@ -21,7 +21,7 @@ app = FastAPI()
 
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["http://localhost:5173", "http://localhost:3000"],
+    allow_origins=["*"],
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],
@@ -36,22 +36,66 @@ def publish_supplier_event(event_data: Dict[str, Any]) -> None:
     publish(BROKER_URL, "supplier.init", evt.to_dict(), exchange=EXCHANGE)
     log.info(f"Published supplier.init event: {evt.event_id}")
 
+EMAIL_RE = re.compile(r"^[^@\s]+@[^@\s]+\.[^@\s]+$")
+def is_email(s: str) -> bool:
+    return bool(EMAIL_RE.match(s or ""))
+
+def validate_supplier_init(msg: Dict[str, Any]) -> Dict[str, Any]:
+    payload = msg.get("payload") or {}
+
+    supplier = payload.get("supplier") or {}
+
+    # Fix naming
+    name = supplier.get("supplier_name")
+    contact = supplier.get("supplier_contact")
+    products = supplier.get("products")
+
+    if not name:
+        raise ValueError("supplier_name missing")
+
+    if not is_email(contact):
+        raise ValueError("supplier_contact invalid")
+
+    if not isinstance(products, list) or not products:
+        raise ValueError("products must be non-empty list")
+
+    for i, p in enumerate(products):
+        if not p.get("product_name"):
+            raise ValueError(f"products[{i}].product_name missing")
+        if p.get("product_quantity") is None or int(p["product_quantity"]) < 0:
+            raise ValueError(f"products[{i}].product_quantity invalid")
+        if p.get("product_price") is None or float(p["product_price"]) <= 0:
+            raise ValueError(f"products[{i}].product_price invalid")
+
+    return payload
+
+
 @app.post("/publish")
 async def publish_events(events: List[Dict[str, Any]]):
     """Publish events from the web UI"""
-    try:
-        count = 0
-        for event in events:
+
+    count = 0
+    failed_events = []
+
+    for event in events:
+        try:
+            validate_supplier_init({"payload": event})
             publish_supplier_event(event)
             count += 1
-        
-        return {
-            "message": "Events published successfully",
-            "count": count
-        }
-    except Exception as e:
-        log.error(f"Error publishing events: {e}")
-        raise HTTPException(status_code=500, detail=str(e))
+        except Exception as e:
+            log.error(f"Error publishing event {event.get('supplier', {}).get('supplier_name', '<unknown>')}: {e}")
+            failed_events.append({
+                "event": event,
+                "error": str(e)
+            })
+
+    return {
+        "message": "Events published (partial success if errors occurred).",
+        "count": count,
+        "failed_count": len(failed_events),
+        "failed_events": failed_events
+    }
+
 
 @app.get("/health")
 async def health():

@@ -121,25 +121,32 @@ def _normalize_to_payload_shape(msg: Dict[str, Any]) -> Dict[str, Any]:
 def validate_supplier_init(msg: Dict[str, Any]) -> Dict[str, Any]:
     payload = msg.get("payload") or {}
 
-    sup = payload.get("supplier") or {}
-    if not sup.get("name"):
-        raise ValueError("supplier.name missing")
-    if not is_email(sup.get("contact")):
-        raise ValueError("supplier.contact invalid")
+    supplier = payload.get("supplier") or {}
 
-    prods = payload.get("products") or []
-    if not isinstance(prods, list) or not prods:
+    # Fix naming
+    name = supplier.get("supplier_name")
+    contact = supplier.get("supplier_contact")
+    products = supplier.get("products")
+
+    if not name:
+        raise ValueError("supplier_name missing")
+
+    if not is_email(contact):
+        raise ValueError("supplier_contact invalid")
+
+    if not isinstance(products, list) or not products:
         raise ValueError("products must be non-empty list")
 
-    for i, p in enumerate(prods):
-        if not p.get("name"):
-            raise ValueError(f"product[{i}].name missing")
-        if p.get("quantity") is None or int(p["quantity"]) < 0:
-            raise ValueError(f"product[{i}].quantity invalid")
-        if p.get("price") is None or float(p["price"]) <= 0:
-            raise ValueError(f"product[{i}].price invalid")
+    for i, p in enumerate(products):
+        if not p.get("product_name"):
+            raise ValueError(f"products[{i}].product_name missing")
+        if p.get("product_quantity") is None or int(p["product_quantity"]) < 0:
+            raise ValueError(f"products[{i}].product_quantity invalid")
+        if p.get("product_price") is None or float(p["product_price"]) <= 0:
+            raise ValueError(f"products[{i}].product_price invalid")
 
     return payload
+
 
 
 # -------------------------

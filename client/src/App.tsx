@@ -56,7 +56,9 @@ const RabbitMQFrontend = () => {
   const handleSelectAll = () => {
     const names = events.map(e => e.name);
     setSelectedEvents(names);
-
+  }
+  const handleUnselectAll = () => {
+    setSelectedEvents([]);
   }
 
   const handleViewEvent = (event: Event) => {
@@ -151,6 +153,12 @@ const RabbitMQFrontend = () => {
             className="mt-4 bg-blue-600 text-white px-4 py-2 rounded hover:bg-blue-700">
               Select All
           </button>
+          <button
+            onClick={() => handleUnselectAll()}
+            className="mt-4 bg-blue-600 text-white px-4 py-2 rounded hover:bg-blue-700">
+              Unselect All
+          </button>
+          
         </div>
 
         {/* Response Display */}
