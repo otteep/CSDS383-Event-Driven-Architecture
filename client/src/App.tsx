@@ -53,6 +53,12 @@ const RabbitMQFrontend = () => {
     }
   };
 
+  const handleSelectAll = () => {
+    const names = events.map(e => e.name);
+    setSelectedEvents(names);
+
+  }
+
   const handleViewEvent = (event: Event) => {
     setSelectedEventContent(event);
   };
@@ -139,6 +145,12 @@ const RabbitMQFrontend = () => {
               Send Selected ({selectedEvents.length})
             </button>
           )}
+          
+          <button
+            onClick={() => handleSelectAll()}
+            className="mt-4 bg-blue-600 text-white px-4 py-2 rounded hover:bg-blue-700">
+              Select All
+          </button>
         </div>
 
         {/* Response Display */}
