@@ -1,160 +1,106 @@
-import json
 import os
-import time
-import shutil
+import json
+import logging
 from pathlib import Path
-from uuid import uuid4
-from typing import Any, Dict, List
-from contextlib import contextmanager
+from typing import List, Dict, Any
 
-import pika  # direct publish
+from fastapi import FastAPI, HTTPException
+from fastapi.middleware.cors import CORSMiddleware
 
-from common.logging_conf import get_logger
+from common.broker import publish
+from common.events import Event
 
-# -------------------------
-# Config
-# -------------------------
-BROKER_URL = os.getenv("BROKER_URL", "amqp://guest:guest@rabbitmq:5672/%2f")
-INPUT_DIR  = Path(os.getenv("INPUT_DIR", "/data/events"))
-BAD_DIR    = INPUT_DIR / "_bad"
-EXCHANGE   = os.getenv("EXCHANGE", "events")
-ROUTING_KEY = os.getenv("ROUTING_KEY", "supplier.init")  # matches your queues
+logging.basicConfig(level=logging.INFO)
+log = logging.getLogger("event.publisher")
 
-logger = get_logger("publisher")
+BROKER_URL = os.getenv("BROKER_URL", "amqp://admin:admin@rabbitmq:5672/")
+EXCHANGE = os.getenv("EXCHANGE", "events")
+EVENTS_DIR = os.getenv("EVENTS_DIR", "/app/events")
 
+app = FastAPI()
 
-# -------------------------
-# Pika helpers
-# -------------------------
-def _conn_params(url: str) -> pika.URLParameters:
-    params = pika.URLParameters(url)
-    params.heartbeat = 30
-    params.blocked_connection_timeout = 30
-    return params
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=["http://localhost:5173", "http://localhost:3000"],
+    allow_credentials=True,
+    allow_methods=["*"],
+    allow_headers=["*"],
+)
 
-@contextmanager
-def open_channel(url: str, exchange: str):
-    conn = pika.BlockingConnection(_conn_params(url))
-    ch = conn.channel()
-    # declare exchange to avoid race with processors
-    ch.exchange_declare(exchange=exchange, exchange_type="topic", durable=True)
-    try:
-        yield ch
-    finally:
-        try:
-            ch.close()
-        finally:
-            conn.close()
-
-
-# -------------------------
-# Coercion helpers
-# -------------------------
-def coerce_int(val, default=0) -> int:
-    try:
-        return int(val)
-    except Exception:
-        return default
-
-def coerce_float(val, default=None) -> float | None:
-    try:
-        if val is None:
-            return default
-        return float(val)
-    except Exception:
-        return default
-
-
-# -------------------------
-# Event mapping (kept as-is; processor normalizes)
-# -------------------------
-def to_supplier_init(raw: Dict[str, Any], source_name: str) -> Dict[str, Any]:
-    """Map pre-generated file -> publisher-friendly event (processor will normalize)."""
-    sup = (raw or {}).get("supplier") or {}
-
-    products_in = sup.get("products") or []
-    products_out: List[Dict[str, Any]] = []
-
-    for idx, p in enumerate(products_in):
-        name = (p.get("product_name") or "").strip()
-        if not name:
-            logger.warning("publisher :: %s product[%s] skipped: empty name", source_name, idx)
-            continue
-
-        qty = coerce_int(p.get("product_quantity"), default=0)
-        price = coerce_float(p.get("product_price"), default=None)
-        if price is None:
-            logger.warning(
-                "publisher :: %s product[%s] skipped: bad price %r",
-                source_name, idx, p.get("product_price")
-            )
-            continue
-
-        desc = (p.get("product_description") or "").strip()
-        products_out.append(
-            {
-                "product_name": name,
-                "product_description": desc,
-                "product_quantity": max(0, qty),
-                "product_price": price,
-            }
-        )
-
-    event = {
-        "event_id": str(uuid4()),
-        "timestamp": int(time.time() * 1000),
-        "source": source_name,
-        "supplier": {
-            "supplier_name": (sup.get("supplier_name") or "").strip(),
-            "supplier_contact": (sup.get("supplier_contact") or "").strip(),
-            "products": products_out,
-        },
-    }
-    return event
-
-
-# -------------------------
-# Main publish loop
-# -------------------------
-def publish_all():
-    BAD_DIR.mkdir(parents=True, exist_ok=True)
-    files = sorted([p for p in INPUT_DIR.glob("*.json") if p.is_file()])
-    if not files:
-        logger.info("publisher :: no event files in %s", INPUT_DIR)
-        return
-
-    properties = pika.BasicProperties(
-        content_type="application/json",
-        content_encoding="utf-8",
-        delivery_mode=2,  # persistent
+def publish_supplier_event(event_data: Dict[str, Any]) -> None:
+    """Publish a supplier initialization event"""
+    evt = Event.new(
+        event_type="supplier.init",
+        payload=event_data
     )
+    publish(BROKER_URL, "supplier.init", evt.to_dict(), exchange=EXCHANGE)
+    log.info(f"Published supplier.init event: {evt.event_id}")
 
-    with open_channel(BROKER_URL, EXCHANGE) as ch:
-        for f in files:
-            try:
-                raw = json.loads(f.read_text(encoding="utf-8"))
-                payload = to_supplier_init(raw, f.name)
+@app.post("/publish")
+async def publish_events(events: List[Dict[str, Any]]):
+    """Publish events from the web UI"""
+    try:
+        count = 0
+        for event in events:
+            publish_supplier_event(event)
+            count += 1
+        
+        return {
+            "message": "Events published successfully",
+            "count": count
+        }
+    except Exception as e:
+        log.error(f"Error publishing events: {e}")
+        raise HTTPException(status_code=500, detail=str(e))
 
-                body = json.dumps(payload, ensure_ascii=False).encode("utf-8")
-                ch.basic_publish(
-                    exchange=EXCHANGE,
-                    routing_key=ROUTING_KEY,  # 'supplier.init'
-                    body=body,
-                    properties=properties,
-                    mandatory=False,
-                )
-                logger.info(
-                    "publisher :: Published %s from %s (event_id=%s)",
-                    ROUTING_KEY, f.name, payload["event_id"]
-                )
+@app.get("/health")
+async def health():
+    return {"status": "ok"}
 
-            except json.JSONDecodeError as e:
-                logger.error("publisher :: %s invalid JSON: %s", f.name, e)
-                shutil.move(str(f), BAD_DIR / f.name)
-            except Exception as e:
-                logger.exception("publisher :: %s failed: %s", f.name, e)
-                shutil.move(str(f), BAD_DIR / f.name)
-
+def main():
+    """Batch publish all events from the events directory"""
+    events_dir = Path(EVENTS_DIR)
+    
+    if not events_dir.exists():
+        log.error(f"Events directory not found: {events_dir}")
+        return
+    
+    event_files = sorted(events_dir.glob("*.json"))
+    
+    if not event_files:
+        log.error(f"No JSON files found in: {events_dir}")
+        return
+    
+    log.info(f"Found {len(event_files)} event files")
+    
+    total_events = 0
+    for event_file in event_files:
+        log.info(f"Reading: {event_file.name}")
+        
+        try:
+            with open(event_file, 'r') as f:
+                event_data = json.load(f)
+            
+            if isinstance(event_data, list):
+                events = event_data
+            else:
+                events = [event_data]
+            
+            for event in events:
+                publish_supplier_event(event)
+                total_events += 1
+            
+            log.info(f"Processed {len(events)} event(s) from {event_file.name}")
+            
+        except Exception as e:
+            log.error(f"Error processing {event_file.name}: {e}")
+    
+    log.info(f"Successfully published {total_events} events")
 
 if __name__ == "__main__":
-    publish_all()
+    import sys
+    if len(sys.argv) > 1 and sys.argv[1] == "--batch":
+        main()
+    else:
+        import uvicorn
+        uvicorn.run(app, host="0.0.0.0", port=8000)
