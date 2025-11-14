@@ -1,11 +1,21 @@
 # processors/product/main.py
-import os, logging, threading
+import os
+import json
+import logging
+import threading
 from typing import Dict, Any
 
-from common.broker import ensure_topology, consume
+from common.broker import ensure_topology, consume, publish
 from common.http_client import post_json
 from common.utils import seen, remember
 from common.logging_conf import setup_logging
+
+# NEW: strict event validation helpers
+from processors.common.event_validation import (
+    validate_envelope,
+    validate_product_payload,
+    validate_supplier_valid_payload,
+)
 
 # ---- config ----
 setup_logging("product-processor")
@@ -16,68 +26,143 @@ EXCHANGE             = os.getenv("EXCHANGE", "events")
 PRODUCT_BASE_URL     = os.getenv("PRODUCT_BASE_URL", "http://product-service:8002/products")
 CONSUME_PRODUCT_INIT = os.getenv("CONSUME_PRODUCT_INIT", "true").lower() == "true"
 
+# DLQ names (can be bound in topology)
+DLQ_INITIALIZING = os.getenv("DLQ_INITIALIZING", "initializing.dlq")
+DLQ_PRODUCT      = os.getenv("DLQ_PRODUCT", "product.dlq")
+
 # queues (bindings are created by scripts/topology.py)
 Q_SUPPLIER_VALID = os.getenv("SUPPLIER_VALID_QUEUE", "supplier.valid.q")
 Q_PRODUCT_INIT   = os.getenv("PRODUCT_INIT_QUEUE",   "product.init.q")
 
-def validate_product(doc: Dict[str, Any]) -> Dict[str, Any]:
-    if not doc.get("name"):
-        raise ValueError("product.name missing")
-    if doc.get("quantity") is None or int(doc["quantity"]) < 0:
-        raise ValueError("quantity invalid")
-    if doc.get("price") is None or float(doc["price"]) <= 0:
-        raise ValueError("price invalid")
-    return doc
 
-def handle_supplier_valid(msg: Dict[str, Any]) -> None:
+def _create_product(body: Dict[str, Any]) -> Dict[str, Any]:
+    """POST to product service and return the JSON response"""
+    return post_json(PRODUCT_BASE_URL, body)
+
+
+def _parse_msg(body) -> Dict[str, Any]:
+    """Accept bytes/str/dict and return a dict."""
+    if isinstance(body, (bytes, bytearray)):
+        return json.loads(body.decode("utf-8"))
+    if isinstance(body, str):
+        return json.loads(body)
+    if isinstance(body, dict):
+        return body
+    raise TypeError(f"Unsupported message type: {type(body)}")
+
+
+def _publish_to_dlq(routing_key: str, payload: Any) -> None:
+    try:
+        publish(BROKER_URL, routing_key, payload, exchange=EXCHANGE)
+        log.warning("Published message to DLQ %s", routing_key)
+    except Exception:
+        log.exception("Failed to publish to DLQ %s", routing_key)
+
+
+def handle_supplier_valid(raw_body) -> None:
+    try:
+        msg = _parse_msg(raw_body)
+    except Exception as e:
+        log.error("Malformed message JSON: %s", e)
+        _publish_to_dlq(DLQ_INITIALIZING, raw_body)
+        return
+
+    try:
+        validate_envelope(msg, expected_event="supplier.valid")
+    except Exception as e:
+        log.error("Envelope validation failed: %s", e)
+        _publish_to_dlq(DLQ_INITIALIZING, msg)
+        return
+
     eid = msg.get("event_id")
-    if seen(eid): return
+    if seen(eid):
+        return
 
-    payload = msg.get("payload") or {}
-    supplier_id = payload.get("supplier_id")
-    product = validate_product(payload.get("product") or {})
+    try:
+        payload = validate_supplier_valid_payload(msg["payload"])
+    except Exception as e:
+        log.error("supplier.valid payload invalid: %s", e)
+        _publish_to_dlq(DLQ_PRODUCT, msg)
+        return
+
+    supplier_id = payload["supplier_id"]
+    product     = payload["product"]
 
     body = {
-        "name": product["name"],
+        "name":        product["name"],
         "description": product.get("description", ""),
-        "quantity": int(product["quantity"]),
-        "price": float(product["price"]),
+        "quantity":    int(product["quantity"]),
+        "price":       float(product["price"]),
         "supplier_ids": [supplier_id] if supplier_id else [],
         "category_ids": product.get("category_ids", []),
-        "image_ids": product.get("image_ids", []),
+        "image_ids":    product.get("image_ids", []),
     }
-    resp = post_json(PRODUCT_BASE_URL, body)
-    log.info("Created product %s from supplier.valid", resp["id"])
-    remember(eid, payload)
+    try:
+        resp = _create_product(body)
+        log.info("Created product %s from supplier.valid", resp.get("id"))
+        remember(eid, payload)
+    except Exception as e:
+        log.exception("Failed creating product from supplier.valid: %s", e)
+        _publish_to_dlq(DLQ_PRODUCT, msg)
 
-def handle_product_init(msg: Dict[str, Any]) -> None:
+
+def handle_product_init(raw_body) -> None:
+    try:
+        msg = _parse_msg(raw_body)
+    except Exception as e:
+        log.error("Malformed message JSON: %s", e)
+        _publish_to_dlq(DLQ_INITIALIZING, raw_body)
+        return
+
+    try:
+        validate_envelope(msg, expected_event="product.init")
+    except Exception as e:
+        log.error("Envelope validation failed: %s", e)
+        _publish_to_dlq(DLQ_INITIALIZING, msg)
+        return
+
     eid = msg.get("event_id")
-    if seen(eid): return
+    if seen(eid):
+        return
 
-    product = validate_product(msg.get("payload") or {})
+    try:
+        product = validate_product_payload(msg["payload"])
+    except Exception as e:
+        log.error("product.init payload invalid: %s", e)
+        _publish_to_dlq(DLQ_PRODUCT, msg)
+        return
+
     body = {
-        "name": product["name"],
-        "description": product.get("description", ""),
-        "quantity": int(product["quantity"]),
-        "price": float(product["price"]),
+        "name":         product["name"],
+        "description":  product.get("description", ""),
+        "quantity":     int(product["quantity"]),
+        "price":        float(product["price"]),
         "supplier_ids": product.get("supplier_ids", []),
         "category_ids": product.get("category_ids", []),
-        "image_ids": product.get("image_ids", []),
+        "image_ids":    product.get("image_ids", []),
     }
-    resp = post_json(PRODUCT_BASE_URL, body)
-    log.info("Created product %s from product.init", resp["id"])
-    remember(eid, product)
+    try:
+        resp = _create_product(body)
+        log.info("Created product %s from product.init", resp.get("id"))
+        remember(eid, product)
+    except Exception as e:
+        log.exception("Failed creating product from product.init: %s", e)
+        _publish_to_dlq(DLQ_PRODUCT, msg)
+
 
 def _consume_supplier_valid():
     consume(BROKER_URL, Q_SUPPLIER_VALID, handler=handle_supplier_valid, exchange=EXCHANGE)
 
+
 def _consume_product_init():
     consume(BROKER_URL, Q_PRODUCT_INIT,   handler=handle_product_init, exchange=EXCHANGE)
+
 
 def main():
     queues = [Q_SUPPLIER_VALID]
     if CONSUME_PRODUCT_INIT:
         queues.append(Q_PRODUCT_INIT)
+
     ensure_topology(BROKER_URL, exchange=EXCHANGE, queues=queues)
 
     t1 = threading.Thread(target=_consume_supplier_valid, daemon=True)
@@ -88,6 +173,7 @@ def main():
         t2.start()
 
     t1.join()
+
 
 if __name__ == "__main__":
     main()
