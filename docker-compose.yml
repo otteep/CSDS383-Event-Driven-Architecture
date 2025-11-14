@@ -3,8 +3,8 @@ services:
     image: rabbitmq:3-management
     container_name: rabbitmq
     ports:
-      - "5672:5672"   
-      - "15672:15672" 
+      - "5672:5672"
+      - "15672:15672"
     environment:
       - RABBITMQ_DEFAULT_USER=admin
       - RABBITMQ_DEFAULT_PASS=admin
@@ -19,16 +19,17 @@ services:
 
   event-publisher:
     build:
-      context: ./server/event-publisher
-      dockerfile: Dockerfile
+      context: ./server/eventing
+      dockerfile: Dockerfile.publisher
     container_name: event-publisher
     environment:
       - RABBITMQ_URL=amqp://admin:admin@rabbitmq:5672/
       - EVENTS_DIR=/app/events
+      - EXCHANGE_TYPE=topic
     ports:
-      - "8000:8000"  
+      - "8000:8000"
     volumes:
-      - ./events:/app/events:ro  
+      - ./events:/app/events:ro
     depends_on:
       rabbitmq:
         condition: service_healthy
@@ -112,6 +113,7 @@ services:
       - VITE_SUPPLIER_API=http://localhost:8001
       - VITE_CATEGORY_API=http://localhost:8003
       - VITE_IMAGE_API=http://localhost:8004
+      - VITE_PUBLISHER_URL=http://localhost:8000/publish
     restart: unless-stopped
     networks:
       - app-network
